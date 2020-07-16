@@ -155,7 +155,6 @@
       <heading>Removal of Judges of the Pueblo of San Ildefonso Judiciary</heading>
       <section>
         <num>4.1.3.010</num>
-        <heading/>
         <text>Tribal Judges of the Pueblo of San Ildefonso Judiciary may be removed upon the grounds of gross misconduct involving moral turpitude or neglect of duty by the following procedures:</text>
         <para>
           <num>(a)</num>
@@ -988,6 +987,7 @@
         <annotations>
           <annotation type="History">1984 Code</annotation>
           <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1044,6 +1044,7 @@
         <annotations>
           <annotation type="History">1984 Code</annotation>
           <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1058,7 +1059,6 @@
       <heading>Pre-Trial Conference</heading>
       <section>
         <num>4.3.1.010</num>
-        <heading/>
         <text>The procedure established in this Section are intended to establish a means whereby both civil and criminal disputes can be settled in the traditional and customary manner by discussion between the parties before a trusted, impartial tribal authority prior to resorting to formal trial procedures and are incorporated as a part of the Code.  The procedures require that formal Court authority be invoked by the filing of a complaint, but anticipate that a great percentage of cases can be settled by traditional and customary means, administered thereafter by the Tribal Court.  The procedures set forth herein shall not be interpreted or applied to deny any person any right otherwise guaranteed by San Ildefonso Pueblo or Federal Law, including the Indian Civil Rights Act.</text>
         <annotations/>
       </section>
@@ -1218,7 +1218,7 @@
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso has created a Judicial Branch in its Governing Document, the AGREEMENT. The AGREEMENT, COURTS, provides that:</text>
-          <include proof="true">
+          <include>
             <text>The purpose of this Article is for the Courts to maintain a limited government and to resolve disputes, and to the greatest extent, the judgments and orders of the Courts shall respect, perpetuate, and advance the culture, values, customs, and traditions of the Pueblo.</text>
           </include>
         </para>
@@ -1471,6 +1471,7 @@
         <annotations>
           <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History" display="false"/>
           <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1480,6 +1481,7 @@
         <annotations>
           <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History" display="false"/>
           <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1501,6 +1503,7 @@
         <annotations>
           <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History" display="false"/>
           <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1510,6 +1513,7 @@
         <annotations>
           <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History" display="false"/>
           <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
     </container>

@@ -12,7 +12,7 @@
       <adopted>2017-10-02</adopted>
     </history>
   </meta>
-  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the                                                          2nd   day of       October	, 2017, the following Resolution was adopted:</preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 2nd day of October, 2017, the following Resolution was adopted:</preamble>
   <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.15">
     <container>
       <prefix>Part</prefix>
@@ -27,8 +27,8 @@
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources; and</text>
       <codify:insert path="|6.5.15" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.15.010">
         <section>
-          <heading>Findings</heading>
           <num>6.5.15.010</num>
+          <heading>Findings</heading>
           <para>
             <num>(a)</num>
             <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
@@ -87,9 +87,8 @@
       </codify:insert>
     </recital>
     <recital>
-      <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
-      <text/>
       <codify:insert path="6.5.15" num-value="6.5.15.020" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.15.020"/>
+      <conjunction codify:omit="">NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
       <num/>
       <para>
         <num codify:value="(a)">1.</num>
@@ -107,7 +106,7 @@
   </recitals>
   <procedural-data>
     <text>CERTIFICATION</text>
-    <text>The foregoing resolution was duly voted upon by the Council on   October 2 , 2017, at a meeting with a vote of    9   in favor,    0     opposed,     0     abstaining and     1     absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>The foregoing resolution was duly voted upon by the Council on October 2, 2017, at a meeting with a vote of 9 in favor, 0 opposed, 0 abstaining and 1 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
     <text>COUNCIL REPRESENTATIVE SPONSOR(S):     Council Representatives</text>
     <text>
@@ -192,7 +191,7 @@
       </table>
     </text>
     <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
-    <text>Resolution No. SI-R17-030 was presented to the Governor of the Pueblo de San Ildefonso on the     2nd   day of       October     	, 2017, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Resolution No. SI-R17-030 was presented to the Governor of the Pueblo de San Ildefonso on the 2nd day of October, 2017, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
     <subheading>GOVERNOR'S ACTION:</subheading>
     <text>{    } 	APPROVED</text>

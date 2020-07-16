@@ -12,8 +12,7 @@
       <adopted>2017-12-20</adopted>
     </history>
   </meta>
-  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-  20th     day of    December    , 2017, the following Resolution was adopted:</preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 20th day of December, 2017, the following Resolution was adopted:</preamble>
   <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14">
     <container>
       <prefix>Part</prefix>
@@ -28,8 +27,8 @@
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
       <codify:insert path="|6.3.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.010">
         <section>
-          <heading>Findings</heading>
           <num>6.3.14.010</num>
+          <heading>Findings</heading>
           <para>
             <num>(a)</num>
             <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -273,18 +272,18 @@
     </recital>
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
-      <text>that the Pueblo de San Ildefonso Council hereby approves and          adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
       <codify:insert path="6.3.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.030">
         <section>
           <num>6.3.14.030</num>
-          <text>The Pueblo de San Ildefonso Council hereby approves and          adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
         </section>
       </codify:insert>
     </recital>
   </recitals>
   <procedural-data>
     <text>CERTIFICATION</text>
-    <text>The foregoing resolution was duly voted upon by the Council on   December 20    , 2017, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>The foregoing resolution was duly voted upon by the Council on December 20, 2017, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
     <text>COUNCIL REPRESENTATIVE SPONSOR(S):  Council Representative Irene Tse-Pe</text>
     <text>
@@ -369,7 +368,7 @@
       </table>
     </text>
     <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
-    <text>Resolution No. SI-R17-043 was presented to the Governor of the Pueblo de San Ildefonso on the     20th     day of    December   , 2017, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Resolution No. SI-R17-043 was presented to the Governor of the Pueblo de San Ildefonso on the 20th day of December, 2017, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
     <subheading>GOVERNOR'S ACTION:</subheading>
     <text>{    } 	APPROVED</text>
@@ -469,14 +468,14 @@
   <attachment id="law">
     <codify:insert path="6.3.14" num-value="6.3.14.040" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.040"/>
     <num/>
-    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <text codify:omit="">PUEBLO DE SAN ILDEFONSO</text>
     <heading>NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</heading>
-    <text class="center">
+    <text class="center" codify:omit="">
       <strong>NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</strong>
     </text>
     <para>
       <num codify:value="(a)">1.</num>
-      <text>The Council hereby approves the "New Funding Council Adjustment 2 (NF-2)" and adjusts           the Annual Budget for Fiscal Year 2017-2018 by addition of the following:</text>
+      <text>The Council hereby approves the "New Funding Council Adjustment 2 (NF-2)" and adjusts the Annual Budget for Fiscal Year 2017-2018 by addition of the following:</text>
       <text>
         <table>
           <tr>

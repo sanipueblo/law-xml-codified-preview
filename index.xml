@@ -10,19 +10,21 @@
       <xml-bulk>https://github.com/sanipueblo/law-xml</xml-bulk>
       <html-bulk>https://github.com/sanipueblo/law-html</html-bulk>
       <html>https://law.sanipueblo.org</html>
+      <static-assets>https://github.com/oll-test-repos/sanipueblo-law-static-assets</static-assets>
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="518bc89b480968a43b36b4a90c5f9f7bed6e5ce5"/>
+        <repository name="sanipueblo/law-xml" commit="15fbf714b43e0cb0f1838231e2a8c61b35cd0b01"/>
       </repositories>
-      <platform version="2019.8.0" reproducible="false"/>
-      <build-date>2019-12-24</build-date>
-      <codified-date>2019-10-22</codified-date>
+      <platform version="2020.2.0" reproducible="true"/>
+      <build-date>2020-07-16</build-date>
+      <codified-date>2020-05-13</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>
   <collection name="us/nsn/san-ildefonso/council/resolutions">
     <heading>Council Resolutions</heading>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2020/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2019/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2018/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2017/index.xml"/>

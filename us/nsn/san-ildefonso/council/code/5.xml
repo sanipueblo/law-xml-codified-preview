@@ -7,15 +7,15 @@
     <prefix>Chapter</prefix>
     <num>5.1</num>
     <heading>Election Law</heading>
+    <annotations>
+      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-006, dated January 9, 2012, and was amended pursuant to Council Resolution No. SI-R16-002, dated February 17, 2016.</annotation>
+    </annotations>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
     <container>
       <prefix>Part</prefix>
       <num>5.1.1</num>
       <heading>Background</heading>
-      <annotations>
-        <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-006, dated January 9, 2012, and was amended pursuant to Council Resolution No. SI-R16-002, dated February 17, 2016.</annotation>
-      </annotations>
-      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
-      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
       <section>
         <num>5.1.1.010</num>
         <heading>Findings</heading>
@@ -57,7 +57,7 @@
         <num>5.1.2.010</num>
         <heading>Election Commission.</heading>
         <text>The Election Commission shall be established in accordance with ELECTIONS AND VOTING, SECTION 2.  ELECTION COMMISSION (a) of the Agreement which states:</text>
-        <include proof="true">
+        <include>
           <text>
             <strong>There shall be an Election Commission comprised of five Commissioners with three Commissioners elected by the people, one Commissioner selected by the Governor, and one Commissioner selected by the Council.  The term of office for Election Commissioners shall be four years.  Whenever a term expires for the seat of an appointed Commissioner, the Governor or the Council shall appoint a Commissioner within fifteen days after being sworn into office.  Election Commissioners shall not be eligible to be a candidate for Governor or Council Representative.</strong>
           </text>
@@ -79,13 +79,16 @@
             <strong>The Election Commission shall be paid a fair compensation as established by the Council by law.</strong>
           </text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.2.020</num>
         <heading>Authority and Responsibilities.</heading>
         <text>The Election Commission shall conduct all elections in accordance with Section 3 (b) of the Agreement which states:</text>
-        <include proof="true">
+        <include>
           <text>
             <strong>All elections shall be conducted by the Election Commission in a fair and impartial manner.</strong>
           </text>
@@ -160,7 +163,10 @@
             <text>The Election Commission shall prepare all invoices and requisitions for all costs and expenses, and shall ensure supporting documentation is included. The Election Commission shall designate a Commissioner as signatory authority for invoicing on behalf of the Commission.  By affixing his or her signature to an invoice, the designated Commissioner is confirming that the payment, activity, or materials requested are within the approved Election Commission budget.</text>
           </para>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -179,7 +185,7 @@
           <num>(b)</num>
           <heading>General Election.</heading>
           <text>General Elections shall be held in accordance with Section 3.  ELECTIONS of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>ELECTIONS AND VOTING.  SECTION 3.  ELECTIONS.</strong>
             </text>
@@ -223,7 +229,10 @@
           <heading>Special Elections.</heading>
           <text>All elections other than a General Election, or a Primary Election, shall be considered Special Elections, including elections to fill vacancies, Recall elections, and Referendum elections.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -243,7 +252,7 @@
           <para>
             <num>(2)</num>
             <text>The Election Commission shall prepare and make publically available a Candidate Nomination form which shall include a release permitting the Election Commission to conduct a criminal background check on each candidate as required by the Agreement.   The Election Commission shall use its best efforts to conduct candidate criminal background checks in a timely manner.  The Election Commission shall conduct all criminal background checks in accordance with Section 2 (d) of the Agreement which states:</text>
-            <include proof="true">
+            <include>
               <text>
                 <strong>The Election Commission shall conduct criminal background checks on all candidates and the results shall be made available to any enrolled Member of the Pueblo.</strong>
               </text>
@@ -282,7 +291,10 @@
             <text>In the First Election, upon the close of the nomination period, the Election Commission shall prepare and post a final list of candidates and a final list of voters for the First Election.</text>
           </para>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -295,7 +307,7 @@
         <para>
           <num>(a)</num>
           <text>All candidates for the Office of Governor shall meet the minimum qualifications as listed in the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>GOVERNOR, SECTION 2.  QUALIFICATIONS.</strong>
             </text>
@@ -307,7 +319,7 @@
         <para>
           <num>(b)</num>
           <text>All candidates for the Council Representative shall meet the minimum qualifications as listed in the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>THE GOVERNMENT SECTION 3 QUALIFICATIONS</strong>
             </text>
@@ -316,7 +328,10 @@
             </text>
           </include>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -329,7 +344,7 @@
         <para>
           <num>(a)</num>
           <text>The voting age for any election shall be set in accordance with Section 1, Voting of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>ELECTIONS AND VOTING.  SECTION 1.  VOTING.</strong>
             </text>
@@ -342,7 +357,10 @@
           <num>(b)</num>
           <text>Any voter who will turn age eighteen (18) by or on the date of the Primary Election shall be eligible to vote. For the First Election, the cut-off date for age eligibility shall be the date of the First Election.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.6.020</num>
@@ -355,7 +373,10 @@
           <num>(b)</num>
           <text>From the date of the posting of the preliminary list of voters through September 30<sup>th</sup>, the Election Commission shall accept any written challenges to the eligibility of a voter or voters on the preliminary list of voters.  The Election Commission shall make written determinations on any such voter challenges no later than October 10<sup>th</sup> of each year.  The Election Commission shall post the final list of voters no later than October 15<sup>th</sup> of each year.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -381,7 +402,10 @@
           <num>(d)</num>
           <text>In referendum elections, the Election Commission shall prepare a ballot that includes the language from the referendum petition on the challenged law.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -403,7 +427,10 @@
           <num>(c)</num>
           <text>The Election Commission shall publicly post such dates and deadlines as necessary to hold the First Election within the two (2) month period required under the Agreement.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -414,25 +441,37 @@
         <num>5.1.9.010</num>
         <heading>Polling Place.</heading>
         <text>There shall be one (1) polling place located at the Pueblo.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.9.020</num>
         <heading>Hours of Voting.</heading>
         <text>The polls shall be open at the polling place from 7:00 a.m. to 7:00 p.m. Voters in line at the polling place but unable to cast their ballots before 7:00 p.m. shall be allowed to finish voting.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.9.030</num>
         <heading>Fifty (50) Foot Limit.</heading>
         <text>No persons except members of the Election Commission shall be allowed to remain within fifty (50) feet of a polling place, except while actually voting.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.9.040</num>
         <heading>Maintaining Peace at Polling Place.</heading>
         <text>The Election Commission or Bailiff shall keep the peace and protect the voting place by preventing disturbances at the polling place and interference with persons desiring to vote.  This includes the authority to remove unruly or uncooperative persons from the polling place or from within the fifty (50) foot limit.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.9.050</num>
@@ -449,7 +488,10 @@
           <num>(c)</num>
           <text>The Election Commission may utilize electronic voting machines to conduct elections.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.9.060</num>
@@ -466,43 +508,64 @@
           <num>(c)</num>
           <text>At the end of the tally, the Election Commission shall place the counted ballots, any spoiled ballots and any rejected ballots, in the ballot box.  The ballot box shall be locked and sealed.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.9.070</num>
         <heading>Tie Votes.</heading>
         <text>A tie vote for candidates in any Election shall be decided by a game of chance administered by the Election Commission.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.9.080</num>
         <heading>Spoiled Ballots.</heading>
         <text>If a voter spoils a ballot and obtains another ballot, the spoiled ballot shall be marked "SPOILED".  Each member of the Election Commission shall sign his or her name below this marking and the spoiled ballot shall be secured by the Election Commission.  All spoiled ballots shall be placed in the ballot box at the end of the tallying.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.9.090</num>
         <heading>Unused Ballots.</heading>
         <text>Ballots unused at the end of the voting shall be marked "UNUSED" and shall be placed in the ballot box at the end of the tallying.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.9.100</num>
         <heading>Rejected Ballots.</heading>
         <text>If, during the tallying of the votes, the Election Commission is unable to determine from the ballot the choice of the voter, the ballot shall be rejected.  All rejected ballots shall be placed in the ballot box at the end of the tallying.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.9.110</num>
         <heading>Recounts.</heading>
         <text>Any Candidate for elective office shall have the right to request a recount of the election results within three (3) days of the election.  Upon receipt of a request for a recount, the Election Commission shall promptly conduct a recount and shall post the results of such recount.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.9.120</num>
         <heading>Other Matters Decided by the Election Commission.</heading>
         <text>The Election Commission shall control all aspects of elections conducted by the Pueblo regardless of any Federal or State laws.  Any other election matters not specifically addressed in this law shall be decided by the Election Commission.  The decision of the Election Commission shall be final.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -524,7 +587,10 @@
           <num>(c)</num>
           <text>Any eligible voter of the Pueblo shall have the right to challenge a final determination made by the Election Commission on any election challenge by filing suit in the Courts of the Pueblo within five (5) days of the date of the decision of the Election Commission.  A decision on an election challenge made by the Supreme Court of the Pueblo shall be final and shall not be subject to any further review by any other person or entity.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -537,7 +603,7 @@
         <para>
           <num>(a)</num>
           <text>Recall elections shall be conducted in accordance with the ELECTIONS AND VOTING provision SECTION 4.  REMOVAL AND RECALL of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>
                 <u>Recall</u>
@@ -564,7 +630,10 @@
           <num>(e)</num>
           <text>An individual who voluntarily places his or her signature on a petition shall not be allowed to later withdraw or remove their signature from the petition.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -577,7 +646,7 @@
         <para>
           <num>(a)</num>
           <text>Referendum elections shall be conducted in accordance with the ELECTIONS AND VOTING provision SECTION 6.  REFERENDUM of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>The people reserve the power to subject any law to a binding referendum election and the Election Commission shall hold a Referendum Election upon a petition signed by at least fifty percent (50%) of the voters.  A simple majority of the votes cast shall decide the outcome of the Referendum Election.</strong>
             </text>
@@ -603,7 +672,10 @@
           <num>(f)</num>
           <text>An individual who voluntarily places his or her signature on a petition shall not be allowed to later withdraw or remove their signature from the petition.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -614,7 +686,10 @@
         <num>5.1.13.010</num>
         <heading>Oath of Office.</heading>
         <text>After the Election Commission has certified the results of the election and the winners are announced, and any challenges are finally decided, a Justice or Judge shall administer the oath of office without delay.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -625,13 +700,19 @@
         <num>5.1.14.010</num>
         <heading>Amendment.</heading>
         <text>The Council may amend this law upon a majority vote of the Council in accordance with the requirements of the Agreement for making laws.  The Election Commission may submit to the Council suggested amendments to the law as deemed necessary.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
       <section>
         <num>5.1.14.020</num>
         <heading>Severability.</heading>
         <text>The provisions of this law are severable and if any part or provision shall be held void by any court of competent jurisdiction, the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this law.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
       </section>
     </container>
   </container>
@@ -644,12 +725,12 @@
       <prefix>Part</prefix>
       <num>5.2.1</num>
       <heading>Election Commission</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.1.010</num>
         <heading>Election Commission.</heading>
         <text>The Election Commission shall be established in accordance with ELECTIONS AND VOTING, SECTION 2.  ELECTION COMMISSION (a) of the Agreement which states:</text>
-        <include proof="true">
+        <include>
           <text>
             <strong>There shall be an Election Commission comprised of five Commissioners with three Commissioners elected by the people, one Commissioner selected by the Governor, and one Commissioner selected by the Council.  The term of office for Election Commissioners shall be four years.  Whenever a term expires for the seat of an appointed Commissioner, the Governor or the Council shall appoint a Commissioner within fifteen days after being sworn into office.  Election Commissioners shall not be eligible to be a candidate for Governor or Council Representative.</strong>
           </text>
@@ -667,7 +748,7 @@
           <num>(c)</num>
           <heading>Compensation.</heading>
           <text>The Commissioners shall be compensated according to the Agreement at ELECTIONS AND VOTING, Section 2. ELECTION COMMISISON (e) which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>The Election Commission shall be paid a fair compensation as established by the Council by law.</strong>
             </text>
@@ -675,13 +756,15 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>5.2.1.020</num>
         <heading>Authority and Responsibilities.</heading>
         <text>The Election Commission shall conduct all elections in accordance with Section 3 (b) of the Agreement which states:</text>
-        <include proof="true">
+        <include>
           <text>
             <strong>All elections shall be conducted by the Election Commission in a fair and impartial manner.</strong>
           </text>
@@ -757,6 +840,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|2" type="History"/>
         </annotations>
       </section>
     </container>
@@ -764,7 +849,7 @@
       <prefix>Part</prefix>
       <num>5.2.2</num>
       <heading>Elections</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.2.010</num>
         <heading>Elections.</heading>
@@ -777,7 +862,7 @@
           <num>(b)</num>
           <heading>General Election.</heading>
           <text>General Elections shall be held in accordance with Section 3.  ELECTIONS of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>ELECTIONS AND VOTING.  SECTION 3.  ELECTIONS.</strong>
             </text>
@@ -819,6 +904,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -826,7 +913,7 @@
       <prefix>Part</prefix>
       <num>5.2.3</num>
       <heading>Nominations</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.3.010</num>
         <heading>Nominations.</heading>
@@ -840,7 +927,7 @@
           <para>
             <num>(2)</num>
             <text>The Election Commission shall prepare and make publically available a Candidate Nomination form which shall include a release permitting the Election Commission to conduct a criminal background check on each candidate as required by the Agreement.   The Election Commission shall use its best efforts to conduct candidate criminal background checks in a timely manner.  The Election Commission shall conduct all criminal background checks in accordance with Section 2 (d) of the Agreement which states:</text>
-            <include proof="true">
+            <include>
               <text>
                 <strong>The Election Commission shall conduct criminal background checks on all candidates and the results shall be made available to any enrolled Member of the Pueblo.</strong>
               </text>
@@ -881,6 +968,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -888,14 +977,14 @@
       <prefix>Part</prefix>
       <num>5.2.4</num>
       <heading>Candidate Qualifications</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.4.010</num>
         <heading>Qualifications.</heading>
         <para>
           <num>(a)</num>
           <text>All candidates for the Office of Governor shall meet the minimum qualifications as listed in the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>GOVERNOR, SECTION 2.  QUALIFICATIONS.</strong>
             </text>
@@ -907,7 +996,7 @@
         <para>
           <num>(b)</num>
           <text>All candidates for the Council Representative shall meet the minimum qualifications as listed in the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>THE GOVERNMENT SECTION 3 QUALIFICATIONS</strong>
             </text>
@@ -918,6 +1007,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -925,14 +1016,14 @@
       <prefix>Part</prefix>
       <num>5.2.5</num>
       <heading>Voting</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.5.010</num>
         <heading>Voting Age.</heading>
         <para>
           <num>(a)</num>
           <text>The voting age for any election shall be set in accordance with Section 1, Voting of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>ELECTIONS AND VOTING.  SECTION 1.  VOTING.  All enrolled Members of the  eighteen years of age or older shall have the right to vote.</strong>
             </text>
@@ -944,6 +1035,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -959,6 +1052,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|2" type="History"/>
         </annotations>
       </section>
     </container>
@@ -966,7 +1061,7 @@
       <prefix>Part</prefix>
       <num>5.2.6</num>
       <heading>Ballots</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.6.010</num>
         <heading>Ballots.</heading>
@@ -988,6 +1083,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -995,7 +1092,7 @@
       <prefix>Part</prefix>
       <num>5.2.7</num>
       <heading>Notice of Elections</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.7.010</num>
         <heading>Notice of Election.</heading>
@@ -1013,6 +1110,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1020,13 +1119,15 @@
       <prefix>Part</prefix>
       <num>5.2.8</num>
       <heading>Election Procedures</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.8.010</num>
         <heading>Polling Place.</heading>
         <text>There shall be one (1) polling place located at the Pueblo.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1035,6 +1136,8 @@
         <text>The polls shall be open at the polling place from 7:00 a.m. to 7:00 p.m. Voters in line at the polling place but unable to cast their ballots before 7:00 p.m. shall be allowed to finish voting.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1043,6 +1146,8 @@
         <text>No persons except members of the Election Commission shall be allowed to remain within fifty (50) feet of a polling place, except while actually voting.  No campaigning or placement of campaign materials shall be allowed within a fifty (50) foot perimeter around the polling place.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1051,6 +1156,8 @@
         <text>The Election Commission or Bailiff shall keep the peace and protect the voting place by preventing disturbances at the polling place and interference with persons desiring to vote.  This includes the authority to remove unruly or uncooperative persons from the polling place or from within the fifty (50) foot limit.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1070,6 +1177,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1089,6 +1198,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1108,6 +1219,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1116,6 +1229,8 @@
         <text>A tie vote for candidates in any Election shall be decided by a game of chance administered by the Election Commission at the earliest possible time after the election upon notice to the candidates, with notice posted at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public places. This does not prevent the tied candidates from participating in the game of chance immediately following the vote count if both candidates are available and agree to conduct the tie-breaker at that time.  In such instance, posting of notice shall not be required.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1124,6 +1239,8 @@
         <text>If a voter spoils a ballot and obtains another ballot, the spoiled ballot shall be marked "SPOILED".  Each member of the Election Commission shall sign his or her name below this marking and the spoiled ballot shall be secured by the Election Commission.  All spoiled ballots shall be placed in the ballot box at the end of the tallying.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|9" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1132,6 +1249,8 @@
         <text>Ballots unused at the end of the voting shall be marked "UNUSED" and shall be placed in the ballot box at the end of the tallying.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|10" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1140,6 +1259,8 @@
         <text>If, during the tallying of the votes, the Election Commission is unable to determine from the ballot the choice of the voter, the ballot shall be rejected.  All rejected ballots shall be placed in the ballot box at the end of the tallying.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|11" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1148,6 +1269,8 @@
         <text>Any Candidate for elective office shall have the right to request a recount of the election results within three (3) days of the election.  Upon receipt of a written request for a recount, the Election Commission shall promptly conduct a recount and shall post the results of such recount in accordance with Section 7.C. above.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|12" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1156,6 +1279,8 @@
         <text>The Election Commission shall control all aspects of elections conducted by the Pueblo regardless of any Federal or State laws.  Any other election matters not specifically addressed in this law shall be decided by the Election Commission.  The decision of the Election Commission shall be final.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|13" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1163,7 +1288,7 @@
       <prefix>Part</prefix>
       <num>5.2.9</num>
       <heading>Challenges to the Election Results</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.9.010</num>
         <heading>Election Results Challenge Process.</heading>
@@ -1270,6 +1395,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1277,14 +1404,14 @@
       <prefix>Part</prefix>
       <num>5.2.10</num>
       <heading>Recall Elections</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.10.010</num>
         <heading>Recall Elections.</heading>
         <para>
           <num>(a)</num>
           <text>Recall elections shall be conducted in accordance with the ELECTIONS AND VOTING provision SECTION 4.  REMOVAL AND RECALL of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>
                 <u>Recall</u>
@@ -1313,6 +1440,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1320,14 +1449,14 @@
       <prefix>Part</prefix>
       <num>5.2.11</num>
       <heading>Referendum Elections</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.11.010</num>
         <heading>Referendum Election Process.</heading>
         <para>
           <num>(a)</num>
           <text>Referendum elections shall be conducted in accordance with the ELECTIONS AND VOTING provision SECTION 6.  REFERENDUM of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>The people reserve the power to subject any law to a binding referendum election and the Election Commission shall hold a Referendum Election upon a petition signed by at least fifty percent (50%) of the voters.  A simple majority of the votes cast shall decide the outcome of the Referendum Election.</strong>
             </text>
@@ -1355,6 +1484,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1362,14 +1493,14 @@
       <prefix>Part</prefix>
       <num>5.2.12</num>
       <heading>Elections to Fill Vacancies</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.12.010</num>
         <heading>Special Election to Fill Vacancy.</heading>
         <para>
           <num>(a)</num>
           <text>A Special Election shall be held in accordance with the ELECTIONS AND VOTING provision, Section 5. VACANCIES of the Agreement which states:</text>
-          <include proof="true">
+          <include>
             <text>
               <strong>The Election Commission shall certify all vacancies.  Vacancy shall result from removal, recall, physical incapacity, or any circumstance that makes holding office impossible for more than thirty (30) days.</strong>
             </text>
@@ -1393,6 +1524,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1408,6 +1541,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1419,6 +1554,8 @@
         </para>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|3" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1426,13 +1563,15 @@
       <prefix>Part</prefix>
       <num>5.2.13</num>
       <heading>Oath of Office</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.13.010</num>
         <heading>Oath of Office.</heading>
         <text>After the Election Commission has certified the results of the election and the winners are announced, and any challenges are finally decided, a Justice or Judge shall administer the oath of office on January 2 at a location within the Pueblo's lands. An Acknowledgement of the Oath of Office form shall be signed by the candidate, Justice or Judge and the Commission Chair and retained by the Commission.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1440,13 +1579,15 @@
       <prefix>Part</prefix>
       <num>5.2.14</num>
       <heading>Amendment and Severability</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
       <section>
         <num>5.2.14.010</num>
         <heading>Amendment.</heading>
         <text>The Council may amend this law upon a majority vote of the Council in accordance with the requirements of the Agreement for making laws.  The Election Commission may submit to the Council suggested amendments to the law as deemed necessary.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1455,6 +1596,8 @@
         <text>The provisions of this law are severable and if any part or provision shall be held void by any court of competent jurisdiction, the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this law.</text>
         <annotations>
           <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|2" type="History"/>
         </annotations>
       </section>
     </container>

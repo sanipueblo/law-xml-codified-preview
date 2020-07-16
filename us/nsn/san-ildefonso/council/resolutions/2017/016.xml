@@ -12,8 +12,7 @@
       <adopted>2017-06-21</adopted>
     </history>
   </meta>
-  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-    21st     day of     June    , 2017, the following Resolution was adopted:</preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 21st day of June, 2017, the following Resolution was adopted:</preamble>
   <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.12">
     <container>
       <prefix>Part</prefix>
@@ -28,8 +27,8 @@
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
       <codify:insert path="|6.3.12" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.12.010">
         <section>
-          <heading>Findings</heading>
           <num>6.3.12.010</num>
+          <heading>Findings</heading>
           <para>
             <num>(a)</num>
             <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -248,7 +247,7 @@
   </recitals>
   <procedural-data>
     <text>CERTIFICATION</text>
-    <text>The foregoing resolution was duly voted upon by the Council on      June 21        , 2017, at a meeting with a vote of     7    	 in favor,     0     opposed,     2     abstaining and     1	    absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>The foregoing resolution was duly voted upon by the Council on June 21, 2017, at a meeting with a vote of 7 in favor, 0 opposed, 2 abstaining and 1 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
     <text>COUNCIL REPRESENTATIVE SPONSOR(S):    Council Representative Irene Tse-Pe</text>
     <text>
@@ -333,7 +332,7 @@
       </table>
     </text>
     <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
-    <text>Resolution No. SI-R17-016  was presented to the Governor of the Pueblo de San Ildefonso on the     21st         day of      June      	, 2017, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Resolution No. SI-R17-016  was presented to the Governor of the Pueblo de San Ildefonso on the 21st day of June, 2017, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
     <subheading>GOVERNOR'S ACTION:</subheading>
     <text>{    } 	APPROVED</text>
@@ -436,7 +435,7 @@
     <heading>AUTHORIZATION FOR FISCAL YEAR 2016-2017 BUDGET MODIFICATION NO. 2</heading>
     <para>
       <num codify:value="(a)">1.</num>
-      <text>The current FY 2016-2017 Annual Budget, prior to this enactment, is                         as follows:</text>
+      <text>The current FY 2016-2017 Annual Budget, prior to this enactment, is as follows:</text>
       <text>
         <table>
           <tr>

@@ -12,8 +12,7 @@
       <adopted>2017-12-20</adopted>
     </history>
   </meta>
-  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-      20th      day of     December        , 2017, the following Resolution was adopted:</preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 20th day of December, 2017, the following Resolution was adopted:</preamble>
   <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16">
     <container>
       <prefix>Part</prefix>
@@ -28,8 +27,8 @@
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
       <codify:insert path="|6.5.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
         <section>
-          <heading>Findings</heading>
           <num>6.5.16.010</num>
+          <heading>Findings</heading>
           <para>
             <num>(a)</num>
             <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -40,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
         <para>
           <num>(b)</num>
           <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo.</text>
@@ -50,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo, by and through United States Public Laws 105-17 and 108-446, has contracted and administered key functions to the Pueblo through the Bureau of Indian Education to provide Early Childhood Education through the Individuals with Disabilities Education Act; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
         <para>
           <num>(c)</num>
           <text>The Pueblo, by and through United States Public Laws 105-17 and 108-446, has contracted and administered key functions to the Pueblo through the Bureau of Indian Education to provide Early Childhood Education through the Individuals with Disabilities Education Act.</text>
@@ -60,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Infant and Toddler program funding provides programs to assist in child find, screening, and other procedures for the early identification of children aged 0-5, parent training, and the provision of direct services; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
         <para>
           <num>(d)</num>
           <text>The Infant and Toddler program funding provides programs to assist in child find, screening, and other procedures for the early identification of children aged 0-5, parent training, and the provision of direct services.</text>
@@ -70,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo currently operates and administers the Infant and Toddler program under the Pueblo's Education Department, Early Childhood Program, in compliance with all components of the application for contract; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
         <para>
           <num>(e)</num>
           <text>The Pueblo currently operates and administers the Infant and Toddler program under the Pueblo's Education Department, Early Childhood Program, in compliance with all components of the application for contract.</text>
@@ -80,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo wishes to amend and extend the contract for Infant and Toddler program funding for the 3-year period, FY 2017-2019, ending June 30, 2020 to assist in meeting the needs of our children.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
         <para>
           <num>(f)</num>
           <text>The Pueblo wishes to amend and extend the contract for Infant and Toddler program funding for the 3-year period, FY 2017-2019, ending June 30, 2020 to assist in meeting the needs of our children.</text>
@@ -110,7 +109,7 @@
   </recitals>
   <procedural-data>
     <text>CERTIFICATION</text>
-    <text>The foregoing resolution was duly voted upon by the Council on    December 20        , 2017, at a meeting with a vote of         	 in favor,	       opposed,	           abstaining and           absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>The foregoing resolution was duly voted upon by the Council on December 20, 2017, at a meeting with a vote of in favor, opposed, abstaining and absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
     <text>COUNCIL REPRESENTATIVE SPONSOR(S):     CR Glenda Fred-Weahkee</text>
     <text>
@@ -195,7 +194,7 @@
       </table>
     </text>
     <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
-    <text>Resolution No. SI-R17-044 was presented to the Governor of the Pueblo de San Ildefonso on the                    20th    day of         December     , 2017, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Resolution No. SI-R17-044 was presented to the Governor of the Pueblo de San Ildefonso on the 20th day of December, 2017, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
     <subheading>GOVERNOR'S ACTION:</subheading>
     <text>{    } 	APPROVED</text>

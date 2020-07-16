@@ -7,14 +7,14 @@
     <prefix>Chapter</prefix>
     <num>3.1</num>
     <heading>Notice Requirements</heading>
+    <annotations>
+      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-044, dated November 28, 2012.</annotation>
+    </annotations>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-044"/>
     <container>
       <prefix>Part</prefix>
       <num>3.1.1</num>
       <heading>Notice Requirements Act</heading>
-      <annotations>
-        <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-044, dated November 28, 2012.</annotation>
-      </annotations>
-      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-044"/>
       <section>
         <num>3.1.1.010</num>
         <heading>Findings</heading>
@@ -42,7 +42,9 @@
           <num>(a)</num>
           <text>This enactment shall be known as the Notice Requirements Act ("Act").</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-044"/>
+        </annotations>
       </section>
       <section>
         <num>3.1.2.020</num>
@@ -63,7 +65,9 @@
           <num>(d)</num>
           <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-044"/>
+        </annotations>
       </section>
       <section>
         <num>3.1.2.030</num>
@@ -72,7 +76,9 @@
           <num>(a)</num>
           <text>The purpose of this Act is to further define minimum standards of notice as required pursuant to Section 6(b) of Agreement.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-044"/>
+        </annotations>
       </section>
       <section>
         <num>3.1.2.040</num>
@@ -89,7 +95,9 @@
             <text>Defining minimum standards of Notice will ensure that Council Representatives and the Pueblo public will be well-informed of all proposed Council actions and be afforded sufficient time to review the substance of all proposed Resolution(s) and prepare any questions or concerns regarding a proposed Resolution.</text>
           </para>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-044"/>
+        </annotations>
       </section>
       <section>
         <num>3.1.2.050</num>
@@ -98,7 +106,9 @@
           <num>(a)</num>
           <text>This act establishes the minimum standards of Notice required as part of the Legislative Process pursuant to Section 6(b) of the Agreement.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-044"/>
+        </annotations>
       </section>
       <section>
         <num>3.1.2.060</num>
@@ -119,7 +129,9 @@
           <num>(d)</num>
           <text>Any Resolution originating from the Council or a Council Representative shall be delivered to the Governor who shall include such Resolution on the agenda of the next Regular meeting of the Council.  The Council reserves the right to place any matter including Resolutions on the agenda, or to set its own agenda, for Regular Meetings notwithstanding any other law, rule, regulation, or procedure to the contrary.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-044"/>
+        </annotations>
       </section>
       <section>
         <num>3.1.2.070</num>
@@ -128,7 +140,9 @@
           <num>(a)</num>
           <text>The Council may amend this Act at any time upon majority vote of the Council.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-044"/>
+        </annotations>
       </section>
       <section>
         <num>3.1.2.080</num>
@@ -137,7 +151,9 @@
           <num>(a)</num>
           <text>Nothing in this Act waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees except when necessary to bring an action in equity exclusively in the Pueblo's courts against an executive branch official to enforce this law.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-044"/>
+        </annotations>
       </section>
       <section>
         <num>3.1.2.090</num>
@@ -146,7 +162,9 @@
           <num>(a)</num>
           <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable tribal and/or federal law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-044"/>
+        </annotations>
       </section>
     </container>
   </container>
@@ -274,7 +292,13 @@
           <num>(b)</num>
           <text><u>Testimony</u>  If the Governor or an executive branch employee reasonably believes that the testimony requested by the Council or Council Committee contains confidential information, then the Governor or his designee shall inform the Council or Council Committee, and the Council or Council Committee shall receive such testimony in an executive session, and any subsequent disclosure of the alleged confidential information received by the Council or Council Committee from such testimony shall not be the responsibility of the Governor or executive branch employee.</text>
         </para>
-        <text><strong>Sec 2.1.8</strong>	Informal Discussions</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-021"/>
+        </annotations>
+      </section>
+      <section>
+        <num>3.2.1.080</num>
+        <heading>Informal Discussions</heading>
         <text>Nothing in this Law-Making Act shall prevent informal discussions between the Council or Council Representatives and Executive Branch employees.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-021"/>
@@ -318,7 +342,6 @@
       </section>
       <section>
         <num>3.2.2.020</num>
-        <heading/>
         <text>The Council hereby approves the continuation of the Attorneys' legal representation of the Council including the authorization and approval of a sole-source contract with the Attorneys.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-029"/>
@@ -372,6 +395,7 @@
         <text>This enactment shall be known as "THE COUNCIL CONTRACTING AUTHORIZATION ACT OF 2017 ("Act")."</text>
         <annotations>
           <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="" type="History"/>
+          <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -380,6 +404,7 @@
         <text>The purpose of this Act is to authorize the Lieutenant Governor, on behalf of the Council, to enter into contracts, as specifically authorized by the Council, with professional advisors, consultants, and others necessary to fulfill the Council's duties to write laws and prepare budgets for the benefit of the People of the Pueblo, subject to the appropriation of funds for such purposes.</text>
         <annotations>
           <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="" type="History"/>
+          <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -400,6 +425,7 @@
         </para>
         <annotations>
           <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="" type="History"/>
+          <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -419,6 +445,7 @@
         </para>
         <annotations>
           <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="" type="History"/>
+          <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
     </container>

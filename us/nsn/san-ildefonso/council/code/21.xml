@@ -7,11 +7,11 @@
     <prefix>Chapter</prefix>
     <num>21.1</num>
     <heading>Probate</heading>
+    <annotation type="History">1984 Code</annotation>
     <container>
       <prefix>Part</prefix>
       <num>21.1.1</num>
       <heading>Probate Procedure</heading>
-      <annotation type="History">1984 Code</annotation>
       <section>
         <num>21.1.1.010</num>
         <heading>Jurisdiction</heading>
@@ -32,19 +32,25 @@
         <num>21.1.2.010</num>
         <heading>Small Estates.</heading>
         <text>Any interested person may file a petition with the Clerk of the Court for the distribution, without administration of estate of a decedent who died testate or intestate and in which the total estate consisting of nontrust property not exceeding $5,000.00 in value, provided that the decedent is survived by a widow or widower or by one (1) or more minor children, otherwise the procedures of Chapters 30 and 31 of this Title shall be followed.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History">1984 Code</annotation>
+        </annotations>
       </section>
       <section>
         <num>21.1.2.020</num>
         <heading>Information Required.</heading>
         <text>The petition for distribution of a small estate shall contain the information required by Sec. 30.5. The petition shall be sworn to before the Clerk of the Court or other officer authorized to administer oaths.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History">1984 Code</annotation>
+        </annotations>
       </section>
       <section>
         <num>21.1.2.030</num>
         <heading>Findings and Final Order.</heading>
         <text>If the Court finds that the estate does not exceed $5,000.00 in value, and that more than thirty (30) days have elapsed since the death of the decedent, the Court may order the estate distributed pursuant to the decedent's will, if any, or according to t e rules of the descent and distribution of this Title.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History">1984 Code</annotation>
+        </annotations>
       </section>
     </container>
     <container>
@@ -82,7 +88,9 @@
           <num>(g)</num>
           <text>The caretaker, administrator or executor shall petition the Court for the appointment of guardians for any minor children or any person deemed to be incompetent who may be probable heirs or devisees of the decedent.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History">1984 Code</annotation>
+        </annotations>
       </section>
       <section>
         <num>21.1.3.020</num>
@@ -100,13 +108,17 @@
           <num>(c)</num>
           <text>Upon the completion of the hearing or hearings regarding the validity of the will, the Judge of the Trial Court shall either affirm the will and order it admitted to probate or reject the will and order the administration of the decedent's estate as if the decedent had died intestate without executing the will.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History">1984 Code</annotation>
+        </annotations>
       </section>
       <section>
         <num>21.1.3.030</num>
         <heading>Appraisal of Property.</heading>
         <text>When any action is filed under this Title for the probate of a decedent's estate, the Court shall appoint a qualified appraiser to appraise all of the property within the jurisdiction of the Court who shall file the appraisal report with the Clerk of the Court.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History">1984 Code</annotation>
+        </annotations>
       </section>
       <section>
         <num>21.1.3.040</num>
@@ -136,7 +148,9 @@
             <text>Any amount due the Pueblo of San Ildefonso, including notice of all Tribal liens on any part of the estate of the decedent.</text>
           </para>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History">1984 Code</annotation>
+        </annotations>
       </section>
       <section>
         <num>21.1.3.050</num>
@@ -189,7 +203,9 @@
             <text>The Court may file a petition for the determination of heirs and distribution of the estate in its own motion in the event an executor or administrator is not appointed or fails to act as required.</text>
           </para>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History">1984 Code</annotation>
+        </annotations>
       </section>
     </container>
   </container>

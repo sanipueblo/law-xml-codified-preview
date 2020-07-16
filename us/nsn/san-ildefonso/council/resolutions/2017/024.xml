@@ -12,8 +12,7 @@
       <adopted>2017-09-01</adopted>
     </history>
   </meta>
-  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 
-     1st        day of      September       , 2017, the following Resolution was adopted:</preamble>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 1st day of September, 2017, the following Resolution was adopted:</preamble>
   <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.13">
     <container>
       <prefix>Part</prefix>
@@ -28,8 +27,8 @@
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
       <codify:insert path="|6.5.13" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.13.010">
         <section>
-          <heading>Findings</heading>
           <num>6.5.13.010</num>
+          <heading>Findings</heading>
           <para>
             <num>(a)</num>
             <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -180,7 +179,7 @@
   </recitals>
   <procedural-data>
     <text>CERTIFICATION</text>
-    <text>The foregoing resolution was duly voted upon by the Council on     September 1      , 2017, at a meeting with a vote of         	 in favor,	       opposed,	           abstaining and           absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>The foregoing resolution was duly voted upon by the Council on September 1, 2017, at a meeting with a vote of in favor, opposed, abstaining and absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
     <text>COUNCIL REPRESENTATIVE SPONSOR(S):       CR Thomas Gonzales</text>
     <text>
@@ -265,7 +264,7 @@
       </table>
     </text>
     <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
-    <text>Resolution No. SI-R17-024     was presented to the Governor of the Pueblo de San Ildefonso on the       1st      day of        September    , 2017, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Resolution No. SI-R17-024 was presented to the Governor of the Pueblo de San Ildefonso on the 1st day of September, 2017, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
     <subheading>GOVERNOR'S ACTION:</subheading>
     <text>{    } 	APPROVED</text>

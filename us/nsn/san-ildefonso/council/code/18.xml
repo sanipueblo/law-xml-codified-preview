@@ -7,14 +7,14 @@
     <prefix>Chapter</prefix>
     <num>18.1</num>
     <heading>Taxation</heading>
+    <annotations>
+      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-037, dated September 28, 2013.</annotation>
+    </annotations>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
     <container>
       <prefix>Part</prefix>
       <num>18.1.1</num>
       <heading>Background</heading>
-      <annotations>
-        <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-037, dated September 28, 2013.</annotation>
-      </annotations>
-      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
       <section>
         <num>18.1.1.010</num>
         <heading>Findings</heading>
@@ -36,7 +36,6 @@
       </section>
       <section>
         <num>18.1.1.020</num>
-        <heading/>
         <text>In accordance with the provisions of the Agreement, the Council hereby enacts the attached law entitled "Pueblo de San Ildefonso Tax Act of 2013".</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
@@ -44,7 +43,6 @@
       </section>
       <section>
         <num>18.1.1.030</num>
-        <heading/>
         <text>The "Pueblo de San Ildefonso Tax Act of 2013" shall repeal and supersede all provisions within the Pueblo de San Ildefonso Tax Ordinance.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
@@ -52,7 +50,6 @@
       </section>
       <section>
         <num>18.1.1.040</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Tax Act of 2013:</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
@@ -67,13 +64,17 @@
         <num>18.1.2.010</num>
         <heading>Title.</heading>
         <text>This Act shall be known as the Pueblo de San Ildefonso Tax Act.  May also be referred to as the Tax Code.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.020</num>
         <heading>Purpose.</heading>
         <text>The purpose of the Act is to establish a comprehensive taxation law that provides for the administration and enforcement of all taxes imposed by the Pueblo de San Ildefonso in exercise of its sovereign authority over its lands and activities occurring thereon.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.030</num>
@@ -87,13 +88,17 @@
           <num>(b)</num>
           <text>"Pueblo lands" means all lands and interests in land within the exterior boundaries of the Pueblo and any additional lands acquired by the Pueblo.  Also includes land assignments, community property areas, fee simple lands, and public right-of-ways. May also be referred to as "tribal lands"</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.040</num>
         <heading>Establishment of Tax Office.</heading>
         <text>There is hereby established an Office of Taxation (also referred to as the Tax Office) within the Executive Branch of the Pueblo de San Ildefonso government.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.050</num>
@@ -123,7 +128,9 @@
           <num>(f)</num>
           <text>Carry out all administrative authorities and responsibilities provided for in this Act.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.060</num>
@@ -165,13 +172,17 @@
           <num>(i)</num>
           <text>Take such action as reasonably necessary to accomplish and enforce the powers and authorities described in Section 1.3 above, and exercise all other authority as delegated by law.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.070</num>
         <heading>Tax Office Budget.</heading>
         <text>The Tax Office shall have an annual operating budget included as part of the Governor's budget, which is subject to Council approval.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.080</num>
@@ -201,7 +212,9 @@
           <num>(e)</num>
           <text>All tax laws, regulations, rulings, and instructions shall be maintained by the Tax Office and be made available for public inspection upon request.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.090</num>
@@ -246,7 +259,9 @@
           <num>(f)</num>
           <text>In addition to the foregoing, the Finance and Accounting Department shall provide such other information as requested by the Tax Administrator.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.100</num>
@@ -259,7 +274,9 @@
           <num>(b)</num>
           <text>Failure of the Tax Office to mail or a taxpayer to receive any notice, assessment, bill or other communication will not affect the taxpayer's liability for a tax.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.110</num>
@@ -280,13 +297,17 @@
           <num>(d)</num>
           <text>The Tax Administrator may require a taxpayer to file an informational return even if no tax is due.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.120</num>
         <heading>Timeliness of Notice, Filing and Payments.</heading>
         <text>Any notice, return, application, or payment required or authorized to be made or given shall be considered timely if mailed on or before the date on which due or required, as shown by the postmark, or if delivered to the Tax Office by the close of business on the date due or required, and a receipt is given.  A due date that falls on a weekend or holiday shall be moved to the next business day.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.130</num>
@@ -300,19 +321,25 @@
           <num>(b)</num>
           <text>For taxes requiring monthly payments, by the fifteenth (15<sup>th</sup>) day of the month following the end of the month for which the tax is due, unless another date or process for payment of the tax is specified in the particular tax ordinance.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.140</num>
         <heading>Extensions.</heading>
         <text>A taxpayer or business owner may request an extension of time within which to file a report or pay taxes.  The request must be made to the Tax Administrator in writing by the due date for the report or payment.  The extension of time may be granted, at the discretion of the Tax Administrator.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.150</num>
         <heading>Delinquent Taxpayer.</heading>
         <text>Any taxpayer who has been assessed taxes by the Tax Office or who is required to remit taxes pursuant to this Act and does not make timely payment and does not protest the assessment or demand for payment as provided in this Act, shall be considered a delinquent taxpayer.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.160</num>
@@ -345,7 +372,9 @@
           <num>(e)</num>
           <text>Any taxes assessed shall become the liability of the taxpayer on the date due.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.170</num>
@@ -366,7 +395,9 @@
           <num>(d)</num>
           <text>If the taxpayer has signed a waiver on the limitations imposed in this section, an assessment or administrative or judicial proceeding may begin without regard to the time when the payment was due.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.180</num>
@@ -383,7 +414,9 @@
           <num>(c)</num>
           <text>Interest shall be allowed and paid on the amount of tax overpaid by a taxpayer that is subsequently refunded or credited.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.190</num>
@@ -444,19 +477,25 @@
           <num>(l)</num>
           <text>If the Trial Court or Supreme Court finds that all or some portion of the valuation and tax due is found to be incorrect, that amount of tax and any interest that may have accrued thereon shall be paid over by the Finance and Accounting Department to the protestant at the time of the final determination of valuation and tax due.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.200</num>
         <heading>Prohibition from Law Suits.</heading>
         <text>No law suit for the purpose of restraining the assessment or collection of the taxes imposed under this Act shall be maintained in any court by any person, whether or not such person is the person against whom such taxes were assessed.  All actions concerning the application of the Act shall be brought pursuant to Section 1.19.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.210</num>
         <heading>No Waiver of Sovereign Immunity in Other Courts.</heading>
         <text>The Pueblo does not waive its sovereign immunity from suit in the courts of any other jurisdiction for any claim arising from the administration or enforcement of any tax subject to this Act.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.220</num>
@@ -478,7 +517,9 @@
           <num>(d)</num>
           <text>Assess any additional taxes, or interest, that may be identified as due as a result of such audit or investigation.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.230</num>
@@ -511,13 +552,17 @@
           <num>(g)</num>
           <text>The Tax Office may foreclose upon any or all items of property subject to a lien for taxes by seizure and sale.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.240</num>
         <heading>Security for Payment.</heading>
         <text>Whenever necessary to secure the payment of any taxes due or reasonably expected to become due, the Tax Office is authorized to require the taxpayer to furnish an acceptable surety bond in an appropriate amount.  The Tax Office shall set forth the terms and conditions for such a surety.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.250</num>
@@ -550,7 +595,9 @@
           <num>(c)</num>
           <text>Nothing in this section prohibits the Tax Office from disclosing to any person the final decision or order of the Tax Office in any protests filed under this law.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.260</num>
@@ -601,37 +648,49 @@
           <heading>Administrative Costs.</heading>
           <text>A taxpayer failing to pay any taxes at the time due may be charged for extraordinary administrative costs incurred in collecting the unpaid amount, including, but not limited to, attorney fees and other costs of collection.  For good cause shown, the Tax Administrator may, in their discretion, relieve the taxpayer from all or part of the charges imposed under this section.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.270</num>
         <heading>No Adoption of State Law.</heading>
         <text>While this Act, and subsequent Pueblo tax laws, may reference certain New Mexico State laws, tax rates or documents, that reference does not adopt or extend New Mexico law or policy within the Pueblo Lands or over the Pueblo or its members and in no way alters any sovereign rights, powers or jurisdiction of the Pueblo de San Ildefonso.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.280</num>
         <heading>Effective Date.</heading>
         <text>This Act shall take effect immediately upon its enactment by resolution of the Pueblo de San Ildefonso Council.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.290</num>
         <heading>Repeal of Inconsistent Law or Provisions.</heading>
         <text>Any and all Council resolutions, or provisions in the Pueblo de San Ildefonso Civil and Criminal Code, or other laws, which conflict in any way with the provisions of this Act are hereby repealed to the extent that they are inconsistent with or conflict with or are contrary to the spirit and/or purpose of this Act.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.300</num>
         <heading>Severability.</heading>
         <text>If any provision of this Act is found to be unconstitutional or unlawful by the Pueblo de San Ildefonso Tribal Courts or Federal Courts, such provision(s) shall be stricken and the remainder of this Act shall continue in full force and effect.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.2.310</num>
         <heading>Amendment.</heading>
         <text>The Council may amend this Act upon majority vote of the Council.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -642,13 +701,17 @@
         <num>18.1.3.010</num>
         <heading>Title.</heading>
         <text>This Chapter shall be known as the Pueblo de San Ildefonso Business Property Tax.  May also be referred to as the Business Property Tax Code.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.3.020</num>
         <heading>Purpose.</heading>
         <text>The purpose of the Chapter is to generate revenues to support the Pueblo de San Ildefonso government, provide funding for industrial and business development, and provide for such other essential public services.  It also consolidates and updates previous tax law provisions for possessory interests in utilities and business enterprises.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.3.030</num>
@@ -665,13 +728,17 @@
           <num>(c)</num>
           <text>All owners of possessory interests existing within Pueblo lands as of January 1 of each calendar year shall be liable for this tax.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.3.040</num>
         <heading>Incidence of Tax.</heading>
         <text>The incidence of the ad valorem tax imposed by this Chapter shall be upon the owner of the possessory interest being taxed.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.3.050</num>
@@ -697,7 +764,9 @@
           <num>(e)</num>
           <text>The Tax Office will provide forms for the use of the owner in complying with the reporting requirement.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.3.060</num>
@@ -712,13 +781,17 @@
           <heading>All Other Business Property.</heading>
           <text>Valuation of a possessory interest shall be determined in accordance with a cost method of valuation.  The cost method of valuation is a method for valuing improvements by determining the cost of reproduction or replacement of the property with property which is as good as, but not better than, the improvement being valued.  The reproduction of replacement may be duplicate or equally good substitute property.  If the improvement being valued is not in a new condition, the value of a new reproduction or replacement should, as circumstances justify, be depreciated to determine the value of the used items.  Trending may be used to implement the cost method of valuation.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.3.070</num>
         <heading>Rate of Tax.</heading>
         <text>The rate of tax shall be six percent (6%) of the assessed value.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.3.080</num>
@@ -739,7 +812,9 @@
           <num>(d)</num>
           <text>The Tax Administrator shall have authority to assess unassessed possessory interests as of the date on which they should have been assessed and to re-determine incorrect or erroneous assessments.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.3.090</num>
@@ -756,7 +831,9 @@
           <num>(c)</num>
           <text>No business enterprise owned or substantially owned by a member of the Pueblo de San Ildefonso or a member's immediate family ("immediate family" shall means spouse and/or children) shall be subject to the <u>ad valorem</u> possessory interest tax.  For the purposes of this provision, "substantially interested" shall indicate ownership of over 50% of the assets of the business operation, the actual management of the business enterprise by a member or a member's immediate family, or that the situs of the business enterprise being on a leasehold interest owned by a tribal member or a member's immediate family.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -767,13 +844,17 @@
         <num>18.1.4.010</num>
         <heading>Title.</heading>
         <text>This Chapter shall be known as the Pueblo de San Ildefonso Gross Receipts Tax.  May also be referred to as the Gross Receipts Tax Code.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.4.020</num>
         <heading>Purpose.</heading>
         <text>The purpose of the Chapter is to generate revenues to support the Pueblo de San Ildefonso government, provide funding for industrial and business development, and provide for such other essential public services while respecting traditional Pueblo livelihoods, customs and their contributions to the tribal community.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.4.030</num>
@@ -787,7 +868,9 @@
           <num>(b)</num>
           <text>"Gross Receipts" are the total amount of money or value of other consideration received from selling goods, renting or leasing property, or from performing services within Pueblo lands.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.4.040</num>
@@ -804,7 +887,9 @@
           <num>(b)</num>
           <text>The incidence of the gross receipts tax imposed under this Chapter shall be on the person engaging in the business within Pueblo lands.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.4.050</num>
@@ -817,7 +902,9 @@
           <num>(b)</num>
           <text>The rate established in subsection A. above shall be adjusted automatically effective as of January 1 and July 1 of each year to correspond to the total gross receipts, sales or similar tax rate imposed by the State of Mew Mexico and any local option tax districts of the State of New Mexico located within the counties of Santa Fe or Los Alamos, outside of any municipalities.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.4.060</num>
@@ -825,7 +912,9 @@
         <text>A taxpayer maintaining a place of business on Pueblo lands who has receipts subject to this Agreement shall be required to report its taxable gross receipts for each of the following tax districts in which the taxpayer maintains a place of business:</text>
         <text>District 1:   Pueblo lands located in Santa Fe County.</text>
         <text>District 2:   Pueblo lands located in Los Alamos County.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.4.070</num>
@@ -842,7 +931,9 @@
           <num>(c)</num>
           <text>A sale of electricity, natural gas, propane, water, telephone service, cable television service or internet access service takes place in the Pueblo if the physical location of the customer's premises or other place to which the utility's product or service is delivered to the customer in the Pueblo.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.4.080</num>
@@ -855,7 +946,9 @@
           <num>(b)</num>
           <text>The Pueblo may enter into a cooperative agreement with the Secretary of the New Mexico Taxation and Revenue Department to carry out the provisions of this Chapter, provided that the agreement shall be valid only if approved by resolution of the Council.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.4.090</num>
@@ -945,7 +1038,9 @@
           <num>(u)</num>
           <text>Receipts from the sale of construction materials, design, engineering or construction services for residential construction if the sale is to the occupant(s) of the residence in which the construction materials or services will be incorporated.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.4.100</num>
@@ -958,7 +1053,9 @@
           <num>(b)</num>
           <text>The Tax Administrator may issue certificates to taxpayers documenting exemptions allowed by this subsection.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.4.110</num>
@@ -988,7 +1085,9 @@
           <num>(f)</num>
           <text>Receipts of a business, contractor, or subcontractor of the United States, the State of New Mexico, or any agency, department or instrumentality, or political subdivision thereof engaged in business on Pueblo lands.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.4.120</num>
@@ -1005,7 +1104,9 @@
           <num>(c)</num>
           <text>All taxes imposed by this Chapter are due and payable on or before the fifteenth (15<sup>th</sup>) day of the calendar month immediately following the month in which the receipts were received.  A payment of the amount of gross receipts tax due shall accompany the return for that reporting period.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -1016,43 +1117,57 @@
         <num>18.1.5.010</num>
         <heading>Title.</heading>
         <text>This Chapter shall be known as the Pueblo de San Ildefonso Gasoline Tax.  May also be referred to as the Gasoline Tax Code.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.5.020</num>
         <heading>Imposition of Gas Tax.</heading>
         <text>The Gasoline Tax shall apply to all gasoline that is received or imported within Pueblo lands.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.5.030</num>
         <heading>Rate of Tax.</heading>
         <text>The rate of tax that is to be imposed on the gasoline shall be seventeen cents (17¢) per gallon.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.5.040</num>
         <heading>Calculation of Tax.</heading>
         <text>The gasoline tax shall be calculated on the amount of gasoline that a gasoline vendor receives or imports during the previous month.  The amount of gasoline shall be measured by invoiced gallons received within Pueblo lands.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.5.050</num>
         <heading>Incidence of Tax.</heading>
         <text>The incidence of the gasoline tax imposed by this Chapter shall be upon the vendor of the gasoline within the Pueblo lands.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.5.060</num>
         <heading>Reporting and Payment of Tax.</heading>
         <text>All taxes imposed by this Chapter are due and payable on or before the fifteenth (15<sup>th</sup>) day of the calendar month immediately following the month in which the gasoline taxes accrue.  Every person subject to the gasoline tax shall complete and file with the Tax Office a return for the preceding tax month on a form provided by the Tax Office providing such information as required.  The return shall be accompanied by a payment of the amount of the gasoline tax due.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.5.070</num>
         <heading>Exemptions.</heading>
         <text>Taxpayers who pay the gasoline tax imposed by this Chapter are exempt from the amount of the Pueblo's Gross Receipts Tax that would be imposed on the value of the gasoline received in the Pueblo lands.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -1063,19 +1178,25 @@
         <num>18.1.6.010</num>
         <heading>Title.</heading>
         <text>This Chapter shall be known as the Pueblo de San Ildefonso Cigarette Tax.  May also be referred to as the Cigarette Tax Code.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.6.020</num>
         <heading>Purpose.</heading>
         <text>The purpose of this Chapter is to protect and promote the Pueblo de San Ildefonso's sovereignty and right of self-governance through the taxation and regulation of sales of cigarette and tobacco products within the Pueblo de San Ildefonso; to protect and promote its tribal cigarette market; and to generate reasonable and reliable revenues to conduct essential governmental functions which benefit all tribal members and residents.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.6.030</num>
         <heading>Applicability.</heading>
         <text>This Chapter applies to all persons selling cigarettes or tobacco products in any quantity within Pueblo lands; provided that nothing in this Chapter shall be construed as regulating in any way, the use, consumption, trading, sale or giving away of traditional tobacco within Pueblo lands.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.6.040</num>
@@ -1117,46 +1238,59 @@
           <num>(i)</num>
           <text>"Traditional Tobacco" means twist or leaf tobacco traditionally used by Tribal members or other Native American individuals.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.6.050</num>
         <heading>Tax Imposed; Taxable Event.</heading>
-        <text>For the privilege of selling cigarettes on Pueblo lands, there is hereby levied a tax of $0.75 per pack of cigarettes sold by a retailer on Pueblo lands.</text>
+        <text>For the privilege of selling cigarettes on Pueblo lands, there is hereby levied a tax of $1.09 per pack of cigarettes sold by a retailer on Pueblo lands.</text>
         <annotations>
-          <annotation app="2019-11-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-022" eff="2019-10-22" path="" type="History" display="false"/>
-          <annotation app="2019-11-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-022" eff="2019-10-22" path="" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+          <annotation app="2019-11-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-022" eff="2019-10-22" path="attachments|law|1.5" type="History" display="false"/>
+          <annotation app="2019-11-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-022" eff="2019-10-22" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
       <section>
         <num>18.1.6.060</num>
         <heading>Incidence of Tax.</heading>
         <text>The legal incidence of the cigarette tax shall be on the retailer selling cigarettes on Pueblo lands.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.6.070</num>
         <heading>Liability for Collection and Payment of Tax.</heading>
         <text>Retailers within Pueblo lands are responsible for the collection and payment of the cigarette tax, regardless of whether the taxes are passed on to the next purchaser in the cost of the product.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.6.080</num>
         <heading>Exemption from Tribal Gross Receipts Tax.</heading>
         <text>Cigarettes upon which the Pueblo's cigarette tax has been imposed and collected shall be exempt from the Pueblo de San Ildefonso Gross Receipts Tax.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.6.090</num>
         <heading>Traditional Tobacco Exempt.</heading>
         <text>Nothing in this Chapter shall be construed as regulating or taxing in any way the use, consumption, sale, or giving away of traditional tobacco on the Pueblo lands.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.6.100</num>
         <heading>Reporting and Payment of Tax.</heading>
         <text>All taxes imposed by this Chapter are due and payable on or before the fifteenth (15<sup>th</sup>) day of the calendar month immediately following the month in which the cigarette taxes accrue.  Every person subject to the cigarette tax shall complete and file with the Tax Office a return for the preceding tax month on a form provided by the Tax Office providing such information as required.  The return shall be accompanied by a payment of the amount of the cigarette tax due.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.6.110</num>
@@ -1217,7 +1351,9 @@
           <num>(g)</num>
           <text>Upon any such revocation, the Tax Office shall notify all suppliers known to provide cigarettes to retailers on Pueblo lands that the person whose License is revoked is no longer tribally licensed.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.6.120</num>
@@ -1235,7 +1371,9 @@
           <num>(c)</num>
           <text>sell or distribute cigarettes or tobacco products on Pueblo lands that are listed as non-compliant or contraband on the Tobacco Product Compliance Directory maintained by the State of New Mexico Attorney General's Office.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.6.130</num>
@@ -1249,13 +1387,17 @@
           <num>(b)</num>
           <text>Contact any cigarette or tobacco products supplier or distributor to verify quantities of cigarettes sold and delivered to any Licensee.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
       <section>
         <num>18.1.6.140</num>
         <heading>Seizure and Sale of Products.</heading>
         <text>Any person found selling cigarettes or tobacco products on Pueblo Lands without a valid Cigarette Vendor License shall be subject to confiscation of all cigarettes and/or tobacco products found in their possession or custody.  The Tax Office shall seize and sell all such cigarettes and tobacco products, using the proceeds to collect the Cigarette Tax due.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
       </section>
     </container>
   </container>

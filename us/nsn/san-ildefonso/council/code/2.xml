@@ -7,6 +7,10 @@
     <prefix>Chapter</prefix>
     <num>2.1</num>
     <heading>Signatory Authority.</heading>
+    <annotations>
+      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-018, dated April 18, 2012.</annotation>
+    </annotations>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-018"/>
     <container>
       <prefix>Part</prefix>
       <num>2.1.1</num>
@@ -14,41 +18,43 @@
       <section>
         <num>2.1.1.010</num>
         <heading>General Findings</heading>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-018"/>
+        </annotations>
       </section>
       <section>
         <num>2.1.1.020</num>
-        <heading/>
         <text>The Pueblo government affects accountability every day in the day-to-day operations of the Pueblo and its departments, authorities, and programs;</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-018"/>
+        </annotations>
       </section>
       <section>
         <num>2.1.1.030</num>
-        <heading/>
         <text>Various signatures of Pueblo officials and employees are required on a daily basis in order to process paperwork and implement various programs;</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-018"/>
+        </annotations>
       </section>
       <section>
         <num>2.1.1.040</num>
-        <heading/>
         <text>The Pueblo does not explain the reasons for including each signature, which undermines accountability of each Department, Authority, and Program to the People;</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-018"/>
+        </annotations>
       </section>
       <section>
         <num>2.1.1.050</num>
-        <heading/>
         <text>Each signature may affect accountability to the Pueblo People and legal liabilities of the Pueblo or the signing official or employee.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-018"/>
+        </annotations>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
       <num>2.1.2</num>
       <heading>Signatory Authority Act</heading>
-      <annotations>
-        <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-018, dated April 18, 2012.</annotation>
-      </annotations>
-      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-018"/>
       <section>
         <num>2.1.2.010</num>
         <heading>Short Title</heading>
@@ -150,7 +156,7 @@
             <text>by the terms of the grant from which the funding shall be spent.</text>
           </para>
         </para>
-        <text>Authorization can not come from the Annual Budget by itself, but must come from the authorizing laws, contracts, or grants.  The Department Head signature line may remain blank only if the Purchase Order is submitted directly by the Office of the Governor for a purchase directly for one of those Offices.</text>
+        <aftertext>Authorization can not come from the Annual Budget by itself, but must come from the authorizing laws, contracts, or grants.  The Department Head signature line may remain blank only if the Purchase Order is submitted directly by the Office of the Governor for a purchase directly for one of those Offices.</aftertext>
         <para>
           <num>(c)</num>
           <heading>Signature of Comptroller/Assistant Controller.</heading>
@@ -187,14 +193,14 @@
     <prefix>Chapter</prefix>
     <num>2.2</num>
     <heading>Authorizations.</heading>
+    <annotations>
+      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-003, dated January 3, 2012.</annotation>
+    </annotations>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
     <container>
       <prefix>Part</prefix>
       <num>2.2.1</num>
       <heading>Authorizing Emergency Powers to Governor</heading>
-      <annotations>
-        <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-003, dated January 3, 2012.</annotation>
-      </annotations>
-      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
       <section>
         <num>2.2.1.010</num>
         <heading>Findings</heading>
@@ -204,7 +210,6 @@
       </section>
       <section>
         <num>2.2.1.020</num>
-        <heading/>
         <text>There are emergency situations that arise that require quick and immediate response by the Pueblo to protect the safety, health and well-being of the Pueblo community members or its property;</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
@@ -212,7 +217,6 @@
       </section>
       <section>
         <num>2.2.1.030</num>
-        <heading/>
         <text>There are unforeseen traditional and cultural matters that require quick or immediate response by the Governor's Office to either limit or close access to the Pueblo.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
@@ -225,15 +229,17 @@
       <heading>Authorization</heading>
       <section>
         <num>2.2.2.010</num>
-        <heading/>
         <text>The Tribal Council authorizes the Governor or their designee, to immediately respond and take any and all appropriate actions as may be deemed necessary in such emergency or urgent situations and for unforeseen traditional and cultural matters.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
+        </annotations>
       </section>
       <section>
         <num>2.2.2.020</num>
-        <heading/>
         <text>The Governor keep the Tribal Council informed of any such emergency or urgent and unforeseen situations and the actions taken at the earliest possible time.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -267,17 +273,23 @@
           <num>(f)</num>
           <text>The Council has determined it to be in the best interests of the Pueblo to authorize the Governor to issue law enforcement commissions to law enforcement officers from other jurisdictions as necessary to ensure proper law enforcement coverage during the annual Feast Day time period.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
+        </annotations>
       </section>
       <section>
         <num>2.2.3.020</num>
         <heading>Law Enforcement Commission Act</heading>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
+        </annotations>
       </section>
       <section>
         <num>2.2.3.030</num>
         <heading>[RESERVED]</heading>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -287,8 +299,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-036"/>
       <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-036" eff="2017-11-03" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>2.2.4.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
@@ -326,6 +338,7 @@
           <text>The 2018 Farm Bill effort being promoted by the Native Farm Bill Coalition is the best opportunity in decades for Indian Country to effectively create positive and truly relevant change in federal agriculture policy to enhance the development of Indian agriculture beyond raw commodities, support infrastructure, research, and education in tribal communities, and improve federal food nutrition programs in Indian Country while providing tribal governments the authority manage these programs.</text>
         </para>
         <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-036"/>
           <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-036" eff="2017-11-03" path="" type="History"/>
         </annotations>
@@ -334,6 +347,7 @@
         <num>2.2.4.020</num>
         <text>The Pueblo de San Ildefonso Council calls upon the U.S. Congress to fulfill its federal trust responsibility to Indian Country during the development and negotiation of the 2018 reauthorization of the Farm Bill's policies to incorporate tribal parity, opportunity, and consistency throughout and encourage and support continued participation, development, and progress in Indian Country's agriculture businesses, food systems, infrastructure, and nutrition programs.</text>
         <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-036"/>
           <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-036" eff="2017-11-03" path="" type="History"/>
         </annotations>
@@ -342,6 +356,7 @@
         <num>2.2.4.030</num>
         <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
         <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-036"/>
           <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-036" eff="2017-11-03" path="" type="History"/>
         </annotations>
@@ -357,7 +372,9 @@
         <heading>Authorization of Council Attorney Contract Act of 2019</heading>
         <text>This enactment shall be known as "AUTHORIZATION OF COUNCIL ATTORNEY CONTRACT ACT OF 2019" ("Act").</text>
         <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
           <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="" type="History"/>
+          <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="attachments|law|1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -373,7 +390,9 @@
           <text>The Council has utilized the services of experienced lawyers from the law firm of Robert J. Lyttle, PC, Attorneys at Law ("Attorneys") for at least seven (7) years to provide legal advice and assistance in a cost-effective manner, and the Council wishes to continue these services.</text>
         </para>
         <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
           <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="" type="History"/>
+          <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="attachments|law|2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -381,7 +400,9 @@
         <heading>Authorization of Contract</heading>
         <text>The Council hereby approves the continuation of the Attorneys' legal representation of the Council including the authorization and approval of a sole-source contract with the Attorneys (Exhibit A).</text>
         <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
           <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="" type="History"/>
+          <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="attachments|law|3" type="History"/>
         </annotations>
       </section>
     </container>
@@ -443,7 +464,6 @@
       </section>
       <section>
         <num>2.3.1.020</num>
-        <heading/>
         <text>The Tribal Council of the Pueblo de San Ildefonso hereby authorizes the Governor of the Pueblo de San Ildefonso to exercise the following governmental powers of the Pueblo on behalf of the Tribal Council, but only to the extent those powers are applied to the Albuquerque Trust Land:</text>
         <para>
           <num>(a)</num>
@@ -475,7 +495,6 @@
       </section>
       <section>
         <num>2.3.1.030</num>
-        <heading/>
         <text>The Governor's exercise of any power delegated by this Ordinance shall not apply on any land subject to the jurisdiction of the Pueblo de San Ildefonso other than the Albuquerque Trust Land.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-012"/>
@@ -483,7 +502,6 @@
       </section>
       <section>
         <num>2.3.1.040</num>
-        <heading/>
         <text>The decision whether to exercise any of the powers delegated by this Ordinance is left to the sound discretion of the Governor.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-012"/>
@@ -491,7 +509,6 @@
       </section>
       <section>
         <num>2.3.1.050</num>
-        <heading/>
         <text>The Governor shall not exercise the powers delegated by this Ordinance  unilaterally, but shall work with the Governors of other Pueblos to accomplish the objective of applying one set of Pueblo Laws on the Albuquerque Trust Land.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-012"/>
@@ -499,7 +516,6 @@
       </section>
       <section>
         <num>2.3.1.060</num>
-        <heading/>
         <text>The Governor is authorized to join with the Governors of other Pueblos to create a joint political subdivision of the Pueblos that will provide a governance structure for the Albuquerque Trust Land under the sovereign authority of the Pueblos and for the benefit of the Pueblos.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-012"/>
@@ -507,7 +523,6 @@
       </section>
       <section>
         <num>2.3.1.070</num>
-        <heading/>
         <text>The Governor is authorized to delegate to such a joint political subdivision the authority to exercise some or all of the powers of this Resolution delegates to the Governor; provided that the Governor shall retain the authority to rescind any delegation of authority to the joint political subdivision if he believes it is in the best interests of the Pueblo.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-012"/>
@@ -515,7 +530,6 @@
       </section>
       <section>
         <num>2.3.1.080</num>
-        <heading/>
         <text>The Governor is authorized to grant such a joint political subdivision the authority to waive the political subdivision's sovereign immunity from suit; provided that the joint political subdivision shall not have the authority to waive the sovereign immunity of the Pueblo.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-012"/>
@@ -579,7 +593,6 @@
       </section>
       <section>
         <num>2.3.2.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council hereby approves and authorizes the Governor to execute the attached "Amendment No. 2 to Perpetual Ground Lease" on behalf of the Pueblo.</text>
         <text>
           <strong>[NO ATTACHMENT]</strong>
@@ -641,7 +654,6 @@
       </section>
       <section>
         <num>2.3.4.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council hereby authorizes the Governor to enter into a Cooperative Agreement between the Pueblo and New Mexico Tax and Revenue Department for exercise of joint administration, enforcement, collection and auditing of gross receipts tax revenues for transactions occurring with the Pueblo's lands that are subject to taxation by both the State and Tribe.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-038"/>
@@ -649,7 +661,6 @@
       </section>
       <section>
         <num>2.3.4.030</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council authorizes the Governor enter into a form of Cooperative Agreement substantially similar to the draft Cooperative Agreement reviewed by the Council and attached hereto and authorizes such technical revisions to the Cooperative Agreement as may be necessary.</text>
         <text>[Attachment]</text>
         <annotations>
@@ -793,7 +804,6 @@
       </section>
       <section>
         <num>2.3.7.020</num>
-        <heading/>
         <text>The Council hereby rescinds Resolution No. SI-R10-040 and Resolution No. SI-R15-015 in their entirety and enacts the attached law entitled, "DELEGATING TO THE GOVERNOR CERTAIN GOVERNMENTAL AUTHORITY OF THE PUEBLO DE SAN ILDEFONSO OVER THE SANTA FE INDIAN SCHOOL TRUST LANDS."</text>
         <annotations/>
       </section>
@@ -891,6 +901,7 @@
         <text>This enactment shall be known as the "ACT CONFIRMING THE PUEBLO DE SAN ILDEFONSO IS NOT A PARTY NECESSARY TO THE LAWSUIT BETWEEN JEMEZ PUEBLO AND THE U.S. REGARDING JEMEZ PUEBLO'S ABORIGINAL TITLE IN THE VALLES CALDERA ("Act")."</text>
         <annotations>
           <annotation app="2017-07-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-021" eff="2017-07-07" path="" type="History"/>
+          <annotation app="2017-07-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-021" eff="2017-07-07" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -899,6 +910,7 @@
         <text>The purpose of this Act is to confirm that the Pueblo de San Ildefonso does not need to be a party in the lawsuit between the Pueblo of Jemez and the United States regarding the Jemez Pueblo's aboriginal title in the Valles Caldera and that the lawsuit can proceed without San Ildefonso Pueblo's participation.</text>
         <annotations>
           <annotation app="2017-07-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-021" eff="2017-07-07" path="" type="History"/>
+          <annotation app="2017-07-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-021" eff="2017-07-07" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -975,6 +987,7 @@
         </para>
         <annotations>
           <annotation app="2017-07-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-021" eff="2017-07-07" path="" type="History"/>
+          <annotation app="2017-07-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-021" eff="2017-07-07" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -990,6 +1003,7 @@
         </para>
         <annotations>
           <annotation app="2017-07-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-021" eff="2017-07-07" path="" type="History"/>
+          <annotation app="2017-07-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-021" eff="2017-07-07" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1004,6 +1018,7 @@
         <text>This enactment shall be known as "ACT RESCINDING THE DELEGATION OF THE PUEBLO DE SAN ILDEFONSO'S GOVERNANCE AUTHORITY OVER THE SANTA FE INDIAN SCHOOL TRUST LANDS."</text>
         <annotations>
           <annotation app="2017-11-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-040" eff="2017-11-23" path="" type="History"/>
+          <annotation app="2017-11-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-040" eff="2017-11-23" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1039,6 +1054,7 @@
         </para>
         <annotations>
           <annotation app="2017-11-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-040" eff="2017-11-23" path="" type="History"/>
+          <annotation app="2017-11-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-040" eff="2017-11-23" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1047,6 +1063,7 @@
         <text>The purpose of this law is to rescind the Council's previous delegation of governance authority over the SFIS Trust Lands that was delegated to the Governor as a member of the AISD Governing Council and for the Pueblo to reassume and reserve all of the Pueblo's governance authority over the SFIS Trust Lands.</text>
         <annotations>
           <annotation app="2017-11-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-040" eff="2017-11-23" path="" type="History"/>
+          <annotation app="2017-11-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-040" eff="2017-11-23" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1103,6 +1120,7 @@
         </para>
         <annotations>
           <annotation app="2017-11-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-040" eff="2017-11-23" path="" type="History"/>
+          <annotation app="2017-11-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-040" eff="2017-11-23" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1122,6 +1140,7 @@
         </para>
         <annotations>
           <annotation app="2017-11-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-040" eff="2017-11-23" path="" type="History"/>
+          <annotation app="2017-11-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-040" eff="2017-11-23" path="attachments|law|1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1137,6 +1156,7 @@
         </para>
         <annotations>
           <annotation app="2017-11-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-040" eff="2017-11-23" path="" type="History"/>
+          <annotation app="2017-11-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-040" eff="2017-11-23" path="attachments|law|1.6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1147,8 +1167,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-020"/>
       <annotation app="2018-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-020" eff="2018-09-07" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>2.3.10.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -1222,6 +1242,7 @@
         <text>This enactment shall be known as "APPROVING THE NORTH CENTRAL REGIONAL TRANSIT DISTRICT AMENDED INTERGOVERNMENTAL CONTRACT" ("Act")."</text>
         <annotations>
           <annotation app="2019-03-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-006" eff="2019-03-02" path="" type="History"/>
+          <annotation app="2019-03-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-006" eff="2019-03-02" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1245,6 +1266,7 @@
         </para>
         <annotations>
           <annotation app="2019-03-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-006" eff="2019-03-02" path="" type="History"/>
+          <annotation app="2019-03-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-006" eff="2019-03-02" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1253,6 +1275,7 @@
         <text>The purpose of this Act is to execute a new Amended Intergovernmental Contract to add the Village of Taos Ski Valley as a new member to the North Central Regional Transit District (NCRTD) and confirm the voting rights of each new member.</text>
         <annotations>
           <annotation app="2019-03-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-006" eff="2019-03-02" path="" type="History"/>
+          <annotation app="2019-03-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-006" eff="2019-03-02" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1277,6 +1300,7 @@
         </para>
         <annotations>
           <annotation app="2019-03-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-006" eff="2019-03-02" path="" type="History"/>
+          <annotation app="2019-03-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-006" eff="2019-03-02" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1296,6 +1320,7 @@
         </para>
         <annotations>
           <annotation app="2019-03-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-006" eff="2019-03-02" path="" type="History"/>
+          <annotation app="2019-03-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-006" eff="2019-03-02" path="attachments|law|1.5" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1306,8 +1331,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-013"/>
       <annotation app="2019-06-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-013" eff="2019-06-21" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>2.3.12.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -1367,6 +1392,79 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-013"/>
           <annotation app="2019-06-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-013" eff="2019-06-21" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.13</num>
+      <heading>Act Authorizing Signature of the Memorandum of Agreement Between the Pueblo de San Ildefonso and the Pueblo of Pojoaque for Law Enforcement Services</heading>
+      <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="" type="History"/>
+      <section>
+        <num>2.3.13.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACT AUTHORIZING SIGNATURE OF THE MEMORANDUM OF AGREEMENT BETWEEN THE PUEBLO DE SAN ILDEFONSO AND THE PUEBLO OF POJOAQUE FOR LAW ENFORCEMENT SERVICES" ("Act")."</text>
+        <annotations>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.3.13.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the Governor to sign the document entitled "Memorandum of Agreement Between the Pueblo de San Ildefonso and the Pueblo of Pojoaque For Law Enforcement Services" for additional law enforcement services when Bureau of Indian Affairs-Office of Justice Services ("BIA LES") is unable to quickly respond to service calls or provide routine patrols at the Pueblo de San Ildefonso ("Pueblo").</text>
+        <annotations>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.3.13.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo does not have a tribal police department and relies on the BIA LES as its primary law enforcement provider; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo often does not have adequate or timely law enforcement response to incidents occurring on the Pueblo because BIA LES also provides law enforcement services for two other Pueblos in northern New Mexico so that a BIA police officer may not be in close proximity to respond quickly to service calls at the Pueblo and BIA LES is often short-staffed; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo is very concerned about availability of police response during times of emergencies or unforeseen events as well as the absence of routine police presence to deter criminal activity within the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Pueblo has a need for additional police services when BIA LES may not be able to timely respond to service calls on the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo of Pojoaque operates its own tribal police department and is able and willing to provide police services to the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Council has determined that it is the best interests of the Pueblo to authorize signature of the Memorandum of Agreement with the Pueblo of Pojoaque to provide law enforcement services to the Pueblo.</text>
+        </para>
+        <annotations>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.3.13.040</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor is hereby authorized to sign a form of the Memorandum of Agreement Between the Pueblo de San Ildefonso and the Pueblo of Pojoaque For Law Enforcement Services attached hereto.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor is authorized make any minor technical non-substantive amendments to the Memorandum of Agreement document as may be necessary, provided that the Council is informed of such amendments.</text>
+        </para>
+        <annotations>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
     </container>

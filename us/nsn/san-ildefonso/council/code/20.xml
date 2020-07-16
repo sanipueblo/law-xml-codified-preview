@@ -7,14 +7,14 @@
     <prefix>Chapter</prefix>
     <num>20.1</num>
     <heading>Liquor</heading>
+    <annotations>
+      <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R15-004, dated March 29, 2015.</annotation>
+    </annotations>
+    <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
     <container>
       <prefix>Part</prefix>
       <num>20.1.1</num>
       <heading>Background</heading>
-      <annotations>
-        <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R15-004, dated March 29, 2015.</annotation>
-      </annotations>
-      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
       <section>
         <num>20.1.1.010</num>
         <heading>Findings</heading>
@@ -32,7 +32,6 @@
       </section>
       <section>
         <num>20.1.1.020</num>
-        <heading/>
         <text>Pueblo de San Ildefonso Tribal Council hereby enacts the attached law entitled "Pueblo de San Ildefonso Liquor Control Act of 2015."</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
@@ -40,7 +39,6 @@
       </section>
       <section>
         <num>20.1.1.030</num>
-        <heading/>
         <text>Any and all Tribal Council resolution or provisions in the Pueblo de San Ildefonso Law and Order Code which conflict in any way with the provisions of this Act are hereby repealed to the extent they are inconsistent with or conflict with or are contrary to the spirit and/or purpose of this Act.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
@@ -48,7 +46,6 @@
       </section>
       <section>
         <num>20.1.1.040</num>
-        <heading/>
         <text>Pueblo de San Ildefonso Liquor Control Act of 2015</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
@@ -63,19 +60,25 @@
         <num>20.1.2.010</num>
         <heading>Title.</heading>
         <text>This Act shall be known as the Pueblo de San Ildefonso Liquor Act.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.2.020</num>
         <heading>Purpose.</heading>
         <text>The purpose of the Pueblo de San Ildefonso Liquor Act is to regulate and control the sale, possession, and consumption of liquor within the Pueblo de San Ildefonso lands for the public health, safety, and welfare.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.2.030</num>
         <heading>Authority.</heading>
         <text>The Pueblo has enacted this Liquor Act in exercise of its inherent governmental authority over its lands and activities occurring thereon and in accordance with its governing Agreement, The Government, Section 5. Authority.  This Liquor Act is in conformance with the laws of New Mexico, as required by Federal law and 18 U.S.C. § 1161.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.2.040</num>
@@ -137,7 +140,9 @@
           <num>(n)</num>
           <text>"Tribal Court" means the trial court of the Pueblo.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.2.050</num>
@@ -190,7 +195,9 @@
           <num>(h)</num>
           <text>The Pueblo has the authority to suspend, revoke or terminate a Tribal liquor license for any violations arising from this Act or other Pueblo Criminal and Civil Code violations.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -205,19 +212,25 @@
           <num>(a)</num>
           <text>The Pueblo's convenience stores.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.3.020</num>
         <heading>Sales for Personal Use; Resale Prohibited.</heading>
         <text>All sales allowed by this Act shall be for personal use of the individual purchaser.  Such sales for personal non-commercial use must be in package form or by the drink.  Resale of any liquor by a person not licensed under this Act is prohibited.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.3.030</num>
         <heading>Right to Refuse Sale.</heading>
         <text>Any person authorized to sell liquor within the Pueblo shall have the authority to refuse to sell liquor to any person unable to produce proof of age and identity, or to any person who appears intoxicated.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.3.040</num>
@@ -239,7 +252,9 @@
           <num>(d)</num>
           <text>An official identification or tribal membership card issued by a federally recognized tribe.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.3.050</num>
@@ -253,7 +268,9 @@
           <num>(b)</num>
           <text>This prohibition does not pertain to liquor wholesalers selling, transporting or delivering liquor to a person licensed by the Pueblo to sell liquor, or to a location designated for the sale of liquor.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -308,7 +325,9 @@
           <num>(k)</num>
           <text>Any person who violates any other provision of this Act shall be guilty of a violation of this Act.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.4.020</num>
@@ -330,31 +349,41 @@
           <num>(d)</num>
           <text>To suspend, revoke or terminate a liquor license for any violations arising from this Act or other Pueblo Criminal and Civil Code violations.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.4.030</num>
         <heading>Civil Penalty.</heading>
         <text>Any person, purchasing, possessing, selling, delivering, bartering, or manufacturing liquor products in violation of any part of this Act, or of any rule or regulation adopted pursuant to this Act, shall be subject to a civil assessment of not more than five thousand dollars ($5,000) for each violation.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.4.040</num>
         <heading>Criminal Penalty.</heading>
         <text>In addition to civil penalties, a person may be subject to criminal prosecution by the Pueblo for the purchasing, possessing, selling, delivering, bartering, or manufacturing liquor products in violation of any part of this Act, or of any rule or regulation adopted pursuant to this Act.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.4.050</num>
         <heading>Exclusion.</heading>
         <text>For good and sufficient cause found, the Tribal Court may exclude from the Pueblo Lands any person who engages in an activity or activities prohibited by this Act to the extend such exclusion is not inconsistent with Pueblo law.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.4.060</num>
         <heading>Contraband.</heading>
         <text>Any liquor that is possessed contrary to the terms of this Act are declared to be contraband. Any tribal agent, employee or officer who is authorized by the Governor to enforce this Act shall have the authority to, and shall seize all contraband.  Any officer seizing contraband shall preserve the contraband in accordance with the applicable law of the Pueblo or state law.  Upon being found in violation of this Act by the Tribal Court, the person shall forfeit all right, title, and interest in the items seized and they shall become the property of the Pueblo.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -365,31 +394,41 @@
         <num>20.1.5.010</num>
         <heading>Effective Date.</heading>
         <text>This Act shall take effect upon the date of publication in the Federal Register by the Secretary of the Interior or the Secretary's designee.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.5.020</num>
         <heading>Repeal of Inconsistent Law or Provisions.</heading>
         <text>The Pueblo's Ordinance Legalizing the Introduction, Possession and Sale of Intoxicants, dated January 15, 1976 and published in the January 22, 1976 Federal Register is hereby repealed in its entirety.  Further, any and all Council resolutions, or provisions in the Pueblo de San Ildefonso Civil and Criminal Code, or other laws, which conflict in any way with the provisions of this Act are hereby repealed to the extent that they are inconsistent with or conflict with or are contrary to the spirit and/or purpose of this Act.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.5.030</num>
         <heading>Severability.</heading>
         <text>If any provision of this Act is found to be unconstitutional or unlawful by the Pueblo de San Ildefonso Tribal Courts or Federal Courts, such provision(s) shall be stricken and the remainder of this Act shall continue in full force and effect.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.5.040</num>
         <heading>Amendment.</heading>
         <text>The Council may amend this Act upon majority vote of the Council, subject to the publication in the Federal Register by the Secretary of the Interior or his designee.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
       <section>
         <num>20.1.5.050</num>
         <heading>Sovereign Immunity.</heading>
         <text>Nothing in this Act shall be construed as a waiver of sovereign immunity or rights of the Pueblo.</text>
-        <annotations/>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-004"/>
+        </annotations>
       </section>
     </container>
   </container>
