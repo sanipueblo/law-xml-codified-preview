@@ -14,10 +14,10 @@
     </canonical-urls>
     <build xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="9dce473f7f7b3c6b22e61e9bf604399400dc9c66"/>
+        <repository name="sanipueblo/law-xml" commit="6ac6dc585ab3d44bcafae90957bedc2ae4244425"/>
       </repositories>
       <platform version="2020.2.1" reproducible="true"/>
-      <build-date>2020-08-17</build-date>
+      <build-date>2020-08-24</build-date>
       <codified-date>2020-07-29</codified-date>
     </build>
   </meta>
