@@ -4362,6 +4362,59 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.3.22</num>
+      <heading>New Funding Budget Modification to Appropriate Matching Funds</heading>
+      <annotation app="2020-08-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-017" eff="2020-08-14" path="" type="History"/>
+      <section>
+        <num>6.3.22.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "NEW FUNDING BUDGET MODIFICATION TO APPROPRIATE MATCHING FUNDS ("NF #1")."</text>
+        <annotations>
+          <annotation app="2020-08-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-017" eff="2020-08-14" path="" type="History"/>
+          <annotation app="2020-08-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-017" eff="2020-08-14" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.22.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this budget modification is to appropriate matching funds to the CARES Act funds recently received from the federal government and to be taken from the Pueblo's investment funds in order to make an immediate distribution to all members of the Pueblo.</text>
+        <annotations>
+          <annotation app="2020-08-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-017" eff="2020-08-14" path="" type="History"/>
+          <annotation app="2020-08-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-017" eff="2020-08-14" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.22.030</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council approved the FY 2020-2021 Annual Budget starting on July 1, 2020; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council has determined that a modification to the FY 2020-2021 Annual Budget is necessary to appropriate matching funds from the Pueblo's investment funds to the CARES Act funds in order to use the matching funds to provide distributions directly to Members of the Pueblo to help address the economic hardships caused by the COVID-19 pandemic so long as all distributions are made exclusively from the matching funds; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The NF-1 budget modification shall be considered a modification to the FY 2020-2021 Annual Budget as matching funds to a new grant as permitted by the Governing Agreement at any time.</text>
+        </para>
+        <annotations>
+          <annotation app="2020-08-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-017" eff="2020-08-14" path="" type="History"/>
+          <annotation app="2020-08-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-017" eff="2020-08-14" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.22.040</num>
+        <heading>Budget Modification and Appropriation</heading>
+        <text>The Council hereby appropriates matching funds in the amount of $384,500 from the Pueblo's investment funds to the CARES Act funds received by the Pueblo in order to issue a distribution of $500 exclusively from such matching funds to each Member of the Pueblo who is enrolled as a member as of the effective date of this resolution.</text>
+        <annotations>
+          <annotation app="2020-08-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-017" eff="2020-08-14" path="" type="History"/>
+          <annotation app="2020-08-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-017" eff="2020-08-14" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -5955,7 +6008,7 @@
         <heading>Findings</heading>
         <para>
           <num>(a)</num>
-          <text>the Pueblo, by and through United States Public Laws 105-17 and 108-446, has contracted and administered key functions to the Pueblo through the Bureau of Indian Education to provide Early Childhood Education through the Individuals with Disabilities Education Act; and,</text>
+          <text>The Pueblo, by and through United States Public Laws 105-17 and 108-446, has contracted and administered key functions to the Pueblo through the Bureau of Indian Education to provide Early Childhood Education through the Individuals with Disabilities Education Act; and,</text>
         </para>
         <para>
           <num>(b)</num>
@@ -5977,7 +6030,7 @@
       </section>
       <section>
         <num>6.5.16.020</num>
-        <text>The Pueblo de San Ildefonso Council hereby approves amendment and extension of the existing Contract for the Infant and Toddler program for a three-year term ending June 30, 2022; and,</text>
+        <text>The Pueblo de San Ildefonso Council hereby approves amendment and extension of the existing Contract for the Infant and Toddler program for a three-year term ending June 30, 2022.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-044"/>
           <annotation app="2017-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-044" eff="2017-12-22" path="" type="History"/>

@@ -14,11 +14,11 @@
     </canonical-urls>
     <build xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="6ac6dc585ab3d44bcafae90957bedc2ae4244425"/>
+        <repository name="sanipueblo/law-xml" commit="53fb2f524f7e295c781659105bad29e7074f7b6a"/>
       </repositories>
-      <platform version="2020.2.1" reproducible="true"/>
-      <build-date>2020-08-24</build-date>
-      <codified-date>2020-07-29</codified-date>
+      <platform version="2020.2.3" reproducible="true"/>
+      <build-date>2020-10-22</build-date>
+      <codified-date>2020-09-30</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>

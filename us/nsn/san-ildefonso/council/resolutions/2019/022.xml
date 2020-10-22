@@ -273,7 +273,9 @@
       <num codify:value="18.1.6.050">1.4</num>
       <heading>Increase Cigarette Tax Rate</heading>
       <text>Section 18.01.06.050 of the Tax Act of 2013 is hereby amended as follows:</text>
-      <text>For the privilege of selling cigarettes on Pueblo lands, there is hereby levied a tax of $1.09 per pack of cigarettes sold by a retailer on Pueblo lands.</text>
+      <include>
+        <text>For the privilege of selling cigarettes on Pueblo lands, there is hereby levied a tax of $1.09 per pack of cigarettes sold by a retailer on Pueblo lands.</text>
+      </include>
       <codify:replace path="18.1.6.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="18.1.6.050">
         <section>
           <num>18.1.6.050</num>
