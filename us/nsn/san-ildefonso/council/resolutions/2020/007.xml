@@ -251,20 +251,20 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>ACT AUTHORIZING SIGNATURE OF AMENDED COST-SHARING AND SYSTEM INTEGRATION AGREEMENT</heading>
     <section>
-      <num>1.1</num>
       <codify:insert num-value="11.2.27.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.27.010"/>
+      <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT AUTHORIZING SIGNATURE OF AMENDED COST-SHARING AND SYSTEM INTEGRATION AGREEMENT ("Act")."</text>
     </section>
     <section>
-      <num>1.2</num>
       <codify:insert num-value="11.2.27.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.27.020"/>
+      <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Governor to sign the document entitled "Cost-Sharing and System Integration Agreement" ("CSSI Agreement") to establish, among other things, the federal and non-federal costs of constructing the Pojoaque Basin Regional Water System ("RWS").</text>
     </section>
     <section>
-      <num>1.3</num>
       <codify:insert num-value="11.2.27.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.27.030"/>
+      <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby declares that:</text>
       <para>
@@ -305,8 +305,8 @@
       </para>
     </section>
     <section>
-      <num>1.4</num>
       <codify:insert num-value="11.2.27.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.27.040"/>
+      <num>1.4</num>
       <heading>Authorizations</heading>
       <para>
         <num>(a)</num>

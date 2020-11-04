@@ -14,6 +14,9 @@
   <xi:include href="./007.xml"/>
   <xi:include href="./005.xml"/>
   <xi:include href="./004.xml"/>
+  <xi:include href="./003.xml"/>
+  <xi:include href="./002.xml"/>
+  <xi:include href="./001.xml"/>
   <subheading>Tabled Resolutions</subheading>
   <xi:include href="./006.xml"/>
 </collection>

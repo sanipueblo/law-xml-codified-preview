@@ -2494,4 +2494,87 @@
       </section>
     </container>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>17.3</num>
+    <heading>Business Authorizations</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.3.1</num>
+      <heading>Act Authorizing Assessment of Areas for Potential Warehouse and Distribution Center</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003"/>
+      <section>
+        <num>17.3.1.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACT AUTHORIZING ASSESSMENT OF AREAS FOR POTENTIAL WAREHOUSE AND DISTRIBUTION CENTER ("Act")."</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" type="History"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.3.1.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the assessment of areas within the Pueblo de San Ildefonso lands for potential siting of a warehouse and distribution center for Los Alamos National Laboratory ("LANL") operations.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" type="History"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.3.1.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo has been approached by the Department of Energy/NNSA about developing a warehouse and distribution center for the LANL operations on Pueblo lands; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo representatives have toured the existing distribution center on the LANL property and received preliminary information about the general requirements for such a facility; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo has identified two potential areas within the Pueblo's lands that may be suitable for such a project; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The potential project sites are at the White Rock and Totavi Station areas as shown on Attachment A and Attachment B, and an area in the vicinity of State Road 502 and CMR 101D as shown on Attachment C, hereto; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council has determined it is in the Pueblo's best interest to authorize that each of the identified areas be assessed to determine if either site is suitable for a warehouse and distribution center.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" type="History"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.3.1.040</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council authorizes the assessment of White Rock, Totavi Station and the State Road 502 areas to determine suitability for siting a warehouse and distribution center and/or other facilities for use by DOE/NNSA for LANL operations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor is authorized to initiate the assessment of the identified areas and work with such entities such as San Ildefonso Services, LLC, DOE/NNSA and others as necessary to conduct the required due diligence for this project and report to the Council on the status of the assessment.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Governor is authorized to take such actions as he deems necessary to carry out the intent and direction of this Act.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" type="History"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" type="History"/>
+  </container>
 </container>
