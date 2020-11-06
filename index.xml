@@ -10,14 +10,15 @@
       <xml-bulk>https://github.com/sanipueblo/law-xml</xml-bulk>
       <html-bulk>https://github.com/sanipueblo/law-html</html-bulk>
       <html>https://law.sanipueblo.org</html>
+      <static-assets>https://github.com/sanipueblo/law-static-assets</static-assets>
     </canonical-urls>
     <history-start>2017-04-19</history-start>
-    <build xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="a196a7333818d442882b10a664c01766f3389350"/>
+        <repository name="sanipueblo/law-xml" commit="5e9fcf85117f29bd5e001890abb1ea44870301e5"/>
       </repositories>
-      <platform version="2020.2.3" reproducible="true"/>
-      <build-date>2020-11-04</build-date>
+      <platform version="2.0.0" reproducible="true"/>
+      <build-date>2020-11-06</build-date>
       <codified-date>2020-09-30</codified-date>
     </build>
   </meta>

@@ -2356,7 +2356,7 @@
           <annotation app="2020-09-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-019" eff="2020-09-30" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
         <reason>Repealed</reason>
         <num>17.2.21.050</num>
         <heading>Authorization of Funding</heading>
