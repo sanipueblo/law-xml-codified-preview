@@ -1269,6 +1269,95 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.4.6</num>
+      <heading>Quarantine and Safe House Property Purchase Authorization Act</heading>
+      <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-020" eff="2020-10-28" path="" type="History"/>
+      <section>
+        <num>24.4.6.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "QUARANTINE AND SAFE HOUSE PROPERTY PURCHASE AUTHOROZATION ACT" ("Act").</text>
+        <annotations>
+          <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-020" eff="2020-10-28" path="" type="History"/>
+          <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-020" eff="2020-10-28" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.4.6.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this act is to authorize the Governor to purchase a real property for a quarantine house and/or safe house in the El Rancho area to protect citizens of the Pueblo who are facing the public health emergency caused by the Coronavirus Disease 2019 ("COVID-19") pandemic and to authorize the use of the CARES Act funds and other available funds appropriated for such purposes.</text>
+        <annotations>
+          <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-020" eff="2020-10-28" path="" type="History"/>
+          <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-020" eff="2020-10-28" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.4.6.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Coronavirus Disease 2019 (COVID-19) has created a public health emergency that threatens the health and safety of the citizens of the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Health experts recommend that individuals who contact or are exposed to COVID-19, quarantine away from others for at least fourteen days or for a longer period of time as may be medically necessary to reduce the possibility of further transmission of the disease; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Many of the households at the Pueblo include multi-generational families so that an individual who has been exposed to COVID-19 or who has contracted COVID-19 will put other household members at risk due to the inability to adequately isolate and the use of shared facilities by all household members; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Due to the risks of community spread of the COVID-19, the Pueblo has been forced to issue stay-at-home orders and other similar protocols that may increase tensions among family and household members and may also increase domestic violence; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>On March 27, 2020, the federal government enacted the CARES Act to provide new funds to States, Indian tribes, and others to help pay for costs and expenses caused by COVID-19 including allowances for the costs of a quarantine house and/or safe house, and the Pueblo received its share of the CARES Act funds; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The current approved Annual Budget of the Pueblo does not include funds for the purchase of a quarantine house and/or safe house to address the critical health and safety issues caused by the COVID-19 pandemic; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The purchase of property in the El Rancho area, which is located within the Pueblo's Territory, will allow family members of individuals who are staying at the quarantine 	house and/or safe house to be nearby, which will help individuals who are experiencing health and safety issues and will ensure compliance with health protocols issued by the Pueblo for the safety of all citizens; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Due to the 2020 deadline for the Pueblo to expend CARES Act funds, it is not feasible for the Pueblo to design and construct a quarantine house or safe house, and the need for a move-in ready home for citizens in need of immediate care and health services is paramount; and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Recently the owner of a home in the El Rancho area contacted the Pueblo about a proposed sale of her home (the "Stover Property") and the problems she has experienced obtaining clear title to her home due to an alleged encroachment of a portion of the home onto the Pueblo property; and</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Council has determined that it is in the best interest of the Pueblo to authorize the Governor to negotiate and execute an agreement for the purchase of the Stover Property and/or similar property at or near fair market value for the purpose of providing a quarantine house and/or safe house for the citizens of the Pueblo.</text>
+        </para>
+        <annotations>
+          <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-020" eff="2020-10-28" path="" type="History"/>
+          <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-020" eff="2020-10-28" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.4.6.040</num>
+        <heading>Contract Authorization</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes the Governor to negotiate and execute a contract or contracts for the purchase of real property in the El Rancho area, including but not limited to the Stover Property, to be utilized as a quarantine house and/or a safe house for citizens of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council hereby authorizes the Governor to utilize CARES Act funds and other available funds appropriated for the purchase of real property under this Act.</text>
+        </para>
+        <annotations>
+          <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-020" eff="2020-10-28" path="" type="History"/>
+          <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-020" eff="2020-10-28" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1419,24 +1508,26 @@
     <container>
       <prefix>Part</prefix>
       <num>24.5.2</num>
-      <heading>Property Management Contract Authorization Act</heading>
+      <heading>First Amendment to the Property Management Contract Authorization Act</heading>
       <annotation app="2019-01-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-001" eff="2019-01-30" path="" type="History"/>
       <section>
         <num>24.5.2.010</num>
         <heading>Short Title</heading>
-        <text>This enactment shall be known as the, "PROPERTY MANAGEMENT CONTRACT AUTHORIZATION ACT" ("Act").</text>
+        <text>This enactment shall be known as the "FIRST AMENDMENT TO THE PROPERTY MANAGEMENT CONTRACT AUTHORIZATION ACT" ("Act").</text>
         <annotations>
           <annotation app="2019-01-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-001" eff="2019-01-30" path="" type="History"/>
           <annotation app="2019-01-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-001" eff="2019-01-30" path="attachments|law|1.1" type="History"/>
+          <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-021" eff="2020-10-28" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>24.5.2.020</num>
         <heading>Purpose</heading>
-        <text>The purpose of this Act is to authorize the Governor to hire the Northern Pueblo Housing Authority ("NPHA") to provide property management services for three homes owned by the Pueblo and for other property that may be added to the Pueblo's inventory from time to time.</text>
+        <text>The purpose of this Act is to authorize the Governor to hire a property management company to provide property management services for homes owned by the Pueblo and for other property that may be added to the Pueblo's inventory from time to time.</text>
         <annotations>
           <annotation app="2019-01-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-001" eff="2019-01-30" path="" type="History"/>
           <annotation app="2019-01-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-001" eff="2019-01-30" path="attachments|law|1.2" type="History"/>
+          <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-021" eff="2020-10-28" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1445,31 +1536,20 @@
         <text>The Council hereby finds and declares that:</text>
         <para>
           <num>(a)</num>
-          <text>The Governor has identified three homes owned by the Pueblo that could be leased to generate income, as long as the Pueblo provides property management services including home repair, maintenance, and administration of the landlord-tenant relationship; and</text>
+          <text>The Governor has identified homes owned by the Pueblo that could be leased to generate income, as long as the Pueblo provides property management services including home repair, maintenance, and administration of the landlord-tenant relationship; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The Pueblo has authorized the Northern Pueblo Housing Authority ("NPHA") to operate and manage its housing programs resulting in a long-standing, successful relationship between the Pueblo and NPHA; and</text>
+          <text>The homes identified by the Governor are currently vacant, but with minor repairs and normal home maintenance, these homes could become desirable rental properties for qualified tenants, thereby generating significant income for the Pueblo; and</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>The three homes identified by the Governor are currently vacant but with minor repairs and normal home maintenance, these homes could become desirable rental properties for qualified tenants, thereby generating significant income for the Pueblo; and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>The NPHA currently provides certain property management services for the Pueblo primarily relating to federally-funded HUD programs and related services; and</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The NPHA has substantial experience providing property management services to the Pueblo, and is uniquely familiar with the laws and practices of the Pueblo; and</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>The Council has determined that it is in the best interest of the Pueblo to authorize the Governor to hire NPHA to provide property management services for the three homes identified by the Governor and for any other homes or property that may be added to the Pueblo's inventory from time to time, and to authorize the Governor to contract with NPHA for related renovation and rehabilitation services.</text>
+          <text>The Council has determined that it is in the best interest of the Pueblo to authorize the Governor to hire a property management company to provide property management services for the homes identified by the Governor and for any other homes or property that may be added to the Pueblo's inventory from time to time, and to authorize the Governor to contract with vendors for related renovation and rehabilitation services.</text>
         </para>
         <annotations>
           <annotation app="2019-01-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-001" eff="2019-01-30" path="" type="History"/>
           <annotation app="2019-01-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-001" eff="2019-01-30" path="attachments|law|1.3" type="History"/>
+          <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-021" eff="2020-10-28" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1477,15 +1557,16 @@
         <heading>Contract Authorization</heading>
         <para>
           <num>(a)</num>
-          <text>The Council hereby authorizes the Governor to negotiate and execute a contract, on a sole-source basis, with NPHA for property management services in substantially the same form as the standard, 8-page Realtors Association of New Mexico Property Management Agreement – Residential (attached hereto), with the express recognition of the need to address and/or modify the provisions governing choice of law and the application of New Mexico law.</text>
+          <text>The Council hereby authorizes the Governor to negotiate and execute a contract with a property management company for property management services in substantially the same form as the standard, 8-page Realtors Association of New Mexico Property Management Agreement – Residential (attached hereto), with the express recognition of the need to address and/or modify the provisions governing choice of law and the application of New Mexico law.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The Council hereby authorizes the Governor to negotiate and execute a contract, on a sole-source basis, with NPHA for property renovation and rehab services for designated properties under management by NPHA subject to an appropriation of funds for such purposes; provided, that the Governor shall approve all renovation and rehab services prior to the initiation of such services.</text>
+          <text>The Council hereby authorizes the Governor to negotiate and execute a contract with a property management company, and/or another company or companies, for property management, property renovation, and property rehabilitation services for properties designated by the Governor subject to an appropriation of funds for such purposes; provided, that the Governor shall approve all renovation and rehabilitation services prior to the initiation of such services.</text>
         </para>
         <annotations>
           <annotation app="2019-01-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-001" eff="2019-01-30" path="" type="History"/>
           <annotation app="2019-01-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-001" eff="2019-01-30" path="attachments|law|1.4" type="History"/>
+          <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-021" eff="2020-10-28" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
     </container>
