@@ -3,6 +3,12 @@
   <heading>Pueblo de San Ildefonso Code</heading>
   <meta>
     <effective>0001-01-02</effective>
+    <print>
+      <volumes>
+        <volume start="1"/>
+        <volume start="12"/>
+      </volumes>
+    </print>
     <recency through="2020-12-30">
       <doc id="Pueblo de San Ildefonso Council Res. No. SI-R20-028" type="resolution"/>
     </recency>
