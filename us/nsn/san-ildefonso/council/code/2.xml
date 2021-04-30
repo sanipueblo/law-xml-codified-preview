@@ -1468,6 +1468,84 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.14</num>
+      <heading>Authorization of Non-Disclosure Agreements with PNM and Waiver of Sovereign Immunity Act of 2021</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001"/>
+      <annotation app="2021-03-26" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001" eff="2021-03-26" path="" type="History"/>
+      <section>
+        <num>2.3.14.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "AUTHORIZATION OF NON-DISCLOSURE AGREEMENTS WITH PNM AND WAIVER OF SOVEREIGN IMMUNITY ACT OF 2021".</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001"/>
+          <annotation app="2021-03-26" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001" eff="2021-03-26" path="" type="History"/>
+          <annotation app="2021-03-26" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001" eff="2021-03-26" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.3.14.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this act is to authorize the Governor to negotiate and sign a non-disclosure agreement with PNM for a particular project and to approve a waiver of the Pueblo's sovereign immunity for enforcement of that non-disclosure agreement if required, subject to specific requirements as contained in this Act.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001"/>
+          <annotation app="2021-03-26" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001" eff="2021-03-26" path="" type="History"/>
+          <annotation app="2021-03-26" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001" eff="2021-03-26" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.3.14.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso possesses sovereign immunity from suit and the Council is authorized to decide by law how the Pueblo's sovereign immunity may be waived and in what courts suit may be brought against the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo has a business relationship with PNM, an electricity provider, and works with PNM on various projects; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>there are times when PNM may require a non-disclosure agreement in order to engage in sensitive or confidential business discussions about a project with the Pueblo and those types of agreements may contain a requirement that the Pueblo waive its sovereign immunity from suit in order to enforce the terms of the non-disclosure agreement; and,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>it is in the best interest of the Pueblo to authorize the Governor to negotiate and sign any required non-disclosure agreement with PNM for a particular project and to waive the Pueblo's sovereign immunity for enforcement of that non-disclosure agreement with PNM, subject to specific requirements set out in this Act.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001"/>
+          <annotation app="2021-03-26" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001" eff="2021-03-26" path="" type="History"/>
+          <annotation app="2021-03-26" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001" eff="2021-03-26" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.3.14.040</num>
+        <heading>Authorization</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes the Governor to negotiate and sign a non-disclosure agreement with PNM for a particular project.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor is authorized to waive the Pueblo's sovereign immunity from suit in order to enforce the terms of a non-disclosure agreement with PNM subject to the following requirements:</text>
+          <para>
+            <num>(1)</num>
+            <text>The waiver shall identify the parties or parties for whose benefit the waiver is granted, the transaction or transactions and the claims or class of claims for which the waiver is granted, the court or courts in which suit against the Pueblo may be brought, that the waiver is limited to equitable relief and/or actual damages, and any other limitations or restrictions on relief.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Governor shall notify the Council when the Governor has signed a waiver of the Pueblo's sovereign immunity pursuant to this Act.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001"/>
+          <annotation app="2021-03-26" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001" eff="2021-03-26" path="" type="History"/>
+          <annotation app="2021-03-26" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-001" eff="2021-03-26" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
