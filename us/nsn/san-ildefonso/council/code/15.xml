@@ -528,6 +528,113 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.5</num>
+      <heading>Northern Pueblo Housing Authority Evaluation Act of 2021</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004"/>
+      <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004" eff="2021-05-03" path="" type="History"/>
+      <section>
+        <num>15.1.5.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "NORTHERN PUEBLOS HOUSING AUTHORITY EVALUATION ACT OF 2021".</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004" eff="2021-05-03" path="" type="History"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004" eff="2021-05-03" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.5.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of the NPHA Evaluation Act is to authorize and direct the completion of a comprehensive study, evaluation, and analysis of the current funding and management of the Northern Pueblo Housing Authority ("NPHA") including options for improving the operation and delivery of housing programs and services.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004" eff="2021-05-03" path="" type="History"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004" eff="2021-05-03" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.5.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo currently contracts with the NPHA to operate, manage, and administer housing programs and services for the Pueblo, including receiving and expending federal grant funds on behalf of the Pueblo as a third-party contractor; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>NPHA has experienced a number of detrimental events in the last several years including a high turnover rate in senior management positions and inadequate financial practices; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>NPHA has previously consisted of multiple northern Pueblos; however, NPHA currently</text>
+          <text>consists of only two member Pueblos; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The administrative efficiencies of having multiple Pueblos sharing the costs of administrative functions has largely been lost by the departure of other member Pueblos from NPHA; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council desires to study and evaluate the current funding and operations of the NPHA to determine the best method to provide housing programs and services to the citizens of the Pueblo, including whether to make any modifications to the structure, scope, and delivery of housing programs and services.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004" eff="2021-05-03" path="" type="History"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004" eff="2021-05-03" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.5.040</num>
+        <heading>NPHA Report of 2021</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes and directs the Governor, the Administrator, the Housing Committee or a designee, to conduct a written, comprehensive review, evaluation, and analysis of the current programs and services provided by NPHA and related issues ("NPHA Report of 2021").</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The NPHA Report of 2021 shall include the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>The evaluation of the operation and delivery of housing programs and services provided to the Pueblo by NPHA;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An evaluation of the management and staffing of NPHA including the status of the Board of Directors;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The types and amounts of funding received by NPHA on behalf of the Pueblo for housing services to the Pueblo;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The financial status of NPHA including current financial statements and practices, and the status of required financial audits;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The process to modify the current arrangement with NPHA or for dissolution of the corporation;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>An evaluation of the funding requirements for the Pueblo to operate a minimum housing program including likely available grant funding and any unmet financial obligations;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Any other observations and recommendations to assist the Council in evaluating the delivery of housing services by NPHA including methods to improve the delivery, type, and scope of services.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The NPHA Report of 2021 shall be completed and delivered to the Council within sixty (60) days of the effective date of the NPHA Evaluation Act.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004" eff="2021-05-03" path="" type="History"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-004" eff="2021-05-03" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>

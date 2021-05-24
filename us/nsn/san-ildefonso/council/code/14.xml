@@ -219,5 +219,107 @@
         <annotations/>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>14.1.3</num>
+      <heading>Senior Center Act and the Evaluation of Services and Funding Administered by the Eight Northern Indian Pueblos Council, Inc.</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006"/>
+      <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006" eff="2021-05-03" path="" type="History"/>
+      <section>
+        <num>14.1.3.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "SENIOR CENTER ACT".</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006" eff="2021-05-03" path="" type="History"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006" eff="2021-05-03" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>14.1.3.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this act is to authorize and direct the completion of a comprehensive study, evaluation, and analysis of the current funding and management of the Senior Center ("Senior Center") including options for improving the delivery of services.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006" eff="2021-05-03" path="" type="History"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006" eff="2021-05-03" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>14.1.3.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo currently contract with the Eight Northern Indian Pueblos Council, Inc. ("ENIPC") to operate the Senior Center and to provide services to seniors; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>ENIPC receives certain federal and state funds on behalf of the Pueblo to pay for the operation and management of the Senior Center, including hiring and directing the Site Manager for the Senior Center; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Governor and Council Representatives have received requests from members of the Pueblo to evaluate the quality and delivery of services at the Senior Center provided by ENIPC, including the improvement of services and whether the Pueblo should continue to contract with ENIPC to operate the Senior Center; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council desires to study and evaluate the current funding and management of the Senior Center prior to any decision to modify the current arrangement with ENIPC.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006" eff="2021-05-03" path="" type="History"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006" eff="2021-05-03" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>14.1.3.040</num>
+        <heading>Senior Center Report of 2021</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes and directs the Governor and the Director of Health and Human Services, Elderly Services Committee, or a designee, to conduct a written, comprehensive review, evaluation, and analysis of the current programs and services provided at the Senior Center by the ENIPC and related issues ("Senior Center Report of 2021").</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Senior Center Report shall include the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>An evaluation of the operation of the Senior Center by ENIPC including the current programs and services;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An evaluation of the management and staffing of the Senior Center by ENIPC including the selection and supervision of the Site Manager by ENIPC;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The types and amounts of funding received by ENIPC on behalf of the Pueblo to operate Senior Center;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The administrative fees charged by ENIPC to operate the Senior Center;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The process to modify or cancel the current arrangement with ENIPC as the contractor that operated the Senior Center including whether incremental steps could be taken to move towards a Senior Center that is operated, managed, and administered by the Pueblo;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>An evaluation of the funding requirements to operate the Senior Center and the funding necessary to provide improved and/or expanded services;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Any other observations and recommendations to assist the Council in evaluating delivery of services by ENIPC at the Senior Center including methods to improve the delivery, type, and scope of services.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Senior Center Report of 2021 shall be completed and delivered to the Council within sixty (60) days of the effective date of the Senior Center Act.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006" eff="2021-05-03" path="" type="History"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006" eff="2021-05-03" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
 </container>
