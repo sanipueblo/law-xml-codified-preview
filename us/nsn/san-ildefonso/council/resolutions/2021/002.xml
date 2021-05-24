@@ -331,7 +331,7 @@
     <text class="center">
       <strong>PUEBLO DE SAN ILDEFONSO</strong>
     </text>
-    <heading type="law">ACKNOWLEDGEMENT OF SIS LLC'S NON-DISCLOSURE OF CLASSIFIED INFORMATION AND/OR SPECIAL NUCLEAR MATERIAL</heading>
+    <heading>ACKNOWLEDGEMENT OF SIS LLC'S NON-DISCLOSURE OF CLASSIFIED INFORMATION AND/OR SPECIAL NUCLEAR MATERIAL</heading>
     <section>
       <num>1.1</num>
       <codify:insert num-value="2.3.15.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.15.010"/>

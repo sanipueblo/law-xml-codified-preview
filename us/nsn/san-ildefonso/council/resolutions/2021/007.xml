@@ -451,7 +451,7 @@
   <attachment id="law">
     <codify:insert path="6.3.23" num-value="6.3.23.040" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.23.040"/>
     <num/>
-    <heading type="law" codify:value="Authorization for Fiscal Year 2020-2021 Budget Modification No. 1">
+    <heading codify:value="Authorization for Fiscal Year 2020-2021 Budget Modification No. 1">
       AUTHORIZATION FOR FISCAL YEAR 2020-2021 BUDGET MODIFICATION NO. 1
     </heading>
     <para>
