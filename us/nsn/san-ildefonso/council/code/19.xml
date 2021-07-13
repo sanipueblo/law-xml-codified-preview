@@ -2706,9 +2706,14 @@
           <num>(f)</num>
           <text>the Council has determined that it is the best interest of the Pueblo to authorize and direct an immediate distribution of discretionary funds to all members of the Pueblo to address the immediate economic hardships caused by the COVID-19 pandemic.</text>
         </para>
+        <para>
+          <num>(g)</num>
+          <text>Due to the ongoing effects of the COVID-19 pandemic, the Council has determined that it is in the best interest of the Members of the Pueblo to authorize and direct a one-time distribution to begin in June 2021 to members of the Pueblo with a financial incentive to encourage all Members of the Pueblo to obtain a COVID-19 vaccination.</text>
+        </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-001"/>
           <annotation app="2020-08-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-016" eff="2020-08-14" path="attachments|law|1.3" type="History"/>
+          <annotation app="2021-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-009" eff="2021-05-27" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2730,9 +2735,26 @@
           <num>(d)</num>
           <text>The Governor is hereby authorized and directed to issue an immediate distribution of funds in an equal amount to all members of the Pueblo from the line item designated for such purposes in the current 2020-2021 Annual Budget.</text>
         </para>
+        <para>
+          <num>(e)</num>
+          <text>The Governor is hereby authorized and directed to issue a one-time distribution of available funds to members of the Pueblo as follows:</text>
+          <para>
+            <num>(i)</num>
+            <text>Tribal Members enrolled as of April 30, 2021 who are age 15 or younger shall receive $500 distribution;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Tribal Members enrolled as of April 30, 2021 who are over the age of 15 shall receive a $400 distribution;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Tribal Members enrolled as of April 30, 2021 <u>who are over the age of 15</u>, who have been fully vaccinated and who submit a copy of their CDC vaccination card shall receive an additional $100 distribution; provided, that the deadline for submitting a copy of a CDC vaccination card is September 30, 2021.</text>
+          </para>
+        </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-001"/>
           <annotation app="2020-08-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-016" eff="2020-08-14" path="attachments|law|1.4" type="History"/>
+          <annotation app="2021-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-009" eff="2021-05-27" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2811,5 +2833,95 @@
       </section>
     </container>
     <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+    <container>
+      <prefix>Part</prefix>
+      <num>19.5.2</num>
+      <heading>Master Land Use Plan Authorization Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012"/>
+      <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="" type="History"/>
+      <section>
+        <num>19.5.2.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "MASTER LAND USE PLAN AUTHORIZATION ACT."</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012"/>
+          <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.5.2.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize and direct the completion of a Master Land Use Plan to identify and analyze the Pueblo's lands, including existing and proposed uses, in order to make well-informed land use decisions.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012"/>
+          <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.5.2.030</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The population of the Pueblo is increasing putting pressure on existing land uses including the need for additional land for housing, economic development, and other purposes; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo has some land parcels available that could be utilized for new housing and other purposes; however, these land parcels often lack adequate infrastructure; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo has issued land assignments to members of the Pueblo initially for farming purposes although some members and their descendants have utilized or desire to utilize their land assignments for non-farming purposes; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Many years ago, the Pueblo completed a Land Use Plan that began to analyze the current and proposed future uses of the Pueblo's lands; however, the Plan was incomplete, flawed, and is now outdated; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo finds the need to identify lands that are available for economic development, housing, and other purposes while taking into account the impacts any development will likely have on neighboring lands, existing land uses, the natural environment, culturally- sensitive areas, aesthetics, infrastructure, utilities, and the overall policies established by the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo has identified the need to commission a new, comprehensive, Master Land Use Plan to professionally study and analyze the Pueblo's lands, including existing and proposed uses, in order to make well-informed decisions regarding the current and future land uses and zoning.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012"/>
+          <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.5.2.040</num>
+        <heading>Master Land Use Plan</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes and directs the Governor to negotiate and execute a contract or contracts to engage professional services to conduct and complete a Master Land Use Plan for the Pueblo including necessary services to assist with the preparation of a professional Request for Proposal for the Master Land Use Plan contractor; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Master Land Use Plan shall include an up-to-date and comprehensive analysis of the lands held by the Pueblo, and shall include recommendations for land preservation and conservation, housing development, and economic development activities; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Master Land Use Plan shall include an analysis of current land uses, current land policies and practices, proposed land uses, rights-of-way, easements, public property, private property interests including leases and assignments, and any zoning or similar requirements; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Governor shall notify the Council of the estimated cost of contracting for the Master Land Use Plan. The Council hereby authorizes up to $100,000 for the completion of the Master Land Use Plan, subject to an appropriation of funds in the Annual Budget or in a Budget Modification.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012"/>
+          <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
 </container>
