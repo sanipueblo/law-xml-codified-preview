@@ -9,8 +9,8 @@
         <volume start="12"/>
       </volumes>
     </print>
-    <recency through="2021-07-29">
-      <doc id="Pueblo de San Ildefonso Council Res. No. SI-R21-017" type="resolution"/>
+    <recency through="2021-08-30">
+      <doc id="Pueblo de San Ildefonso Council Res. No. SI-R21-018" type="resolution"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
