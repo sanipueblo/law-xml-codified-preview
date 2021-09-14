@@ -8,6 +8,7 @@
   <xi:include href="./028.xml"/>
   <xi:include href="./027.xml"/>
   <xi:include href="./026.xml"/>
+  <xi:include href="./025.xml"/>
   <xi:include href="./024.xml"/>
   <xi:include href="./023.xml"/>
   <xi:include href="./021.xml"/>
@@ -28,6 +29,4 @@
   <xi:include href="./003.xml"/>
   <xi:include href="./002.xml"/>
   <xi:include href="./001.xml"/>
-  <subheading>Tabled Resolutions</subheading>
-  <xi:include href="./025.xml"/>
 </collection>
