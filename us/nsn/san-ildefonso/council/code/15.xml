@@ -932,6 +932,67 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.7</num>
+      <heading>Northern Pueblos Housing Authority Orderly Dissolution Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-020"/>
+      <annotation app="2021-09-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-020" eff="2021-09-17" path="" type="History"/>
+      <section>
+        <num>15.1.7.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "NORTHERN PUEBLOS HOUSING AUTHORITY ORDERLY DISSOLUTION ACT."</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-020"/>
+          <annotation app="2021-09-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-020" eff="2021-09-17" path="" type="History"/>
+          <annotation app="2021-09-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-020" eff="2021-09-17" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.7.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize and direct an orderly dissolution of the NPHA in order to establish a Tribally Designated Housing Entity ("THDE") that serves the housing needs of the Pueblo.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-020"/>
+          <annotation app="2021-09-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-020" eff="2021-09-17" path="" type="History"/>
+          <annotation app="2021-09-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-020" eff="2021-09-17" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.7.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo contracts with the Northern Pueblos Housing Authority (NPHA) to operate, manage, and administer housing programs and services for the Pueblo, including receiving and expending federal grant funds on behalf of the Pueblo as a third-party contractor; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>NPHA has experienced many detrimental events in the last several years including a high turnover in senior management positions, non-compliance with the requirements of the Indian Housing Block Grant (IHBG), failure to implement key activities identified in the Pueblo's Indian Housing Plan (IHP); and poor performance resulting in the withdrawal of a kay partner Pueblo; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>NPHA has previously consisted on multiple northern Pueblos, however, NPHA currently consists of two Member Pueblos and the administrative and cost-sharing benefits of the organization have largely been lost by the departure of the other Member Pueblos from NPHA; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council has authorized and reviewed the "NPHA Report of 2021" which found that NPHA cannot provide the Pueblo with assurances about if, how, or when the organization might regain the capacities of a full-service TDHE; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council determines that the housing needs of the Pueblo can be best met through the establishment of a TDHE managed by the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Tribal Council wishes to implement an orderly transition out of NPHA into a fully operational TDHE managed by the Tribe that only serves the needs of Pueblo.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-020"/>
+          <annotation app="2021-09-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-020" eff="2021-09-17" path="" type="History"/>
+          <annotation app="2021-09-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-020" eff="2021-09-17" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>

@@ -7986,6 +7986,95 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.5.32</num>
+      <heading>Sewer System Regulations Authorizations Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021"/>
+      <annotation app="2021-10-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021" eff="2021-10-01" path="" type="History"/>
+      <section>
+        <num>6.5.32.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "SEWER SYSTEM REGULATIONS AUTHORIZATIONS ACT."</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021"/>
+          <annotation app="2021-10-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021" eff="2021-10-01" path="" type="History"/>
+          <annotation app="2021-10-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021" eff="2021-10-01" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.5.32.020</num>
+        <heading>Purpose</heading>
+        <text>The Purpose of this Act is to authorize regulations pertaining to the operation and services for the Pueblo's sewer system.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021"/>
+          <annotation app="2021-10-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021" eff="2021-10-01" path="" type="History"/>
+          <annotation app="2021-10-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021" eff="2021-10-01" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.5.32.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Act" means the "Sewer System Regulations Authorization Act.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"USDA-RD" means the United States Department of Agriculture – Rural Development.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021"/>
+          <annotation app="2021-10-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021" eff="2021-10-01" path="" type="History"/>
+          <annotation app="2021-10-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021" eff="2021-10-01" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.5.32.040</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo has received a grant for infrastructure improvement from the USDA-RD; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the USDA-RD requires that the Pueblo have regulations in place relating to the sewer system operations and service as part of the grant requirements; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the Council reviewed and considered the attached Sewer System Regulations and has determined it is in the best interests of the Pueblo to authorize the Governor to adopt the proposed regulations in the same or similar form; and</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021"/>
+          <annotation app="2021-10-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021" eff="2021-10-01" path="" type="History"/>
+          <annotation app="2021-10-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021" eff="2021-10-01" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.5.32.050</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes the Governor to promulgate and adopt Sewer System</text>
+          <text>regulations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor is authorized to promulgate modifications to the regulations as may be</text>
+          <text>needed for USDA-RD approval.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021"/>
+          <annotation app="2021-10-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021" eff="2021-10-01" path="" type="History"/>
+          <annotation app="2021-10-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-021" eff="2021-10-01" path="attachments|law|1.5" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -9692,6 +9781,54 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-003"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.7.1.070</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "PERSONNEL POLICY MANUAL APPROVAL ACT OF 2021."</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-003"/>
+          <annotation app="2021-11-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-024" eff="2021-11-05" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.7.1.080</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to approve amendments to the Personnel Policy Manual.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-003"/>
+          <annotation app="2021-11-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-024" eff="2021-11-05" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.7.1.090</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>In 2012, the Council reaffirmed the Personnel Policy Manual that had existed for many years to govern the employment practices of the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2017, the Council enacted the Personnel Policy Manual Clarification Act to, again, reaffirm the existing Personnel Policy Manual, and to clarify that the Council is vested with the authority to approve any future modifications to the Manual and that the Governor is prohibited from making changes to the Manual by Executive Order; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Governor and Council have identified the need to make improvements to the Personnel Policy Manual, and over the course of several years, proposed modifications to the Manual have been developed, circulated, and reviewed by multiple officials of the Pueblo.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-003"/>
+          <annotation app="2021-11-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-024" eff="2021-11-05" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.7.1.100</num>
+        <heading>Approval</heading>
+        <text>The Council hereby approves and enacts the attached Personnel Policy Manual.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-003"/>
+          <annotation app="2021-11-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-024" eff="2021-11-05" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
     </container>
