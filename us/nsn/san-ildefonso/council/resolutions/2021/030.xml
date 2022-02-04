@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R21-030" codify:doc="Pueblo de San Ildefonso Code" codify:path="15.1">
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R21-030" codify:doc="Pueblo de San Ildefonso Code">
   <num>SI-R21-030</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-030</heading>
   <heading type="law">Housing Authority Act Amendment</heading>
@@ -281,7 +281,8 @@
         <num>(c)</num>
         <text>Qualifications of Commissioners.</text>
         <para>
-          <num>3.</num>
+          <codify:insert path="15.1.8.060|(c)" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.060|(c)|(3)"/>
+          <num codify:value="(3)">3.</num>
           <text>"Board members shall not be convicted felons. Candidates for Board Member positions shall be subject to a background check."</text>
         </para>
       </para>
