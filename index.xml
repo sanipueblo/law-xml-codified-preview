@@ -11,14 +11,15 @@
       <html-bulk>https://github.com/sanipueblo/law-html</html-bulk>
       <html>https://law.sanipueblo.org</html>
       <static-assets>https://github.com/sanipueblo/law-static-assets</static-assets>
+      <law-git>https://github.com/sanipueblo/law.git</law-git>
     </canonical-urls>
     <history-start>2017-04-19</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="99da0bca0e674db1e8c06c2ba631abe77a972c31"/>
+        <repository name="sanipueblo/law-xml" commit="eb7e76c8235ad3717fba57d8cf0b4c1af1dcc2fd"/>
       </repositories>
       <platform version="2.3.3" reproducible="false"/>
-      <build-date>2022-02-04</build-date>
+      <build-date>2022-03-01</build-date>
       <codified-date>2022-01-03</codified-date>
     </build>
   </meta>
