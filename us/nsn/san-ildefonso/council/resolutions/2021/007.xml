@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-007"/>
     </container>
   </codify:insert>
-  <recitals codify:path="6.3.23.010">
+  <recitals codify:path="|6.3.23.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and,</text>
@@ -227,7 +227,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2020-2021 Annual Budget and that such modifications shall be effective immediately upon enactment; and</text>
-      <codify:insert path="6.3.23" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.23.020">
+      <codify:insert path="|6.3.23" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.23.020">
         <section>
           <num>6.3.23.020</num>
           <text>The Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2020-2021 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
@@ -237,7 +237,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-      <codify:insert path="6.3.23" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.23.030">
+      <codify:insert path="|6.3.23" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.23.030">
         <section>
           <num>6.3.23.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
@@ -449,7 +449,7 @@
     <text>Terrence K. Garcia, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
-    <codify:insert path="6.3.23" num-value="6.3.23.040" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.23.040"/>
+    <codify:insert path="|6.3.23" num-value="6.3.23.040" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.23.040"/>
     <num/>
     <heading codify:value="Authorization for Fiscal Year 2020-2021 Budget Modification No. 1">
       AUTHORIZATION FOR FISCAL YEAR 2020-2021 BUDGET MODIFICATION NO. 1

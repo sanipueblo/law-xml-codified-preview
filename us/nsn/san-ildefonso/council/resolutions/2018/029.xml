@@ -23,7 +23,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029"/>
     </container>
   </codify:insert>
-  <recitals codify:path="17.2.17.010">
+  <recitals codify:path="|17.2.17.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -81,7 +81,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
       <text>the Member's Representatives hereby approve and adopt this resolution in accordance with the requirements of the Operating Agreement.</text>
-      <codify:insert path="17.2.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.17.020">
+      <codify:insert path="|17.2.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.17.020">
         <section>
           <num>17.2.17.020</num>
           <text>The Member's Representatives hereby approve and adopt this resolution in accordance with the requirements of the Operating Agreement.</text>

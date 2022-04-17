@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-013"/>
     </container>
   </codify:insert>
-  <recitals codify:path="2.3.12.010">
+  <recitals codify:path="|2.3.12.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -117,7 +117,7 @@
         <num>2.</num>
         <text>By such approval, the Council is not waiving, limiting or modifying its sovereign immunity from suit.</text>
       </para>
-      <codify:insert path="2.3.12" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.12.020">
+      <codify:insert path="|2.3.12" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.12.020">
         <section>
           <num>2.3.12.020</num>
           <text/>
@@ -135,7 +135,7 @@
     <recital>
       <conjunction>NOW BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
-      <codify:insert path="2.3.12" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.12.030">
+      <codify:insert path="|2.3.12" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.12.030">
         <section>
           <num>2.3.12.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>

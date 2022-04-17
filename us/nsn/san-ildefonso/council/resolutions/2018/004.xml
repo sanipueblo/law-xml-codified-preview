@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004"/>
     </container>
   </codify:insert>
-  <recitals codify:path="17.2.10.010">
+  <recitals codify:path="|17.2.10.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Council hereby amends the "Fourth Amended Articles of Organization for San Ildefonso Services, a Limited Liability Company Chartered by the Pueblo de San Ildefonso, a federally recognized sovereign" to extend the effective date from March 31, 2018 to September 1, 2018, all other terms of Council Resolution No. SI-R17-047 shall remain in effect.</text>
-      <codify:insert path="17.2.10" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.10.020">
+      <codify:insert path="|17.2.10" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.10.020">
         <section>
           <num>17.2.10.020</num>
           <text>The Council hereby amends the "Fourth Amended Articles of Organization for San Ildefonso Services, a Limited Liability Company Chartered by the Pueblo de San Ildefonso, a federally recognized sovereign" to extend the effective date from March 31, 2018 to September 1, 2018, all other terms of Council Resolution No. SI-R17-047 shall remain in effect.</text>
@@ -99,7 +99,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT FURTHER RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-      <codify:insert path="17.2.10" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.10.030">
+      <codify:insert path="|17.2.10" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.10.030">
         <section>
           <num>17.2.10.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>

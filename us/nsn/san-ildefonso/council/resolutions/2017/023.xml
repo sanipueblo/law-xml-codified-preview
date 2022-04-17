@@ -232,7 +232,7 @@
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="3.3.1"/>
+    <codified:at path="|3.3.1"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>THE COUNCIL CONTRACTING AUTHORIZATION ACT OF 2017</heading>
     <section>

@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-036"/>
     </container>
   </codify:insert>
-  <recitals codify:path="2.2.4.010">
+  <recitals codify:path="|2.2.4.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources; and</text>
@@ -119,7 +119,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council calls upon the U.S. Congress to fulfill its federal trust responsibility to Indian Country during the development and negotiation of the 2018 reauthorization of the Farm Bill's policies to incorporate tribal parity, opportunity, and consistency throughout and encourage and support continued participation, development, and progress in Indian Country's agriculture businesses, food systems, infrastructure, and nutrition programs.</text>
-      <codify:insert path="2.2.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.020">
+      <codify:insert path="|2.2.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.020">
         <section>
           <num>2.2.4.020</num>
           <text>The Pueblo de San Ildefonso Council calls upon the U.S. Congress to fulfill its federal trust responsibility to Indian Country during the development and negotiation of the 2018 reauthorization of the Farm Bill's policies to incorporate tribal parity, opportunity, and consistency throughout and encourage and support continued participation, development, and progress in Indian Country's agriculture businesses, food systems, infrastructure, and nutrition programs.</text>
@@ -129,7 +129,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-      <codify:insert path="2.2.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.030">
+      <codify:insert path="|2.2.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.030">
         <section>
           <num>2.2.4.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>

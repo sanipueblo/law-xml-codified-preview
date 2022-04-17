@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-015"/>
     </container>
   </codify:insert>
-  <recitals codify:path="6.3.11.010">
+  <recitals codify:path="|6.3.11.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>

@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-021"/>
     </container>
   </codify:insert>
-  <recitals codify:path="6.5.19.010">
+  <recitals codify:path="|6.5.19.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -107,7 +107,7 @@
         <num>(b)</num>
         <text>The authority granted by the Resolution shall remain in effect until withdrawn by the Tribal Council or until the term of the contract has expired, and that the Governor is the authorized agent for the Tribe and shall represent the Council in any negotiations, changes and/or approval of the contract agreement.</text>
       </para>
-      <codify:insert path="6.5.19" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.020">
+      <codify:insert path="|6.5.19" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.020">
         <section>
           <num>6.5.19.020</num>
           <text/>
@@ -125,7 +125,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
-      <codify:insert path="6.5.19" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.030">
+      <codify:insert path="|6.5.19" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.030">
         <section>
           <num>6.5.19.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>

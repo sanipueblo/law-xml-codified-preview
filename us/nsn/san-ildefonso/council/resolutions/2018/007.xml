@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-007"/>
     </container>
   </codify:insert>
-  <recitals codify:path="6.5.17.010">
+  <recitals codify:path="|6.5.17.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -159,7 +159,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves the FY2018-FY2022 Control Schedule, Statement of Work and Budgets (attached); and</text>
-      <codify:insert path="6.5.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.17.020">
+      <codify:insert path="|6.5.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.17.020">
         <section>
           <num>6.5.17.020</num>
           <text>The Pueblo de San Ildefonso Council hereby approves the FY2018-FY2022 Control Schedule, Statement of Work and Budgets (attached).</text>
@@ -169,7 +169,7 @@
     <recital>
       <conjunction>BE IT FURTHER RESOLVED,</conjunction>
       <text>that the Pueblo request to enter into a new Pub. L. 93-638 contract with the funds; and</text>
-      <codify:insert path="6.5.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.17.030">
+      <codify:insert path="|6.5.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.17.030">
         <section>
           <num>6.5.17.030</num>
           <text>The Pueblo request to enter into a new Pub. L. 93-638 contract with the funds.</text>
@@ -179,7 +179,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-      <codify:insert path="6.5.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.17.040">
+      <codify:insert path="|6.5.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.17.040">
         <section>
           <num>6.5.17.040</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>

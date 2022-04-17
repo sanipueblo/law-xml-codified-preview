@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-039"/>
     </container>
   </codify:insert>
-  <recitals codify:path="6.6.9.010">
+  <recitals codify:path="|6.6.9.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -179,7 +179,7 @@
     <recital>
       <conjunction>NOW THEREFORE, BE IT RESOLVED</conjunction>
       <text>that the Pueblo de San Ildefonso Tribal Council authorizes the Governor of the Pueblo to take all actions necessary to allow the funds of $5,000,000.00 and $37,500,000.00 authorized and appropriated by the Settlement Act and held by the Office of the Special Trustee to be invested in a manner to allow a higher rate of return than that provided by the federal overnight account for a period up to five years or as otherwise directed by the Pueblos.</text>
-      <codify:insert path="6.6.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.020">
+      <codify:insert path="|6.6.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.020">
         <section>
           <num>6.6.9.020</num>
           <text>The Pueblo de San Ildefonso Tribal Council authorizes the Governor of the Pueblo to take all actions necessary to allow the funds of $5,000,000.00 and $37,500,000.00 authorized and appropriated by the Settlement Act and held by the Office of the Special Trustee to be invested in a manner to allow a higher rate of return than that provided by the federal overnight account for a period up to five years or as otherwise directed by the Pueblos.</text>

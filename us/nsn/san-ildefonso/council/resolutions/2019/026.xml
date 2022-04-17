@@ -240,7 +240,7 @@
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="6.9.1"/>
+    <codified:at path="|6.9.1"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>TEWA LANGUAGE DEPARTMENT ESTABLISHMENT ACT</heading>
     <section>

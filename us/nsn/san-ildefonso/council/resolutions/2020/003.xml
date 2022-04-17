@@ -237,7 +237,7 @@
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="17.3.1"/>
+    <codified:at path="|17.3.1"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>ACT AUTHORIZING ASSESSMENT OF AREAS FOR POTENTIAL WAREHOUSE AND DISTRIBUTION CENTER</heading>
     <section>

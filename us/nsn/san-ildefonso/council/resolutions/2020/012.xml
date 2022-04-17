@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-012"/>
     </container>
   </codify:insert>
-  <recitals codify:path="6.3.21.010">
+  <recitals codify:path="|6.3.21.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and,</text>
@@ -203,7 +203,7 @@
       </codify:insert>
     </recital>
     <recital>
-      <codify:insert path="6.3.21" num-value="6.3.21.020" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.21.020"/>
+      <codify:insert path="|6.3.21" num-value="6.3.21.020" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.21.020"/>
       <num/>
       <conjunction codify:omit="">NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text><span codify:value="The">that the</span> Council hereby:</text>
@@ -422,7 +422,7 @@
     <text>William S. Christian, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
-    <codified:at path="6.3.21"/>
+    <codified:at path="|6.3.21"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>ANNUAL BUDGET AUTHORIZATION FOR FISCAL YEAR 2020-2021</heading>
     <text class="center">

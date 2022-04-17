@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023"/>
     </container>
   </codify:insert>
-  <recitals codify:path="17.2.15.010">
+  <recitals codify:path="|17.2.15.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo recognizes the need to expand employment opportunities for tribal members in the energy, utility, and telecommunications industry; and</text>
@@ -121,7 +121,7 @@
         <num>(c)</num>
         <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent and direction of this Resolution.</text>
       </para>
-      <codify:insert path="17.2.15" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.15.020">
+      <codify:insert path="|17.2.15" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.15.020">
         <section>
           <num>17.2.15.020</num>
           <text/>

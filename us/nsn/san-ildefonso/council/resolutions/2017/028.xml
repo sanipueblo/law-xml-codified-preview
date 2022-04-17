@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028"/>
     </container>
   </codify:insert>
-  <recitals codify:path="17.2.8.010">
+  <recitals codify:path="|17.2.8.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources; and</text>
@@ -107,7 +107,7 @@
       </codify:insert>
     </recital>
     <recital>
-      <codify:insert path="17.2.8" num-value="17.2.8.020" tag="section" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.8.020"/>
+      <codify:insert path="|17.2.8" num-value="17.2.8.020" tag="section" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.8.020"/>
       <conjunction codify:omit="">NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
       <num/>
       <para>

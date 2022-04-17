@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-013"/>
     </container>
   </codify:insert>
-  <recitals codify:path="6.5.29.010">
+  <recitals codify:path="|6.5.29.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and,</text>
@@ -156,7 +156,7 @@
         <num>3.</num>
         <text>Approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
       </para>
-      <codify:insert path="6.5.29" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.29.020">
+      <codify:insert path="|6.5.29" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.29.020">
         <section>
           <num>6.5.29.020</num>
           <text>The Pueblo de San Ildefonso Council hereby</text>

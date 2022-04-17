@@ -228,7 +228,7 @@
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="6.8.1"/>
+    <codified:at path="|6.8.1"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>DEPARTMENT OF PROJECT MANAGEMENT ENABLING ACT</heading>
     <section>

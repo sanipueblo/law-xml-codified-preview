@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-043"/>
     </container>
   </codify:insert>
-  <recitals codify:path="6.3.14.010">
+  <recitals codify:path="|6.3.14.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -263,7 +263,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Council hereby approves and authorizes the attached law entitled, NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</text>
-      <codify:insert path="6.3.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.020">
+      <codify:insert path="|6.3.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.020">
         <section>
           <num>6.3.14.020</num>
           <text>The Council hereby approves and authorizes the attached law entitled, NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</text>
@@ -273,7 +273,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-      <codify:insert path="6.3.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.030">
+      <codify:insert path="|6.3.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.030">
         <section>
           <num>6.3.14.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
@@ -466,7 +466,7 @@
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
-    <codify:insert path="6.3.14" num-value="6.3.14.040" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.040"/>
+    <codify:insert path="|6.3.14" num-value="6.3.14.040" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.040"/>
     <num/>
     <text codify:omit="">PUEBLO DE SAN ILDEFONSO</text>
     <heading>NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</heading>

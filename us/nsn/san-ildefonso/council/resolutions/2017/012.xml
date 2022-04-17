@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012"/>
     </container>
   </codify:insert>
-  <recitals codify:path="11.2.21.010">
+  <recitals codify:path="|11.2.21.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -207,7 +207,7 @@
         <num>2.</num>
         <text>The Pueblo de San Ildefonso Council requests the United States to act quickly to implement the purposes of this resolution, and make funds available in the amount of $744,289.00 to implement the scope of work and budget attached as soon as possible.</text>
       </para>
-      <codify:insert path="11.2.21" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.21.020">
+      <codify:insert path="|11.2.21" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.21.020">
         <section>
           <num>11.2.21.020</num>
           <text/>

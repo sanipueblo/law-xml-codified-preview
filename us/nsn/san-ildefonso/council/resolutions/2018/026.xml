@@ -21,7 +21,7 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026"/>
     </container>
   </codify:insert>
-  <recitals codify:path="17.2.16.010">
+  <recitals codify:path="|17.2.16.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -99,7 +99,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Member's Representatives hereby reappoint Dominic Pruitt, Barbara Gonzales, and Sean Hughes as the Board of Managers of San Ildefonso Services, LLC, with Mr. Pruitt serving as Chairman.</text>
-      <codify:insert path="17.2.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.020">
+      <codify:insert path="|17.2.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.020">
         <section>
           <num>17.2.16.020</num>
           <text>The Member's Representatives hereby reappoint Dominic Pruitt, Barbara Gonzales, and Sean Hughes as the Board of Managers of San Ildefonso Services, LLC, with Mr. Pruitt serving as Chairman.</text>
@@ -109,7 +109,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Board of Managers terms of office shall expire on December 31, 2018.</text>
-      <codify:insert path="17.2.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.030">
+      <codify:insert path="|17.2.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.030">
         <section>
           <num>17.2.16.030</num>
           <text>The Board of Managers terms of office shall expire on December 31, 2018.</text>

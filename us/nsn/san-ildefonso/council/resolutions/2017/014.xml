@@ -232,7 +232,7 @@
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="15.2.1"/>
+    <codified:at path="|15.2.1"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>HOME OWNERSHIP AND PROPERTY TRANSFER CLARIFICATION ACT</heading>
     <section>
