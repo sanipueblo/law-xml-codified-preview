@@ -19,7 +19,7 @@
         <repository name="sanipueblo/law-xml" commit="5a28768ca5e9cd76dab5722c2576495aeb627fe4"/>
       </repositories>
       <platform version="2.3.3" reproducible="false"/>
-      <build-date>2022-04-17</build-date>
+      <build-date>2022-04-18</build-date>
       <codified-date>2022-01-03</codified-date>
     </build>
   </meta>
