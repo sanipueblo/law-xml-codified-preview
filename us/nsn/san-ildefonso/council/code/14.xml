@@ -321,5 +321,103 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>14.1.4</num>
+      <heading>The Community Health Assessment and Community Health Improvement Plan Authorization Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001"/>
+      <annotation app="2022-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001" eff="2022-03-28" path="" type="History"/>
+      <section>
+        <num>14.1.4.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the “THE COMMUNITY HEALTH ASSESSMENT AND COMMUNITY HEALTH IMPROVEMENT PLAN AUTHORIZATION ACT” (“Act”).</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001"/>
+          <annotation app="2022-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001" eff="2022-03-28" path="" type="History"/>
+          <annotation app="2022-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001" eff="2022-03-28" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>14.1.4.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the Pueblo de San Ildefonso’s (Pueblo) request to partner with the Albuquerque Area Southwest Tribal Epidemiology Center (AASTEC) to complete a Community Health Assessment and Community Health Improvement Plan (CHA).</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001"/>
+          <annotation app="2022-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001" eff="2022-03-28" path="" type="History"/>
+          <annotation app="2022-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001" eff="2022-03-28" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>14.1.4.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo has received funding from the AASTEC to allow the Pueblo’s Tribal Health Council and Department of Health and Human Services to participate and complete a CHA; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo’s Tribal Health Council and Department of Health and Human Services operates under the authority provided by the Council and acts on behalf of the Pueblo for health matters; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo has primary goals and objectives of improving and maintaining the health and wellness needs of its people, including activities to address the burden of chronic diseases (i.e., cardiovascular disease, stroke, and type 2 diabetes), COVID-19, behavioral health and substance use/misuse, and underlying risk factors (i.e., tobacco use, obesity, physical inactivity, poor nutrition, generational and environmental trauma, and adverse childhood experiences (ACEs); and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo acknowledges the last Community Health Assessment (CHA) was completed in 2015 and the needs of the community have changed; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo de San Ildefonso acknowledges the benefits that can be achieved from completing a CHA, in the area of public health and community healthcare; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Health status measures are often not available at the community level; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The CHA was designed to provide a useful and useable tool for tribes to measure their overall health status; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The AASTEC will work closely with the Pueblo to identify appropriate health indicators and to ensure that the project is conducted in a confidential and culturally sensitive manner; and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The identified health indicators may be measured using community surveys, interviews, existing records, or other sources; and</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>It is necessary to approve the indicators required in order to complete the CHA; and</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The Council has reviewed this project and has determined it is in the Pueblo’s best interest to move forward with the CHA in collaboration with the AASTEC.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001"/>
+          <annotation app="2022-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001" eff="2022-03-28" path="" type="History"/>
+          <annotation app="2022-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001" eff="2022-03-28" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>14.1.4.040</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes the Pueblo’s Tribal Health Council and Department of Health and Human Services to participate and complete a CHA, beginning March 14, 2022 and ending September 29, 2022.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The authority granted by the Resolution shall remain in effect until withdrawn by the Council or until the term of the new contract has expired, and the Governor is the authorized agent for the Tribe and shall represent the Council in any negotiations, changes and/or approval of the contract agreement.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001"/>
+          <annotation app="2022-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001" eff="2022-03-28" path="" type="History"/>
+          <annotation app="2022-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-001" eff="2022-03-28" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
 </container>

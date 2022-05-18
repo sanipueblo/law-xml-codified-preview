@@ -481,6 +481,65 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.2.4</num>
+      <heading>Accounting Policies and Procedures Manual Amendments of 2022</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003"/>
+      <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003" eff="2022-05-11" path="" type="History"/>
+      <section>
+        <num>6.2.4.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACCOUNTING POLICY AND PROCEDURES MANUAL AMENDMENTS OF 2022."</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003"/>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003" eff="2022-05-11" path="" type="History"/>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003" eff="2022-05-11" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.2.4.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to approve amendments of the Accounting Policy and Procedures Manual.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003"/>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003" eff="2022-05-11" path="" type="History"/>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003" eff="2022-05-11" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.2.4.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Council has enacted a 75-page, comprehensive Accounting Policy and Procedures Manual ("Manual") to govern the financial practices of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Finance Department and Governor have identified the need to amend the Manual to streamline certain accounting procedures and to clarify several accounting practices to bring greater efficiencies and cost-savings to the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Finance Department, Tribal Administrator, and Governor have developed a set of proposed amendments to the Manual and have presented the proposed amendments to the Council for consideration and approval.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003"/>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003" eff="2022-05-11" path="" type="History"/>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003" eff="2022-05-11" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.2.4.040</num>
+        <heading>Approval</heading>
+        <text>The Council hereby approves and enacts the attached Accounting Policy and Procedures Manual amendments of 2022.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003"/>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003" eff="2022-05-11" path="" type="History"/>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-003" eff="2022-05-11" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -10113,6 +10172,54 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-003"/>
           <annotation app="2021-11-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-024" eff="2021-11-05" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.7.1.110</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "PERSONNEL POLICY MANUAL AMENDMENTS OF 2022."</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-003"/>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-002" eff="2022-05-11" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.7.1.120</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to approve amendments of the Personnel Policy Manual.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-003"/>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-002" eff="2022-05-11" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.7.1.130</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>In 2012, the Council reaffirmed the Personnel Policy Manual that had existed for many years to govern the employment practices of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2017, the Council enacted the Personnel Policy Manual Clarification Act to, again, reaffirm the existing Personnel Policy Manual, and to clarify that the Council is vested with the authority to approve any future modifications to the Manual and that the Governor is prohibited from making changes to the Manual by Executive Order.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Governor and Council have identified the need amend and improve the Personnel Policy Manual, and over the course of several years, proposed modifications to the Manual have been developed, circulated, and reviewed by multiple officials of the Pueblo.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-003"/>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-002" eff="2022-05-11" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.7.1.140</num>
+        <heading>Approval</heading>
+        <text>The Council hereby approves and enacts the attached Personnel Policy Manual amendments.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-003"/>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-002" eff="2022-05-11" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
     </container>
