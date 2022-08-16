@@ -440,5 +440,64 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>23.1.4</num>
+      <heading>Tribal Historic Preservation Office Government-to-Government Consultation Policy</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007"/>
+      <annotation app="2022-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007" eff="2022-06-29" path="" type="History"/>
+      <section>
+        <num>23.1.4.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "THPO GOVERNMENT-TO-GOVERNMENT CONSULTATION POLICY."</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007"/>
+          <annotation app="2022-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007" eff="2022-06-29" path="" type="History"/>
+          <annotation app="2022-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007" eff="2022-06-29" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>23.1.4.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this resolution is to establish an understanding and process for consultation with Federal Government, State, and Tribal agencies for managing all aspects of cultural resource protection.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007"/>
+          <annotation app="2022-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007" eff="2022-06-29" path="" type="History"/>
+          <annotation app="2022-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007" eff="2022-06-29" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>23.1.4.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Preamble of the Governing Agreement which establishes the government for the Pueblo de San Ildefonso states that the purpose of creating the government is to "protect our culture, our resources, and to maintain law and order.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo's government serves to protect and preserve our Pueblo lands, culture and history.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo wishes to develop a balanced plan for managing all aspects of cultural resource protection by working with the Federal Government, State, Local and Tribal agencies.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007"/>
+          <annotation app="2022-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007" eff="2022-06-29" path="" type="History"/>
+          <annotation app="2022-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007" eff="2022-06-29" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>23.1.4.040</num>
+        <heading>Approval</heading>
+        <text>The Council hereby approves and authorizes the attached Government-to-Government Consultation Policy.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007"/>
+          <annotation app="2022-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007" eff="2022-06-29" path="" type="History"/>
+          <annotation app="2022-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-007" eff="2022-06-29" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
 </container>
