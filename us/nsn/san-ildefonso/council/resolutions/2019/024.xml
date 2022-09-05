@@ -239,7 +239,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2019, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.25">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.25">
     <container>
       <prefix>Part</prefix>
       <num>6.5.25</num>
@@ -251,19 +251,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>AUTHORIZATION AND APPROVAL FOR SUBMISSION OF TITLE VI FEDERAL APPLICATION FOR CONTINUED FUNDING FOR THE ENIPC, INC. SENIOR CITIZEN PROGRAM</heading>
     <section>
-      <codify:insert num-value="6.5.25.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.25.010"/>
+      <codify:insert num-value="6.5.25.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.25.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the Act, "SENIOR CITIZENS PROGRAM FUNDING AUTHORIZATION ACT ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="6.5.25.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.25.020"/>
+      <codify:insert num-value="6.5.25.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.25.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize and direct the Governor to take the steps necessary to submit the application for the deferral funding to continue the Senior Citizens Program for the Pueblo.</text>
     </section>
     <section>
-      <codify:insert num-value="6.5.25.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.25.030"/>
+      <codify:insert num-value="6.5.25.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.25.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -306,7 +306,7 @@
     </section>
     <section>
       <num>1.4</num>
-      <codify:insert num-value="6.5.25.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.25.040"/>
+      <codify:insert num-value="6.5.25.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.25.040"/>
       <heading>Insert</heading>
       <para>
         <num>(a)</num>

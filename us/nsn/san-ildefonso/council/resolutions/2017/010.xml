@@ -215,7 +215,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2017, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.20">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.20">
     <container>
       <prefix>Part</prefix>
       <num>11.2.20</num>
@@ -227,19 +227,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>ACT AUTHORIZING THE BUREAU OF RECLAMATION AND ITS CONTRACTORS TO PERFORM THE PILOT WATER TREATMENT PLANT TESTING PLAN</heading>
     <section>
-      <codify:insert num-value="11.2.20.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.20.010"/>
+      <codify:insert num-value="11.2.20.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.20.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT AUTHORIZING THE BUREAU OF RECLAMATION AND ITS CONTRACTORS TO PERFORM THE PILOT WATER TREATMENT PLANT TESTING PLAN ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="11.2.20.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.20.020"/>
+      <codify:insert num-value="11.2.20.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.20.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the pilot water treatment plant testing plan as part of the <em>Aamodt</em> water settlement.  The testing plan will study the production capability of a horizontal collector well intake system at the location approved by the Pueblo, validate that the proposed water treatment process equipment will produce drinking water that equals or exceed federal and state drinking water quality standards, and obtain detailed design criteria and operating data that will serve as the basis for final designs and operations and maintenance cost estimates for the proposed water treatment plant.</text>
     </section>
     <section>
-      <codify:insert num-value="11.2.20.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.20.030"/>
+      <codify:insert num-value="11.2.20.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.20.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -273,7 +273,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="11.2.20.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.20.040"/>
+      <codify:insert num-value="11.2.20.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.20.040"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
       <para>

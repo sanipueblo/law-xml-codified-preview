@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 30th day of January, 2019, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.22">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.22">
     <container>
       <prefix>Part</prefix>
       <num>6.5.22</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="|6.5.22" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.22.010">
+      <codify:insert path="|6.5.22" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.22.010">
         <section>
           <num>6.5.22.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the pueblo; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.22.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.22.010|(b)">
         <para>
           <num>(b)</num>
           <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the pueblo.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo, by and through United States Public Law 93-638, has contracted and administered key functions for assistance to the Tribe through the Bureau of Indian Affairs (BIA) to include the Consolidated Tribal Government Program (CTGP); and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.22.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.22.010|(c)">
         <para>
           <num>(c)</num>
           <text>The Pueblo, by and through United States Public Law 93-638, has contracted and administered key functions for assistance to the Tribe through the Bureau of Indian Affairs (BIA) to include the Consolidated Tribal Government Program (CTGP).</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Consolidated Tribal Government Program (CTGP) which includes Aid to Tribal Government, Tribal Courts, Realty, and Parks and Wildlife receives funding from the BIA to administer aforementioned program(s) in compliance with the respective scope of work(s); and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.22.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.22.010|(d)">
         <para>
           <num>(d)</num>
           <text>The Consolidated Tribal Government Program (CTGP) which includes Aid to Tribal Government, Tribal Courts, Realty, and Parks and Wildlife receives funding from the BIA to administer aforementioned program(s) in compliance with the respective scope of work(s).</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo wishes to continue contracting CTGP for a four (4)-year period, 2019 through 2022.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.22.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.22.010|(e)">
         <para>
           <num>(e)</num>
           <text>The Pueblo wishes to continue contracting CTGP for a four (4)-year period, 2019 through 2022.</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves submission of the Application for Contract for the Consolidated Tribal Government Program (CTGP) for a four-year term (2019-2022); and</text>
-      <codify:insert path="|6.5.22" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.22.020">
+      <codify:insert path="|6.5.22" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.22.020">
         <section>
           <num>6.5.22.020</num>
           <text>The Pueblo de San Ildefonso Council hereby approves submission of the Application for Contract for the Consolidated Tribal Government Program (CTGP) for a four-year term (2019-2022).</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>BE IT FURTHER RESOLVED,</conjunction>
       <text>the Pueblo de San Ildefonso wishes to enter into a Public Law 93-638 contract for these funds, and</text>
-      <codify:insert path="|6.5.22" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.22.030">
+      <codify:insert path="|6.5.22" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.22.030">
         <section>
           <num>6.5.22.030</num>
           <text>The Pueblo de San Ildefonso wishes to enter into a Public Law 93-638 contract for these funds.</text>
@@ -99,7 +99,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to the published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-      <codify:insert path="|6.5.22" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.22.040">
+      <codify:insert path="|6.5.22" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.22.040">
         <section>
           <num>6.5.22.040</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to the published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>

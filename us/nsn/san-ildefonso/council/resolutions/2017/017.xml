@@ -223,7 +223,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2017, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="23.1.3">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|23.1.3">
     <container>
       <prefix>Part</prefix>
       <num>23.1.3</num>
@@ -235,19 +235,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>TRIBAL HISTORIC PRESERVATION OFFICE ESTABLISHMENT ACT OF 2017</heading>
     <section>
-      <codify:insert num-value="23.1.3.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="23.1.3.010"/>
+      <codify:insert num-value="23.1.3.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|23.1.3.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the Tribal Historic Preservation Office Establishment Act of 2017 ("Act").</text>
     </section>
     <section>
-      <codify:insert num-value="23.1.3.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="23.1.3.020"/>
+      <codify:insert num-value="23.1.3.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|23.1.3.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to create a Tribal Historic Preservation Office, authorize funding for the Office, and to otherwise set the goals of the Office.</text>
     </section>
     <section>
-      <codify:insert num-value="23.1.3.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="23.1.3.030"/>
+      <codify:insert num-value="23.1.3.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|23.1.3.030"/>
       <num>1.3</num>
       <heading>Definitions</heading>
       <para>
@@ -268,7 +268,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="23.1.3.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="23.1.3.040"/>
+      <codify:insert num-value="23.1.3.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|23.1.3.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -286,7 +286,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="23.1.3.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="23.1.3.050"/>
+      <codify:insert num-value="23.1.3.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|23.1.3.050"/>
       <num>1.5</num>
       <heading>Establishment of the Tribal Historic Preservation Office</heading>
       <para>
@@ -303,7 +303,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="23.1.3.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="23.1.3.060"/>
+      <codify:insert num-value="23.1.3.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|23.1.3.060"/>
       <num>1.6</num>
       <heading>Goals and Duties of the THPO</heading>
       <para>
@@ -372,7 +372,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="23.1.3.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="23.1.3.070"/>
+      <codify:insert num-value="23.1.3.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="|23.1.3.070"/>
       <num>1.7</num>
       <heading>Authorization of Funding</heading>
       <text>The Council hereby authorizes up to $160,000 for the THPO, subject to final appropriation of funds in an approved Annual Budget or budget modification.</text>

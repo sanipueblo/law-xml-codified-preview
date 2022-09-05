@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Pueblo de San Ildefonso Council, acting as Member's Representatives of San Ildefonso Services, LLC, on the	 7th day of September, 2017, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.8">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.8">
     <container>
       <prefix>Part</prefix>
       <num>17.2.8</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources; and</text>
-      <codify:insert path="|17.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.8.010">
+      <codify:insert path="|17.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.8.010">
         <section>
           <num>17.2.8.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>San Ildefonso Services, LLC, is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo, and the Pueblo de San Ildefonso Governor and Council serve as the Member's Representatives; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.8.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.8.010|(b)">
         <para>
           <num>(b)</num>
           <text>San Ildefonso Services, LLC, is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo, and the Pueblo de San Ildefonso Governor and Council serve as the Member's Representatives.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>pursuant to the Third Amended Articles of Organization and the Fourth Amended Operating Agreement of San Ildefonso Services, LLC, the company is a Manager-Managed LLC with the authority to manage the business affairs of the company vested in a Board of Managers that shall contain three (3) managers elected by the Pueblo de San Ildefonso Council, acting as the Member's Representatives; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.8.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.8.010|(c)">
         <para>
           <num>(c)</num>
           <text>Pursuant to the Third Amended Articles of Organization and the Fourth Amended Operating Agreement of San Ildefonso Services, LLC, the company is a Manager-Managed LLC with the authority to manage the business affairs of the company vested in a Board of Managers that shall contain three (3) managers elected by the Pueblo de San Ildefonso Council, acting as the Member's Representatives.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Article XI(I) of the Third Amended Articles of Organization and Section 2.7.3 of the Fourth Amended Operating Agreement both require that a quorum for any Managers' Meeting shall consist of three (3) Managers, and if a quorum is not present, the meeting shall be adjourned to a new place and time; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.8.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.8.010|(d)">
         <para>
           <num>(d)</num>
           <text>Article XI(I) of the Third Amended Articles of Organization and Section 2.7.3 of the Fourth Amended Operating Agreement both require that a quorum for any Managers' Meeting shall consist of three (3) Managers, and if a quorum is not present, the meeting shall be adjourned to a new place and time.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>due to temporary vacancies on the Board of Managers or the occasional unavailability of Managers, the quorum requirement in Article XI(I) of the Third Amended Articles of Organization and Section 2.7.3 of the Fourth Amended Operating Agreement may create an inability of the Board of Managers to hold Managers' Meetings and otherwise act to manage the business affairs of the company; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.8.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.8.010|(e)">
         <para>
           <num>(e)</num>
           <text>Due to temporary vacancies on the Board of Managers or the occasional unavailability of Managers, the quorum requirement in Article XI(I) of the Third Amended Articles of Organization and Section 2.7.3 of the Fourth Amended Operating Agreement may create an inability of the Board of Managers to hold Managers' Meetings and otherwise act to manage the business affairs of the company.</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso Governor and Council, as Member's Representatives, have determined that it is prudent and in the best interests of San Ildefonso Services, LLC to amend the quorum requirement contained in Article XI(I) of the Third Amended Articles of Organization and Section 2.7.3 of the Fourth Amended Operating Agreement to allow a quorum of two (2) Managers for Managers' Meetings; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.8.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.8.010|(f)">
         <para>
           <num>(f)</num>
           <text>The Pueblo de San Ildefonso Governor and Council, as Member's Representatives, have determined that it is prudent and in the best interests of San Ildefonso Services, LLC to amend the quorum requirement contained in Article XI(I) of the Third Amended Articles of Organization and Section 2.7.3 of the Fourth Amended Operating Agreement to allow a quorum of two (2) Managers for Managers' Meetings.</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the sole authority to make amendments to the Articles of Organization is vested in the Pueblo de San Ildefonso Council as Member's Representatives, and any amendments must be written in a Council Resolution; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.8.010|(g)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.8.010|(g)">
         <para>
           <num>(g)</num>
           <text>The sole authority to make amendments to the Articles of Organization is vested in the Pueblo de San Ildefonso Council as Member's Representatives, and any amendments must be written in a Council Resolution.</text>
@@ -99,7 +99,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Fourth Amended Operating Agreement can only be amended or modified through a written instrument executed by the Member's Representatives.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.8.010|(h)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.8.010|(h)">
         <para>
           <num>(h)</num>
           <text>The Fourth Amended Operating Agreement can only be amended or modified through a written instrument executed by the Member's Representatives.</text>
@@ -107,7 +107,7 @@
       </codify:insert>
     </recital>
     <recital>
-      <codify:insert path="|17.2.8" num-value="17.2.8.020" tag="section" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.8.020"/>
+      <codify:insert path="|17.2.8" num-value="17.2.8.020" tag="section" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.8.020"/>
       <conjunction codify:omit="">NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
       <num/>
       <para>

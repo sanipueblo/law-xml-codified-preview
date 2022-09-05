@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 22nd day of October, 2018, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.16">
     <container>
       <prefix>Part</prefix>
       <num>17.2.16</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="|17.2.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.010">
+      <codify:insert path="|17.2.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.16.010">
         <section>
           <num>17.2.16.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the sovereign authority of the Pueblo is vested in its Council and Governor; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.16.010|(b)">
         <para>
           <num>(b)</num>
           <text>The sovereign authority of the Pueblo is vested in its Council and Governor.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>San Ildefonso Services, LLC, is chartered under tribal law as a single member limited liability company, wholly owned by the Pueblo, and the Pueblo de San Ildefonso Governor and Council currently serve as the Member's Representatives; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.16.010|(c)">
         <para>
           <num>(c)</num>
           <text>San Ildefonso Services, LLC, is chartered under tribal law as a single member limited liability company, wholly owned by the Pueblo, and the Pueblo de San Ildefonso Governor and Council currently serve as the Member's Representatives.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>pursuant to the Articles of Organization, as amended, San Ildefonso Services, LLC, is a Manager-Managed LLC with the authority to manage the business affairs of the company vested in a Board of Managers consisting of three (3) Managers; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.16.010|(d)">
         <para>
           <num>(d)</num>
           <text>Pursuant to the Articles of Organization, as amended, San Ildefonso Services, LLC, is a Manager-Managed LLC with the authority to manage the business affairs of the company vested in a Board of Managers consisting of three (3) Managers.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>under Article XI of the Articles of Organization, the Managers shall be "elected by the Pueblo de San Ildefonso Council, acting as the Member's Representatives, pursuant to a written Member Resolution," and such election "shall be held at a meeting of the Pueblo de San Ildefonso Tribal Council acting as a Member's Representatives; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.16.010|(e)">
         <para>
           <num>(e)</num>
           <text>Under Article XI of the Articles of Organization, the Managers shall be "elected by the Pueblo de San Ildefonso Council, acting as the Member's Representatives, pursuant to a written Member Resolution," and such election "shall be held at a meeting of the Pueblo de San Ildefonso Tribal Council acting as a Member's Representatives.</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>under Article XI of the Articles of Organization, the Tribal Council, acting as Member's Representatives, may fill vacancies and lengthen or shorten the terms of the office of any elected Manager; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.16.010|(f)">
         <para>
           <num>(f)</num>
           <text>Under Article XI of the Articles of Organization, the Tribal Council, acting as Member's Representatives, may fill vacancies and lengthen or shorten the terms of the office of any elected Manager.</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Member's Representatives have determined that it is prudent and in the best interests of San Ildefonso Services, LLC, to reappoint Dominic Pruitt, Barbara Gonzales, and Sean Hughes as the Board of Managers, with Mr. Pruitt serving as Chairman, for terms to expire on December 31, 2018; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.010|(g)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.16.010|(g)">
         <para>
           <num>(g)</num>
           <text>The Member's Representatives have determined that it is prudent and in the best interests of San Ildefonso Services, LLC, to reappoint Dominic Pruitt, Barbara Gonzales, and Sean Hughes as the Board of Managers, with Mr. Pruitt serving as Chairman, for terms to expire on December 31, 2018.</text>
@@ -99,7 +99,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Member's Representatives hereby reappoint Dominic Pruitt, Barbara Gonzales, and Sean Hughes as the Board of Managers of San Ildefonso Services, LLC, with Mr. Pruitt serving as Chairman.</text>
-      <codify:insert path="|17.2.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.020">
+      <codify:insert path="|17.2.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.16.020">
         <section>
           <num>17.2.16.020</num>
           <text>The Member's Representatives hereby reappoint Dominic Pruitt, Barbara Gonzales, and Sean Hughes as the Board of Managers of San Ildefonso Services, LLC, with Mr. Pruitt serving as Chairman.</text>
@@ -109,7 +109,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Board of Managers terms of office shall expire on December 31, 2018.</text>
-      <codify:insert path="|17.2.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.16.030">
+      <codify:insert path="|17.2.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.16.030">
         <section>
           <num>17.2.16.030</num>
           <text>The Board of Managers terms of office shall expire on December 31, 2018.</text>

@@ -231,7 +231,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2019, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2">
     <container>
       <prefix>Chapter</prefix>
       <num>5.2</num>
@@ -248,7 +248,7 @@
     <text class="center">
       <strong>ARTICLE I – ELECTION COMMISSION</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.1">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.1">
       <container>
         <prefix>Part</prefix>
         <num>5.2.1</num>
@@ -256,7 +256,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.1" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.1.010"/>
+      <codify:insert path="5.2.1" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.1.010"/>
       <num codify:value="5.2.1.010">1</num>
       <heading>Election Commission.</heading>
       <text>The Election Commission shall be established in accordance with ELECTIONS AND VOTING, SECTION 2.  ELECTION COMMISSION (a) of the Agreement which states:</text>
@@ -286,7 +286,7 @@
       </para>
     </section>
     <section>
-      <codify:insert path="5.2.1" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.1.020"/>
+      <codify:insert path="5.2.1" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.1.020"/>
       <num codify:value="5.2.1.020">2</num>
       <heading>Authority and Responsibilities.</heading>
       <text>The Election Commission shall conduct all elections in accordance with Section 3 (b) of the Agreement which states:</text>
@@ -368,7 +368,7 @@
     <text class="center">
       <strong>ARTICLE II – ELECTIONS</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.2">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.2">
       <container>
         <prefix>Part</prefix>
         <num>5.2.2</num>
@@ -376,7 +376,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.2" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.2.010"/>
+      <codify:insert path="5.2.2" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.2.010"/>
       <num codify:value="5.2.2.010">1</num>
       <heading>Elections.</heading>
       <para>
@@ -432,7 +432,7 @@
     <text class="center">
       <strong>ARTICLE III – NOMINATIONS</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.3">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.3">
       <container>
         <prefix>Part</prefix>
         <num>5.2.3</num>
@@ -440,7 +440,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.3" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.3.010"/>
+      <codify:insert path="5.2.3" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.3.010"/>
       <num codify:value="5.2.3.010">1</num>
       <heading>Nominations.</heading>
       <para>
@@ -496,7 +496,7 @@
     <text class="center">
       <strong>ARTICLE IV – CANDIDATE QUALIFICATIONS</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.4">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.4">
       <container>
         <prefix>Part</prefix>
         <num>5.2.4</num>
@@ -504,7 +504,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.4.010"/>
+      <codify:insert path="5.2.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.4.010"/>
       <num codify:value="5.2.4.010">1</num>
       <heading>Qualifications.</heading>
       <para>
@@ -535,7 +535,7 @@
     <text class="center">
       <strong>ARTICLE V - VOTING</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.5">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.5">
       <container>
         <prefix>Part</prefix>
         <num>5.2.5</num>
@@ -543,7 +543,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.5" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.5.010"/>
+      <codify:insert path="5.2.5" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.5.010"/>
       <num codify:value="5.2.5.010">1</num>
       <heading>Voting Age.</heading>
       <para>
@@ -561,7 +561,7 @@
       </para>
     </section>
     <section>
-      <codify:insert path="5.2.5" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.5.020"/>
+      <codify:insert path="5.2.5" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.5.020"/>
       <num codify:value="5.2.5.020">2</num>
       <heading>Voters List.</heading>
       <para>
@@ -576,7 +576,7 @@
     <text class="center">
       <strong>ARTICLE VI – BALLOTS</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.6">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.6">
       <container>
         <prefix>Part</prefix>
         <num>5.2.6</num>
@@ -584,7 +584,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.6" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.6.010"/>
+      <codify:insert path="5.2.6" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.6.010"/>
       <num codify:value="5.2.6.010">1</num>
       <heading>Ballots.</heading>
       <para>
@@ -607,7 +607,7 @@
     <text class="center">
       <strong>ARTICLE VII – NOTICE OF ELECTIONS</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.7">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.7">
       <container>
         <prefix>Part</prefix>
         <num>5.2.7</num>
@@ -615,7 +615,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.7" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.7.010"/>
+      <codify:insert path="5.2.7" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.7.010"/>
       <num codify:value="5.2.7.010">1</num>
       <heading>Notice of Election.</heading>
       <para>
@@ -634,7 +634,7 @@
     <text class="center">
       <strong>ARTICLE VIII – ELECTION PROCEDURES</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8">
       <container>
         <prefix>Part</prefix>
         <num>5.2.8</num>
@@ -642,31 +642,31 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.010"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.010"/>
       <num codify:value="5.2.8.010">1</num>
       <heading>Polling Place.</heading>
       <text>There shall be one (1) polling place located at the Pueblo.</text>
     </section>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.020"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.020"/>
       <num codify:value="5.2.8.020">2</num>
       <heading>Hours of Voting.</heading>
       <text>The polls shall be open at the polling place from 7:00 a.m. to 7:00 p.m. Voters in line at the polling place but unable to cast their ballots before 7:00 p.m. shall be allowed to finish voting.</text>
     </section>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.030"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.030"/>
       <num codify:value="5.2.8.030">3</num>
       <heading>Fifty (50) Foot Limit.</heading>
       <text>No persons except members of the Election Commission shall be allowed to remain within fifty (50) feet of a polling place, except while actually voting.  No campaigning or placement of campaign materials shall be allowed within a fifty (50) foot perimeter around the polling place.</text>
     </section>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.040"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.040"/>
       <num codify:value="5.2.8.040">4</num>
       <heading>Maintaining Peace at Polling Place.</heading>
       <text>The Election Commission or Bailiff shall keep the peace and protect the voting place by preventing disturbances at the polling place and interference with persons desiring to vote.  This includes the authority to remove unruly or uncooperative persons from the polling place or from within the fifty (50) foot limit.</text>
     </section>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.050"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.050"/>
       <num codify:value="5.2.8.050">5</num>
       <heading>Method of Voting.</heading>
       <para>
@@ -683,7 +683,7 @@
       </para>
     </section>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.060"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.060"/>
       <num codify:value="5.2.8.060">6</num>
       <heading>Counting the Ballots.</heading>
       <para>
@@ -700,7 +700,7 @@
       </para>
     </section>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.070"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.070"/>
       <num codify:value="5.2.8.070">7</num>
       <heading>Posting and Notice of Election Results.</heading>
       <para>
@@ -717,37 +717,37 @@
       </para>
     </section>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.080"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.080"/>
       <num codify:value="5.2.8.080">8</num>
       <heading>Tie Votes.</heading>
       <text>A tie vote for candidates in any Election shall be decided by a game of chance administered by the Election Commission at the earliest possible time after the election upon notice to the candidates, with notice posted at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public places. This does not prevent the tied candidates from participating in the game of chance immediately following the vote count if both candidates are available and agree to conduct the tie-breaker at that time.  In such instance, posting of notice shall not be required.</text>
     </section>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.090"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.090"/>
       <num codify:value="5.2.8.090">9</num>
       <heading>Spoiled Ballots.</heading>
       <text>If a voter spoils a ballot and obtains another ballot, the spoiled ballot shall be marked "SPOILED".  Each member of the Election Commission shall sign his or her name below this marking and the spoiled ballot shall be secured by the Election Commission.  All spoiled ballots shall be placed in the ballot box at the end of the tallying.</text>
     </section>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.100"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.100"/>
       <num codify:value="5.2.8.100">10</num>
       <heading>Unused Ballots.</heading>
       <text>Ballots unused at the end of the voting shall be marked "UNUSED" and shall be placed in the ballot box at the end of the tallying.</text>
     </section>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.110"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.110"/>
       <num codify:value="5.2.8.110">11</num>
       <heading>Rejected Ballots.</heading>
       <text>If, during the tallying of the votes, the Election Commission is unable to determine from the ballot the choice of the voter, the ballot shall be rejected.  All rejected ballots shall be placed in the ballot box at the end of the tallying.</text>
     </section>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.120"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.120"/>
       <num codify:value="5.2.8.120">12</num>
       <heading>Recounts.</heading>
       <text>Any Candidate for elective office shall have the right to request a recount of the election results within three (3) days of the election.  Upon receipt of a written request for a recount, the Election Commission shall promptly conduct a recount and shall post the results of such recount in accordance with Section 7.C. above.</text>
     </section>
     <section>
-      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.8.130"/>
+      <codify:insert path="5.2.8" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.8.130"/>
       <num codify:value="5.2.8.130">13</num>
       <heading>Other Matters Decided by the Election Commission.</heading>
       <text>The Election Commission shall control all aspects of elections conducted by the Pueblo regardless of any Federal or State laws.  Any other election matters not specifically addressed in this law shall be decided by the Election Commission.  The decision of the Election Commission shall be final.</text>
@@ -755,7 +755,7 @@
     <text class="center">
       <strong>ARTICLE IX – CHALLENGES TO THE ELECTION RESULTS</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.9">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.9">
       <container>
         <prefix>Part</prefix>
         <num>5.2.9</num>
@@ -763,7 +763,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.9.010"/>
+      <codify:insert path="5.2.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.9.010"/>
       <num codify:value="5.2.9.010">1</num>
       <heading>Election Results Challenge Process.</heading>
       <para>
@@ -871,7 +871,7 @@
     <text class="center">
       <strong>ARTICLE X – RECALL ELECTIONS</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.10">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.10">
       <container>
         <prefix>Part</prefix>
         <num>5.2.10</num>
@@ -879,7 +879,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.10" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.10.010"/>
+      <codify:insert path="5.2.10" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.10.010"/>
       <num codify:value="5.2.10.010">1</num>
       <heading>Recall Elections.</heading>
       <para>
@@ -916,7 +916,7 @@
     <text class="center">
       <strong>ARTICLE XI – REFERENDUM ELECTIONS</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.11">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.11">
       <container>
         <prefix>Part</prefix>
         <num>5.2.11</num>
@@ -924,7 +924,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.11" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.11.010"/>
+      <codify:insert path="5.2.11" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.11.010"/>
       <num codify:value="5.2.11.010">1</num>
       <heading>Referendum Election Process.</heading>
       <para>
@@ -960,7 +960,7 @@
     <text class="center">
       <strong>ARTICLE XII – ELECTIONS TO FILL VACANCIES</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.12">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.12">
       <container>
         <prefix>Part</prefix>
         <num>5.2.12</num>
@@ -968,7 +968,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.12" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.12.010"/>
+      <codify:insert path="5.2.12" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.12.010"/>
       <num codify:value="5.2.12.010">1</num>
       <heading>Special Election to Fill Vacancy.</heading>
       <para>
@@ -998,7 +998,7 @@
       </para>
     </section>
     <section>
-      <codify:insert path="5.2.12" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.12.020"/>
+      <codify:insert path="5.2.12" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.12.020"/>
       <num codify:value="5.2.12.020">2</num>
       <heading>Vacancy Certification and Election Process.</heading>
       <para>
@@ -1011,7 +1011,7 @@
       </para>
     </section>
     <section>
-      <codify:insert path="5.2.12" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.12.030"/>
+      <codify:insert path="5.2.12" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.12.030"/>
       <num codify:value="5.2.12.030">3</num>
       <heading>Special Provisions where Elected Official Causes Special Election and Runs as Candidate in Subsequent Special Election.</heading>
       <para>
@@ -1022,7 +1022,7 @@
     <text class="center">
       <strong>ARTICLE XIII – OATH OF OFFICE</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.13">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.13">
       <container>
         <prefix>Part</prefix>
         <num>5.2.13</num>
@@ -1030,7 +1030,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.13" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.13.010"/>
+      <codify:insert path="5.2.13" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.13.010"/>
       <num codify:value="5.2.13.010">1</num>
       <heading>Oath of Office.</heading>
       <text>After the Election Commission has certified the results of the election and the winners are announced, and any challenges are finally decided, a Justice or Judge shall administer the oath of office on January 2 at a location within the Pueblo's lands. An Acknowledgement of the Oath of Office form shall be signed by the candidate, Justice or Judge and the Commission Chair and retained by the Commission.</text>
@@ -1038,7 +1038,7 @@
     <text class="center">
       <strong>ARTICLE XIV – AMENDMENT AND SEVERABILITY</strong>
     </text>
-    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.14">
+    <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.14">
       <container>
         <prefix>Part</prefix>
         <num>5.2.14</num>
@@ -1046,13 +1046,13 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="5.2.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.14.010"/>
+      <codify:insert path="5.2.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.14.010"/>
       <num codify:value="5.2.14.010">1</num>
       <heading>Amendment.</heading>
       <text>The Council may amend this law upon a majority vote of the Council in accordance with the requirements of the Agreement for making laws.  The Election Commission may submit to the Council suggested amendments to the law as deemed necessary.</text>
     </section>
     <section>
-      <codify:insert path="5.2.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="5.2.14.020"/>
+      <codify:insert path="5.2.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.2.14.020"/>
       <num codify:value="5.2.14.020">2</num>
       <heading>Severability.</heading>
       <text>The provisions of this law are severable and if any part or provision shall be held void by any court of competent jurisdiction, the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this law.</text>

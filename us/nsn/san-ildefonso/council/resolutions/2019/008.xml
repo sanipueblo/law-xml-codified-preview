@@ -219,7 +219,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2019, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.20">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.20">
     <container>
       <prefix>Part</prefix>
       <num>17.2.20</num>
@@ -231,13 +231,13 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>ACT AUTHORIZING AMENDMENT TO BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC, FOR THE WHITE ROCK CONVENIENCE STORE</heading>
     <section>
-      <codify:insert num-value="17.2.20.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.20.010"/>
+      <codify:insert num-value="17.2.20.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.20.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as "ACT AUTHORIZING AMENDMENT TO BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC, FOR THE WHITE ROCK CONVENIENCE STORE" ("Act").</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.20.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.20.020"/>
+      <codify:insert num-value="17.2.20.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.20.020"/>
       <num>1.2</num>
       <heading>Definitions</heading>
       <para>
@@ -254,13 +254,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.2.20.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.20.030"/>
+      <codify:insert num-value="17.2.20.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.20.030"/>
       <num>1.3</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize amendment of the May 9, 2018 Business Lease between the Pueblo and the San Ildefonso Services, LLC for the White Rock Gas Station and Convenience Store. The Amendment of Business Lease ("Amendment") sets out the amended terms of the Business Lease for the changed acreage and Surveyor's Certificate for the boundary survey.</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.20.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.20.040"/>
+      <codify:insert num-value="17.2.20.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.20.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds that:</text>
@@ -298,7 +298,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.2.20.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.20.050"/>
+      <codify:insert num-value="17.2.20.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.20.050"/>
       <num>1.5</num>
       <heading>Authorizations</heading>
       <para>

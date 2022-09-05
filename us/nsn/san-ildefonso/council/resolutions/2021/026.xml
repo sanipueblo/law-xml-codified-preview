@@ -238,7 +238,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Terrence K. Garcia, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8">
     <container>
       <prefix>Part</prefix>
       <num>15.1.8</num>
@@ -253,19 +253,19 @@
     </text>
     <heading type="law">HOUSING AUTHORITY ACT</heading>
     <section>
-      <codify:insert num-value="15.1.8.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.010"/>
+      <codify:insert num-value="15.1.8.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "HOUSING AUTHORITY ACT ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.020"/>
+      <codify:insert num-value="15.1.8.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The Purpose of this Act is to establish a Housing Authority to address the Pueblo's housing needs including the planning, development, administration and maintenance of housing projects.</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.030"/>
+      <codify:insert num-value="15.1.8.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -283,7 +283,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.040"/>
+      <codify:insert num-value="15.1.8.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.040"/>
       <num>1.4</num>
       <heading>Definitions</heading>
       <text>For purposes of this Act, the term:</text>
@@ -349,7 +349,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.050"/>
+      <codify:insert num-value="15.1.8.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.050"/>
       <num>1.5</num>
       <heading>San Ildefonso Housing Authority</heading>
       <para>
@@ -398,7 +398,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.060"/>
+      <codify:insert num-value="15.1.8.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.060"/>
       <num>1.6</num>
       <heading>Board of Commissioners</heading>
       <para>
@@ -452,7 +452,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.070"/>
+      <codify:insert num-value="15.1.8.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.070"/>
       <num>1.7</num>
       <heading>Powers</heading>
       <para>
@@ -553,7 +553,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.080"/>
+      <codify:insert num-value="15.1.8.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.080"/>
       <num>1.8</num>
       <heading>Obligations</heading>
       <para>
@@ -686,7 +686,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.090"/>
+      <codify:insert num-value="15.1.8.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.090"/>
       <num>1.9</num>
       <heading>Audits, Fiscal Accountability, and Reports</heading>
       <para>
@@ -815,7 +815,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.100" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.100"/>
+      <codify:insert num-value="15.1.8.100" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.100"/>
       <num>1.10</num>
       <heading>Miscellaneous</heading>
       <para>
@@ -928,7 +928,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.110" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.110"/>
+      <codify:insert num-value="15.1.8.110" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.110"/>
       <num>1.11</num>
       <heading>Pueblo Corporation</heading>
       <para>
@@ -981,7 +981,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.120" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.120"/>
+      <codify:insert num-value="15.1.8.120" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.120"/>
       <num>1.12</num>
       <heading>Sovereign Immunity</heading>
       <para>
@@ -1023,25 +1023,25 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.130" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.130"/>
+      <codify:insert num-value="15.1.8.130" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.130"/>
       <num>1.13</num>
       <heading>Amendments</heading>
       <text>This Act may be amended from time to time by the Council.</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.140" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.140"/>
+      <codify:insert num-value="15.1.8.140" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.140"/>
       <num>1.14</num>
       <heading>Interpretation</heading>
       <text>The Council shall be the final decision-maker regarding the interpretation of this Act. Any questions relating to the interpretation of any provision of this Act shall be submitted to the Council for interpretation.</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.150" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.150"/>
+      <codify:insert num-value="15.1.8.150" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.150"/>
       <num>1.15</num>
       <heading>Severability</heading>
       <text>If any provision of this Act is held invalid or application thereof to any person or circumstance is held invalid, then the invalidity does not affect other provisions or applications of the Act that can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.8.160" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.160"/>
+      <codify:insert num-value="15.1.8.160" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.160"/>
       <num>1.16</num>
       <heading>Effective Date</heading>
       <text>This Act and any amendments thereto shall take effect on the date enacted by the Council.</text>

@@ -238,7 +238,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2022, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>M. Wayne Martinez, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.7.3">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.3">
     <container>
       <prefix>Part</prefix>
       <num>6.7.3</num>
@@ -253,19 +253,19 @@
     </text>
     <heading type="law">MINIMUM WAGE ACT OF 2022</heading>
     <section>
-      <codify:insert num-value="6.7.3.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.7.3.010"/>
+      <codify:insert num-value="6.7.3.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.3.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "MINIMUM WAGE ACT OF 2022."</text>
     </section>
     <section>
-      <codify:insert num-value="6.7.3.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.7.3.020"/>
+      <codify:insert num-value="6.7.3.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.3.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to set a minimum wage for full-time Tribal employees.</text>
     </section>
     <section>
-      <codify:insert num-value="6.7.3.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.7.3.030"/>
+      <codify:insert num-value="6.7.3.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.3.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -283,7 +283,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.7.3.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.7.3.040"/>
+      <codify:insert num-value="6.7.3.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.3.040"/>
       <num>1.4</num>
       <heading>Approval</heading>
       <text>The Council hereby approves and enacts the standard minimum wage to be effective immediately.</text>

@@ -243,7 +243,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>William S. Christian, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.26">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.26">
     <container>
       <prefix>Part</prefix>
       <num>11.2.26</num>
@@ -256,19 +256,19 @@
     <heading>ACT AUTHORIZING SIGNATURE OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM PROJECT CONSTRUCTION AGREEMENT WITH AMENDED EXHIBIT A</heading>
     <section>
       <num>1.1</num>
-      <codify:insert num-value="11.2.26.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.26.010"/>
+      <codify:insert num-value="11.2.26.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.26.010"/>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT AUTHORIZING SIGNATURE OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM PROJECT CONSTRUCTION AGREEMENT WITH THE AMENDED EXHIBIT A ("Act")."</text>
     </section>
     <section>
       <num>1.2</num>
-      <codify:insert num-value="11.2.26.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.26.020"/>
+      <codify:insert num-value="11.2.26.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.26.020"/>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Governor to sign the document entitled "Pojoaque Basin Regional Water System Project Construction Agreement" ("Construction Agreement") that delineates construction corridors and establishes other authorized activities within the Pueblo's lands for the construction of the Pojoaque Basin Regional Water System, including the amended Exhibit A which includes a COVID-19 Response Plan applicable to all contractors and their employees working on construction sites within the Pueblo's lands.</text>
     </section>
     <section>
       <num>1.3</num>
-      <codify:insert num-value="11.2.26.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.26.030"/>
+      <codify:insert num-value="11.2.26.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.26.030"/>
       <heading>Findings</heading>
       <text>The Council hereby declares that:</text>
       <para>
@@ -314,7 +314,7 @@
     </section>
     <section>
       <num>1.4</num>
-      <codify:insert num-value="11.2.26.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="11.2.26.040"/>
+      <codify:insert num-value="11.2.26.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.26.040"/>
       <heading>Authorizations</heading>
       <para>
         <num>(a)</num>

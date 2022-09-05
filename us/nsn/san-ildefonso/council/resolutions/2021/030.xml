@@ -281,7 +281,7 @@
         <num>(c)</num>
         <text>Qualifications of Commissioners.</text>
         <para>
-          <codify:insert path="15.1.8.060|(c)" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.8.060|(c)|(3)"/>
+          <codify:insert path="15.1.8.060|(c)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.060|(c)|(3)"/>
           <num codify:value="(3)">3.</num>
           <text>"Board members shall not be convicted felons. Candidates for Board Member positions shall be subject to a background check."</text>
         </para>

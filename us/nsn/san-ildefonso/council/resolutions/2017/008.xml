@@ -245,10 +245,10 @@
       <heading>Amendments</heading>
       <text>The Fiscal Procedures Act shall be amended as follows:</text>
       <text>Section 1.7 (a), as shown below, shall be amended by adding a new subsection (3) as follows:</text>
-      <codify:find-replace position="last" count="1" path="(2)" find="." replace="[;]" history="false" display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.4.1.080|(a)|(2)"/>
+      <codify:find-replace position="last" count="1" path="(2)" find="." replace="[;]" history="false" display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.4.1.080|(a)|(2)"/>
       <include>
         <para>
-          <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.4.1.080|(a)|(3)"/>
+          <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.4.1.080|(a)|(3)"/>
           <num>(3)</num>
           <text>from any available and unrestricted funds into the Contingency Fund; provided that any transfers of funds into the Contingency Fund shall be used exclusively to address unforeseen circumstances that cause or threaten to cause the Pueblo to be in default of a grant, contract or other obligation to the U.S. Government; provided, that this authorization shall expire at the end of the Fiscal Year 2016-2017.</text>
         </para>

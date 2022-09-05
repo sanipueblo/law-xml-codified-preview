@@ -219,14 +219,14 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert path="24" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.9">
+  <codify:insert path="24" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.9">
     <container>
       <prefix>Chapter</prefix>
       <num>24.9</num>
       <heading>Vehicles</heading>
     </container>
   </codify:insert>
-  <codify:insert path="24.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.9.1">
+  <codify:insert path="24.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.9.1">
     <container>
       <prefix>Part</prefix>
       <num>24.9.1</num>
@@ -238,19 +238,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>ABANDONED VEHICLE ACT OF 2018</heading>
     <section>
-      <codify:insert num-value="24.9.1.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.9.1.010"/>
+      <codify:insert num-value="24.9.1.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.9.1.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the Abandoned Vehicle Act of 2018.</text>
     </section>
     <section>
-      <codify:insert num-value="24.9.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.9.1.020"/>
+      <codify:insert num-value="24.9.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.9.1.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to promote a safe, clean, and healthy environment by removing abandoned vehicles from Pueblo Lands.</text>
     </section>
     <section>
-      <codify:insert num-value="24.9.1.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.9.1.030"/>
+      <codify:insert num-value="24.9.1.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.9.1.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -273,7 +273,7 @@
       <text>Title 25 - TRAFFIC, of the Pueblo Code, shall be amended by adding the following new provisions:</text>
     </section>
     <section>
-      <codify:insert num-value="24.9.1.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.9.1.040"/>
+      <codify:insert num-value="24.9.1.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.9.1.040"/>
       <num>1.5</num>
       <heading>Definitions</heading>
       <para>
@@ -306,7 +306,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.9.1.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.9.1.050"/>
+      <codify:insert num-value="24.9.1.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.9.1.050"/>
       <num>1.6</num>
       <heading>Abandoned Vehicle Act Procedures</heading>
       <para>

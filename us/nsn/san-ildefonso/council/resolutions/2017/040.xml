@@ -264,7 +264,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2017, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.9">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.9">
     <container>
       <prefix>Part</prefix>
       <num>2.3.9</num>
@@ -276,14 +276,14 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>ACT RESCINDING THE DELEGATION OF THE PUEBLO DE SAN ILDEFONSO'S GOVERNANCE AUTHORITY OVER THE SANTA FE INDIAN SCHOOL TRUST LANDS</heading>
     <section>
-      <codify:insert num-value="2.3.9.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.9.010"/>
+      <codify:insert num-value="2.3.9.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.9.010"/>
       <num>1.1</num>
       <heading>Title</heading>
       <text>This enactment shall be known as "ACT RESCINDING THE DELEGATION OF THE PUEBLO DE SAN ILDEFONSO'S GOVERNANCE AUTHORITY OVER THE SANTA FE INDIAN SCHOOL TRUST LANDS."</text>
     </section>
     <section>
       <num>1.2</num>
-      <codify:insert num-value="2.3.9.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.9.020"/>
+      <codify:insert num-value="2.3.9.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.9.020"/>
       <heading>Definitions</heading>
       <para>
         <num>(a)</num>
@@ -315,13 +315,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="2.3.9.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.9.030"/>
+      <codify:insert num-value="2.3.9.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.9.030"/>
       <num>1.3</num>
       <heading>Purpose</heading>
       <text>The purpose of this law is to rescind the Council's previous delegation of governance authority over the SFIS Trust Lands that was delegated to the Governor as a member of the AISD Governing Council and for the Pueblo to reassume and reserve all of the Pueblo's governance authority over the SFIS Trust Lands.</text>
     </section>
     <section>
-      <codify:insert num-value="2.3.9.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.9.040"/>
+      <codify:insert num-value="2.3.9.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.9.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -375,7 +375,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="2.3.9.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.9.050"/>
+      <codify:insert num-value="2.3.9.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.9.050"/>
       <num>1.5</num>
       <heading>Governance Authority on SFIS Trust Lands</heading>
       <para>
@@ -392,7 +392,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="2.3.9.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.9.060"/>
+      <codify:insert num-value="2.3.9.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.9.060"/>
       <num>1.6</num>
       <heading>Delegation of Educational Authority</heading>
       <para>

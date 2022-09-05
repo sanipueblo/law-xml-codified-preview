@@ -215,7 +215,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2017, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.2">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.2">
     <container>
       <prefix>Part</prefix>
       <num>24.7.2</num>
@@ -227,19 +227,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>ACT AUTHORIZING THE CHANGE IN DESIGNATION OF CERTAIN ROADS WITHIN THE PUEBLO DE SAN ILDEFONSO IN THE NATIONAL TRIBAL TRANSPORTATION FACILITY INVENTORY UNDER BIA</heading>
     <section>
-      <codify:insert num-value="24.7.2.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.2.010"/>
+      <codify:insert num-value="24.7.2.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.2.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT AUTHORIZING THE CHANGE IN DESIGNATION OF CERTAIN ROADS WITHIN THE PUEBLO DE SAN ILDEFONSO IN THE NATIONAL TRIBAL TRANSPORTATION FACILITY INVENTORY UNDER BIA ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="24.7.2.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.2.020"/>
+      <codify:insert num-value="24.7.2.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.2.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to change the designation of certain identified roads located within the Pueblo's lands in the National Tribal Transportation Facility Inventory (NTTFI) under the Bureau of Indian Affairs (BIA), formerly known as the Indian Reservation Roads Program (IRR).  The change in the designation of the roads on the NTTFI allows the Pueblo access to program support and funding for transportation planning and design, road construction, improvement and maintenance.</text>
     </section>
     <section>
-      <codify:insert num-value="24.7.2.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.2.030"/>
+      <codify:insert num-value="24.7.2.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.2.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -277,7 +277,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.7.2.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.2.040"/>
+      <codify:insert num-value="24.7.2.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.2.040"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
       <text>The Governor is hereby authorized to take such actions as deemed necessary to change the designation of the roads identified as CR 84, CR 84A, CR 84B, CR 84C and CR 84D that lie within the Pueblo de San Ildefonso lands from a "Code 5" to a "Code 1 – BIA" on the NTTFI.</text>

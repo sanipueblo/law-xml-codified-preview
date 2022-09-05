@@ -244,7 +244,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Terrence K. Garcia, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.10">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.10">
     <container>
       <prefix>Part</prefix>
       <num>15.1.10</num>
@@ -259,19 +259,19 @@
     </text>
     <heading type="law">TRIBALLY DESIGNATED HOUSING ENTITY ACT OF 2021</heading>
     <section>
-      <codify:insert num-value="15.1.10.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.10.010"/>
+      <codify:insert num-value="15.1.10.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.10.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "TRIBALLY DESIGNATED HOUSING ENTITY ACT OF 2021 ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.10.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.10.020"/>
+      <codify:insert num-value="15.1.10.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.10.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The Purpose of this Act is to designate the San Ildefonso Housing Authority as the Tribally Designated Housing Entity ("TDHE") for the Pueblo.</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.10.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.10.030"/>
+      <codify:insert num-value="15.1.10.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.10.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -289,7 +289,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.10.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.10.040"/>
+      <codify:insert num-value="15.1.10.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.10.040"/>
       <num>1.4</num>
       <heading>Designation of TDHE</heading>
       <para>

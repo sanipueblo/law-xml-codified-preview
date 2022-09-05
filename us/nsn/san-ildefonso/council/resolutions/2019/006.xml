@@ -247,7 +247,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2019, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.11">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.11">
     <container>
       <prefix>Part</prefix>
       <num>2.3.11</num>
@@ -259,13 +259,13 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>APPROVING THE NORTH CENTRAL REGIONAL TRANSIT DISTRICT AMENDED INTERGOVERNMENTAL CONTRACT</heading>
     <section>
-      <codify:insert num-value="2.3.11.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.11.010"/>
+      <codify:insert num-value="2.3.11.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.11.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as "APPROVING THE NORTH CENTRAL REGIONAL TRANSIT DISTRICT AMENDED INTERGOVERNMENTAL CONTRACT" ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="2.3.11.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.11.020"/>
+      <codify:insert num-value="2.3.11.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.11.020"/>
       <num>1.2</num>
       <heading>Definitions</heading>
       <para>
@@ -286,13 +286,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="2.3.11.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.11.030"/>
+      <codify:insert num-value="2.3.11.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.11.030"/>
       <num>1.3</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to execute a new Amended Intergovernmental Contract to add the Village of Taos Ski Valley as a new member to the North Central Regional Transit District (NCRTD) and confirm the voting rights of each new member.</text>
     </section>
     <section>
-      <codify:insert num-value="2.3.11.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.11.040"/>
+      <codify:insert num-value="2.3.11.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.11.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds that:</text>
@@ -314,7 +314,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="2.3.11.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.11.050"/>
+      <codify:insert num-value="2.3.11.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.11.050"/>
       <num>1.5</num>
       <heading>Authorizations</heading>
       <para>

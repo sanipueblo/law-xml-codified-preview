@@ -216,14 +216,14 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert path="4" history="false" codified:doc="Pueblo de San Ildefonso Code" codified:path="4.6">
+  <codify:insert path="4" history="false" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.6">
     <container>
       <prefix>Chapter</prefix>
       <num>4.6</num>
       <heading>Trial Date Deadline Modification Act</heading>
     </container>
   </codify:insert>
-  <codify:insert path="4.6" codified:doc="Pueblo de San Ildefonso Code" codified:path="4.6.1">
+  <codify:insert path="4.6" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.6.1">
     <container>
       <prefix>Part</prefix>
       <num>4.6.1</num>
@@ -235,19 +235,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>TRIAL DATE DEADLINE MODIFICATION ACT</heading>
     <section>
-      <codify:insert num-value="4.6.1.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="4.6.1.010"/>
+      <codify:insert num-value="4.6.1.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.6.1.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "TRIAL DATE DEADLINE MODIFICATION ACT."</text>
     </section>
     <section>
-      <codify:insert num-value="4.6.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="4.6.1.020"/>
+      <codify:insert num-value="4.6.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.6.1.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to extend the trial date deadline up to 90 days from arraignment in order to allow the parties sufficient time to prepare for trial.</text>
     </section>
     <section>
-      <codify:insert num-value="4.6.1.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="4.6.1.030"/>
+      <codify:insert num-value="4.6.1.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.6.1.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -265,7 +265,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="4.6.1.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="4.6.1.040"/>
+      <codify:insert num-value="4.6.1.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.6.1.040"/>
       <num>1.4</num>
       <heading>Extension of Trial Date Deadline</heading>
       <text>If the defendant enters a plea of not guilty, the Court shall set a date for trial, which shall be at least ten (10) days but not more than ninety (90) days from the date of arraignment, unless the court finds good cause pursuant to a written order to provide a further extension of the trial date, but in no case shall the trial date extend beyond one year from the date of arraignment.</text>

@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 19th day of September, 2018, the following Resolution was adopted:</preamble>
-  <codify:insert after="17.2.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.15">
+  <codify:insert after="17.2.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.15">
     <container>
       <prefix>Part</prefix>
       <num>17.2.15</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo recognizes the need to expand employment opportunities for tribal members in the energy, utility, and telecommunications industry; and</text>
-      <codify:insert path="|17.2.15" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.15.010">
+      <codify:insert path="|17.2.15" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.15.010">
         <section>
           <num>17.2.15.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo also recognizes the need to expand infrastructure that serves its members, including telecommunications utilities; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.15.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.15.010|(b)">
         <para>
           <num>(b)</num>
           <text>The Pueblo also recognizes the need to expand infrastructure that serves its members, including telecommunications utilities.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>San Ildefonso Services, LLC, is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo, and the Governor and Council serve as the Member's Representatives; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.15.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.15.010|(c)">
         <para>
           <num>(c)</num>
           <text>San Ildefonso Services, LLC, is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo, and the Governor and Council serve as the Member's Representatives.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>San Ildefonso Services, LLC, understands that there are potential economic benefits and rewards for tribal members beyond what is currently available at the Pueblo, and that expanding the telecommunications infrastructure at the Pueblo will enhance employment and other opportunities to the Pueblo and its members; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.15.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.15.010|(d)">
         <para>
           <num>(d)</num>
           <text>San Ildefonso Services, LLC, understands that there are potential economic benefits and rewards for tribal members beyond what is currently available at the Pueblo, and that expanding the telecommunications infrastructure at the Pueblo will enhance employment and other opportunities to the Pueblo and its members.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Totavi Cell Tower Project, a proposed tribally-owned and operated cell tower project, is a promising opportunity to receive funding through the development of a cell tower including the opportunity to obtain grant and loan programs, to seek out new energy, utility, and telecommunication resources; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.15.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.15.010|(e)">
         <para>
           <num>(e)</num>
           <text>The Totavi Cell Tower Project, a proposed tribally-owned and operated cell tower project, is a promising opportunity to receive funding through the development of a cell tower including the opportunity to obtain grant and loan programs, to seek out new energy, utility, and telecommunication resources.</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>San Ildefonso Services, LLC, requests approval and support from the Pueblo to take the initial steps to establish the Totavi Cell Tower Project as a 100% tribally-owned, operated, and managed business conducted by San Ildefonso Services, LLC; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.15.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.15.010|(f)">
         <para>
           <num>(f)</num>
           <text>San Ildefonso Services, LLC, requests approval and support from the Pueblo to take the initial steps to establish the Totavi Cell Tower Project as a 100% tribally-owned, operated, and managed business conducted by San Ildefonso Services, LLC.</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>San Ildefonso Services, LLC, is evaluating options to apply for and obtain grant and/or loan funding for the Totavi Cell Tower Project; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.15.010|(g)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.15.010|(g)">
         <para>
           <num>(g)</num>
           <text>San Ildefonso Services, LLC, is evaluating options to apply for and obtain grant and/or loan funding for the Totavi Cell Tower Project.</text>
@@ -99,7 +99,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has determined that it is prudent and in the best interests of the Pueblo to authorize San Ildefonso Services, LLC to evaluate options to apply for and obtain grant/loan funding for the Totavi Cell Tower Project and requests that San Ildefonso Services, LLC provide a written report to the Council within sixty (60) days on the options available for funding the project, proposed funding and repayment terms, revenue projections, and other requirements necessary for the development of the Totavi Cell Tower Project, including the leasing of tribal lands and the delivery of electrical and other utilities.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.15.010|(h)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.15.010|(h)">
         <para>
           <num>(h)</num>
           <text>The Council has determined that it is prudent and in the best interests of the Pueblo to authorize San Ildefonso Services, LLC to evaluate options to apply for and obtain grant/loan funding for the Totavi Cell Tower Project and requests that San Ildefonso Services, LLC provide a written report to the Council within sixty (60) days on the options available for funding the project, proposed funding and repayment terms, revenue projections, and other requirements necessary for the development of the Totavi Cell Tower Project, including the leasing of tribal lands and the delivery of electrical and other utilities.</text>
@@ -121,7 +121,7 @@
         <num>(c)</num>
         <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent and direction of this Resolution.</text>
       </para>
-      <codify:insert path="|17.2.15" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.15.020">
+      <codify:insert path="|17.2.15" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.15.020">
         <section>
           <num>17.2.15.020</num>
           <text/>

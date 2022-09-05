@@ -215,7 +215,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>William S. Christian, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.2.3">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.2.3">
     <container>
       <prefix>Part</prefix>
       <num>6.2.3</num>
@@ -227,13 +227,13 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT</heading>
     <section>
-      <codify:insert num-value="6.2.3.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.2.3.010"/>
+      <codify:insert num-value="6.2.3.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.2.3.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="6.2.3.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.2.3.020"/>
+      <codify:insert num-value="6.2.3.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.2.3.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this act is to:</text>
@@ -255,7 +255,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.2.3.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.2.3.030"/>
+      <codify:insert num-value="6.2.3.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.2.3.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby declares that:</text>
@@ -273,7 +273,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.2.3.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.2.3.040"/>
+      <codify:insert num-value="6.2.3.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.2.3.040"/>
       <num>1.4</num>
       <heading>Contract Authorization for Independent Auditors</heading>
       <para>

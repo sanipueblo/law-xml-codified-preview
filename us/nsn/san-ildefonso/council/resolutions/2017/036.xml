@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 31st day of October, 2017, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.4">
     <container>
       <prefix>Part</prefix>
       <num>2.2.4</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources; and</text>
-      <codify:insert path="|2.2.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.010">
+      <codify:insert path="|2.2.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.4.010">
         <section>
           <num>2.2.4.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the U.S. Congress is deliberating on the nature of food and agriculture policy for the nation and the world, as it must reauthorize the multi-year Farm Bill in 2018 which governs all farm programs, rural development, and nutrition initiatives within the U.S. Department of Agriculture; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.4.010|(b)">
         <para>
           <num>(b)</num>
           <text>The U.S. Congress is deliberating on the nature of food and agriculture policy for the nation and the world, as it must reauthorize the multi-year Farm Bill in 2018 which governs all farm programs, rural development, and nutrition initiatives within the U.S. Department of Agriculture.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>agriculture is among the largest economic development industries in Indian Country, providing $3.4 billion per year; and the policies that provide the framework for Indian Country's agriculture production constitute a large portion of the Farm Bill; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.4.010|(c)">
         <para>
           <num>(c)</num>
           <text>Agriculture is among the largest economic development industries in Indian Country, providing $3.4 billion per year; and the policies that provide the framework for Indian Country's agriculture production constitute a large portion of the Farm Bill.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>an overwhelming majority of the land throughout Indian Country is involved in agriculture production and many tribal citizens live in rural areas and communities where the cost of building or repairing basic infrastructure systems are often prohibitively high, and the 2018 Farm Bill will provide an authorization of federal funding for rural infrastructure initiatives; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.4.010|(d)">
         <para>
           <num>(d)</num>
           <text>An overwhelming majority of the land throughout Indian Country is involved in agriculture production and many tribal citizens live in rural areas and communities where the cost of building or repairing basic infrastructure systems are often prohibitively high, and the 2018 Farm Bill will provide an authorization of federal funding for rural infrastructure initiatives.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>tribal citizens and members in rural areas are often afflicted by poverty of place, wherein they are unable to find suitable employment to provide adequate income that supports good nutrition for their families; and thus, may rely on federal nutrition programs authorized in the Farm Bill; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.4.010|(e)">
         <para>
           <num>(e)</num>
           <text>Tribal citizens and members in rural areas are often afflicted by poverty of place, wherein they are unable to find suitable employment to provide adequate income that supports good nutrition for their families; and thus, may rely on federal nutrition programs authorized in the Farm Bill.</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>even with the great strides made for Indian Country agriculture in previous Farm Bill negotiations, going virtually unmentioned in the 1990s to many thoughtful provisions scattered across all Titles, the $3.4 billion generated annually through Indian agricultural efforts is still more than 99 percent raw commodities, instead of the healthy, local, economically beneficial, and nutritious food needed in Indian Country communities and rural areas; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.4.010|(f)">
         <para>
           <num>(f)</num>
           <text>Even with the great strides made for Indian Country agriculture in previous Farm Bill negotiations, going virtually unmentioned in the 1990s to many thoughtful provisions scattered across all Titles, the $3.4 billion generated annually through Indian agricultural efforts is still more than 99 percent raw commodities, instead of the healthy, local, economically beneficial, and nutritious food needed in Indian Country communities and rural areas.</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the 2018 Farm Bill negotiations, resulting policies, and funding must continue to include and incorporate perspectives from Indian Country to afford parity, opportunity, and consistency under the federal food and agriculture laws, policies, and programs; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.010|(g)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.4.010|(g)">
         <para>
           <num>(g)</num>
           <text>The 2018 Farm Bill negotiations, resulting policies, and funding must continue to include and incorporate perspectives from Indian Country to afford parity, opportunity, and consistency under the federal food and agriculture laws, policies, and programs.</text>
@@ -99,7 +99,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>improving programs and funding for Indian Country will help to ensure Tribal governments have the ability to establish long-term plans and goals for their communities and the surrounding rural communities, and help Native farmers and ranchers continue to grow their food businesses and build tribal food systems to support our economies and communities; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.010|(h)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.4.010|(h)">
         <para>
           <num>(h)</num>
           <text>Improving programs and funding for Indian Country will help to ensure Tribal governments have the ability to establish long-term plans and goals for their communities and the surrounding rural communities, and help Native farmers and ranchers continue to grow their food businesses and build tribal food systems to support our economies and communities.</text>
@@ -109,7 +109,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the 2018 Farm Bill effort being promoted by the Native Farm Bill Coalition is the best opportunity in decades for Indian Country to effectively create positive and truly relevant change in federal agriculture policy to enhance the development of Indian agriculture beyond raw commodities, support infrastructure, research, and education in tribal communities, and improve federal food nutrition programs in Indian Country while providing tribal governments the authority manage these programs.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.010|(i)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.4.010|(i)">
         <para>
           <num>(i)</num>
           <text>The 2018 Farm Bill effort being promoted by the Native Farm Bill Coalition is the best opportunity in decades for Indian Country to effectively create positive and truly relevant change in federal agriculture policy to enhance the development of Indian agriculture beyond raw commodities, support infrastructure, research, and education in tribal communities, and improve federal food nutrition programs in Indian Country while providing tribal governments the authority manage these programs.</text>
@@ -119,7 +119,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council calls upon the U.S. Congress to fulfill its federal trust responsibility to Indian Country during the development and negotiation of the 2018 reauthorization of the Farm Bill's policies to incorporate tribal parity, opportunity, and consistency throughout and encourage and support continued participation, development, and progress in Indian Country's agriculture businesses, food systems, infrastructure, and nutrition programs.</text>
-      <codify:insert path="|2.2.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.020">
+      <codify:insert path="|2.2.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.4.020">
         <section>
           <num>2.2.4.020</num>
           <text>The Pueblo de San Ildefonso Council calls upon the U.S. Congress to fulfill its federal trust responsibility to Indian Country during the development and negotiation of the 2018 reauthorization of the Farm Bill's policies to incorporate tribal parity, opportunity, and consistency throughout and encourage and support continued participation, development, and progress in Indian Country's agriculture businesses, food systems, infrastructure, and nutrition programs.</text>
@@ -129,7 +129,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-      <codify:insert path="|2.2.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.4.030">
+      <codify:insert path="|2.2.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.4.030">
         <section>
           <num>2.2.4.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>

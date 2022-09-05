@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 20th day of December, 2017, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14">
     <container>
       <prefix>Part</prefix>
       <num>6.3.14</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="|6.3.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.010">
+      <codify:insert path="|6.3.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14.010">
         <section>
           <num>6.3.14.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14.010|(b)">
         <para>
           <num>(b)</num>
           <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14.010|(c)">
         <para>
           <num>(c)</num>
           <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
@@ -75,7 +75,7 @@
           </tr>
         </table>
       </text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14.010|(d)">
         <para>
           <num>(d)</num>
           <text>Currently the Pueblo's total FY2017-2018 total Annual Budget is $8,796,224.00, which consists of the following categories and amounts:</text>
@@ -101,7 +101,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year, provided that budget modifications by the Council to obtain new grants, appropriate matching funds for new grants, or to expend new grant funds may be done at any time; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14.010|(e)">
         <para>
           <num>(e)</num>
           <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year, provided that budget modifications by the Council to obtain new grants, appropriate matching funds for new grants, or to expend new grant funds may be done at any time; and</text>
@@ -111,7 +111,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo enacted a law entitled, "Budget Modification Process Act" which establishes the "New Funding Council Adjustment" designation for all new grants, new matching funds, or new funds acquired by the Pueblo.  The budget adjustment for the new funding will be identified as "NF-1," NF-2," and so on; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14.010|(f)">
         <para>
           <num>(f)</num>
           <text>The Pueblo enacted a law entitled, "Budget Modification Process Act" which establishes the "New Funding Council Adjustment" designation for all new grants, new matching funds, or new funds acquired by the Pueblo.  The budget adjustment for the new funding will be identified as "NF-1," NF-2," and so on; and</text>
@@ -153,7 +153,7 @@
           </tr>
         </table>
       </text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.010|(g)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14.010|(g)">
         <para>
           <num>(g)</num>
           <text>the Pueblo's FY 2017-2018 New Funding 2 (NF-2) is identified per the following:</text>
@@ -195,7 +195,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2017-2018 new adjusted FY 2017-2018 Annual Budget will increase from $8,796,224.00 to $8,911,964.85; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.010|(h)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14.010|(h)">
         <para>
           <num>(h)</num>
           <text>The Pueblo's FY 2017-2018 new adjusted FY 2017-2018 Annual Budget will increase from $8,796,224.00 to $8,911,964.85; and</text>
@@ -229,7 +229,7 @@
           </tr>
         </table>
       </text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.010|(i)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14.010|(i)">
         <para>
           <num>(i)</num>
           <text>The Pueblo's modified FY 2017-2018 Annual Budget is as follows:</text>
@@ -263,7 +263,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Council hereby approves and authorizes the attached law entitled, NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</text>
-      <codify:insert path="|6.3.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.020">
+      <codify:insert path="|6.3.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14.020">
         <section>
           <num>6.3.14.020</num>
           <text>The Council hereby approves and authorizes the attached law entitled, NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</text>
@@ -273,7 +273,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-      <codify:insert path="|6.3.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.030">
+      <codify:insert path="|6.3.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14.030">
         <section>
           <num>6.3.14.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
@@ -466,7 +466,7 @@
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
-    <codify:insert path="|6.3.14" num-value="6.3.14.040" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.14.040"/>
+    <codify:insert path="|6.3.14" num-value="6.3.14.040" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.14.040"/>
     <num/>
     <text codify:omit="">PUEBLO DE SAN ILDEFONSO</text>
     <heading>NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</heading>

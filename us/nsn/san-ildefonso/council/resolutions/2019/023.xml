@@ -29,7 +29,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo wishes to amend and extend the contract for Infant and Toddler program funding for the 3-year period, FY 2019-2021, ending June 30, 2022 to assist in meeting the needs of our children.</text>
-      <codify:replace path="6.5.16.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
+      <codify:replace path="6.5.16.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.16.010">
         <section>
           <num>6.5.16.010</num>
           <heading>Findings</heading>
@@ -58,7 +58,7 @@
       <para>
         <num codify:value="6.5.16.020">1.</num>
         <text>The Pueblo de San Ildefonso Council hereby approves amendment and extension of the existing Contract for the Infant and Toddler program for a three-year term ending June 30, 2022; and,</text>
-        <codify:replace path="6.5.16.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.020">
+        <codify:replace path="6.5.16.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.16.020">
           <section>
             <num>6.5.16.020</num>
             <text>The Pueblo de San Ildefonso Council hereby approves amendment and extension of the existing Contract for the Infant and Toddler program for a three-year term ending June 30, 2022.</text>
@@ -68,7 +68,7 @@
       <para>
         <num codify:value="6.5.16.030">2.</num>
         <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-        <codify:replace path="6.5.16.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.030">
+        <codify:replace path="6.5.16.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.16.030">
           <section>
             <num>6.5.16.030</num>
             <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>

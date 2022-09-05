@@ -228,7 +228,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2019, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.21">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.21">
     <container>
       <prefix>Part</prefix>
       <num>17.2.21</num>
@@ -240,19 +240,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>SAN ILDEFONSO SERVICES, LLC MEMBER'S REPRESENTATIVES COMPENSATION ACT OF 2019</heading>
     <section>
-      <codify:insert num-value="17.2.21.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.21.010"/>
+      <codify:insert num-value="17.2.21.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.21.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as "SAN ILDEFONSO SERVICES, LLC MEMBER'S REPRESENTATIVES COMPENSATION ACT OF 2019" ("Act").</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.21.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.21.020"/>
+      <codify:insert num-value="17.2.21.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.21.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to establish the rate of compensation for the five Member's Representatives serving on the SIS Board.</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.21.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.21.030"/>
+      <codify:insert num-value="17.2.21.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.21.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds that:</text>
@@ -278,13 +278,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.2.21.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.21.040"/>
+      <codify:insert num-value="17.2.21.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.21.040"/>
       <num>1.4</num>
       <heading>Establishment of the Rate of Compensation</heading>
       <text>The Council hereby establishes the rate of compensation for each SIS Member Representative at seventy-five dollars ($75) for each Board meeting including the Annual Meeting and any Special Meetings; provided, a Member Representative shall be compensated for no more than two meetings per month, subject to the appropriation of funds in the Annual Budget for such purposes.</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.21.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.21.050"/>
+      <codify:insert num-value="17.2.21.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.21.050"/>
       <num>1.5</num>
       <heading>Authorization of Funding</heading>
       <text>The Council hereby authorizes up to $1350.00 for expenditure for compensation for SIS Member's Representatives, subject to the appropriation of funds in an Annual Budget.</text>

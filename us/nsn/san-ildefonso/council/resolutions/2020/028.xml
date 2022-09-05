@@ -265,7 +265,7 @@
       <num>1.4</num>
       <heading>Authorizations</heading>
       <text>The Council hereby passes this Act to change Section 705 Grievances and Appeals to read as the attached Section 705 Grievances and Appeals.</text>
-      <codify:replace codify:doc="Pueblo de San Ildefonso Code" path="19.3.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="19.3.1.020">
+      <codify:replace codify:doc="Pueblo de San Ildefonso Code" path="19.3.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|19.3.1.020">
         <section>
           <num>19.3.1.020</num>
           <heading>Personnel Policy Manual</heading>

@@ -250,7 +250,7 @@
       <text>Title 19, Chapter 19, Section 19.4.1.040 of the Code is hereby amended to add the following subsection (g) as follows:</text>
       <include>
         <para>
-          <codify:insert path="19.4.1.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="19.4.1.040|(g)"/>
+          <codify:insert path="19.4.1.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|19.4.1.040|(g)"/>
           <num>(g)</num>
           <text>Due to the ongoing effects of the COVID-19 pandemic, the Council has determined that it is in the best interest of the Members of the Pueblo to authorize and direct a one-time distribution to begin in June 2021 to members of the Pueblo with a financial incentive to encourage all Members of the Pueblo to obtain a COVID-19 vaccination.</text>
         </para>
@@ -262,7 +262,7 @@
       <text>Title 19, Chapter 19, Section 19.4.1.050 of the Code is hereby amended to add the following subsection (e) as follows:</text>
       <include>
         <para>
-          <codify:insert path="19.4.1.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="19.4.1.050|(e)"/>
+          <codify:insert path="19.4.1.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|19.4.1.050|(e)"/>
           <num>(e)</num>
           <text>The Governor is hereby authorized and directed to issue a one-time distribution of available funds to members of the Pueblo as follows:</text>
           <para>

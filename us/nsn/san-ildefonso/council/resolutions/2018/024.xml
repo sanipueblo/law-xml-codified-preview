@@ -220,7 +220,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="10.1.6">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|10.1.6">
     <container>
       <prefix>Part</prefix>
       <num>10.1.6</num>
@@ -232,19 +232,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>DOMESTIC VIOLENCE PREVENTION ACT</heading>
     <section>
-      <codify:insert num-value="10.1.6.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="10.1.6.010"/>
+      <codify:insert num-value="10.1.6.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|10.1.6.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "DOMESTIC VIOLENCE PREVENTION ACT."</text>
     </section>
     <section>
-      <codify:insert num-value="10.1.6.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="10.1.6.020"/>
+      <codify:insert num-value="10.1.6.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|10.1.6.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to establish strong legal protections for victims of Domestic Violence.</text>
     </section>
     <section>
-      <codify:insert num-value="10.1.6.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="10.1.6.030"/>
+      <codify:insert num-value="10.1.6.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|10.1.6.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -262,13 +262,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="10.1.6.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="10.1.6.040"/>
+      <codify:insert num-value="10.1.6.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|10.1.6.040"/>
       <num>1.4</num>
       <heading>Jurisdiction</heading>
       <text>The Courts of the Pueblo shall have the authority to exercise criminal jurisdiction over any act of Domestic Violence that occurs within the exterior boundaries of the Pueblo and that involves an Indian. The Courts of the Pueblo shall have the authority to exercise civil jurisdiction over any act of Domestic Violence that occurs within the exterior boundaries of the Pueblo and that involves any person.</text>
     </section>
     <section>
-      <codify:insert num-value="10.1.6.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="10.1.6.050"/>
+      <codify:insert num-value="10.1.6.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|10.1.6.050"/>
       <num>1.5</num>
       <heading>Definitions</heading>
       <para>
@@ -285,7 +285,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="10.1.6.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="10.1.6.060"/>
+      <codify:insert num-value="10.1.6.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|10.1.6.060"/>
       <num>1.6</num>
       <heading>Procedure for Obtaining an Order of Protection</heading>
       <para>
@@ -306,7 +306,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="10.1.6.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="10.1.6.070"/>
+      <codify:insert num-value="10.1.6.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="|10.1.6.070"/>
       <num>1.7</num>
       <heading>Hearings; Ex Parte Order; Mutual Orders of Protection</heading>
       <para>
@@ -323,7 +323,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="10.1.6.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="10.1.6.080"/>
+      <codify:insert num-value="10.1.6.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="|10.1.6.080"/>
       <num>1.8</num>
       <heading>Penalties</heading>
       <para>
@@ -336,7 +336,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="10.1.6.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="10.1.6.090"/>
+      <codify:insert num-value="10.1.6.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="|10.1.6.090"/>
       <num>1.9</num>
       <heading>Procedures for Criminal Prosecution of an Act of Domestic Violence</heading>
       <para>

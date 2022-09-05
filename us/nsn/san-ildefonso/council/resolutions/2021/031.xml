@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 29th day of December, 2021, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25">
     <container>
       <prefix>Part</prefix>
       <num>6.3.25</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and,</text>
-      <codify:insert path="|6.3.25" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.010">
+      <codify:insert path="|6.3.25" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.010">
         <section>
           <num>6.3.25.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and,</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.010|(b)">
         <para>
           <num>(b)</num>
           <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and,</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.010|(c)">
         <para>
           <num>(c)</num>
           <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and,</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.010|(d)">
         <para>
           <num>(d)</num>
           <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
@@ -96,7 +96,7 @@
           </tbody>
         </table>
       </text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.010|(e)">
         <para>
           <num>(e)</num>
           <text>The FY2021-2022 Annual Budget is as follows:</text>
@@ -133,7 +133,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>it has been determined that certain modifications to the FY 2021-2022 Annual Budget are necessary; and,</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.010|(f)">
         <para>
           <num>(f)</num>
           <text>It has been determined that certain modifications to the FY 2021-2022 Annual Budget are necessary; and</text>
@@ -143,7 +143,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has reviewed the proposed Budget Modification No. 1 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 1; and,</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.010|(g)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.010|(g)">
         <para>
           <num>(g)</num>
           <text>The Council has reviewed the proposed Budget Modification No. 1 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 1; and</text>
@@ -153,7 +153,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2021-2022 Annual Budget amount for general funds will increase by $7,409.00 as a result of Budget Modification No. 1; and,</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.010|(h)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.010|(h)">
         <para>
           <num>(h)</num>
           <text>The Pueblo's FY 2021-2022 Annual Budget amount for general funds will increase by $7,409.00 as a result of Budget Modification No. 1; and,</text>
@@ -163,7 +163,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2021-2022 Annual Budget amount for special revenue funds will not increase nor decrease as a result of Budget Modification No. 1 due to the development of the American Rescue Plan Act budget; and,</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.010|(i)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.010|(i)">
         <para>
           <num>(i)</num>
           <text>the Pueblo's FY 2021-2022 Annual Budget amount for special revenue funds will not increase nor decrease as a result of Budget Modification No. 1 due to the development of the American Rescue Plan Act budget; and,</text>
@@ -173,7 +173,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the funds for increasing the General Fund for the Education Departments Scholarship increase will come from the Pueblo's investment account; and,</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.010|(j)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.010|(j)">
         <para>
           <num>(j)</num>
           <text>the funds for increasing the General Fund for the Education Departments Scholarship increase will come from the Pueblo's investment account; and,</text>
@@ -210,7 +210,7 @@
           </tbody>
         </table>
       </text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.010|(k)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.010|(k)">
         <para>
           <num>(k)</num>
           <text>The Pueblo's FY 2021-2021 Annual Budget after Budget Modification No. 1 is as follows:</text>
@@ -247,7 +247,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2021-2022 Annual Budget and that such modifications shall be effective immediately upon enactment; and</text>
-      <codify:insert path="|6.3.25" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.020">
+      <codify:insert path="|6.3.25" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.020">
         <section>
           <num>6.3.25.020</num>
           <text>The Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2021-2022 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
@@ -257,7 +257,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-      <codify:insert path="|6.3.25" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.030">
+      <codify:insert path="|6.3.25" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.030">
         <section>
           <num>6.3.25.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
@@ -615,7 +615,7 @@
         </table>
       </text>
     </para>
-    <codify:insert path="|6.3.25" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.25.040">
+    <codify:insert path="|6.3.25" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.25.040">
       <section>
         <num>6.3.25.040</num>
         <heading>Authorization for Fiscal Year 2021-2022 Budget Modification No. 1</heading>

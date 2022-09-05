@@ -227,7 +227,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>William S. Christian, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.13">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.13">
     <container>
       <prefix>Part</prefix>
       <num>2.3.13</num>
@@ -240,18 +240,18 @@
     <heading>ACT AUTHORIZING SIGNATURE OF THE MEMORANDUM OF AGREEMENT BETWEEN THE PUEBLO DE SAN ILDEFONSO AND THE PUEBLO OF POJOAQUE FOR LAW ENFORCEMENT SERVICES</heading>
     <section>
       <num>1.1</num>
-      <codify:insert num-value="2.3.13.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.13.010"/>
+      <codify:insert num-value="2.3.13.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.13.010"/>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT AUTHORIZING SIGNATURE OF THE MEMORANDUM OF AGREEMENT BETWEEN THE PUEBLO DE SAN ILDEFONSO AND THE PUEBLO OF POJOAQUE FOR LAW ENFORCEMENT SERVICES" ("Act")."</text>
     </section>
     <section>
       <num>1.2</num>
-      <codify:insert num-value="2.3.13.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.13.020"/>
+      <codify:insert num-value="2.3.13.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.13.020"/>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Governor to sign the document entitled "Memorandum of Agreement Between the Pueblo de San Ildefonso and the Pueblo of Pojoaque For Law Enforcement Services" for additional law enforcement services when Bureau of Indian Affairs-Office of Justice Services ("BIA LES") is unable to quickly respond to service calls or provide routine patrols at the Pueblo de San Ildefonso ("Pueblo").</text>
     </section>
     <section>
-      <codify:insert num-value="2.3.13.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.13.030"/>
+      <codify:insert num-value="2.3.13.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.13.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby declares that:</text>
@@ -282,7 +282,7 @@
     </section>
     <section>
       <num>1.4</num>
-      <codify:insert num-value="2.3.13.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.13.040"/>
+      <codify:insert num-value="2.3.13.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.13.040"/>
       <heading>Authorizations</heading>
       <para>
         <num>(a)</num>

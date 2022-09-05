@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 28th day of December, 2017, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9">
     <container>
       <prefix>Part</prefix>
       <num>6.6.9</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="|6.6.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010">
+      <codify:insert path="|6.6.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010">
         <section>
           <num>6.6.9.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(b)">
         <para>
           <num>(b)</num>
           <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011, pursuant to Federal law.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(c)">
         <para>
           <num>(c)</num>
           <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is vested with the exercise of all governmental functions of the Pueblo; with the power, authority and responsibility for the health, safety and welfare of all tribal members and the community; and for the overall direction and policy of the Pueblo; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(d)">
         <para>
           <num>(d)</num>
           <text>The Council is vested with the exercise of all governmental functions of the Pueblo; with the power, authority and responsibility for the health, safety and welfare of all tribal members and the community; and for the overall direction and policy of the Pueblo.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>by Tribal Council Resolution No. SI-R12-035, the Council approved the Aamodt Settlement Agreement and on March 14, 2013, the Pueblo executed the Settlement Agreement; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(e)">
         <para>
           <num>(e)</num>
           <text>By Tribal Council Resolution No. SI-R12-035, the Council approved the Aamodt Settlement Agreement and on March 14, 2013, the Pueblo executed the Settlement Agreement.</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Congress approved the Aamodt Settlement Agreement by enactment of the Aamodt Litigation Settlement Act as part of the Claims Resolution Act of 2010, Public Law No. 11-291, Title VI, sections 601 through 626 ("Settlement Act" of "Act"); and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(f)">
         <para>
           <num>(f)</num>
           <text>Congress approved the Aamodt Settlement Agreement by enactment of the Aamodt Litigation Settlement Act as part of the Claims Resolution Act of 2010, Public Law No. 11-291, Title VI, sections 601 through 626 ("Settlement Act" of "Act").</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Settlement Act authorizes and directs the United States Bureau of Reclamation ("Reclamation") to design and construct the Pojoaque Basin Regional Water System ("Regional Water System") to provide a firm, reliable water supply to the Pueblo de San Ildefonso, the Pueblo of Nambe, the Pueblo of Pojoaque, and the Pueblo of Tesuque (collectively "Pueblos") and customers of the Santa Fe County ("County") portion of the Regional Water System; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(g)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(g)">
         <para>
           <num>(g)</num>
           <text>The Settlement Act authorizes and directs the United States Bureau of Reclamation ("Reclamation") to design and construct the Pojoaque Basin Regional Water System ("Regional Water System") to provide a firm, reliable water supply to the Pueblo de San Ildefonso, the Pueblo of Nambe, the Pueblo of Pojoaque, and the Pueblo of Tesuque (collectively "Pueblos") and customers of the Santa Fe County ("County") portion of the Regional Water System.</text>
@@ -99,7 +99,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Settlement Act directs that upon completion of construction as defined by the Act, Reclamation shall transfer the Pueblo Water Facilities (as defined by the Act) to the individual Pueblos; the County Distribution System (as defined by the Act) of the Regional Water System to the County and the joint facilities serving both Pueblo and County customers to the Regional Water Authority established pursuant to the Joint Powers Agreement among the Pueblos and the County; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(h)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(h)">
         <para>
           <num>(h)</num>
           <text>The Settlement Act directs that upon completion of construction as defined by the Act, Reclamation shall transfer the Pueblo Water Facilities (as defined by the Act) to the individual Pueblos; the County Distribution System (as defined by the Act) of the Regional Water System to the County and the joint facilities serving both Pueblo and County customers to the Regional Water Authority established pursuant to the Joint Powers Agreement among the Pueblos and the County.</text>
@@ -109,7 +109,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Settlement Act authorized and appropriated $5,000,000.00 for the interim operation and maintenance of the Regional Water System by Reclamation prior to the conveyance of the respective portions of the Regional Water System to the Pueblos, the County, and the Regional Water Authority; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(i)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(i)">
         <para>
           <num>(i)</num>
           <text>The Settlement Act authorized and appropriated $5,000,000.00 for the interim operation and maintenance of the Regional Water System by Reclamation prior to the conveyance of the respective portions of the Regional Water System to the Pueblos, the County, and the Regional Water Authority.</text>
@@ -119,7 +119,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Settlement Act authorized and appropriated $37,500,000.00 to the Aamodt Settlement Pueblos' Fund for the purpose of providing a fund to the Pueblos for purposes of costs incurred by the Pueblos related to operation, maintenance and replacement costs associated with the Pueblo Water Facilities and the Regional Water System; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(j)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(j)">
         <para>
           <num>(j)</num>
           <text>The Settlement Act authorized and appropriated $37,500,000.00 to the Aamodt Settlement Pueblos' Fund for the purpose of providing a fund to the Pueblos for purposes of costs incurred by the Pueblos related to operation, maintenance and replacement costs associated with the Pueblo Water Facilities and the Regional Water System.</text>
@@ -129,7 +129,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the funds authorized and appropriated are currently held in federal overnight accounts by the Office of the Special Trustee, such accounts earning nominal rates of interest; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(k)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(k)">
         <para>
           <num>(k)</num>
           <text>The funds authorized and appropriated are currently held in federal overnight accounts by the Office of the Special Trustee, such accounts earning nominal rates of interest.</text>
@@ -139,7 +139,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the funds of $5,000,000.00 appropriated for use by Reclamation to operate and maintain the Regional Water System until conveyance will not be required until at least 2021; and the funds authorized for and appropriated to the Aamodt Settlement Pueblos' Fund will not be needed until at least 2021; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(l)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(l)">
         <para>
           <num>(l)</num>
           <text>The funds of $5,000,000.00 appropriated for use by Reclamation to operate and maintain the Regional Water System until conveyance will not be required until at least 2021; and the funds authorized for and appropriated to the Aamodt Settlement Pueblos' Fund will not be needed until at least 2021.</text>
@@ -149,7 +149,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Office of the Special Trustee has requested the Pueblos consider allowing the Special Trustee to invest such funds in a manner that would allow a higher rate of return than the federal overnight account until such funds are needed by Reclamation to operate and maintain the Regional Water System prior to conveyance and by the Pueblos for operation, maintenance and replacement of the Pueblo Water Facilities and Regional Water System after conveyance; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(m)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(m)">
         <para>
           <num>(m)</num>
           <text>The Office of the Special Trustee has requested the Pueblos consider allowing the Special Trustee to invest such funds in a manner that would allow a higher rate of return than the federal overnight account until such funds are needed by Reclamation to operate and maintain the Regional Water System prior to conveyance and by the Pueblos for operation, maintenance and replacement of the Pueblo Water Facilities and Regional Water System after conveyance.</text>
@@ -159,7 +159,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblos are in agreement that the funds should be invested in a manner which will allow a higher rate of return until such funds are needed by Reclamation for operation and maintenance of the Regional Water System prior to conveyance and by the Pueblos as provided for and directed by the Act; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(n)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(n)">
         <para>
           <num>(n)</num>
           <text>The Pueblos are in agreement that the funds should be invested in a manner which will allow a higher rate of return until such funds are needed by Reclamation for operation and maintenance of the Regional Water System prior to conveyance and by the Pueblos as provided for and directed by the Act.</text>
@@ -169,7 +169,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>it would be in the best interest of the Pueblo to direct the Special Trustee to allow the funds to be invested in a manner to allow a higher rate of return than that provided by the federal overnight account.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.010|(o)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.010|(o)">
         <para>
           <num>(o)</num>
           <text>It would be in the best interest of the Pueblo to direct the Special Trustee to allow the funds to be invested in a manner to allow a higher rate of return than that provided by the federal overnight account.</text>
@@ -179,7 +179,7 @@
     <recital>
       <conjunction>NOW THEREFORE, BE IT RESOLVED</conjunction>
       <text>that the Pueblo de San Ildefonso Tribal Council authorizes the Governor of the Pueblo to take all actions necessary to allow the funds of $5,000,000.00 and $37,500,000.00 authorized and appropriated by the Settlement Act and held by the Office of the Special Trustee to be invested in a manner to allow a higher rate of return than that provided by the federal overnight account for a period up to five years or as otherwise directed by the Pueblos.</text>
-      <codify:insert path="|6.6.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.9.020">
+      <codify:insert path="|6.6.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.9.020">
         <section>
           <num>6.6.9.020</num>
           <text>The Pueblo de San Ildefonso Tribal Council authorizes the Governor of the Pueblo to take all actions necessary to allow the funds of $5,000,000.00 and $37,500,000.00 authorized and appropriated by the Settlement Act and held by the Office of the Special Trustee to be invested in a manner to allow a higher rate of return than that provided by the federal overnight account for a period up to five years or as otherwise directed by the Pueblos.</text>

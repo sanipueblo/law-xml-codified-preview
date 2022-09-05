@@ -276,7 +276,7 @@
       <include>
         <text>For the privilege of selling cigarettes on Pueblo lands, there is hereby levied a tax of $1.09 per pack of cigarettes sold by a retailer on Pueblo lands.</text>
       </include>
-      <codify:replace path="18.1.6.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="18.1.6.050">
+      <codify:replace path="18.1.6.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|18.1.6.050">
         <section>
           <num>18.1.6.050</num>
           <heading>Tax Imposed; Taxable Event.</heading>
@@ -285,7 +285,7 @@
       </codify:replace>
     </section>
     <section>
-      <codify:applicability date="2019-11-01" history="false" codified:path="18.1.6.050" codified:doc="Pueblo de San Ildefonso Code"/>
+      <codify:applicability date="2019-11-01" history="false" codified:path="|18.1.6.050" codified:doc="Pueblo de San Ildefonso Code"/>
       <num>1.5</num>
       <heading>Effective Date</heading>
       <text>The cigarette tax rate increase shall become effective November 1, 2019.</text>

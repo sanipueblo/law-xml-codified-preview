@@ -223,7 +223,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>William S. Christian, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="17.3.1.010">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.3.1.010">
     <container>
       <prefix>Chapter</prefix>
       <num>17.3</num>
@@ -241,19 +241,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>ACT AUTHORIZING ASSESSMENT OF AREAS FOR POTENTIAL WAREHOUSE AND DISTRIBUTION CENTER</heading>
     <section>
-      <codify:insert num-value="17.3.1.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.3.1.010"/>
+      <codify:insert num-value="17.3.1.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.3.1.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT AUTHORIZING ASSESSMENT OF AREAS FOR POTENTIAL WAREHOUSE AND DISTRIBUTION CENTER ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="17.3.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.3.1.020"/>
+      <codify:insert num-value="17.3.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.3.1.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the assessment of areas within the Pueblo de San Ildefonso lands for potential siting of a warehouse and distribution center for Los Alamos National Laboratory ("LANL") operations.</text>
     </section>
     <section>
-      <codify:insert num-value="17.3.1.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.3.1.030"/>
+      <codify:insert num-value="17.3.1.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.3.1.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby declares that:</text>
@@ -279,7 +279,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.3.1.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.3.1.040"/>
+      <codify:insert num-value="17.3.1.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.3.1.040"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
       <para>

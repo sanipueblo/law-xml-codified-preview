@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 3rd day of June, 2020, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20">
     <container>
       <prefix>Part</prefix>
       <num>6.3.20</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement; and,</text>
-      <codify:insert path="|6.3.20" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.010">
+      <codify:insert path="|6.3.20" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.010">
         <section>
           <num>6.3.20.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement allows the Tribal Council to enact a budget for all new grants.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.010|(b)">
         <para>
           <num>(b)</num>
           <text>Section 5(a)(ii)(A) of the Agreement allows the Tribal Council to enact a budget for all new grants.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo has received a new grant from the US Treasury that allows the Pueblo access to 1.6 million for Covid-19 pandemic prevention and operational costs in dealing with Covid-19; and,</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.010|(c)">
         <para>
           <num>(c)</num>
           <text>The Pueblo has received a new grant from the US Treasury that allows the Pueblo access to 1.6 million for Covid-19 pandemic prevention and operational costs in dealing with Covid-19.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>as the grant will require close fiscal monitoring of expenditures it is imperative that the Pueblo properly identify, record, and maximize use of this grant; and,</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.010|(d)">
         <para>
           <num>(d)</num>
           <text>As the grant will require close fiscal monitoring of expenditures it is imperative that the Pueblo properly identify, record, and maximize use of this grant.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Governor's Office, in coordination with the Council, developed the proposed budget attached to this Resolution ("Covid-19 Grant Budget") and recommends approval of the Budget.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.010|(e)">
         <para>
           <num>(e)</num>
           <text>The Governor's Office, in coordination with the Council, developed the proposed budget attached to this Resolution ("Covid-19 Grant Budget") and recommends approval of the Budget.</text>
@@ -77,7 +77,7 @@
       </codify:insert>
     </recital>
     <recital>
-      <codify:insert path="|6.3.20" num-value="6.3.20.020" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.020"/>
+      <codify:insert path="|6.3.20" num-value="6.3.20.020" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.020"/>
       <num/>
       <conjunction codify:omit="">NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text><span codify:value="The">that the</span> Council hereby:</text>
@@ -287,13 +287,13 @@
       <strong>(May 1, 2020 to December 30, 2020)</strong>
     </text>
     <section>
-      <codify:insert num-value="6.3.20.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.030"/>
+      <codify:insert num-value="6.3.20.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.030"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "BUDGET AUTHORIZATION FOR COVID-19 GRANT FROM THE UNITED STATES TREASURY."</text>
     </section>
     <section>
-      <codify:insert num-value="6.3.20.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.040"/>
+      <codify:insert num-value="6.3.20.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.040"/>
       <num>1.2</num>
       <heading>Definitions</heading>
       <para>
@@ -314,13 +314,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.3.20.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.050"/>
+      <codify:insert num-value="6.3.20.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.050"/>
       <num>1.3</num>
       <heading>Purpose</heading>
       <text>The purpose of this Resolution is to approve the Budget for the Covid-19 Grant (May 1, 2020 to December 30, 2020).</text>
     </section>
     <section>
-      <codify:insert num-value="6.3.20.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.060"/>
+      <codify:insert num-value="6.3.20.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.060"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds that:</text>
@@ -342,7 +342,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.3.20.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.070"/>
+      <codify:insert num-value="6.3.20.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.070"/>
       <num>1.5</num>
       <heading>Authorizations</heading>
       <text>The Council herby:</text>
@@ -360,13 +360,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.3.20.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.080"/>
+      <codify:insert num-value="6.3.20.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.080"/>
       <num>1.6</num>
       <heading>Sovereign Immunity</heading>
       <text>Nothing in this resolution waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees.</text>
     </section>
     <section>
-      <codify:insert num-value="6.3.20.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.20.090"/>
+      <codify:insert num-value="6.3.20.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.20.090"/>
       <num>1.7</num>
       <heading>Severability</heading>
       <text>If a court of competent jurisdiction finds any provision of this Budget to be invalid or illegal under applicable law, such provision shall be severed from this Budget and the remainder of this Budget shall remain in full force and effect.</text>

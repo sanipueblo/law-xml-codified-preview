@@ -211,7 +211,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>William S. Christian, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="24.4.6">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.4.6">
     <container>
       <prefix>Part</prefix>
       <num>24.4.6</num>
@@ -223,19 +223,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>QUARANTINE AND SAFE HOUSE PROPERTY PURCHASE AUTHORIZATION ACT</heading>
     <section>
-      <codify:insert num-value="24.4.6.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.4.6.010"/>
+      <codify:insert num-value="24.4.6.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.4.6.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "QUARANTINE AND SAFE HOUSE PROPERTY PURCHASE AUTHOROZATION ACT" ("Act").</text>
     </section>
     <section>
-      <codify:insert num-value="24.4.6.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.4.6.020"/>
+      <codify:insert num-value="24.4.6.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.4.6.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this act is to authorize the Governor to purchase a real property for a quarantine house and/or safe house in the El Rancho area to protect citizens of the Pueblo who are facing the public health emergency caused by the Coronavirus Disease 2019 ("COVID-19") pandemic and to authorize the use of the CARES Act funds and other available funds appropriated for such purposes.</text>
     </section>
     <section>
-      <codify:insert num-value="24.4.6.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.4.6.030"/>
+      <codify:insert num-value="24.4.6.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.4.6.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds that:</text>
@@ -281,7 +281,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.4.6.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.4.6.040"/>
+      <codify:insert num-value="24.4.6.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.4.6.040"/>
       <num>1.4</num>
       <heading>Contract Authorization</heading>
       <para>

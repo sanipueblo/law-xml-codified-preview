@@ -227,7 +227,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.11">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.11">
     <container>
       <prefix>Part</prefix>
       <num>17.2.11</num>
@@ -239,13 +239,13 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>APPROVING AND AUTHORIZING THE BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE TOTAVI CONVENIENCE STORE</heading>
     <section>
-      <codify:insert num-value="17.2.11.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.11.010"/>
+      <codify:insert num-value="17.2.11.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.11.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the Act, "APPROVING AND AUTHORIZING THE BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE TOTAVI CONVENIENCE STORE."</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.11.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.11.020"/>
+      <codify:insert num-value="17.2.11.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.11.020"/>
       <num>1.2</num>
       <heading>Definitions</heading>
       <para>
@@ -258,13 +258,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.2.11.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.11.030"/>
+      <codify:insert num-value="17.2.11.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.11.030"/>
       <num>1.3</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize and direct the Governor of the Pueblo to negotiate and execute a Business Lease with SIS LLC for the Totavi Convenience Store.</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.11.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.11.040"/>
+      <codify:insert num-value="17.2.11.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.11.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -290,7 +290,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.2.11.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.11.050"/>
+      <codify:insert num-value="17.2.11.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.11.050"/>
       <num>1.5</num>
       <heading>Council Authorizations and Waivers</heading>
       <para>
@@ -315,7 +315,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.2.11.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.11.060"/>
+      <codify:insert num-value="17.2.11.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.11.060"/>
       <num>1.6</num>
       <heading>Authority of Tribal Governor to Execute the Business Lease</heading>
       <text>The Council hereby authorizes and directs the Governor of the Pueblo to negotiate and execute a final Business Lease in substantially the same form as the attached Proposed Business Lease consistent with this Act, make any revisions and amendments that may be necessary and required to support the execution of a final Business Lease, and execute any certification that may be required by federal or tribal law to support the execution of a final Business Lease.</text>

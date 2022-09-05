@@ -229,7 +229,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.10">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.10">
     <container>
       <prefix>Part</prefix>
       <num>6.6.10</num>
@@ -241,19 +241,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>AUTHORIZING A CONTRACT EXTENSION WITH PORTFOLIO MONITORING, LLC, FOR INVESTMENT FUND PROTECTION</heading>
     <section>
-      <codify:insert num-value="6.6.10.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.10.010"/>
+      <codify:insert num-value="6.6.10.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.10.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as, "AUTHORIZING A CONTRACT EXTENSION WITH PORTFOLIO MONITORING, LLC, FOR INVESTMENT FUND PROTECTION."</text>
     </section>
     <section>
-      <codify:insert num-value="6.6.10.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.10.020"/>
+      <codify:insert num-value="6.6.10.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.10.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of the Act is to provide the Pueblo with additional protection for the Pueblo's investment accounting by authorizing the Governor to extend the current contract with a highly qualified professional company, Portfolio Monitoring, LLC, to provide ongoing monitoring services of the Pueblo's investment accounts, and to report the findings directly to the Governor and Council.</text>
     </section>
     <section>
-      <codify:insert num-value="6.6.10.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.10.030"/>
+      <codify:insert num-value="6.6.10.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.10.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -279,7 +279,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.6.10.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.10.040"/>
+      <codify:insert num-value="6.6.10.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.10.040"/>
       <num>1.4</num>
       <heading>Authorization for Portfolio Monitoring, LLC</heading>
       <para>

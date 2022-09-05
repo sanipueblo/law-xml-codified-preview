@@ -219,19 +219,19 @@
       <replace>First Amendment to the Property Management Contract Authorization Act</replace>
     </codify:find-replace>
     <section>
-      <codify:replace path="24.5.2.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.5.2.010"/>
+      <codify:replace path="24.5.2.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.5.2.010"/>
       <num codify:value="24.5.2.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "FIRST AMENDMENT TO THE PROPERTY MANAGEMENT CONTRACT AUTHORIZATION ACT" ("Act").</text>
     </section>
     <section>
-      <codify:replace path="24.5.2.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.5.2.020"/>
+      <codify:replace path="24.5.2.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.5.2.020"/>
       <num codify:value="24.5.2.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Governor to hire a property management company to provide property management services for homes owned by the Pueblo and for other property that may be added to the Pueblo's inventory from time to time.</text>
     </section>
     <section>
-      <codify:replace path="24.5.2.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.5.2.030"/>
+      <codify:replace path="24.5.2.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.5.2.030"/>
       <num codify:value="24.5.2.030">1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -249,7 +249,7 @@
       </para>
     </section>
     <section>
-      <codify:replace path="24.5.2.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.5.2.040"/>
+      <codify:replace path="24.5.2.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.5.2.040"/>
       <num codify:value="24.5.2.040">1.4</num>
       <heading>Contract Authorization</heading>
       <para>

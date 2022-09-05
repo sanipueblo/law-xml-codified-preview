@@ -219,7 +219,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2017, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="3.3.1.010">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|3.3.1.010">
     <container>
       <prefix>Chapter</prefix>
       <num>3.3</num>
@@ -236,19 +236,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>THE COUNCIL CONTRACTING AUTHORIZATION ACT OF 2017</heading>
     <section>
-      <codify:insert num-value="3.3.1.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="3.3.1.010"/>
+      <codify:insert num-value="3.3.1.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|3.3.1.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as "THE COUNCIL CONTRACTING AUTHORIZATION ACT OF 2017 ("Act")."</text>
     </section>
     <section>
       <num>1.2</num>
-      <codify:insert num-value="3.3.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="3.3.1.020"/>
+      <codify:insert num-value="3.3.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|3.3.1.020"/>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Lieutenant Governor, on behalf of the Council, to enter into contracts, as specifically authorized by the Council, with professional advisors, consultants, and others necessary to fulfill the Council's duties to write laws and prepare budgets for the benefit of the People of the Pueblo, subject to the appropriation of funds for such purposes.</text>
     </section>
     <section>
-      <codify:insert num-value="3.3.1.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="3.3.1.030"/>
+      <codify:insert num-value="3.3.1.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|3.3.1.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -266,7 +266,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="3.3.1.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="3.3.1.040"/>
+      <codify:insert num-value="3.3.1.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|3.3.1.040"/>
       <num>1.4</num>
       <heading>Contracting Authorization</heading>
       <para>

@@ -266,7 +266,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Terrence K. Garcia, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.25">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.25">
     <container>
       <prefix>Part</prefix>
       <num>17.2.25</num>
@@ -281,19 +281,19 @@
     </text>
     <heading>AMENDMENT AND RESTATEMENT OF THE ACT APPROVING TAX SUBSIDY TO SAN ILDEFONSO SERVICES, LLC</heading>
     <section>
-      <codify:insert num-value="17.2.25.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.25.010"/>
+      <codify:insert num-value="17.2.25.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.25.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "AMENDMENT AND RESTATEMENT OF THE ACT APPROVING TAX SUBSIDY TO SAN ILDEFONSO SERVICES, LLC."</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.25.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.25.020"/>
+      <codify:insert num-value="17.2.25.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.25.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The Purpose of this Act is to approve and restate and extend the 2018-2019 Pueblo de San Ildefonso Tax Subsidy to San Ildefonso Services, LLC for a five-year period beginning June 1, 2021 to May 31, 2026.</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.25.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.25.030"/>
+      <codify:insert num-value="17.2.25.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.25.030"/>
       <num>1.3</num>
       <heading>Definitions</heading>
       <para>
@@ -306,7 +306,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.2.25.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.25.040"/>
+      <codify:insert num-value="17.2.25.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.25.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -344,7 +344,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.2.25.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.25.050"/>
+      <codify:insert num-value="17.2.25.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.25.050"/>
       <num>1.5</num>
       <heading>Authorizations</heading>
       <para>

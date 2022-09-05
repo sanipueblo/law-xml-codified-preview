@@ -264,7 +264,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2019, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.4">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.4">
     <container>
       <prefix>Part</prefix>
       <num>15.1.4</num>
@@ -276,13 +276,13 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>CONFIRMING DELEGATION OF AUTHORITY TO THE NORTHERN PUEBLOS HOUSING AUTHORITY TO APPLY FOR BUREAU OF INDIAN AFFAIRS, DEPARTMENT OF INTERIOR OFFICE OF INDIAN ENERGY AND ECONOMIC DEVELOPMENT, ENERGY AND MINERAL DEVELOPMENT GRANT TO CONDUCT A SOLAR ENERGY FEASIBILITY ASSESSMENT</heading>
     <section>
-      <codify:insert num-value="15.1.4.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.4.010"/>
+      <codify:insert num-value="15.1.4.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.4.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as "CONFIRMING DELEGATION OF AUTHORITY TO APPLY FOR BUREAU OF INDIAN AFFAIRS, DEPARTMENT OF INTERIOR OFFICE OF INDIAN ENERGY AND ECONOMIC DEVELOPMENT, ENERGY AND MINERAL DEVELOPMENT GRANT TO CONDUCT A SOLAR ENERGY FEASIBILITY ASSESSMENT" ("Act").</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.4.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.4.020"/>
+      <codify:insert num-value="15.1.4.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.4.020"/>
       <num>1.2</num>
       <heading>Definitions</heading>
       <para>
@@ -299,13 +299,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.4.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.4.030"/>
+      <codify:insert num-value="15.1.4.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.4.030"/>
       <num>1.3</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to provide the Northern Pueblos Housing Authority, in coordination with the Pueblo, with authority to apply for grant funding to conduct a feasibility assessment for utilization in developing solar photovoltaic (PV) opportunities at the Pueblo.</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.4.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.4.040"/>
+      <codify:insert num-value="15.1.4.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.4.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds that:</text>
@@ -336,7 +336,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.4.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.4.050"/>
+      <codify:insert num-value="15.1.4.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.4.050"/>
       <num>1.5</num>
       <heading>Authorizations</heading>
       <para>

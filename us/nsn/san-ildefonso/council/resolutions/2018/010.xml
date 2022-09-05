@@ -219,7 +219,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.4">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.4">
     <container>
       <prefix>Part</prefix>
       <num>24.7.4</num>
@@ -231,13 +231,13 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>INTERIM ROAD ACCESS AUTHORIZATION ACT OF 2018</heading>
     <section>
-      <codify:insert num-value="24.7.4.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.4.010"/>
+      <codify:insert num-value="24.7.4.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.4.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as, "INTERIM ROAD ACCESS AUTHORIZATION ACT OF 2018 ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="24.7.4.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.4.020"/>
+      <codify:insert num-value="24.7.4.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.4.020"/>
       <num>1.2</num>
       <heading>Definitions</heading>
       <para>
@@ -292,7 +292,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.7.4.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.4.030"/>
+      <codify:insert num-value="24.7.4.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.4.030"/>
       <num>1.3</num>
       <heading>Purpose</heading>
       <para>
@@ -313,7 +313,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.7.4.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.4.040"/>
+      <codify:insert num-value="24.7.4.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.4.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -331,7 +331,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.7.4.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.4.050"/>
+      <codify:insert num-value="24.7.4.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.4.050"/>
       <num>1.5</num>
       <heading>Temporary Public Road Permit to Santa Fe County</heading>
       <para>
@@ -348,7 +348,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.7.4.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.4.060"/>
+      <codify:insert num-value="24.7.4.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.4.060"/>
       <num>1.6</num>
       <heading>Temporary Access Authorization for Private Land Owners</heading>
       <para>
@@ -365,7 +365,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.7.4.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.4.070"/>
+      <codify:insert num-value="24.7.4.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.4.070"/>
       <num>1.7</num>
       <heading>Specific Temporary Permit for Private Land Owners</heading>
       <para>
@@ -378,7 +378,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.7.4.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.4.080"/>
+      <codify:insert num-value="24.7.4.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.4.080"/>
       <num>1.8</num>
       <heading>Disclaimers and Limitations</heading>
       <para>
@@ -399,7 +399,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.7.4.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.4.090"/>
+      <codify:insert num-value="24.7.4.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.4.090"/>
       <num>1.9</num>
       <heading>Jurisdiction of the Courts over Disputes</heading>
       <para>
@@ -412,13 +412,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.7.4.100" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.4.100"/>
+      <codify:insert num-value="24.7.4.100" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.4.100"/>
       <num>1.10</num>
       <heading>Approval of the U.S. Department of the Interior</heading>
       <text>The Governor is hereby authorized to take any and all actions necessary, if any, to seek and obtain the approval of DOI for any temporary road permit, a grant of temporary access, or any other action taken pursuant to this Act if such approval is deemed necessary.</text>
     </section>
     <section>
-      <codify:insert num-value="24.7.4.110" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.7.4.110"/>
+      <codify:insert num-value="24.7.4.110" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.7.4.110"/>
       <num>1.11</num>
       <heading>Sunset Provision</heading>
       <para>

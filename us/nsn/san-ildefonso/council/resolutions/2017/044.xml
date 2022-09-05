@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 20th day of December, 2017, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.16">
     <container>
       <prefix>Part</prefix>
       <num>6.5.16</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="|6.5.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
+      <codify:insert path="|6.5.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.16.010">
         <section>
           <num>6.5.16.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.16.010">
         <para>
           <num>(b)</num>
           <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement, the governing document of the Pueblo.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo, by and through United States Public Laws 105-17 and 108-446, has contracted and administered key functions to the Pueblo through the Bureau of Indian Education to provide Early Childhood Education through the Individuals with Disabilities Education Act; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.16.010">
         <para>
           <num>(c)</num>
           <text>The Pueblo, by and through United States Public Laws 105-17 and 108-446, has contracted and administered key functions to the Pueblo through the Bureau of Indian Education to provide Early Childhood Education through the Individuals with Disabilities Education Act.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Infant and Toddler program funding provides programs to assist in child find, screening, and other procedures for the early identification of children aged 0-5, parent training, and the provision of direct services; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.16.010">
         <para>
           <num>(d)</num>
           <text>The Infant and Toddler program funding provides programs to assist in child find, screening, and other procedures for the early identification of children aged 0-5, parent training, and the provision of direct services.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo currently operates and administers the Infant and Toddler program under the Pueblo's Education Department, Early Childhood Program, in compliance with all components of the application for contract; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.16.010">
         <para>
           <num>(e)</num>
           <text>The Pueblo currently operates and administers the Infant and Toddler program under the Pueblo's Education Department, Early Childhood Program, in compliance with all components of the application for contract.</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo wishes to amend and extend the contract for Infant and Toddler program funding for the 3-year period, FY 2017-2019, ending June 30, 2020 to assist in meeting the needs of our children.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.010">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.16.010">
         <para>
           <num>(f)</num>
           <text>The Pueblo wishes to amend and extend the contract for Infant and Toddler program funding for the 3-year period, FY 2017-2019, ending June 30, 2020 to assist in meeting the needs of our children.</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby 	approves the amendment and extension of the existing Contract for the Infant and 	Toddler program for a three-year term ending June 30, 2020; and</text>
-      <codify:insert path="|6.5.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.020">
+      <codify:insert path="|6.5.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.16.020">
         <section>
           <num>6.5.16.020</num>
           <text>The Pueblo de San Ildefonso Council hereby 	approves the amendment and extension of the existing Contract for the Infant and 	Toddler program for a three-year term ending June 30, 2020.</text>
@@ -99,7 +99,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-      <codify:insert path="|6.5.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.16.030">
+      <codify:insert path="|6.5.16" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.16.030">
         <section>
           <num>6.5.16.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>

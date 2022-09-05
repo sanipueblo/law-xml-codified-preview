@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 2nd day of October, 2017, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.15">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.15">
     <container>
       <prefix>Part</prefix>
       <num>6.5.15</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources; and</text>
-      <codify:insert path="|6.5.15" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.15.010">
+      <codify:insert path="|6.5.15" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.15.010">
         <section>
           <num>6.5.15.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the New Mexico Finance Authority ("Finance Authority") is authorized pursuant to the Act, particularly Section 6-21-6.4 of the Act, to make grants from the local government planning fund (the "Fund") to qualified entities to evaluate and estimate the costs of implementing feasible alternatives for meeting water and wastewater public project needs or to develop water conservation plans, long-term master plans or economic development plans; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.15.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.15.010|(b)">
         <para>
           <num>(b)</num>
           <text>The New Mexico Finance Authority ("Finance Authority") is authorized pursuant to the Act, particularly Section 6-21-6.4 of the Act, to make grants from the local government planning fund (the "Fund") to qualified entities to evaluate and estimate the costs of implementing feasible alternatives for meeting water and wastewater public project needs or to develop water conservation plans, long-term master plans or economic development plans.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>pursuant to the Act the Finance Authority has developed an application procedure whereby the Governing Body may submit an application ("Application") to the Finance Authority for planning grant financial assistance from the Fund; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.15.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.15.010|(c)">
         <para>
           <num>(c)</num>
           <text>Pursuant to the Act the Finance Authority has developed an application procedure whereby the Governing Body may submit an application ("Application") to the Finance Authority for planning grant financial assistance from the Fund.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso Council ("Council") desires to submit an Application for financial assistance from the Water Trust Board for Water conservation or recycling, treatment or reuse of water ("Water Conservation"), as defined in the Water Trust Board Water Project Fund Project Management Policies currently in effect and specifically identified below, for the benefit of the Pueblo; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.15.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.15.010|(d)">
         <para>
           <num>(d)</num>
           <text>The Pueblo de San Ildefonso Council ("Council") desires to submit an Application for financial assistance from the Water Trust Board for Water conservation or recycling, treatment or reuse of water ("Water Conservation"), as defined in the Water Trust Board Water Project Fund Project Management Policies currently in effect and specifically identified below, for the benefit of the Pueblo.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council intends to submit the Application for Bidding and Construction of a Water Reclamation Facility ("Project") for the benefit of the Pueblo de San Ildefonso, Pojoaque Valley and its citizens; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.15.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.15.010|(e)">
         <para>
           <num>(e)</num>
           <text>The Council intends to submit the Application for Bidding and Construction of a Water Reclamation Facility ("Project") for the benefit of the Pueblo de San Ildefonso, Pojoaque Valley and its citizens.</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the application prescribed by the Finance Authority to finance the Water Conservation Project in whole with financial assistance from the Fund has been completed, submitted to, and reviewed by the Council, and this Resolution approving submission of the completed Application to the Finance Authority for its consideration and review is required as part of the Application.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.15.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.15.010|(f)">
         <para>
           <num>(f)</num>
           <text>The application prescribed by the Finance Authority to finance the Water Conservation Project in whole with financial assistance from the Fund has been completed, submitted to, and reviewed by the Council, and this Resolution approving submission of the completed Application to the Finance Authority for its consideration and review is required as part of the Application.</text>
@@ -87,7 +87,7 @@
       </codify:insert>
     </recital>
     <recital>
-      <codify:insert path="|6.5.15" num-value="6.5.15.020" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.15.020"/>
+      <codify:insert path="|6.5.15" num-value="6.5.15.020" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.15.020"/>
       <conjunction codify:omit="">NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
       <num/>
       <para>

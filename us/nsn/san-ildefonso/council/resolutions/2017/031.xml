@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 2nd day of October, 2017, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.7">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.7">
     <container>
       <prefix>Part</prefix>
       <num>6.6.7</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources; and</text>
-      <codify:insert path="|6.6.7" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.7.010">
+      <codify:insert path="|6.6.7" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.7.010">
         <section>
           <num>6.6.7.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo provides water and wastewater services to residences in the three housing areas of the Pueblo (Pueblo Center, Northeast and Northwest) and operates and maintains said systems; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.7.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.7.010|(b)">
         <para>
           <num>(b)</num>
           <text>The Pueblo provides water and wastewater services to residences in the three housing areas of the Pueblo (Pueblo Center, Northeast and Northwest) and operates and maintains said systems.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo intends to undertake acquisition, construction and improvement of the wastewater system for the benefit of the community and its citizens; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.7.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.7.010|(c)">
         <para>
           <num>(c)</num>
           <text>The Pueblo intends to undertake acquisition, construction and improvement of the wastewater system for the benefit of the community and its citizens.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo recognizes an Asset Management Plan is a dynamic tool and asset management planning is an ongoing effort by service providers to improve system maintenance, identify and prioritize repairs and/or replacement, and meet system users' demands; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.7.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.7.010|(d)">
         <para>
           <num>(d)</num>
           <text>The Pueblo recognizes an Asset Management Plan is a dynamic tool and asset management planning is an ongoing effort by service providers to improve system maintenance, identify and prioritize repairs and/or replacement, and meet system users' demands.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo has authorized the development and implementation of a San Ildefonso Asset Management Team to advise and assist the Pueblo tribal government in the development and recommendations of project proposals for future planning, design, and construction of Infrastructure Project(s); and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.7.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.7.010|(e)">
         <para>
           <num>(e)</num>
           <text>The Pueblo has authorized the development and implementation of a San Ildefonso Asset Management Team to advise and assist the Pueblo tribal government in the development and recommendations of project proposals for future planning, design, and construction of Infrastructure Project(s).</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo has initiated asset management planning with Asset Inventories of the community water and wastewater systems, roads, irrigation, gas, electrical, telephone and fiber optic lines.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.7.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.7.010|(f)">
         <para>
           <num>(f)</num>
           <text>The Pueblo has initiated asset management planning with Asset Inventories of the community water and wastewater systems, roads, irrigation, gas, electrical, telephone and fiber optic lines.</text>
@@ -87,7 +87,7 @@
       </codify:insert>
     </recital>
     <recital>
-      <codify:insert path="|6.6.7" num-value="6.6.7.020" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.7.020"/>
+      <codify:insert path="|6.6.7" num-value="6.6.7.020" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.7.020"/>
       <conjunction codify:omit="">NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
       <num/>
       <para>

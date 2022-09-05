@@ -262,7 +262,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Terrence K. Garcia, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.6">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.6">
     <container>
       <prefix>Part</prefix>
       <num>15.1.6</num>
@@ -277,19 +277,19 @@
     </text>
     <heading>HOUSING UTILITY INFRASTRUCTURE AUTHORIZATION ACT</heading>
     <section>
-      <codify:insert num-value="15.1.6.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.6.010"/>
+      <codify:insert num-value="15.1.6.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.6.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "HOUSING UTILITY INFRASTRUCTURE AUTHORIZATION ACT."</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.6.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.6.020"/>
+      <codify:insert num-value="15.1.6.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.6.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to: (1) Establish a process for members of the Pueblo to apply for home utility infrastructure services or to initiate a Utility Infrastructure Project; (2) ) Establish the standards, process, and requirements for approval of applications for home and homesite utility services; (3) Require public notice of any pending Utility Infrastructure Project with an opportunity for public comments prior to approval; and (4) Authorize the Governor to make final decisions on land use matters pursuant to this Act including applications for home and homesite utility infrastructure services and/or a Utility Infrastructure Project.</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.6.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.6.030"/>
+      <codify:insert num-value="15.1.6.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.6.030"/>
       <num>1.3</num>
       <heading>Definitions</heading>
       <para>
@@ -322,7 +322,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.6.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.6.040"/>
+      <codify:insert num-value="15.1.6.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.6.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -364,7 +364,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.6.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.6.050"/>
+      <codify:insert num-value="15.1.6.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.6.050"/>
       <num>1.5</num>
       <heading>Mandatory Approval Process for All Utility Infrastructure Projects</heading>
       <para>
@@ -373,7 +373,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.6.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.6.060"/>
+      <codify:insert num-value="15.1.6.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.6.060"/>
       <num>1.6</num>
       <heading>Process for Members to Apply for Approval of a Utility Infrastructure Project</heading>
       <para>
@@ -386,7 +386,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.6.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.6.070"/>
+      <codify:insert num-value="15.1.6.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.6.070"/>
       <num>1.7</num>
       <heading>Responsibilities of the Department of Natural Resources</heading>
       <para>
@@ -488,7 +488,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.6.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.6.080"/>
+      <codify:insert num-value="15.1.6.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.6.080"/>
       <num>1.8</num>
       <heading>Decision by the Governor</heading>
       <para>
@@ -525,7 +525,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.6.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="15.1.6.090"/>
+      <codify:insert num-value="15.1.6.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.6.090"/>
       <num>1.9</num>
       <heading>Enforcement</heading>
       <text>The Governor or his designee shall be authorized to enforce this Act including by filing suit in the Courts of the Pueblo against any party who fails or refuses to comply with the requirements of this Act. The Court may award the costs of the enforcement of this Act against any party who has been found to have violated this Act.</text>

@@ -237,22 +237,22 @@
       <heading>Findings</heading>
       <text>Title 6, Chapter 6.6.10, Section 6.6.10.030 of the Code is hereby amended to add the following subsections (f), (g), (h), and (i) as follows:</text>
       <para>
-        <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.10.030|(f)"/>
+        <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.10.030|(f)"/>
         <num>(f)</num>
         <text>The Pueblo has utilized the services of Dr. Hugh Cohen of Portfolio Monitoring, for at least four years, to oversee and monitor the sizeable investment funds and portfolio of the Pueblo; and</text>
       </para>
       <para>
-        <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.10.030|(g)"/>
+        <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.10.030|(g)"/>
         <num>(g)</num>
         <text>The services provided by Portfolio Monitoring, LLC helped lower the Pueblo's financial risks and protect the Pueblo's portfolio from significant losses during the recent volatility in the markets caused by the uncertainty surrounding the COVID-19 pandemic; and</text>
       </para>
       <para>
-        <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.10.030|(h)"/>
+        <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.10.030|(h)"/>
         <num>(h)</num>
         <text>The services provided by Portfolio Monitoring, LLC have also helped the Pueblo earn significant additional revenue while reducing risks; and</text>
       </para>
       <para>
-        <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.10.030|(i)"/>
+        <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.10.030|(i)"/>
         <num>(i)</num>
         <text>The Council finds it in the best interest of the Pueblo to authorize the continuation of services provided by Portfolio Monitoring, LLC to the Pueblo.</text>
       </para>
@@ -262,12 +262,12 @@
       <heading>Amendment</heading>
       <text>Title 6, Chapter 6.6.10, Section 6.6.10.040 of the Code is hereby amended to replace the existing subsections (a) and (b) with the following new subsections:</text>
       <para>
-        <codify:replace path="6.6.10.040|(a)" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.10.040|(a)"/>
+        <codify:replace path="6.6.10.040|(a)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.10.040|(a)"/>
         <num>(a)</num>
         <text>The Council hereby authorizes the Governor to negotiate and execute a contract for the continuation of services provided by Portfolio Monitoring, LLC, to provide professional monitoring services of the Pueblo's investment accounts and to report their written findings to the Council, Governor, and Investment Committee; and</text>
       </para>
       <para>
-        <codify:replace path="6.6.10.040|(b)" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.10.040|(b)"/>
+        <codify:replace path="6.6.10.040|(b)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.10.040|(b)"/>
         <num>(b)</num>
         <text>The Council hereby authorizes the Governor to negotiate and execute a contract with Portfolio Monitoring, LLC on a sole-source basis due to their highly specialized securities monitoring services and extensive experience.</text>
       </para>

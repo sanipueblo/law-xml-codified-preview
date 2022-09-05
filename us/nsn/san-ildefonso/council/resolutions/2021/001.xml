@@ -219,7 +219,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Terrence K. Garcia, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.14">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.14">
     <container>
       <prefix>Part</prefix>
       <num>2.3.14</num>
@@ -233,19 +233,19 @@
     <heading>AUTHORIZATION OF NON-DISCLOSURE AGREEMENTS WITH PNM AND WAIVER OF SOVEREIGN IMMUNITY ACT OF 2021</heading>
     <section>
       <num>1.1</num>
-      <codify:insert num-value="2.3.14.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.14.010"/>
+      <codify:insert num-value="2.3.14.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.14.010"/>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "AUTHORIZATION OF NON-DISCLOSURE AGREEMENTS WITH PNM AND WAIVER OF SOVEREIGN IMMUNITY ACT OF 2021".</text>
     </section>
     <section>
       <num>1.2</num>
-      <codify:insert num-value="2.3.14.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.14.020"/>
+      <codify:insert num-value="2.3.14.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.14.020"/>
       <heading>Purpose</heading>
       <text>The purpose of this act is to authorize the Governor to negotiate and sign a non-disclosure agreement with PNM for a particular project and to approve a waiver of the Pueblo's sovereign immunity for enforcement of that non-disclosure agreement if required, subject to specific requirements as contained in this Act.</text>
     </section>
     <section>
       <num>1.3</num>
-      <codify:insert num-value="2.3.14.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.14.030"/>
+      <codify:insert num-value="2.3.14.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.14.030"/>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
       <para>
@@ -267,7 +267,7 @@
     </section>
     <section>
       <num>1.4</num>
-      <codify:insert num-value="2.3.14.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.3.14.040"/>
+      <codify:insert num-value="2.3.14.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.14.040"/>
       <heading>Authorization</heading>
       <para>
         <num>(a)</num>

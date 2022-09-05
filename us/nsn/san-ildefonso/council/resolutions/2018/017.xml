@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 22nd day of August, 2018, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.14">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.14">
     <container>
       <prefix>Part</prefix>
       <num>17.2.14</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="|17.2.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.14.010">
+      <codify:insert path="|17.2.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.14.010">
         <section>
           <num>17.2.14.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the sovereign authority of the Pueblo is vested in its Council and Governor; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.14.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.14.010|(b)">
         <para>
           <num>(b)</num>
           <text>The sovereign authority of the Pueblo is vested in its Council and Governor.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>San Ildefonso Services, LLC, is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo, and the Pueblo de San Ildefonso Governor and Council currently serve as the Member's Representatives; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.14.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.14.010|(c)">
         <para>
           <num>(c)</num>
           <text>San Ildefonso Services, LLC, is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo, and the Pueblo de San Ildefonso Governor and Council currently serve as the Member's Representatives.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council enacted Council Resolution No. SI-R17-047, titled "Approving and Enacting Amended Articles of Organization and Operating Agreement for San Ildefonso Services, LLC"; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.14.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.14.010|(d)">
         <para>
           <num>(d)</num>
           <text>The Council enacted Council Resolution No. SI-R17-047, titled "Approving and Enacting Amended Articles of Organization and Operating Agreement for San Ildefonso Services, LLC".</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>by Council Resolution No. SI-R17-047, the amendments to the Articles of Organization were to be effective as of March 31, 2018; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.14.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.14.010|(e)">
         <para>
           <num>(e)</num>
           <text>By Council Resolution No. SI-R17-047, the amendments to the Articles of Organization were to be effective as of March 31, 2018.</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>by Council Resolution No. SI-R18-004, the effective date of the amendments to the Articles of Organization was extended to be effective as of September 1, 2018; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.14.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.14.010|(f)">
         <para>
           <num>(f)</num>
           <text>By Council Resolution No. SI-R18-004, the effective date of the amendments to the Articles of Organization was extended to be effective as of September 1, 2018.</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has determined that it is prudent and in the best interests of the Pueblo and San Ildefonso Services, LLC to amend and change the effective date of the Amended Articles of Organization to December 31, 2018.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.14.010|(g)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.14.010|(g)">
         <para>
           <num>(g)</num>
           <text>The Council has determined that it is prudent and in the best interests of the Pueblo and San Ildefonso Services, LLC to amend and change the effective date of the Amended Articles of Organization to December 31, 2018.</text>
@@ -99,7 +99,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Council hereby amends the "Fourth Amended Articles of Organization for San Ildefonso Services, a Limited Liability Company Chartered by the Pueblo de San Ildefonso, a federally recognized sovereign" to extend the effective date to December 31, 2018, all other terms of Council Resolution No. SI-R17-047 shall remain in effect.</text>
-      <codify:insert path="|17.2.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.14.020">
+      <codify:insert path="|17.2.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.14.020">
         <section>
           <num>17.2.14.020</num>
           <text>The Council hereby amends the "Fourth Amended Articles of Organization for San Ildefonso Services, a Limited Liability Company Chartered by the Pueblo de San Ildefonso, a federally recognized sovereign" to extend the effective date to December 31, 2018, all other terms of Council Resolution No. SI-R17-047 shall remain in effect.</text>
@@ -109,7 +109,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT FURTHER RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-      <codify:insert path="|17.2.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.14.030">
+      <codify:insert path="|17.2.14" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.14.030">
         <section>
           <num>17.2.14.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>

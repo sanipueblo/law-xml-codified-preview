@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 26th day of June, 2018, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17">
     <container>
       <prefix>Part</prefix>
       <num>6.3.17</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="|6.3.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17.010">
+      <codify:insert path="|6.3.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17.010">
         <section>
           <num>6.3.17.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17.010|(b)">
         <para>
           <num>(b)</num>
           <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17.010|(c)">
         <para>
           <num>(c)</num>
           <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17.010|(d)">
         <para>
           <num>(d)</num>
           <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
@@ -92,7 +92,7 @@
           </tr>
         </table>
       </text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17.010|(e)">
         <para>
           <num>(e)</num>
           <text>The Council approved the FY2017-2018 Annual Budget on June 9, 2017, and has implemented two New Funding Adjustments and one Budget Modification (No. 1), resulting in the current budget total as follows:</text>
@@ -125,7 +125,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>it has been determined that certain modifications to the FY 2017-18 Annual Budget are necessary; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17.010|(f)">
         <para>
           <num>(f)</num>
           <text>It has been determined that certain modifications to the FY 2017-18 Annual Budget are necessary; and</text>
@@ -135,7 +135,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has reviewed the proposed Budget Modification No. 2 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 2; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17.010|(g)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17.010|(g)">
         <para>
           <num>(g)</num>
           <text>The Council has reviewed the proposed Budget Modification No. 2 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 2; and</text>
@@ -145,7 +145,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2017-2018 Annual Budget amount will not increase as a result of Budget Modification No. 2; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17.010|(h)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17.010|(h)">
         <para>
           <num>(h)</num>
           <text>The Pueblo's FY 2017-2018 Annual Budget amount will not increase as a result of Budget Modification No. 2; and</text>
@@ -178,7 +178,7 @@
           </tr>
         </table>
       </text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17.010|(i)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17.010|(i)">
         <para>
           <num>(i)</num>
           <text>The Pueblo's FY 2017-2018 Annual Budget remains as follows:</text>
@@ -211,7 +211,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Council hereby approves and authorizes the attached Budget Modification No. 2 to the FY 2017-2018 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
-      <codify:insert path="|6.3.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17.020">
+      <codify:insert path="|6.3.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17.020">
         <section>
           <num>6.3.17.020</num>
           <text>The Council hereby approves and authorizes the attached Budget Modification No. 2 to the FY 2017-2018 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
@@ -221,7 +221,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intend of this resolution.</text>
-      <codify:insert path="|6.3.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17.030">
+      <codify:insert path="|6.3.17" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17.030">
         <section>
           <num>6.3.17.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intend of this resolution.</text>
@@ -414,7 +414,7 @@
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
-    <codify:insert path="|6.3.17" num-value="6.3.17.040" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.3.17.040"/>
+    <codify:insert path="|6.3.17" num-value="6.3.17.040" tag="section" display-template="New {{cite}}" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.17.040"/>
     <num/>
     <heading>AUTHORIZATION FOR FISCAL YEAR 2017-2018 BUDGET MODIFICATION NO. 2</heading>
     <para>

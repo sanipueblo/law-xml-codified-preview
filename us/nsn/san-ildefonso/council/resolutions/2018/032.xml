@@ -223,7 +223,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.5">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.5">
     <container>
       <prefix>Part</prefix>
       <num>2.2.5</num>
@@ -235,13 +235,13 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>AUTHORIZATION OF COUNCIL ATTORNEY CONTRACT ACT OF 2019</heading>
     <section>
-      <codify:insert num-value="2.2.5.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.5.010"/>
+      <codify:insert num-value="2.2.5.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.5.010"/>
       <num>1</num>
       <heading>Authorization of Council Attorney Contract Act of 2019</heading>
       <text>This enactment shall be known as "AUTHORIZATION OF COUNCIL ATTORNEY CONTRACT ACT OF 2019" ("Act").</text>
     </section>
     <section>
-      <codify:insert num-value="2.2.5.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.5.020"/>
+      <codify:insert num-value="2.2.5.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.5.020"/>
       <num>2</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -255,7 +255,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="2.2.5.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="2.2.5.030"/>
+      <codify:insert num-value="2.2.5.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.2.5.030"/>
       <num>3</num>
       <heading>Authorization of Contract</heading>
       <text>The Council hereby approves the continuation of the Attorneys' legal representation of the Council including the authorization and approval of a sole-source contract with the Attorneys (Exhibit A).</text>

@@ -13,7 +13,7 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 19th day of September, 2018, the following Resolution was adopted:</preamble>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.19">
     <container>
       <prefix>Part</prefix>
       <num>6.5.19</num>
@@ -25,7 +25,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
-      <codify:insert path="|6.5.19" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.010">
+      <codify:insert path="|6.5.19" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.19.010">
         <section>
           <num>6.5.19.010</num>
           <heading>Findings</heading>
@@ -39,7 +39,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the voters of the Pueblo approved a new Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011 pursuant to Federal law; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.010|(b)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.19.010|(b)">
         <para>
           <num>(b)</num>
           <text>The voters of the Pueblo approved a new Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011 pursuant to Federal law.</text>
@@ -49,7 +49,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo Council ("Council") is the duly constituted Legislative body acting for the Pueblo; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.010|(c)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.19.010|(c)">
         <para>
           <num>(c)</num>
           <text>The Pueblo Council ("Council") is the duly constituted Legislative body acting for the Pueblo.</text>
@@ -59,7 +59,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.010|(d)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.19.010|(d)">
         <para>
           <num>(d)</num>
           <text>The Council is authorized to make laws for the Pueblo pursuant to Section 5 of the Agreement.</text>
@@ -69,7 +69,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso is currently a participant in the Public Health Service, Indian Health Service (IHS), Community Health Representative (CHR) Program; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.010|(e)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.19.010|(e)">
         <para>
           <num>(e)</num>
           <text>The Pueblo de San Ildefonso is currently a participant in the Public Health Service, Indian Health Service (IHS), Community Health Representative (CHR) Program.</text>
@@ -79,7 +79,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso acknowledges the benefits received from the CHR Program, both previous and current, in the area of community health care; and</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.010|(f)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.19.010|(f)">
         <para>
           <num>(f)</num>
           <text>The Pueblo de San Ildefonso acknowledges the benefits received from the CHR Program, both previous and current, in the area of community health care.</text>
@@ -89,7 +89,7 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Tribal Government recognizes the need to continue the CHR Program for a period of three years during which the program will provide those services for the community that cannot otherwise be provided.</text>
-      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.010|(g)">
+      <codify:insert display-template="" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.19.010|(g)">
         <para>
           <num>(g)</num>
           <text>The Tribal Government recognizes the need to continue the CHR Program for a period of three years during which the program will provide those services for the community that cannot otherwise be provided.</text>
@@ -107,7 +107,7 @@
         <num>(b)</num>
         <text>The authority granted by the Resolution shall remain in effect until withdrawn by the Tribal Council or until the term of the contract has expired, and that the Governor is the authorized agent for the Tribe and shall represent the Council in any negotiations, changes and/or approval of the contract agreement.</text>
       </para>
-      <codify:insert path="|6.5.19" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.020">
+      <codify:insert path="|6.5.19" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.19.020">
         <section>
           <num>6.5.19.020</num>
           <text/>
@@ -125,7 +125,7 @@
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
-      <codify:insert path="|6.5.19" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.19.030">
+      <codify:insert path="|6.5.19" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.19.030">
         <section>
           <num>6.5.19.030</num>
           <text>The Pueblo de San Ildefonso Council hereby approves and adopts this Resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>

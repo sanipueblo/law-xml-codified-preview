@@ -219,7 +219,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>William S. Christian, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.26">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.26">
     <container>
       <prefix>Part</prefix>
       <num>6.5.26</num>
@@ -232,13 +232,13 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>AUTHORIZING APPLICATION TO THE LOCAL GOVERNMENT PLANNING FUND AND DESIGNATING THE HIGHEST ELECTED OFFICIAL/AUTHORIZED OFFICER, PRIMARY CONTACT, AND CONSULTANT</heading>
     <section>
-      <codify:insert num-value="6.5.26.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.26.010"/>
+      <codify:insert num-value="6.5.26.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.26.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the Act, "AUTHORIZING APPLICATION TO THE LOCAL GOVERNMENT PLANNING FUND AND DESIGNATING THE HIGHEST ELECTED OFFICIAL/AUTHORIZED OFFICER, PRIMARY CONTACT, AND CONSULTANT ("Act").</text>
     </section>
     <section>
-      <codify:insert num-value="6.5.26.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.26.020"/>
+      <codify:insert num-value="6.5.26.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.26.020"/>
       <num>1.2</num>
       <heading>Definitions</heading>
       <para>
@@ -263,13 +263,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.5.26.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.26.030"/>
+      <codify:insert num-value="6.5.26.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.26.030"/>
       <num>1.3</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Pueblo to apply for the LGPF in the amount of $50,000 from the NMFA for the project and to designate the Highest Elected Official/Authorized Officer, Primary Contact, and Consultant when applying for and/or administering the LGPF.</text>
     </section>
     <section>
-      <codify:insert num-value="6.5.26.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.26.040"/>
+      <codify:insert num-value="6.5.26.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.26.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds that:</text>
@@ -291,7 +291,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.5.26.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.26.050"/>
+      <codify:insert num-value="6.5.26.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.26.050"/>
       <num>1.5</num>
       <heading>Authorizations</heading>
       <para>

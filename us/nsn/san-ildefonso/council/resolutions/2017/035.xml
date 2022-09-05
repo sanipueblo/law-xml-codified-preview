@@ -259,7 +259,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2017, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.8">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.8">
     <container>
       <prefix>Part</prefix>
       <num>6.6.8</num>
@@ -271,19 +271,19 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>INVESTMENT FUNDS MANAGEMENT ACT OF 2017</heading>
     <section>
-      <codify:insert num-value="6.6.8.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.8.010"/>
+      <codify:insert num-value="6.6.8.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.8.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as, "INVESTMENT FUNDS MANAGEMENT ACT OF 2017 ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="6.6.8.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.8.020"/>
+      <codify:insert num-value="6.6.8.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.8.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Governor to transfer the Pueblo's reserve funds into new investments accounts, and to authorize the Governor, in consultation with the Controller and other experts, to develop and adopt new investment policies for the new accounts.</text>
     </section>
     <section>
-      <codify:insert num-value="6.6.8.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.8.030"/>
+      <codify:insert num-value="6.6.8.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.8.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -309,7 +309,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.6.8.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.6.8.040"/>
+      <codify:insert num-value="6.6.8.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.8.040"/>
       <num>1.4</num>
       <heading>Authorization of Transfer of Funds and the Adoption of New Investment Policies</heading>
       <para>

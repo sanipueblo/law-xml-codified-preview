@@ -278,7 +278,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Terrence K. Garcia, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.27">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.27">
     <container>
       <prefix>Part</prefix>
       <num>17.2.27</num>
@@ -293,19 +293,19 @@
     </text>
     <heading type="law">ACT AUTHORIZING LOAN TO SAN ILDEFONSO SERVICES, LLC FOR C-STORE IMPROVEMENTS</heading>
     <section>
-      <codify:insert num-value="17.2.27.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.27.010"/>
+      <codify:insert num-value="17.2.27.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.27.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT AUTHORIZING LOAN TO SAN ILDEFONSO SERVICES, LLC FOR C-STORE IMPROVEMENTS ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.27.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.27.020"/>
+      <codify:insert num-value="17.2.27.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.27.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The Purpose of this Act is to authorize a Loan Agreement between the Pueblo and SIS LLC for necessary equipment upgrades and capital improvements at the Totavi and White Rock convenience stores ("C-Stores").</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.27.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.27.030"/>
+      <codify:insert num-value="17.2.27.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.27.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -347,7 +347,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.2.27.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.27.040"/>
+      <codify:insert num-value="17.2.27.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.27.040"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
       <para>

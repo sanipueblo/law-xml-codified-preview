@@ -295,7 +295,7 @@
         <text>Part 24.1.1 <em>Zoning and Planning, Building Permits, and Miscellaneous</em> of the Pueblo's Code is amended as follows:</text>
         <include>
           <section>
-            <codify:replace path="24.1.1.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.1.1.010"/>
+            <codify:replace path="24.1.1.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.1.1.010"/>
             <num>24.1.1.010</num>
             <heading>Restrictions for Land Assignments, Homes, and Buildings</heading>
             <para>

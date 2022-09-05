@@ -250,7 +250,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Terrence K. Garcia, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="19.5.2">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|19.5.2">
     <container>
       <prefix>Part</prefix>
       <num>19.5.2</num>
@@ -265,19 +265,19 @@
     </text>
     <heading>MASTER LAND USE PLAN AUTHORIZATION ACT</heading>
     <section>
-      <codify:insert num-value="19.5.2.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="19.5.2.010"/>
+      <codify:insert num-value="19.5.2.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|19.5.2.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "MASTER LAND USE PLAN AUTHORIZATION ACT."</text>
     </section>
     <section>
-      <codify:insert num-value="19.5.2.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="19.5.2.020"/>
+      <codify:insert num-value="19.5.2.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|19.5.2.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize and direct the completion of a Master Land Use Plan to identify and analyze the Pueblo's lands, including existing and proposed uses, in order to make well-informed land use decisions.</text>
     </section>
     <section>
-      <codify:insert num-value="19.5.2.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="19.5.2.030"/>
+      <codify:insert num-value="19.5.2.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|19.5.2.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <para>
@@ -306,7 +306,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="19.5.2.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="19.5.2.040"/>
+      <codify:insert num-value="19.5.2.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|19.5.2.040"/>
       <num>1.4</num>
       <heading>Master Land Use Plan</heading>
       <text>The Council hereby finds and declares that:</text>

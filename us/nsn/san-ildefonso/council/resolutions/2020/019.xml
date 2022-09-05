@@ -272,7 +272,7 @@
       <include>
         <text>"The Council hereby establishes the rate of compensation for each SIS Member Representative at two-hundred fifty dollars ($250.00) per month which will be covered by the San Ildefonso Services, LLC annual budget. "</text>
       </include>
-      <codify:replace path="17.2.21.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.21.040">
+      <codify:replace path="17.2.21.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.21.040">
         <section>
           <num>17.2.21.040</num>
           <heading>Establishment of the Rate of Compensation</heading>
@@ -280,7 +280,7 @@
         </section>
       </codify:replace>
       <text>Section 17.2.21.050 of the San Ildefonso Services, LLC Member's Representatives Compensation Act of 2019 is hereby repealed.</text>
-      <codify:repeal path="17.2.21.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="17.2.21.050"/>
+      <codify:repeal path="17.2.21.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.21.050"/>
     </section>
   </attachment>
 </document>

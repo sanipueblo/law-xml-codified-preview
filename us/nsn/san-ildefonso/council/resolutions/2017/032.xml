@@ -158,7 +158,7 @@
     <text>On this __________ day of ________________________, 2017.</text>
     <text>James R. Mountain, Governor</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="24.2.7">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.7">
     <container>
       <prefix>Part</prefix>
       <num>24.2.7</num>
@@ -170,20 +170,20 @@
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>ACT AUTHORIZING SIGNATURE OF RIGHT-OF-WAY AGREEMENT WITH DOE/NNSA FOR THE NORTON ELECTRIC TRANSMISSION LINE</heading>
     <section>
-      <codify:insert num-value="24.2.7.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.2.7.010"/>
+      <codify:insert num-value="24.2.7.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.7.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT AUTHORIZING SIGNATURE OF RIGHT-OF-WAY AGREEMENT WITH DOE/NNSA FOR THE NORTON ELECTRIC TRANSMISSION LINE ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="24.2.7.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.2.7.020"/>
+      <codify:insert num-value="24.2.7.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.7.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the signature of the Right-of-Way Agreement with the Department of Energy/National Nuclear Security Administration ("DOE/NNSA") for a new right-of-way for that portion of the Norton Electric Transmission Line within the Pueblo lands.  The current Grant of Easement for Right-of-Way to DOE/NNSA will expire on July 31, 2018.</text>
     </section>
     <section>
       <num>1.3</num>
-      <codify:insert num-value="24.2.7.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.2.7.030"/>
+      <codify:insert num-value="24.2.7.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.7.030"/>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
       <para>
@@ -216,7 +216,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="24.2.7.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="24.2.7.040"/>
+      <codify:insert num-value="24.2.7.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.7.040"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
       <para>
