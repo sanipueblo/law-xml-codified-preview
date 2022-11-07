@@ -270,31 +270,21 @@
           <num>6.7.1.150</num>
           <heading>Personnel Policy Manual</heading>
           <include>
-            <text>
-              <center>Pueblo de San Ildefonso</center>
-            </text>
-            <text>
-              <center>Human Resources Office</center>
-            </text>
+            <text class="center">Pueblo de San Ildefonso</text>
+            <text class="center">Human Resources Office</text>
             <text>Personnel Policy Receipt Form</text>
             <text>I, ___________________________________ (employee), acknowledge receipt of this manual and that I have thoroughly read and understand its contents.  I also understand that this manual is Pueblo de San Ildefonso's property that must be returned to the Human Resources Coordinator on or before my last day of work.</text>
             <text>I further understand that this manual does not create a contract with the Council for any purpose and that the provisions of this manual may be modified or eliminated at any time as approved by the Tribal Council.</text>
             <text>Issued to: _________________________________________________</text>
             <text>Signed:    _________________________________________________</text>
             <text>Date Received:    ________________________</text>
-            <text>
-              <center>
-                <strong>PUEBLO DE SAN ILDEFONSO</strong>
-              </center>
+            <text class="center">
+              <strong>PUEBLO DE SAN ILDEFONSO</strong>
             </text>
-            <text>
-              <center>
-                <strong>PERSONNEL POLICY</strong>
-              </center>
+            <text class="center">
+              <strong>PERSONNEL POLICY</strong>
             </text>
-            <text>
-              <center>TABLE OF CONTENTS</center>
-            </text>
+            <text class="center">TABLE OF CONTENTS</text>
             <text>PAGE</text>
             <text>INTRODUCTION  1</text>
             <text>DEFINITIONS 2</text>
@@ -891,15 +881,13 @@
               <para>
                 <num>b.</num>
                 <heading>Misconduct:</heading>
-                <text>The Pueblo reserves the right to either 1) suspend or terminate an  employee immediately upon the occurrence of misconduct or 2) subject the</text>
-                <text>employee to its progressive discipline policy to be engaged in activities such as,  but not limited to, theft of the Pueblo tribal property or the property of another  employee, insubordination, assault, harassment (see Section 606) or any other   activities showing willful disregard of the Pueblo interests or policies. It is   important for Directors and supervisors to identify potential performance   deficiencies or problems as early as possible and take prompt measures in an  attempt to correct the situation in consultation with the Tribal Administrator.</text>
-                <text>If a possibility of continuing misconduct requires that action be taken before consultation   with the Tribal Administrator and Governor can take place or if the misconduct is so  serious, a Director may suspend the employee temporarily. Pending the results of further  review and investigation by the Tribal Administrator and Governor, the suspension may   be with or without pay. Refer to Section 704 (3)</text>
+                <text>The Pueblo reserves the right to either 1) suspend or terminate an  employee immediately upon the occurrence of misconduct or 2) subject the employee to its progressive discipline policy to be engaged in activities such as,  but not limited to, theft of the Pueblo tribal property or the property of another  employee, insubordination, assault, harassment (see Section 606) or any other   activities showing willful disregard of the Pueblo interests or policies. It is   important for Directors and supervisors to identify potential performance   deficiencies or problems as early as possible and take prompt measures in an  attempt to correct the situation in consultation with the Tribal Administrator.</text>
+                <text>If a possibility of continuing misconduct requires that action be taken before consultation   with the Tribal Administrator and Governor can take place or if the misconduct is so  serious, a Director may suspend the employee temporarily. Pending the results of further  review and investigation by the Tribal Administrator and Governor, the suspension may be with or without pay. Refer to Section 704 (3)</text>
               </para>
               <para>
                 <num>c.</num>
                 <heading>Discharge during the Probationary Period:</heading>
-                <text>The probationary period is a period of  service during which Pueblo assesses the performance of an employee to determine  whether the employee satisfactorily meets the requirements of the position. The   termination of a probationary employee during the probationary period may be  without cause but requires the approval of the appropriate Director, Tribal   Administrator</text>
-                <text>or the Governor.</text>
+                <text>The probationary period is a period of  service during which Pueblo assesses the performance of an employee to determine  whether the employee satisfactorily meets the requirements of the position. The   termination of a probationary employee during the probationary period may be  without cause but requires the approval of the appropriate Director, Tribal   Administrator or the Governor.</text>
                 <text>A probationary employee who is discharged during the probationary period shall only be entitled to pay for any hours worked.</text>
                 <text>An employee who is involuntarily separated from employment shall be entitled to receive all earned pay subject to deductions for any indebtedness or unreturned property. Payment for earned hours shall be processed as quickly as possible after the date of termination but is subject to the following time constraints: verification of time worked, return of equipment, calculation of any costs owed to the Pueblo by the employee, other indebtedness, completion of specific projects, etc.</text>
                 <text>
@@ -1199,9 +1187,7 @@
               <strong> (step 1)</strong>
             </text>
             <text>Statement of  Need</text>
-            <text>The Pueblo has a strong commitment to the health, safety, and welfare of its employees, their families, and its constituents. Widely available statistics and  information establish that the incidence of drug and alcohol abuse is increasing and that the effect is devastating to lives, business, and the community at large. The Pueblo is concerned that due to the potential for</text>
-            <text>abuse among some of our employees, the safety of our employees and the general public could be endangered. Our commitment to maintaining a safe and secure workplace requires a clear policy and supportive programs relating to the detection, treatment, and prevention of substance</text>
-            <text>abuse by employees.</text>
+            <text>The Pueblo has a strong commitment to the health, safety, and welfare of its employees, their families, and its constituents. Widely available statistics and  information establish that the incidence of drug and alcohol abuse is increasing and that the effect is devastating to lives, business, and the community at large. The Pueblo is concerned that due to the potential for abuse among some of our employees, the safety of our employees and the general public could be endangered. Our commitment to maintaining a safe and secure workplace requires a clear policy and supportive programs relating to the detection, treatment, and prevention of substance abuse by employees.</text>
             <text>Goal</text>
             <para>
               <num>1.</num>
@@ -1212,11 +1198,8 @@
               <text>To provide a safe workplace by eliminating the hazards to health and job safety created by alcohol and other drug abuse.</text>
             </para>
             <text>Scope</text>
-            <text>This policy applies to all applicants seeking employment and employees of the Pueblo</text>
-            <text>while on the job and to situations when an employee's off-the-job or off-premises conduct impairs work performance, or harms the reputation of the Pueblo. It is also intended to apply to employees of firms doing business with the Pueblo while on our premises or on tribal lands.</text>
-            <text>Although the Pueblo has no intention of intruding into the private lives of its employees, we</text>
-            <text>recognize that involvement with alcohol or other drugs off the job eventually takes its toll on job performance. Our concern is to assure those employees report to work in condition to perform  their duties safely and efficiently in the interest of their fellow workers and constituents as well</text>
-            <text>as themselves.</text>
+            <text>This policy applies to all applicants seeking employment and employees of the Pueblo while on the job and to situations when an employee's off-the-job or off-premises conduct impairs work performance, or harms the reputation of the Pueblo. It is also intended to apply to employees of firms doing business with the Pueblo while on our premises or on tribal lands.</text>
+            <text>Although the Pueblo has no intention of intruding into the private lives of its employees, we recognize that involvement with alcohol or other drugs off the job eventually takes its toll on job performance. Our concern is to assure those employees report to work in condition to perform  their duties safely and efficiently in the interest of their fellow workers and constituents as well as themselves.</text>
             <text>Pueblo Policy Statements on Substance Abuse</text>
             <para>
               <num>1.</num>
@@ -1242,14 +1225,12 @@
             <text>The Pueblo's policy prohibits the following:</text>
             <para>
               <num>1.</num>
-              <text>Use, possession, manufacture, distribution, dispensation, or sale of illegal drugs</text>
+              <text>Use, possession, manufacture, distribution, dispensation, or sale of illegal drugs on Pueblo premises during working hours or non-working hours.</text>
             </para>
-            <text>on Pueblo premises during working hours or non-working hours.</text>
             <para>
               <num>2.</num>
-              <text>Controlled substance abuse on Pueblo premises during working hours or</text>
+              <text>Controlled substance abuse on Pueblo premises during working hours or nonworking hours.</text>
             </para>
-            <text>nonworking hours.</text>
             <para>
               <num>3.</num>
               <text>Storing any illegal drug or alcohol in a locker, desk, or other repository on Pueblo premises.</text>
@@ -1317,15 +1298,12 @@
             <text>Self-Referral</text>
             <text>Employees with personal drug or controlled substance abuse problems should request assistance through their individual Programs, the Human Resources Department or the Pueblo's employee assistance program. Assistance will be provided on a confidential basis, and each employee will be referred to the appropriate treatment and counseling services. Employees who voluntarily request assistance in dealing with drug or controlled substance abuse problems may do so without jeopardizing their continued employment with the Pueblo subject to the Special Consideration  below.</text>
             <text>Pueblo Referral</text>
-            <text>Employees who test positive for illegal drug  use or controlled substance abuse and who are referred, at the Pueblo's request, for counseling or treatment will be limited to one opportunity for counseling or treatment to cease the use of illegal drugs and alcohol. A second positive test following treatment for the use of illegal drugs will result in immediate termination.   Employees</text>
-            <text>terminated for this reason will be ineligible for rehire.</text>
+            <text>Employees who test positive for illegal drug  use or controlled substance abuse and who are referred, at the Pueblo's request, for counseling or treatment will be limited to one opportunity for counseling or treatment to cease the use of illegal drugs and alcohol. A second positive test following treatment for the use of illegal drugs will result in immediate termination.   Employees terminated for this reason will be ineligible for rehire.</text>
             <text>Special Consideration</text>
             <text>All Pueblo-referred, employee counseling and/or treatment, will require that the employee immediately cease any illegal drug and/or controlled substance abuse and the employee be subject to periodic unannounced testing for a 12 month period following enrollment in the program.</text>
-            <text>Undergoing treatment or counseling for the first time will normally not jeopardize an employee's</text>
-            <text>employment. However, the Pueblo is required in certain situations to report an employee's involvement with drug use or controlled substance to Government agencies (DOT) concerned with national security, health and safety-sensitive. In these situations, the Pueblo will be required to remove the employee from a position involving national security, health, safety-sensitive, or confidential matters. If other work cannot be found, the employee may be subject to termination.</text>
+            <text>Undergoing treatment or counseling for the first time will normally not jeopardize an employee's employment. However, the Pueblo is required in certain situations to report an employee's involvement with drug use or controlled substance to Government agencies (DOT) concerned with national security, health and safety-sensitive. In these situations, the Pueblo will be required to remove the employee from a position involving national security, health, safety-sensitive, or confidential matters. If other work cannot be found, the employee may be subject to termination.</text>
             <text>Alcohol Use or Possession on Pueblo Premises</text>
-            <text>The use, possession, sale, or distribution of alcohol on Pueblo premises, or in Pueblo-supplied vehicles, whether during working hours or nonworking hours,is prohibited and constitutes a violation of policy.   Such action will be handled pursuant to the Pueblo's policy on work</text>
-            <text>performance and conduct.</text>
+            <text>The use, possession, sale, or distribution of alcohol on Pueblo premises, or in Pueblo-supplied vehicles, whether during working hours or nonworking hours,is prohibited and constitutes a violation of policy.   Such action will be handled pursuant to the Pueblo's policy on work performance and conduct.</text>
             <text>Program Testing</text>
             <para>
               <num>1.</num>
@@ -1333,9 +1311,8 @@
             </para>
             <para>
               <num>2.</num>
-              <text>The Pueblo will test all applicants, whether new employees or rehires. The Pueblo requires that every newly hired and rehired employee be free of alcohol, illegal drug use and controlled substance abuse. Each offer of employment shall be conditioned upon the successful completion of a test for illegal drugs and controlled substances as prescribed by the Pueblo. The applicant's signature on the employment application is an agreement by that applicant to submit to pre-employment drug testing. Any applicant who tests positive in the pre-employment drug test shall be rejected and shall be ineligible for hire for 12months unless the applicant adequately establishes a legal basis for the use of the drug or controlled substance with respect to which the</text>
+              <text>The Pueblo will test all applicants, whether new employees or rehires. The Pueblo requires that every newly hired and rehired employee be free of alcohol, illegal drug use and controlled substance abuse. Each offer of employment shall be conditioned upon the successful completion of a test for illegal drugs and controlled substances as prescribed by the Pueblo. The applicant's signature on the employment application is an agreement by that applicant to submit to pre-employment drug testing. Any applicant who tests positive in the pre-employment drug test shall be rejected and shall be ineligible for hire for 12months unless the applicant adequately establishes a legal basis for the use of the drug or controlled substance with respect to which the applicant tested positive.</text>
             </para>
-            <text>applicant tested positive.</text>
             <para>
               <num>3.</num>
               <text>Whenever the Pueblo, during the course of an investigation by its designated representative suspects or has reasonable suspicion that an employee has used illegal drugs or engaged in controlled substance abuse, whether during working hours or nonworking hours, on or off Pueblo premises, the Pueblo may require the employee to submit to a urine or other acceptable sample for testing, as prescribed by the Pueblo.</text>
@@ -1346,14 +1323,12 @@
             </para>
             <para>
               <num>5.</num>
-              <text>Applicants and employees subject to testing must, prior to testing, sign an approved form agreeing to the testing, authorizing the release of test results to the Pueblo's designated representative, and authorizing the disclosure of the results by the designated representative to the Human Resources Department, the employee's supervisor, higher management, and other persons who have a bona-fide need to know. The designated representative will obtain the results</text>
+              <text>Applicants and employees subject to testing must, prior to testing, sign an approved form agreeing to the testing, authorizing the release of test results to the Pueblo's designated representative, and authorizing the disclosure of the results by the designated representative to the Human Resources Department, the employee's supervisor, higher management, and other persons who have a bona-fide need to know. The designated representative will obtain the results of the analyses and communicate or disclose such results to the Human Resources Department, the employee's supervisor, higher management and any other person in accordance with the Pueblo's policies and procedures.</text>
             </para>
-            <text>of the analyses and communicate or disclose such results to the Human Resources Department, the employee's supervisor, higher management and any other person in accordance with the Pueblo's policies and procedures.</text>
             <para>
               <num>6.</num>
-              <text>The Pueblo will establish and maintain any and all additional testing programs and requirements that may be necessary or appropriate to comply with applicable rules and regulations of all Government agencies including the Federal Highway Administration (FHWA)</text>
+              <text>The Pueblo will establish and maintain any and all additional testing programs and requirements that may be necessary or appropriate to comply with applicable rules and regulations of all Government agencies including the Federal Highway Administration (FHWA) requirements mandated by the U.S. Department of Transportation.</text>
             </para>
-            <text>requirements mandated by the U.S. Department of Transportation.</text>
             <text>Consequences for Violation of the Drug-Free Policy</text>
             <para>
               <num>1.</num>
@@ -1384,22 +1359,11 @@
               <strong>(step 3)</strong>
             </text>
             <text>Purpose</text>
-            <text>Supervisors are the key to a successful substance abuse program and therefore should be</text>
-            <text>trained on all aspects of substance abuse and its effects in the work place. They have a legitimate</text>
-            <text>right to initiate corrective actions when a worker's performance begins to decline. If it appears that personal problems including substance abuse may be impacting on performance, the use of constructive confrontation is one of the most effective ways known to get an employee to seek help.</text>
-            <text>Confronting a worker about a performance problem can be constructive when a caring but</text>
-            <text>firm attitude on the part of the supervisor is coupled with a referral to an appropriate source from</text>
-            <text>which the employee can receive help for any personal problem. However, the supervisor's responsibility for monitoring job performance does not extend to diagnosing and resolving the personal problem. As the people in direct contact with workers, supervisors can detect performance problems that may indicate substance abuse. But their responsibilities should be limited, and that should be clearly explained to them.</text>
+            <text>Supervisors are the key to a successful substance abuse program and therefore should be trained on all aspects of substance abuse and its effects in the work place. They have a legitimate right to initiate corrective actions when a worker's performance begins to decline. If it appears that personal problems including substance abuse may be impacting on performance, the use of constructive confrontation is one of the most effective ways known to get an employee to seek help.</text>
+            <text>Confronting a worker about a performance problem can be constructive when a caring but firm attitude on the part of the supervisor is coupled with a referral to an appropriate source from which the employee can receive help for any personal problem. However, the supervisor's responsibility for monitoring job performance does not extend to diagnosing and resolving the personal problem. As the people in direct contact with workers, supervisors can detect performance problems that may indicate substance abuse. But their responsibilities should be limited, and that should be clearly explained to them.</text>
             <text><u>EMPLOYEE ASSISTANCE PROGRAM</u> (EAP) <strong>(step 4)</strong></text>
-            <text>Employees who desire help with an alcohol or related problem may request assistance  through</text>
-            <text>the Pueblo's Human Resources Department or Employee Assistance Program (EAP). Assistance</text>
-            <text>will be provided on a confidential basis, and each employee will be referred to the appropriate treatment and counseling services. Employees who voluntarily request assistance may do so without jeopardizing their continued employment with the Pueblo. Employees may utilize the benefits programs that the Pueblo recently implemented or be afforded the use of any recognized agency to identify the source of  the problem and find practical solutions as quickly as possible.</text>
-            <text>EAP services are available to the employee without charge, however, the cost of referrals to</text>
-            <text>treatment or rehabilitation  is the responsibility of the employee if the cost is not completely</text>
-            <text>covered by insurance. In support of our drug-free workplace, our insurance plans include some</text>
-            <text>coverage for the treatment of addiction. An employee who tests positive on an alcohol and/or drug test may be referred to the EAP for assessment and rehabilitation recommendations. The</text>
-            <text>employee's decision to participate in the recommended treatment, successful completion of the</text>
-            <text>program and additional treatment recommendations will be communicated to the organization.</text>
+            <text>Employees who desire help with an alcohol or related problem may request assistance through the Pueblo's Human Resources Department or Employee Assistance Program (EAP). Assistance will be provided on a confidential basis, and each employee will be referred to the appropriate treatment and counseling services. Employees who voluntarily request assistance may do so without jeopardizing their continued employment with the Pueblo. Employees may utilize the benefits programs that the Pueblo recently implemented or be afforded the use of any recognized agency to identify the source of  the problem and find practical solutions as quickly as possible.</text>
+            <text>EAP services are available to the employee without charge, however, the cost of referrals to treatment or rehabilitation  is the responsibility of the employee if the cost is not completely covered by insurance. In support of our drug-free workplace, our insurance plans include some coverage for the treatment of addiction. An employee who tests positive on an alcohol and/or drug test may be referred to the EAP for assessment and rehabilitation recommendations. The employee's decision to participate in the recommended treatment, successful completion of the program and additional treatment recommendations will be communicated to the organization.</text>
             <text>
               <u>DRUG and ALCOHOL TESTING PROGRAM</u>
               <strong>(step 5)</strong>
@@ -1407,8 +1371,7 @@
             <text>Applicability</text>
             <text>The Pueblo has established the following procedures for drug and alcohol testing of all its employees, potential employees, contracted or otherwise.</text>
             <text>Specific Testing Requirements</text>
-            <text>To ensure the Pueblos commitment to maintaining a drug-free work force and eliminate the use and abuse of drugs and alcohol in the work place, urine specimens will be collected and tested for the following specified drugs utilizing the DHHS cutoff levels (see definitions) to determine</text>
-            <text>if a sample is positive.  Substance Abuse Forensic Evaluation (SAFE) Non-DHHS 10+ drug/alcohol panel:</text>
+            <text>To ensure the Pueblos commitment to maintaining a drug-free work force and eliminate the use and abuse of drugs and alcohol in the work place, urine specimens will be collected and tested for the following specified drugs utilizing the DHHS cutoff levels (see definitions) to determine if a sample is positive.  Substance Abuse Forensic Evaluation (SAFE) Non-DHHS 10+ drug/alcohol panel:</text>
             <text>Amphetamines,</text>
             <text>Cannabinoids,</text>
             <text>Cocaine,</text>
@@ -1442,8 +1405,7 @@
             <text>Implementation Procedures</text>
             <para>
               <num>1.</num>
-              <text>All applicants will be notified in writing (employment application) that passing a</text>
-              <text>drug and alcohol test shall be a condition for employment with the Pueblo.</text>
+              <text>All applicants will be notified in writing (employment application) that passing a drug and alcohol test shall be a condition for employment with the Pueblo.</text>
             </para>
             <para>
               <num>2.</num>
@@ -1471,12 +1433,9 @@
               </para>
             </para>
             <text>Post Accident Testing</text>
-            <text>All employees employed by the Pueblo involved in or contributing to an accident, or who cannot be completely discounted as being contributing factors to an accident, shall be tested as soon as practicable after an accident. Employees in safety-sensitive positions must be tested for controlled substances no later than 32 hours after the accident and no later than 8 hours after the accident for alcohol testing as mandated by DOT. DOT places the burden .of compliance with post-accident alcohol and drug testing regulations on the individual in safety-sensitive positions</text>
-            <text>and requires both a breath alcohol test and urine specimen.</text>
-            <text>Individuals will be notified by their Program or the Human Resources Department to report to the EAC for testing. In the event that the individual is seriously injured and unable to provide a</text>
-            <text>specimen at the time of the accident, he/she shall provide the necessary authorization for obtaining hospital reports and other documents that would indicate whether there were any controlled substances in his/her system.</text>
-            <text>For the purposes of post accident testing, an "accident" is defined as an incident that results in property damage, death of a human being, or bodily injury to a person who, as a result of their injury, immediately receives medical treatment away from the scene of the accident. DOT regulations specify that except for a fatality accident, verification of responsibility of those individuals in safety-sensitive positions (i.e. truck drivers, bus drivers) in the above mentioned</text>
-            <text>accident scenario must be established by a citation to the driver.</text>
+            <text>All employees employed by the Pueblo involved in or contributing to an accident, or who cannot be completely discounted as being contributing factors to an accident, shall be tested as soon as practicable after an accident. Employees in safety-sensitive positions must be tested for controlled substances no later than 32 hours after the accident and no later than 8 hours after the accident for alcohol testing as mandated by DOT. DOT places the burden .of compliance with post-accident alcohol and drug testing regulations on the individual in safety-sensitive positions and requires both a breath alcohol test and urine specimen.</text>
+            <text>Individuals will be notified by their Program or the Human Resources Department to report to the EAC for testing. In the event that the individual is seriously injured and unable to provide a specimen at the time of the accident, he/she shall provide the necessary authorization for obtaining hospital reports and other documents that would indicate whether there were any controlled substances in his/her system.</text>
+            <text>For the purposes of post accident testing, an "accident" is defined as an incident that results in property damage, death of a human being, or bodily injury to a person who, as a result of their injury, immediately receives medical treatment away from the scene of the accident. DOT regulations specify that except for a fatality accident, verification of responsibility of those individuals in safety-sensitive positions (i.e. truck drivers, bus drivers) in the above mentioned accident scenario must be established by a citation to the driver.</text>
             <text>Post Accident Procedures</text>
             <para>
               <num>1.</num>
@@ -1484,27 +1443,19 @@
             </para>
             <para>
               <num>2.</num>
-              <text>The Pueblo/ supervisor will determine that post-accident testing will not be required by the employee if the Pueblo and/or Investigating Officer has determined that the employee's involvement was not a contributing factor in the accident. (Drivers may be hours away from an</text>
+              <text>The Pueblo/ supervisor will determine that post-accident testing will not be required by the employee if the Pueblo and/or Investigating Officer has determined that the employee's involvement was not a contributing factor in the accident. (Drivers may be hours away from an immediate supervisor. In such cases, the Pueblo/supervisor should call the enforcement agency involved and speak with the investigating officer or shift commander).</text>
             </para>
-            <text>immediate supervisor. In such cases, the Pueblo/supervisor should call the enforcement agency</text>
-            <text>involved and speak with the investigating officer or shift commander).</text>
             <para>
               <num>3.</num>
               <text>The Pueblo/supervisor is responsible to insure the employee reports to the Behavioral Health Program (collection site) in San Juan Pueblo after an appointment has been made with the EAC or a designated representative but no later than 32 hours after the accident for controlled substance testing and 8 hours after for alcohol testing when safety-sensitive positions are involved.</text>
             </para>
             <text>Return to Duty</text>
-            <text>When an employee is returned to duty after a rehabilitation process, the Pueblo will ensure the</text>
-            <text>employee receives both an alcohol and controlled substance test before being reinstated to is/her</text>
-            <text>previous job. A positive test will result in termination. Safety-sensitive positions must undergo</text>
-            <text>a return-to-duty alcohol test with a result of less than a 0.02 BAC or receive a confirmed negative result from a controlled substance urinalysis test.</text>
+            <text>When an employee is returned to duty after a rehabilitation process, the Pueblo will ensure the employee receives both an alcohol and controlled substance test before being reinstated to is/her previous job. A positive test will result in termination. Safety-sensitive positions must undergo a return-to-duty alcohol test with a result of less than a 0.02 BAC or receive a confirmed negative result from a controlled substance urinalysis test.</text>
             <text>Follow-Up testing</text>
-            <text>When an employee is returned to duty after a rehabilitation process, the Pueblo will ensure the employee receives random alcohol and controlled substance tests over an  8-month  period. The</text>
-            <text>number and frequency of such follow-up testing shall be as directed by the MRO through the EAC. (Employee's in safety-sensitive positions will conduct at least six tests in the first 12 months following the employee's return to duty.</text>
-            <text>Follow-up testing shall not exceed 60 months from the date of the employee's return to duty). The EAC after discussion with the MRO may terminate the requirement for follow-up testing at</text>
-            <text>any time after the first six tests have been administered, provided the EAC determines such testing is no longer necessary.</text>
+            <text>When an employee is returned to duty after a rehabilitation process, the Pueblo will ensure the employee receives random alcohol and controlled substance tests over an  8-month  period. The number and frequency of such follow-up testing shall be as directed by the MRO through the EAC. (Employee's in safety-sensitive positions will conduct at least six tests in the first 12 months following the employee's return to duty.</text>
+            <text>Follow-up testing shall not exceed 60 months from the date of the employee's return to duty). The EAC after discussion with the MRO may terminate the requirement for follow-up testing at any time after the first six tests have been administered, provided the EAC determines such testing is no longer necessary.</text>
             <text>DHHS/NIDA and SAFE Certified Laboratories</text>
-            <text>All testing is performed by a DHHS/NIDA approved laboratory. The Pueblo has contracted with</text>
-            <text>the following Laboratory to perform all its testing:</text>
+            <text>All testing is performed by a DHHS/NIDA approved laboratory. The Pueblo has contracted with the following Laboratory to perform all its testing:</text>
             <text>S.E.D. Medical Laboratories</text>
             <text>5601 Office Blvd N.E.</text>
             <text>Albuquerque, New Mexico 87109</text>
@@ -1518,21 +1469,14 @@
             <text>Albuquerque, New Mexico 87109</text>
             <text>505-291-5444</text>
             <text>Collections</text>
-            <text>Collections will be done at the Behavioral Health Program located in San Juan Pueblo (#505/852-2788). The Employee Assistance Coordinator (EAC) and or designated representative</text>
-            <text>will conduct specimen collections and ensure chain of custody procedures in accordance with procedures established by the testing laboratory. The standard legal protocol checklist for SAFE drug screen collections will be utilized for both standard and split-sample collections. S.E.D. Labs provides a bonded courier service for collections pickup Monday through Friday to transfer the specimen from the collection point to and from the laboratory. They also provide all testing supplies (800999-LABS).</text>
-            <text>Negative drug test results are available within 24 hours of the time the specimen arrives</text>
-            <text>at the Laboratory in Albuquerque. Positive screening tests require confirmatory testing which require an additional 24-48 hours. These results are sent to the MRO. The MRO will contact the</text>
-            <text>employee(s) who have positive drug testing results to determine if the result is due to prescription drugs. The MRO will then either call or FAX results to the Behavioral Health Program followed by written results sent by mail. Positive results will be reviewed by the EAC</text>
-            <text>and forwarded to the Human Resources Director for consultation with the employees Program Director. A referral can then be made to the Pueblo's EAP (based on previous substance abuse history) or potential termination of employment.</text>
-            <text>Employees in safety-sensitive positions as defined by DOT will be required to do a split-pecimen</text>
-            <text>(see definitions &amp; DOT procedures).</text>
+            <text>Collections will be done at the Behavioral Health Program located in San Juan Pueblo (#505/852-2788). The Employee Assistance Coordinator (EAC) and or designated representative will conduct specimen collections and ensure chain of custody procedures in accordance with procedures established by the testing laboratory. The standard legal protocol checklist for SAFE drug screen collections will be utilized for both standard and split-sample collections. S.E.D. Labs provides a bonded courier service for collections pickup Monday through Friday to transfer the specimen from the collection point to and from the laboratory. They also provide all testing supplies (800999-LABS).</text>
+            <text>Negative drug test results are available within 24 hours of the time the specimen arrives at the Laboratory in Albuquerque. Positive screening tests require confirmatory testing which require an additional 24-48 hours. These results are sent to the MRO. The MRO will contact the employee(s) who have positive drug testing results to determine if the result is due to prescription drugs. The MRO will then either call or FAX results to the Behavioral Health Program followed by written results sent by mail. Positive results will be reviewed by the EAC and forwarded to the Human Resources Director for consultation with the employees Program Director. A referral can then be made to the Pueblo's EAP (based on previous substance abuse history) or potential termination of employment.</text>
+            <text>Employees in safety-sensitive positions as defined by DOT will be required to do a split-pecimen (see definitions &amp; DOT procedures).</text>
             <text>
               <strong>703. Harassment Policy</strong>
             </text>
             <text>The Pueblo will not permit or tolerate harassment of employees by other employees. This includes harassment because of race, sex, religious, creed, color, national origin, ancestry, disability or medical condition, age, or any other basis protected by federal law. Such conduct by an employee could result in corrective action up to, and including termination of employment.</text>
-            <text>No harassment will be tolerated and sexual, racial, religious, ethnic, disability, sexual orientation and other form of legally impermissible harassment in any manner or form is expressly prohibited.  If an employee becomes aware of inappropriate harassment in the workplace whether directed at himself/herself or any other person, they have an obligation to bring it to the attention of their director, the Tribal Administrator, Human Resources Coordinator or any other Pueblo official with whom they are comfortable discussing the</text>
-            <text>issue. The situation will then be investigated appropriately and privacy will be maintained</text>
-            <text>to the extent feasible under the circumstances. Retaliation against any individual who complains about an incident of harassment or cooperates in any investigation of alleged harassment is strictly prohibited.</text>
+            <text>No harassment will be tolerated and sexual, racial, religious, ethnic, disability, sexual orientation and other form of legally impermissible harassment in any manner or form is expressly prohibited.  If an employee becomes aware of inappropriate harassment in the workplace whether directed at himself/herself or any other person, they have an obligation to bring it to the attention of their director, the Tribal Administrator, Human Resources Coordinator or any other Pueblo official with whom they are comfortable discussing the issue. The situation will then be investigated appropriately and privacy will be maintained to the extent feasible under the circumstances. Retaliation against any individual who complains about an incident of harassment or cooperates in any investigation of alleged harassment is strictly prohibited.</text>
             <text>
               <strong>704. Progressive Discipline</strong>
             </text>
