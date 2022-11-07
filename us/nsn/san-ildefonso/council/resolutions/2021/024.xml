@@ -245,19 +245,19 @@
     </text>
     <heading type="law">PERSONNEL POLICY MANUAL APPROVAL ACT OF 2021</heading>
     <section>
-      <codify:insert num-value="6.7.1.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.1.070"/>
+      <codify:insert num-value="6.7.1.070" after="6.7.1.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.1.070"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "PERSONNEL POLICY MANUAL APPROVAL ACT OF 2021."</text>
     </section>
     <section>
-      <codify:insert num-value="6.7.1.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.1.080"/>
+      <codify:insert num-value="6.7.1.080" after="6.7.1.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.1.080"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to approve amendments to the Personnel Policy Manual.</text>
     </section>
     <section>
-      <codify:insert num-value="6.7.1.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.1.090"/>
+      <codify:insert num-value="6.7.1.090" after="6.7.1.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.1.090"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -275,7 +275,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.7.1.100" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.1.100"/>
+      <codify:insert num-value="6.7.1.100" after="6.7.1.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.1.100"/>
       <num>1.4</num>
       <heading>Approval</heading>
       <text>The Council hereby approves and enacts the attached Personnel Policy Manual.</text>

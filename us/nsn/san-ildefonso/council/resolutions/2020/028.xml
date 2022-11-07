@@ -254,7 +254,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>The Council and Administration had started to revise and update the Personnel Policy and 	found that the Grievance Policy needs to be revised; and</text>
+        <text>The Council and Administration had started to revise and update the Personnel Policy and  found that the Grievance Policy needs to be revised; and</text>
       </para>
       <para>
         <num>(e)</num>
@@ -265,9 +265,9 @@
       <num>1.4</num>
       <heading>Authorizations</heading>
       <text>The Council hereby passes this Act to change Section 705 Grievances and Appeals to read as the attached Section 705 Grievances and Appeals.</text>
-      <codify:replace codify:doc="Pueblo de San Ildefonso Code" path="19.3.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|19.3.1.020">
+      <codify:replace codify:doc="Pueblo de San Ildefonso Code" path="6.7.1.150" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.1.150">
         <section>
-          <num>19.3.1.020</num>
+          <num>6.7.1.150</num>
           <heading>Personnel Policy Manual</heading>
           <include>
             <text>
@@ -296,61 +296,61 @@
               <center>TABLE OF CONTENTS</center>
             </text>
             <text>PAGE</text>
-            <text>INTRODUCTION	1</text>
-            <text>DEFINITIONS	2</text>
+            <text>INTRODUCTION  1</text>
+            <text>DEFINITIONS 2</text>
             <text>GENERAL EMPLOYMENT POLICIES</text>
-            <text>101.	Nature of Employment	3</text>
-            <text>102.	Equal Employment Opportunity 	4</text>
-            <text>103.	Business Ethics and Conduct 	5</text>
-            <text>104.	Conflicts of Interest	6</text>
-            <text>105.	Outside Employment 	7</text>
-            <text>106.	Dress Code	8</text>
-            <text>107.	Confidentiality	9</text>
+            <text>101.  Nature of Employment  3</text>
+            <text>102.  Equal Employment Opportunity  4</text>
+            <text>103.  Business Ethics and Conduct   5</text>
+            <text>104.  Conflicts of Interest 6</text>
+            <text>105.  Outside Employment  7</text>
+            <text>106.  Dress Code  8</text>
+            <text>107.  Confidentiality 9</text>
             <text>RECRUITMENT</text>
-            <text>201.	Personnel Selection Committee 	10</text>
-            <text>202.	Job Vacancies and Employee Transfers	11</text>
-            <text>203.	Employment Applications	12</text>
-            <text>204.	Employment Reference Checks and Background Investigations	13-15</text>
-            <text>205.	Hiring of Relatives 	16</text>
+            <text>201.  Personnel Selection Committee   10</text>
+            <text>202.  Job Vacancies and Employee Transfers  11</text>
+            <text>203.  Employment Applications 12</text>
+            <text>204.  Employment Reference Checks and Background Investigations 13-15</text>
+            <text>205.  Hiring of Relatives   16</text>
             <text>EMPLOYMENT STATUS &amp; RECORDS</text>
-            <text>301.	Employment Categories 	17-18</text>
-            <text>302.	Job Descriptions 	19</text>
-            <text>303.	Probationary Period	20</text>
-            <text>304.	Performance Evaluation	21</text>
-            <text>305.	Personal Data Changes	22</text>
-            <text>306.	Access to Personnel Files 	23</text>
+            <text>301.  Employment Categories   17-18</text>
+            <text>302.  Job Descriptions  19</text>
+            <text>303.  Probationary Period 20</text>
+            <text>304.  Performance Evaluation  21</text>
+            <text>305.  Personal Data Changes 22</text>
+            <text>306.  Access to Personnel Files   23</text>
             <text>EMPLOYEE BENEFITS</text>
-            <text>401.	Annual Leave	24</text>
-            <text>402.	Sick Leave 	25</text>
-            <text>403.	Bereavement Leave 	26</text>
-            <text>404.	Family and Medical Leave Of Absence	27-29</text>
-            <text>405.	Other Unpaid Personal Leave Of Absence 	30</text>
-            <text>406.	Holidays 	31</text>
-            <text>407.	Military Leave 	32</text>
-            <text>408.	Time Off To Vote	33</text>
-            <text>409.	Jury Duty 	34</text>
-            <text>410.	Overtime and Compensatory Time 	35</text>
-            <text>411.	Administrative Leave of Absence	36</text>
-            <text>412.	Donation of Sick Leave	37</text>
+            <text>401.  Annual Leave  24</text>
+            <text>402.  Sick Leave  25</text>
+            <text>403.  Bereavement Leave   26</text>
+            <text>404.  Family and Medical Leave Of Absence 27-29</text>
+            <text>405.  Other Unpaid Personal Leave Of Absence  30</text>
+            <text>406.  Holidays  31</text>
+            <text>407.  Military Leave  32</text>
+            <text>408.  Time Off To Vote  33</text>
+            <text>409.  Jury Duty   34</text>
+            <text>410.  Overtime and Compensatory Time  35</text>
+            <text>411.  Administrative Leave of Absence 36</text>
+            <text>412.  Donation of Sick Leave  37</text>
             <text>ATTENDANCE</text>
-            <text>501.	Definitions	38</text>
-            <text>502.	Timekeeping and Documenting 	39</text>
-            <text>503.	Work Schedules 	40</text>
-            <text>504.	Separation from Employment 	41-42</text>
-            <text>505.	Return of Property	43</text>
+            <text>501.  Definitions 38</text>
+            <text>502.  Timekeeping and Documenting   39</text>
+            <text>503.  Work Schedules  40</text>
+            <text>504.  Separation from Employment  41-42</text>
+            <text>505.  Return of Property  43</text>
             <text>SPECIAL WORK PLACE POLICIES</text>
-            <text>601.	Use of Phone and Mail Systems 	44</text>
-            <text>602.	No Smoking Policy 	45</text>
-            <text>603.	Use of Equipment and Vehicles 	46</text>
-            <text>604.	Visitors in the Workplace	47</text>
-            <text>605.	Use of Information Systems and Networks 	48-49</text>
-            <text>606.	Workplace Safety	50-51</text>
+            <text>601.  Use of Phone and Mail Systems   44</text>
+            <text>602.  No Smoking Policy   45</text>
+            <text>603.  Use of Equipment and Vehicles   46</text>
+            <text>604.  Visitors in the Workplace 47</text>
+            <text>605.  Use of Information Systems and Networks   48-49</text>
+            <text>606.  Workplace Safety  50-51</text>
             <text>EMPLOYEE CONDUCT &amp; DISCIPLINARY ACTION</text>
-            <text>701.	Employee Conduct and Work Rules 	52-53</text>
-            <text>702.	Drug and Alcohol Policy	54-65</text>
-            <text>703.	Harassment Policy 	66</text>
-            <text>704.	Progressive Discipline 	67-69</text>
-            <text>705. -Grievances and Appeals 	70-71</text>
+            <text>701.  Employee Conduct and Work Rules   52-53</text>
+            <text>702.  Drug and Alcohol Policy 54-65</text>
+            <text>703.  Harassment Policy   66</text>
+            <text>704.  Progressive Discipline  67-69</text>
+            <text>705. -Grievances and Appeals  70-71</text>
             <text>
               <strong>INTRODUCTION</strong>
             </text>
@@ -675,7 +675,7 @@
                 </strong>
               </text>
               <text>Employees may be eligible to take an unpaid family or medical leave of up to a total of 12 workweeks in any 12-month period for the following reasons, as defined by the Family and Medical Leave Act of 1993:</text>
-              <text>The birth of a child of an employee or the placement of a child with the 	employee for adoption or foster care. Entitlement to leave for the birth or placement 	of a child for adoption or foster care expires 12 months from the date of birth or 	placement of the child.</text>
+              <text>The birth of a child of an employee or the placement of a child with the  employee for adoption or foster care. Entitlement to leave for the birth or placement   of a child for adoption or foster care expires 12 months from the date of birth or  placement of the child.</text>
               <text>To care for a spouse, child or parent who has a serious health condition.</text>
               <text>Because of a serious health condition of the employee.</text>
               <text>In cases where both spouses are employed by the Pueblo, the combined period of their family and medical leave will be limited to 12 workweeks in any 12-month period, for birth or adoption of a child. In all other instances, including covered health conditions of the employee or the employee's spouse, parent or child, each spouse is entitled to his or her own full 12 weeks of family leave.</text>
@@ -887,18 +887,18 @@
             <para>
               <num>a.</num>
               <heading>Substandard Performance:</heading>
-              <text>An employee may be discharged from employment if their 	performance is unacceptable. It is important for Directors and supervisors to identify 	potential performance deficiencies or problems as early as possible and take prompt 	measures in an attempt to correct the situation in consultation with the Tribal 	Administrator to avoid termination. However, this process may not apply for a 	discharge of an employee during the probationary period. Before discharging any 	employee, a supervisor must consult with the Tribal Administrator and Governor 	who must concur in advance of notifying the employee of discharge action.</text>
+              <text>An employee may be discharged from employment if their  performance is unacceptable. It is important for Directors and supervisors to identify  potential performance deficiencies or problems as early as possible and take prompt   measures in an attempt to correct the situation in consultation with the Tribal   Administrator to avoid termination. However, this process may not apply for a   discharge of an employee during the probationary period. Before discharging any   employee, a supervisor must consult with the Tribal Administrator and Governor  who must concur in advance of notifying the employee of discharge action.</text>
               <para>
                 <num>b.</num>
                 <heading>Misconduct:</heading>
-                <text>The Pueblo reserves the right to either 1) suspend or terminate an 	employee immediately upon the occurrence of misconduct or 2) subject the</text>
-                <text>employee to	its progressive discipline policy to be engaged in activities such as, 	but not limited to, theft of the Pueblo tribal property or the property of another 	employee, insubordination, assault, harassment (see Section 606) or any other 	activities showing willful disregard of the Pueblo interests or policies. It is 	important for Directors and supervisors to identify potential performance 	deficiencies or problems as early as possible and take prompt measures in an 	attempt to correct the situation in consultation with the Tribal Administrator.</text>
-                <text>If a possibility of continuing misconduct requires that action be taken before consultation 	with the Tribal Administrator and Governor can take place or if the misconduct is so 	serious, a Director may suspend the employee temporarily. Pending the results of further 	review and investigation by the Tribal Administrator and Governor, the suspension may 	be with or without pay. Refer to Section 704 (3)</text>
+                <text>The Pueblo reserves the right to either 1) suspend or terminate an  employee immediately upon the occurrence of misconduct or 2) subject the</text>
+                <text>employee to its progressive discipline policy to be engaged in activities such as,  but not limited to, theft of the Pueblo tribal property or the property of another  employee, insubordination, assault, harassment (see Section 606) or any other   activities showing willful disregard of the Pueblo interests or policies. It is   important for Directors and supervisors to identify potential performance   deficiencies or problems as early as possible and take prompt measures in an  attempt to correct the situation in consultation with the Tribal Administrator.</text>
+                <text>If a possibility of continuing misconduct requires that action be taken before consultation   with the Tribal Administrator and Governor can take place or if the misconduct is so  serious, a Director may suspend the employee temporarily. Pending the results of further  review and investigation by the Tribal Administrator and Governor, the suspension may   be with or without pay. Refer to Section 704 (3)</text>
               </para>
               <para>
                 <num>c.</num>
                 <heading>Discharge during the Probationary Period:</heading>
-                <text>The probationary period is a period of 	service during which Pueblo assesses the performance of an employee to determine 	whether the employee satisfactorily meets the requirements of the position. The 	termination of a probationary employee during the probationary period may be 	without cause but requires the approval of the appropriate Director, Tribal 	Administrator</text>
+                <text>The probationary period is a period of  service during which Pueblo assesses the performance of an employee to determine  whether the employee satisfactorily meets the requirements of the position. The   termination of a probationary employee during the probationary period may be  without cause but requires the approval of the appropriate Director, Tribal   Administrator</text>
                 <text>or the Governor.</text>
                 <text>A probationary employee who is discharged during the probationary period shall only be entitled to pay for any hours worked.</text>
                 <text>An employee who is involuntarily separated from employment shall be entitled to receive all earned pay subject to deductions for any indebtedness or unreturned property. Payment for earned hours shall be processed as quickly as possible after the date of termination but is subject to the following time constraints: verification of time worked, return of equipment, calculation of any costs owed to the Pueblo by the employee, other indebtedness, completion of specific projects, etc.</text>
@@ -1052,15 +1052,15 @@
               </para>
               <para>
                 <num>2.</num>
-                <text>A reasonable person would perceive as obsessively directed, e.g., intensely focused on a 	grudge, grievance, or romantic interest in another person, and reasonably likely to 	result in harm or threats of harm to persons or property;</text>
+                <text>A reasonable person would perceive as obsessively directed, e.g., intensely focused on a  grudge, grievance, or romantic interest in another person, and reasonably likely to   result in harm or threats of harm to persons or property;</text>
               </para>
               <para>
                 <num>3.</num>
-                <text>Consists of a communicated or reasonably perceived threat to harm another individual 	or in any way endanger the safety of an individual;</text>
+                <text>Consists of a communicated or reasonably perceived threat to harm another individual  or in any way endanger the safety of an individual;</text>
               </para>
               <para>
                 <num>4.</num>
-                <text>Would be interpreted by a reasonable person as carrying potential for physical harm 	to the individual;</text>
+                <text>Would be interpreted by a reasonable person as carrying potential for physical harm   to the individual;</text>
               </para>
               <para>
                 <num>5.</num>
@@ -1068,7 +1068,7 @@
               </para>
               <para>
                 <num>6.</num>
-                <text>Involves carrying or displaying weapons, destroying property, or throwing objects in a 	manner reasonably perceived to be threatening; or</text>
+                <text>Involves carrying or displaying weapons, destroying property, or throwing objects in a  manner reasonably perceived to be threatening; or</text>
               </para>
               <para>
                 <num>7.</num>
