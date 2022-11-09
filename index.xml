@@ -16,10 +16,10 @@
     <history-start>2017-04-19</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="66fc3406f0329b0611746ff3bff6dba905c5ba77"/>
+        <repository name="sanipueblo/law-xml" commit="9ab52a5a843899b6a58deefcc1359e02df5f8e34"/>
       </repositories>
       <platform version="2.6.0" reproducible="false"/>
-      <build-date>2022-11-08</build-date>
+      <build-date>2022-11-09</build-date>
       <codified-date>2022-06-29</codified-date>
     </build>
   </meta>
@@ -41,7 +41,8 @@
   </collection>
   <collection name="us/nsn/san-ildefonso/council/policies">
     <heading>Pueblo de San Ildefonso Policies</heading>
-    <xi:include href="./us/nsn/san-ildefonso/council/policies/enrollment.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/policies/enrollment_policy.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/policies/personnel_policy.xml"/>
   </collection>
   <xi:include href="./us/nsn/san-ildefonso/corporations/san-ildefonso-services/index.xml"/>
 </library>
