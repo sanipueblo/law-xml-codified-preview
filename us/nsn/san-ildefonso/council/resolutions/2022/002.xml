@@ -16,15 +16,15 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>in 2012, the Council reaffirmed the Personnel Policy Manual that had existed for many years to govern the employment practices of the Pueblo; and,</text>
+      <text>in 2012, the Council reaffirmed the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> that had existed for many years to govern the employment practices of the Pueblo; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>in 2017, the Council enacted the Personnel Policy Manual Clarification Act to, again, reaffirm the existing Personnel Policy Manual, and to clarify that the Council is vested with the authority to approve any future modifications to the Manual and that the Governor is prohibited from making changes to the Manual by Executive Order; and,</text>
+      <text>in 2017, the Council enacted the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> Clarification Act to, again, reaffirm the existing <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite>, and to clarify that the Council is vested with the authority to approve any future modifications to the Manual and that the Governor is prohibited from making changes to the Manual by Executive Order; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Governor and Council have identified the need amend and improve the Personnel Policy Manual, and over the course of several years, proposed modifications to the Manual have been developed, circulated, and reviewed by multiple officials of the Pueblo.</text>
+      <text>the Governor and Council have identified the need amend and improve the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite>, and over the course of several years, proposed modifications to the Manual have been developed, circulated, and reviewed by multiple officials of the Pueblo.</text>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
@@ -254,7 +254,7 @@
       <codify:insert num-value="6.7.1.120" after="6.7.1.110" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.1.120"/>
       <num>1.2</num>
       <heading>Purpose</heading>
-      <text>The purpose of this Act is to approve amendments of the Personnel Policy Manual.</text>
+      <text>The purpose of this Act is to approve amendments of the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite>.</text>
     </section>
     <section>
       <codify:insert num-value="6.7.1.130" after="6.7.1.120" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.1.130"/>
@@ -263,23 +263,23 @@
       <text>The Council hereby finds and declares that:</text>
       <para>
         <num>(a)</num>
-        <text>In 2012, the Council reaffirmed the Personnel Policy Manual that had existed for many years to govern the employment practices of the Pueblo.</text>
+        <text>In 2012, the Council reaffirmed the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> that had existed for many years to govern the employment practices of the Pueblo.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>In 2017, the Council enacted the Personnel Policy Manual Clarification Act to, again, reaffirm the existing Personnel Policy Manual, and to clarify that the Council is vested with the authority to approve any future modifications to the Manual and that the Governor is prohibited from making changes to the Manual by Executive Order.</text>
+        <text>In 2017, the Council enacted the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> Clarification Act to, again, reaffirm the existing <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite>, and to clarify that the Council is vested with the authority to approve any future modifications to the Manual and that the Governor is prohibited from making changes to the Manual by Executive Order.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>The Governor and Council have identified the need amend and improve the Personnel Policy Manual, and over the course of several years, proposed modifications to the Manual have been developed, circulated, and reviewed by multiple officials of the Pueblo.</text>
+        <text>The Governor and Council have identified the need amend and improve the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite>, and over the course of several years, proposed modifications to the Manual have been developed, circulated, and reviewed by multiple officials of the Pueblo.</text>
       </para>
     </section>
     <section>
       <codify:insert num-value="6.7.1.140" after="6.7.1.130" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.1.140"/>
       <num>1.4</num>
       <heading>Approval</heading>
-      <text>The Council hereby approves and enacts the attached Personnel Policy Manual amendments.</text>
+      <text>The Council hereby approves and enacts the attached <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> amendments.</text>
     </section>
-    <text>[For text of the updated Personnel Policy Manual see <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">here</cite>.]</text>
+    <text>[For text of the updated <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> see <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">here</cite>.]</text>
   </attachment>
 </document>
