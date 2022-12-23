@@ -1,0 +1,752 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R22-013">
+  <num>SI-R22-013</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R22-013</heading>
+  <heading type="law" proof="needed">Civil Trespass Act of 2022</heading>
+  <meta>
+    <effective>2022-09-23</effective>
+    <citations>
+      <citation type="res" proof="needed">Council Resolution No. SI-R22-013</citation>
+    </citations>
+    <history>
+      <adopted>2022-09-20</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 20<sup>th</sup> day of September, 2022, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso (Pueblo) possesses inherent sovereign powers over Pueblo lands; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in the exercise of that sovereign power, the Pueblo grants leases, easements, rights-of-way, and access permits that authorize access to and use of the Pueblo lands; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>unauthorized access and trespass upon Pueblo lands causes substantial economic damage and other harm to the Pueblo; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in October 2011, the Pueblo enacted a civil trespass code to address matters relating access and use of the Pueblo's lands and to establish a process to remedy trespasses on Pueblo lands; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo's civil trespass code, identified as Title XXI- Civil Trespass, was not included in the Pueblo's Code that is posted on the Pueblo's website, and must be amended to reflect the changes in the Pueblo's governance structure resulting from the Governing Agreement that was enacted and approved in December 2011, a date after the enactment of the Civil Trespass code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it has been determined that it is in the best interest of the Pueblo to amend and restate Title XXI-Civil Trespass Code.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "CIVIL TRESPASS ACT OF 2022."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u> September 20</u>, 2022, at a meeting with a vote of <u>9</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>M. Wayne Martinez, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R22-013</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>20</u><sup><u>th</u></sup> day of <u>September</u>, 2022, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>M. Wayne Martinez, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>23</u><sup><u>rd</u></sup> day of <u>September</u>, 2022.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2022.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2022, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>M. Wayne Martinez, Council Secretary</text>
+  </procedural-data>
+  <attachment id="law">
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law" proof="needed">THE CIVIL TRESPASS ACT OF 2022</heading>
+    <container>
+      <codify:insert doc="Pueblo de San Ildefonso Code" path="24" after="24.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.10.1.010"/>
+      <num>24.10</num>
+      <heading>Civil Trespass</heading>
+      <prefix>Chapter</prefix>
+      <container>
+        <num>24.10.1</num>
+        <heading>Short Title</heading>
+        <prefix>Part</prefix>
+        <text>This enactment shall be known as the "CIVIL TRESPASS ACT OF 2022" ("Act").</text>
+        <section>
+          <num>24.10.1.010</num>
+          <heading>Purpose</heading>
+          <text>The purposes of this Act are to:</text>
+          <para>
+            <num>(a)</num>
+            <text>Set the terms upon which the Pueblo will grant consent to persons to obtain an interest in, enter upon, remain on, or otherwise use Pueblo lands;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Designate administrative responsibility for responding to trespasses on Pueblo</text>
+            <text>lands;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Provide a mechanism to remedy trespasses upon Pueblo lands; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Specify charges, penalties and damages for trespasses to Pueblo lands.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.020</num>
+          <heading>Findings</heading>
+          <text>The Council finds and declares that:</text>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo possesses inherent sovereign powers over Pueblo lands.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>In the exercise of that sovereign power, the Pueblo grants leases, easements, rights-of-way, and permits that authorize access to and use of the Pueblo lands.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Unauthorized access and trespass upon Pueblo lands causes substantial economic damage and other harm to the Pueblo.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>In October 2011, the Pueblo enacted a civil trespass code to address matters relating access and use of the Pueblo's lands and to establish a process to remedy trespasses on Pueblo lands.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The Pueblo's 2011 civil trespass code, identified as Title XXI- Civil Trespass, was not included in the Pueblo's Code that is posted on the Pueblo's website, and must be amended to reflect the changes in the Pueblo's governance structure resulting from the Governing Agreement that was enacted and approved in December 2011, a date after the enactment of the civil trespass code.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>It has been determined that it is in the best interest of the Pueblo to amend and restate Title XXI-Civil Trespass Code.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.030</num>
+          <heading>Definitions</heading>
+          <text>When used in this Act, the term:</text>
+          <para>
+            <num>(a)</num>
+            <text>"Compliance incentive charge" means an amount equal to twenty percent (20%) of the original trespass charge for the first month plus ten percent (10%) of the then-current trespass charge times the number of months following notification of person in trespass for the second and subsequent months.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Council" means the governing body of the Pueblo.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Governor" means the chief executive officer of the Pueblo.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Lease" means any agreement between the Pueblo and a person that grants a right of possession of Pueblo lands for a specified purpose and duration in accordance with applicable federal law and regulations.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"Permit" means any agreement between the Pueblo and a person that grants a revocable privilege to use Pueblo lands for a specified purpose. Permit includes sand and gravel and borrow material permits.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>"Person" means any individual, group of individuals, corporation, partnership, association, state, municipality, commission, political subdivision of a state, interstate body, the federal government or any federal agency or any other entity, but does not include the Pueblo, or other Pueblo's entities or instrumentalities as may be determined by the Council by law.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>"Pueblo" means Pueblo de San Ildefonso, a federally recognized Indian tribe.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>"Pueblo lands" means any land or any interest in land owned or held by the Pueblo, or held in trust by the United States for the Pueblo.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>"Realty Officer" means the realty officer of the Pueblo's Realty Department.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>"Right-of-way" means an agreement between the Pueblo and a person that grants an easement or right-of-way in, over, under, through or to Pueblo lands in accordance with applicable Pueblo and federal law and regulations.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>"Secretary" means the Secretary of the Interior or his or her authorized representative.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>"Trespass" means the unauthorized possession, occupancy, holding over upon, entry upon, or use of Pueblo lands.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>"Trespass charge" means the annual rental value of the total acreage encumbered by the property of the person in trespass which is equal to the encumbered acreage times the highest annual rental value per acre then in place anywhere on Pueblo lands as determined by the Realty Officer. A monthly trespass charge is then determined by dividing the annual rental value by twelve (12). The trespass charge may be changed at any time to reflect the then-current highest annual rental value on Pueblo lands.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.040</num>
+          <heading>Applicability</heading>
+          <para>
+            <num>(a)</num>
+            <text>Except as otherwise provided in subsection (b) of this section, this Act applies to all Pueblo lands and to all persons holding or claiming an interest in, possessing, holding over upon, entering upon, or otherwise using, Pueblo lands.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>This Act does not apply to persons who are Pueblo members holding or claiming an interest in, possessing, entering upon, or otherwise using Pueblo lands under a valid assignment granted by the Pueblo or the United States in accordance with applicable federal law or regulations.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.050</num>
+          <heading>Construction</heading>
+          <para>
+            <num>(a)</num>
+            <text>The provisions of this Act are to be liberally construed to effectuate the intent, findings, and purposes set forth in Sections 24.10.1.010 and 24.10.1.020 of this Act, but not to conflict with applicable federal law and regulations.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Nothing contained in this Act is to be construed to diminish, limit, or otherwise adversely affect any right or remedy otherwise held or available to the Pueblo or its members under other applicable law.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.060</num>
+          <heading>Act as a Condition of Future Consents, Grants and Agreements</heading>
+          <text>The provisions of this Act shall be incorporated as a term and condition of the consent or grant by the Pueblo of every lease, easement, right-of-way, or permit, unless specifically waived by the Council by law.</text>
+        </section>
+        <section>
+          <num>24.10.1.070</num>
+          <heading>Prohibition Against Trespass</heading>
+          <text>It is unlawful to trespass upon Pueblo lands. Each day that a person trespasses constitutes a separate violation.</text>
+        </section>
+        <section>
+          <num>24.10.1.080</num>
+          <heading>Penalties</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any person who knowingly or intentionally trespasses shall be subject to a civil penalty not to exceed $5,000 for each violation.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any person who negligently trespasses shall be subject to a civil penalty not to exceed $1,000 for each violation.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>In determining the amount of a civil penalty, the Realty Officer shall consider the seriousness of the violation or violations, the economic benefit to the person in trespass, if any, resulting from the violation, any history of violations, any good-faith efforts to comply with applicable requirements, and any other factors as justice may require.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>If a trespass occurs as a result of holding over, then the person in trespass shall pay a monthly trespass charge plus a compliance incentive charge. If the trespass is the result of knowing, intentional or negligent action of the person in trespass, the penalties specified in subsections (a) and (b) of this section may be added to trespass charges and compliance incentive charges and to any other damages specified in <cite doc="Pueblo de San Ildefonso Code" path="24.10.1.090">Section 24.10.1.090</cite>.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.090</num>
+          <heading>Damages</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any person who trespasses shall be liable to the Pueblo for all damages proximately cause by such violation.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Damage proximately caused by a trespass shall be determined by the Realty Officer based upon:</text>
+            <para>
+              <num>(1)</num>
+              <text>the highest of the economic benefit to the person, the economic detriment to the Pueblo (including, but not limited to, lost opportunity costs), or the sum of the trespass charge and the compliance incentive charge;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the expense of enforcing this Act against the person in trespass;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>the expense of removing the property of the person in trespass;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>the expense of restoring Pueblo lands damaged by the trespass; and</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>all other consequential or special damages proximately flowing from the violation of this Act by the person in trespass.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.100</num>
+          <heading>Information and Investigation</heading>
+          <para>
+            <num>(a)</num>
+            <text>Upon receipt of information indicating a trespass, the Realty Officer shall</text>
+            <text>investigate to determine whether a trespass has occurred.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If the Realty Officer's investigation reveals a trespass, the Realty Officer shall, after</text>
+            <text>notifying the Governor, proceed in accordance with <cite doc="Pueblo de San Ildefonso Code" path="24.10.1.110">Section 24.10.1.110</cite> of this Act.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.110</num>
+          <heading>Enforcement</heading>
+          <text>Whenever the Realty Officer finds that a person has trespassed, the Realty Officer may take one or more of the following actions:</text>
+          <para>
+            <num>(a)</num>
+            <text>Issue a Notice of Trespass and Order to Comply to the person in trespass accordance with <cite doc="Pueblo de San Ildefonso Code" path="24.10.1.120">Section 24.10.1.120</cite> of this Act;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Issue a Notice of Assessment of Penalty and Damages to the person in trespass in accordance with <cite doc="Pueblo de San Ildefonso Code" path="24.10.1.130">Section 24.10.1.130</cite> of this Act;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Request the Governor to initiate proceedings to exclude the person in trespass from Pueblo lands in accordance with the Pueblo's Exclusion Act; or</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Enforce the lease, easement, right-of-way, or permit to which the person in trespass is a party in accordance with <cite doc="Pueblo de San Ildefonso Code" path="24.10.1.180">Section 24.10.1.180</cite> of this Act.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.120</num>
+          <heading>Notice of Trespass and Order to Comply</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Notice of Trespass and Order to Comply must be in writing, identify the person in trespass, the location and date of the trespass, and contain a short statement of facts indicating the nature and circumstances of the trespass.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Notice of Trespass and Order to Comply must specify any one or more of the following actions to remedy the trespass:</text>
+            <para>
+              <num>(1)</num>
+              <text>Removal of the person in trespass or property of the person in trespass or both from the premises;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Compliance with the terms, conditions, covenants or restrictions of any applicable lease, easement, right-of-way, or permit;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Any other action as may be necessary to cure the trespass; or and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Specify a reasonable period of time within which the person in trespass may cure the trespass. The Notice of Trespass and Order to Comply, however, may not require any action or specify any time period inconsistent with any provision of the applicable lease, easement, right-of-way, or permit.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Notice of Trespass and Order to Comply shall advise the person identified therein of the rights available under <cite doc="Pueblo de San Ildefonso Code" path="24.10.1.160">Section 24.10.1.160</cite> of this Act.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The Realty Officer shall serve the Notice of Trespass and Order to Comply upon the person identified in the notice in accordance with the provisions of the applicable lease, easement, right-of-way, or permit, if any.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Nothing in this section prohibits the Realty Officer from assessing any penalties or damages or both for trespasses by the person in trespass occurring before service of the Notice of Trespass and Order to Comply or before the completion of any cure period provided in the Notice of Trespass and Order to Comply.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.130</num>
+          <heading>Notice of Assessment of Penalty and Damages</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Notice of Assessment of Penalty and Damages may be served with a Notice of Trespass and Order to Comply or at any time thereafter.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Notice of Assessment of Penalty and Damages must be in writing, identify the person who is trespassing, the location and date of the trespass, and contain a short statement of facts indicating the nature and circumstances of the trespass.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Notice of Assessment of Penalty and Damages shall specify:</text>
+            <para>
+              <num>(1)</num>
+              <text>the amount of any penalties assessed in accordance with <cite doc="Pueblo de San Ildefonso Code" path="24.10.1.080">Section 24.10.1.080</cite> of this Act.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the amount of any damages assessed in accordance with <cite doc="Pueblo de San Ildefonso Code" path="24.10.1.090">Section 24.10.1.090</cite> of this Act;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>the time period for which each assessment is made;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>the date payment is due; and</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>advise the person identified therein of the appeals rights available under <cite doc="Pueblo de San Ildefonso Code" path="24.10.1.160">Section 24.10.1.160</cite> of this Act.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The Notice of Assessment of Penalty and Damages must be served upon the person identified in the notice in accordance with the applicable lease, easement, right-of-way, or permit, if any.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.140</num>
+          <heading>Special Land Use License</heading>
+          <para>
+            <num>(a)</num>
+            <text>In lieu of imposing any penalties under <cite doc="Pueblo de San Ildefonso Code" path="24.10.1.080">Section 24.10.1.080</cite> or damages under <cite doc="Pueblo de San Ildefonso Code" path="24.10.1.090">Section 24.10.1.090</cite> of this Act, the Governor may grant a Special Land Use License to the person in trespass for a period not to exceed three (3) months to allow temporary use of Pueblo lands in the absence of a valid lease, easement, rights-of-way, or permit providing the person in trespass:</text>
+            <para>
+              <num>(1)</num>
+              <text>has requested a Special Land Use License;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>has filed an application for renewal with the Secretary or the Pueblo or both</text>
+              <text>in accordance with applicable law, and paid any applicable fees; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>pays a monthly Special Land Use License fee for the Special Land Use License.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Governor may renew the Special Land Use License for an additional period of</text>
+            <text>three (3) months.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Realty Officer shall determine the monthly amount of the Special Land Use</text>
+            <text>License fee based on:</text>
+            <para>
+              <num>(1)</num>
+              <text>the amount of acreage applied for;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the prevailing annual per acre rental value of Pueblo lands as established by the realty officer using the Pueblo's land valuation methods;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>dividing the annual rental value by twelve (12); and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>adding a cumulative 1.5% settlement incentive charge per month (.015 times the first monthly rental value and .015 times the prior monthly rental value for each subsequent month).</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Payment of the Special Land Use Fee shall be due as stated in the Schedule</text>
+            <text>accompanying the Notice of Trespass and Order to Comply.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The amounts paid by the person for the Special Land Use License fee shall be credited against the final settlement amount for the trespass.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The Governor may revoke the Special Land Use License if the person in trespass:</text>
+            <para>
+              <num>(1)</num>
+              <text>fails to pay the Special Land Use License fee; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>does not diligently and in good faith pursue renegotiation of the lease, right-</text>
+              <text>of-way, easement, or permit.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.150</num>
+          <heading>Payment of Penalties and Damages</heading>
+          <para>
+            <num>(a)</num>
+            <text>Penalties and damages assessed pursuant to <cite doc="Pueblo de San Ildefonso Code" path="24.10.1.130">Section 24.10.1.130</cite> of this Act shall be due and payable upon receipt of Notice of Assessment of Penalty and Damages thereof and shall become delinquent thirty (30) days thereafter.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Payments shall be by certified check made payable to the order of the Pueblo.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Interest on any delinquent payment of penalties and damages shall accrue from the date of assessment thereof until paid. The interest shall be assessed at five percent (5%) above the highest prime rate listed on the date of assessment by any bank operating within Santa Fe County, New Mexico, and shall continue in effect until the assessment is paid or otherwise discharged.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Monies collected through payment of assessments of penalties and damages, and any interest thereon, shall be deposited into such account as designated by the Tribal Council.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.160</num>
+          <heading>Appeals</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any person who receives a Notice of Trespass and Order to Comply or Notice of Assessment of Penalty and Damages may file a notice of appeal with the Realty Officer within ten (10) days of the service of the Notice of Trespass and Order to Comply or Notice of Assessment of Penalty and Damages.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The notice of appeal must be in writing and:</text>
+            <para>
+              <num>(1)</num>
+              <text>identify the person who is alleged to be trespassing, the location and date of the alleged trespass, and contain a short statement of facts indicating the nature and circumstances of the alleged trespass;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>specify the order or assessment being appealed;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Specify the legal basis for the appeal; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Contain a statement of facts upon which the appellant relies in support of the appeal and any argument as appellant may care to make in support of the appeal.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Within ten (10) days after receiving a notice of appeal, the Realty Officer shall refer the notice of appeal to the Governor.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.170</num>
+          <heading>Hearing and Decision</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Governor shall consider the appeal within twenty (20) days of receipt of the notice of appeal by the Realty Officer.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Notice shall be afforded to the parties at least ten (10) days in advance of the date set for Governor to consider the appeal. Each party at the meeting to consider the appeal may be represented by counsel and shall have the opportunity to present evidence.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The decision of the Governor regarding the appeal shall be final.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.180</num>
+          <heading>Enforcement of Lease, Easement, Right-of-Way or Permit</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Governor may take any action authorized or allowed under the provisions, terms and conditions and covenants of an applicable lease, easement or right-of-way, permit, or agreement relating thereto as well as such action as may be authorized or allowed under the applicable law.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If necessary, the Governor may request the Secretary or other appropriate federal, pueblo, or state official or agency to enforce:</text>
+            <para>
+              <num>(1)</num>
+              <text>the provisions, terms, conditions and covenants of any lease, easement or right-of-way, permit or agreement relating thereto; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>federal, Pueblo, state or local law or laws applicable to any lease, easement, right-of-way, permit, or agreement relating thereto, or relating got the conduct of business or other activity on the Pueblo lands involved.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>24.10.1.190</num>
+          <heading>Judicial Enforcement</heading>
+          <text>The Governor may direct the tribal attorney to bring a civil action in any court of competent jurisdiction to enjoin a trespass or to obtain payment or enforcement of any assessment of damages or penalties, or for any other relief as may be authorized or allowed under any applicable law.</text>
+        </section>
+        <section>
+          <num>24.10.1.200</num>
+          <heading>Severability</heading>
+          <text>If any provision of this Act as enacted, or as later amended, or its application to any person or circumstance, is held invalid by a final judgment of a court of competent jurisdiction, then the invalidity shall not affect other provisions or applications of this Act that can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.</text>
+        </section>
+        <section>
+          <num>24.10.1.210</num>
+          <heading>Effective Date</heading>
+          <text>This Act applies to any trespass occurring after the date the Council enacts this Act. The amendments supersede all prior laws and Act sections and shall be effective on the date of enactment.</text>
+        </section>
+      </container>
+    </container>
+  </attachment>
+</document>

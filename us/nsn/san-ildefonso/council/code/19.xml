@@ -1576,5 +1576,80 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>19.5.3</num>
+      <heading>Approving and Adopting the Pueblo de San Ildefonso Comprehensive Land Use Plan of 2022</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017"/>
+      <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017" eff="2022-10-24" path="" type="History"/>
+      <section>
+        <num>19.5.3.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "PUEBLO DE SAN ILDEFONSO COMREHENSIVE LAND USE PLAN OF 2022."</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017"/>
+          <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017" eff="2022-10-24" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.5.3.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this resolution is to approve the Comprehensive Land Use Plan of 2022 for a short-term and long-term planning guide for the Pueblo.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017"/>
+          <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017" eff="2022-10-24" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.5.3.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>the Pueblo de San Ildefonso (Pueblo) received $50,000 from the New Mexico State Legislature in 2018 to "Design and Construct Phase 4 of a wastewater collection system (IGA Number 609-18-C2364); and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>on July 27, 2021 per House Bill 296, Laws of 2021, Chapter 139 Section 72, funds were reauthorized to "Plan and Develop a Comprehensive Land use Plan" (IGA Number 609-21-F4070); and,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>IGA Number 609-21-F4070 to "Plan and Develop a Comprehensive Land Use Plan" expires on June 30, 2023; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>on November 30, 2021 the Pueblo entered in to a Contract Agreement with Sites Southwest LLC, Santa Fe, NM, to complete the Comprehensive Land Use Plan; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Sites Southwest, LLC has worked with the Pueblo's Programs and Administration over the past nine months and has completed the final draft of the Comprehensive Land Use Plan (CLUP); and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>the Pueblo de San Ildefonso Tribal Council approves the Comprehensive Land Use Plan with the intention that the Plan is a working document serving as a short and long-term planning guide for the Pueblo.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017"/>
+          <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017" eff="2022-10-24" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.5.3.040</num>
+        <heading>Authorization</heading>
+        <text>The Council hereby approves and adopts the Pueblo de San Ildefonso Comprehensive Land Use Plan of 2022.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017"/>
+          <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-017" eff="2022-10-24" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
 </container>

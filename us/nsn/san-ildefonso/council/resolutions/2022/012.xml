@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R22-012">
+  <num>SI-R22-012</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R22-012</heading>
+  <heading type="law">The Land Use Application Fee Act of 2022</heading>
+  <meta>
+    <effective>2022-09-23</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R22-012</citation>
+    </citations>
+    <history>
+      <adopted>2022-09-20</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 20<sup>th</sup> day of September, 2022, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso (Pueblo) possesses inherent sovereign powers over Pueblo lands; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in the exercise of that sovereign power, the Pueblo grants leases, easements, rights-of-way, and access permits that authorize access to and use of the Pueblo lands; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo must review and evaluate applications from outside parties for new or renewed rights-of-way, leases, permits and other proposed land uses and land encumbrances on Pueblo lands; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo cannot rely on the Bureau of Indian Affairs to conduct or pay for the economic, safety, and legal reviews that are necessary to ensure that the Pueblo's interests are protected prior to any approval of such applications; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has limited financial and staffing resources and cannot and will not bear the cost of reviewing applications of outside parties interested in using Pueblo land for business purposes; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it is appropriate that outside parties applying to use Pueblo land should be required to pay the Pueblo's reasonable costs of reviewing and evaluating an outside party's application; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in October 2011, the Pueblo approved a land use application fee to cover the Pueblo's reasonable costs in reviewing and evaluating an application for a right-of-way, lease, permit or other document to use Pueblo lands; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo's land use application fee was authorized by Resolution No. SI-R11-032 but was not codified and included in the Pueblo's Code that is posted on the Pueblo's website, and must be amended to reflect the changes in the Pueblo's governance structure resulting from the Governing Agreement that was enacted and approved in December 2011, a date after the approval of the land use application fee; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it has been determined that it is in the best interest of the Pueblo to amend and codify the Pueblo's land use application fee authorization.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "THE LAND USE APPLICATION FEE ACT OF 2022."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>September 20</u>, 2022, at a meeting with a vote of <u> 9</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>M. Wayne Martinez, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R22-012</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>20</u><sup><u>th</u></sup> day of <u> September</u>, 2022, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>M. Wayne Martinez, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>23</u><sup><u>rd</u></sup> day of <u>September</u>, 2022.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2022.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2022, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>M. Wayne Martinez, Council Secretary</text>
+  </procedural-data>
+  <attachment id="law">
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">THE LAND USE APPLICATION FEE ACT OF 2022</heading>
+    <container>
+      <codify:insert doc="Pueblo de San Ildefonso Code" path="24" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.11.1.010"/>
+      <prefix>Chapter</prefix>
+      <num>24.11</num>
+      <heading>Land Use Application Fee</heading>
+      <container>
+        <num>24.11.1</num>
+        <heading>Short Title</heading>
+        <prefix>Part</prefix>
+        <text>This enactment shall be known as the "LAND USE APPLICATION FEE ACT OF 2022" ("Act").</text>
+        <section>
+          <num>24.11.1.010</num>
+          <heading>Purpose</heading>
+          <text>The purpose of this Act is to authorize a Land Use Application Fee to be paid by an outside party who requests to use Pueblo de San Ildefonso ("Pueblo") lands for a business purpose to cover the Pueblo's costs to review and evaluate an application and to negotiate a new or renewed right-of-way, lease, permit or other land encumbrance.</text>
+        </section>
+        <section>
+          <num>24.11.1.020</num>
+          <heading>Findings</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso possesses inherent sovereign powers over the Pueblo's lands.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>In the exercise of that sovereign power, the Pueblo grants leases, easements, rights-of-way, and access permits that authorize access to and use of the Pueblo lands.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Pueblo must review and evaluate applications from outside parties for new or renewed rights-of-way, leases, permits and other proposed land uses and land encumbrances on Pueblo land.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The Pueblo cannot rely on the Bureau of Indian Affairs to conduct or pay for the economic, safety, and legal reviews that are necessary to ensure that the Pueblo's interests are protected prior to any approval of such applications.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The Pueblo has limited financial and staffing resources and cannot and will not bear the cost of reviewing applications of outside parties interested in using Pueblo land for business purposes.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>It is appropriate that outside parties applying to use Pueblo land should be required to pay the Pueblo's reasonable costs of reviewing and evaluating and acting on an outside party's application.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>In October 2011, the Pueblo approved a land use application fee to cover the Pueblo's reasonable costs in reviewing and evaluating an application for a right-of-way, lease, permit or other document to use Pueblo lands.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>The Pueblo's land use application fee authorization was done by Resolution No. SI-R11-032 and was not codified and included in the Pueblo's Code that is posted on the Pueblo's website, and must be amended to reflect the changes in the Pueblo's governance structure resulting from the Governing Agreement that was enacted and approved in December 2011, a date after the approval of the land use application fee.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>It is in the best interest of the Pueblo to amend and codify the Pueblo's land use application fee authorization.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.11.1.030</num>
+          <heading>Land Use Application Fee</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any outside party applying for a new or renewed right-of-way, lease, permit or other document authorizing the applicant to use Pueblo land for business purposes shall be required to pay a non-refundable Land Use Application Fee to the Pueblo.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The amount of the Land Use Application Fee is set by the Governor, in consultation with the Realty Director, and shall be an amount sufficient to cover the Pueblo's costs to perform a comprehensive review and evaluation of an application and to negotiate the terms of a right-of-way, lease, or other land encumbrance that will authorize the business use of the Pueblo's land.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The calculation of a Land Use Application Fee amount includes the Pueblo's costs of:</text>
+            <para>
+              <num>(1)</num>
+              <text>Reviewing any environmental and safety impacts of the proposed land encumbrance;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Determining the monetary value of the land use rights to be authorized;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Conducting any necessary negotiations with the applicant including matters of compensation;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Obtaining legal counsel and professional consultant services required by the Pueblo; and</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Conducting administrative review and processing of the application or proposal.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The Land Use Application Fee shall be non-refundable and must be paid in full upon receipt by the Pueblo of an applicant's formal request for the Pueblo's consideration of a new or renewed right-of-way, lease, land use permit or other document authorizing encumbrance of Pueblo land.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>In the event an applicant is in trespass on the Pueblo's lands, the amount paid for the Land Use Application Fee will not be credited against any final settlement amount for the trespass.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Any applicant who objects to the amount of the Land Use Application Fee set by the Governor may appeal the amount and the timing of payment of the fee to the Governor. The decision of the Governor shall be final and not subject to further review or appeal.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The Land Use Application Fee shall not apply to temporary access permits issued by the Realty Department as those permits relate to temporary access onto the Pueblo's lands and do not authorize encumbrance of the Pueblo's lands.</text>
+          </para>
+        </section>
+        <section>
+          <num>24.11.1.040</num>
+          <heading>Authorization</heading>
+          <text>The Governor or his designee is authorized to take all actions as necessary and appropriate to carry out the purposes and intent of the Act.</text>
+        </section>
+        <section>
+          <num>24.11.1.050</num>
+          <heading>Effective Date</heading>
+          <text>The requirement for the payment of a Land Use Application Fee shall be effective as of the date the Act is approved by the Council and shall apply to all applications for a new or renewed right-of-way, lease, permit or other land encumbrance submitted to the Pueblo after the effective date of the Act.</text>
+        </section>
+      </container>
+    </container>
+  </attachment>
+</document>
