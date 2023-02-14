@@ -1202,14 +1202,15 @@
         <heading>Findings</heading>
         <para>
           <num>(a)</num>
-          <text>In the Article "COURTS" of the "Agreement", the Pueblo established a separate and independent Judicial System, consisting of a Trial Court and Supreme Court;</text>
+          <text>In the Article "COURTS" of the Agreement, the Pueblo established a separate and independent Judicial System, consisting of a Trial Court and Supreme Court;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>In the "Agreement", the People have given the Council the authority to make and pass laws consistent with the "Agreement".</text>
+          <text>In the Agreement, the People have given the Council the authority to make and pass laws consistent with the Agreement.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1217,21 +1218,21 @@
         <heading>Preamble</heading>
         <para>
           <num>(a)</num>
-          <text>The Pueblo de San Ildefonso has created a Judicial Branch in its Governing Document, the AGREEMENT. The AGREEMENT, COURTS, provides that:</text>
-          <include>
-            <text>The purpose of this Article is for the Courts to maintain a limited government and to resolve disputes, and to the greatest extent, the judgments and orders of the Courts shall respect, perpetuate, and advance the culture, values, customs, and traditions of the Pueblo.</text>
-          </include>
+          <text>The Pueblo de San Ildefonso ("Pueblo") has created a Judicial Branch in its governing document, the AGREEMENT ("Agreement"). The AGREEMENT, COURTS, provides that:</text>
+          <text>The purpose of this Article is for the Courts to maintain a limited government and to resolve disputes, and to the greatest extent, the judgments and orders of the Courts shall respect, perpetuate, and advance the culture, values, customs, and traditions of the Pueblo.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The AGREEMENT establishes a separate and independent Judicial Branch for the Pueblo de San Ildefonso and establishes a Trial Court and a Supreme Court.</text>
+          <text>The Agreement establishes a separate and independent Judicial Branch for the Pueblo de San Ildefonso and establishes a Trial Court and a Supreme Court.</text>
         </para>
         <para>
           <num>(c)</num>
           <text>There is a need for legislation implementing the authority and duties of the Judicial Branch.</text>
         </para>
+        <aftertext></aftertext>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.020" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1239,14 +1240,16 @@
         <heading>Title and Purpose</heading>
         <para>
           <num>(a)</num>
-          <text>This Act shall be known as the "Pueblo de San Ildefonso Judicial Act".</text>
+          <text>This Act shall be known as the "Pueblo de San Ildefonso Judicial Act" ("Act").</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The purpose of this ACT is to implement the "COURTS" provision, Sections 1-6 in the "AGREEMENT", and to establish a framework for the general organization, procedures, policies and budget process for the Trial Court and Supreme Court.</text>
+          <text>The purpose of this Act is to implement the "COURTS" provision, Sections 1-6 in the Agreement, and to establish a framework for the general organization, procedures, policies and budget process for the Trial Court and Supreme Court.</text>
         </para>
+        <aftertext></aftertext>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1254,26 +1257,28 @@
         <heading>The Judiciary</heading>
         <para>
           <num>(a)</num>
-          <text>The judicial power of the Pueblo de San Ildefonso is vested in the Judicial Branch, consisting of a Trial Court and Supreme Court and other courts of limited jurisdiction, which may be established by the Pueblo de San Ildefonso.</text>
+          <text>The judicial power of the Pueblo is vested in the Judicial Branch, consisting of a Trial Court and Supreme Court and other courts of limited jurisdiction, which may be established by the Pueblo.</text>
         </para>
+        <aftertext></aftertext>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.040" type="History"/>
         </annotations>
       </section>
       <section>
         <num>4.4.1.050</num>
-        <heading>Jurisdiction</heading>
+        <heading>Jurisidiction</heading>
         <para>
           <num>(a)</num>
-          <text>The Trial Court shall have original jurisdiction extending to all cases, matters or controversies arising under and as may be limited by the AGEEMENT, laws, ordinances, regulations, customs and judicial decisions of the Pueblo de San Ildefonso.</text>
+          <text>The Trial Court shall have original jurisdiction extending to all cases, matters or controversies arising under and as may be limited by the Agreement, laws, ordinances, regulations, customs and judicial decisions of the Pueblo.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The Supreme Court shall have jurisdiction to hear all appeals from the Trial Court, but The Supreme Court will have discretion as to which cases to accept. Decisions of the Supreme Court on all matters within its appellate jurisdiction shall be final.</text>
+          <text>The Supreme Court shall have jurisdiction to hear all appeals from the Trial Court, but the Supreme Court shall have discretion as to which cases to accept. Decisions of the Supreme Court on all matters within its appellate jurisdiction shall be final.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Sovereign Immunity: The Jurisdiction of the Trial Court and Supreme Court shall not extend to any action against the Pueblo or its officials unless the sovereign immunity of the Pueblo has been explicitly and unequivocally waived by the Council.</text>
+          <text>Sovereign Immunity: The Jurisdiction of the Trial Court and Supreme Court shall not extend to any action against the Pueblo or its officials unless the sovereign immunity of the Pueblo has been explicitly and unequivocally waived by the Council in accordance with the requirements of the Agreement.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1287,8 +1292,10 @@
             <text>This section does not apply to judgments or orders that federal law requires be given Full Faith and Credit.</text>
           </para>
         </para>
+        <aftertext></aftertext>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.050" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1296,10 +1303,10 @@
         <heading>Power of the Courts</heading>
         <para>
           <num>(a)</num>
-          <text>The Courts of the Pueblo de San Ildefonso shall have the power to:</text>
+          <text>The Courts of the Pueblo shall have the power to:</text>
           <para>
             <num>(1)</num>
-            <text>Review any laws, resolutions, regulations or other acts of the Council and to declare such laws, resolutions and regulations void or inconsistent with the San Ildefonso AGREEMENT</text>
+            <text>Review any laws, resolutions, or other enactments of the Council and to declare such laws, resolutions or other enactments void or inconsistent with the Agreement.</text>
             <para>
               <num>(A)</num>
               <text>The Trial Court and the Supreme Court shall apply the law of the Pueblo, and, to the extent applicable, the law of the United States.</text>
@@ -1309,37 +1316,37 @@
               <text>All decisions of the Trial Court and the Supreme Court shall be consistent with prior decisions of the Trial Court and the Supreme Court whenever reasonably possible.</text>
             </para>
           </para>
+          <para>
+            <num>(2)</num>
+            <text>Issue injunctions, attachments, writs of mandamus, quo warranto, review extradition, certiorari and prohibition, and to issue writs of habeas corpus upon petition by, or on behalf of, any person held in actual custody.</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>Issue injunctions, attachments, writs of mandamus, quo warranto, review extradition, certiorari and prohibition, and to issue writs of habeas corpus upon petition by, or on behalf of, any person held in actual custody.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The Judicial Branch shall adopt rules and procedures for the Trial and Supreme Court to implement and fulfill the provisions of the AGREEMENT, provided that all such rules and procedures shall be approved in the form of a law(s) passed by the Council.</text>
+          <text>The Judicial Branch shall have the authority to adopt written rules of procedures consistent with the requirements of the Agreement.</text>
           <para>
             <num>(1)</num>
-            <text>The Trial Court will adopt rules and procedures for the Children's Court, subject to Supreme Court review and approval.</text>
+            <text>The Trial Court shall adopt rules and procedures for the Children's Court, subject to Supreme Court review and approval.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>The Trial Court will develop Trial Court procedures, subject to Supreme Court review and approval.</text>
+            <text>The Trial Court shall develop Trial Court procedures, subject to Supreme Court review and approval.</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>The Supreme Court will develop rules and procedures for the Supreme Court.</text>
+            <text>The Supreme Court shall develop rules and procedures for the Supreme Court.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>The Supreme Court will develop rules and procedures for the removal judges.</text>
+            <text>The Supreme Court shall develop rules and procedures for the removal judges.</text>
           </para>
           <para>
             <num>(5)</num>
-            <text>The Supreme Court will develop rules and procedures for the disqualification of judges.</text>
+            <text>The Supreme Court shall develop rules and procedures for the disqualification of judges.</text>
           </para>
           <para>
             <num>(6)</num>
-            <text>The Supreme Court will develop rules and procedures for admission to practice before the Courts.</text>
+            <text>The Supreme Court shall develop rules and procedures for admission to practice before the Courts.</text>
           </para>
           <para>
             <num>(7)</num>
@@ -1347,42 +1354,46 @@
           </para>
         </para>
         <para>
-          <num>(d)</num>
-          <text>Certification: The Trial Court may certify to the Supreme Court a question or proposition of law on which it seeks instruction for the proper decision of a case. The certificate shall contain a statement of the nature of the case and the facts on which the question or proposition of law arises. Only questions or propositions of law may be certified, and they shall be stated separately and with precision. The Supreme Court shall have discretion whether to accept a certified question. The Supreme Court will make any rules needed for certification.</text>
+          <num>(c)</num>
+          <text>Certification: The Trial Court may certify to the Supreme Court a question or proposition of law on which it seeks instruction for the proper decision of a case. The certificate shall contain a statement of the nature of the case and the facts on which the question or proposition of law arises. Only questions or propositions of law may be certified, and they shall be stated separately and with precision. The Supreme Court shall have discretion whether to accept a certified question. The Supreme Court may make any rules needed for certification.</text>
         </para>
         <para>
-          <num>(e)</num>
-          <text>Interlocutory Appeals: Threshold questions of law, which must be decided in order to move a case forward on other issues, may be appealed to the Supreme Court, after the Trial Court has finally ruled on such threshold issue, but before the Trial Court has ruled on other issues in a case.  It shall be in the discretion of the Supreme Court whether to accept such appeal. The Supreme Court will make any rules and procedures needed for Interlocutory appeals.</text>
+          <num>(d)</num>
+          <text>Interlocutory Appeals: Threshold questions of law, which must be decided in order to move a case forward on other issues, may be appealed to the Supreme Court, after the Trial Court has finally ruled on such threshold issues, but before the Trial Court has ruled on other issues in a case. It shall be in the discretion of the Supreme Court whether to accept such appeal. The Supreme Court may make any rules and procedures needed for Interlocutory appeals.</text>
         </para>
+        <aftertext></aftertext>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.060" type="History"/>
         </annotations>
       </section>
       <section>
         <num>4.4.1.070</num>
-        <heading>Duties of the Courts</heading>
+        <heading>Duties of the Court</heading>
         <para>
           <num>(a)</num>
-          <text>Create a Budget: The Supreme Court will propose an Annual Budget for approval by the Council, in accordance with the AGREEMENT and the Council's budget process.</text>
+          <text>Create a Budget: The Supreme Court shall propose an Annual Budget for approval by the Council in accordance with the Council's budget process and the requirements of the Agreement.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Hire Clerks and other necessary Court Personnel: The Trial Court and Supreme Court will hire and supervise their respective Court staff, consistent with the Pueblo's <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite>. In the absence of either Clerk, the other Clerk may perform duties for both Courts.</text>
+          <text>Hire Clerks and other necessary Court Personnel: The Trial Court and Supreme Court shall hire and supervise their respective Court staff, consistent with the Pueblo's Personnel Policy Manual as applied by the Supreme Court. In the absence of either Clerk, the other Clerk may perform duties for both Courts.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Prepare Reports: The Trial Judge and Chief Justice shall, after soliciting comments and input from their Clerks, prepare semi-annual reports for their respective Courts, describing the functioning of their respective courts, including budgetary performance and projections, and setting forth specific recommendations for improvements. The Supreme Court will submit the combined reports to the Council.</text>
+          <text>Prepare Reports: The Trial Judge shall prepare semi-annual reports and the Chief Justice shall prepare annual reports describing the functioning of their respective courts, including budgetary performance and projections, and setting forth specific recommendations for improvements. The Chief Judge and the Chief Justice shall submit their reports to the Council and Governor.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Administer the Courts: The Chief Judge of the Trial Court  Chief Justice of the Supreme Court shall be responsible for the administration of their respective Courts, shall assign cases, and manage their Court' calendar and business. The Chief Trial Judge may designate an Associate Judge to act as Chief Judge in his absence. The Chief Justice of the Supreme Court may designate an Associate Justice to act as Chief Judge in his absence.</text>
+          <text>Administer the Courts: The Chief Judge of the Trial Court and the Chief Justice of the Supreme Court shall be responsible for the administration of their respective Courts, shall assign cases, and manage their Court' calendar and business. The Chief Judge may designate an Associate Judge to act as Chief Judge in his or her absence. The Chief Justice may designate an Associate Justice to act as Chief Judge in his or her absence.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>Appointment of Temporary Judges: In the absence of a Chief Judge, the Chief Justice of the Supreme Court, in collaboration with other Justices, shall appoint a temporary judge or judges until a Chief Judge is selected by the Council.</text>
+          <text>Appointment of Temporary Judges: In the absence of a Chief Judge, the Chief Justice of the Supreme Court, in consultation with the other Justices, shall appoint a temporary judge or judges until a Chief Judge is selected by the Council.</text>
         </para>
+        <aftertext></aftertext>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.070" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1390,34 +1401,32 @@
         <heading>Fiscal Procedures</heading>
         <para>
           <num>(a)</num>
-          <text>The following procedures will be followed for all invoices for Court personnel or Judicial Branch activity:</text>
+          <text>The following procedures shall be followed for all invoices for Court personnel or Judicial Branch activity:</text>
           <para>
             <num>(1)</num>
-            <text>The Tribal Court Clerk will prepare all invoices and requisitions and insure that appropriate supporting documentation is completed and attached as necessary.</text>
+            <text>The Tribal Court Clerk shall prepare all invoices and requisitions and insure that appropriate supporting documentation is completed and attached as necessary.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>The Trial Court Judge will review all invoices and indicate whether the payment, activity or materials requested are within the approved Court budget and affix his signature to approve.</text>
+            <text>The Trial Court Judge shall review all invoices and indicate whether the payment, activity or materials requested are within the approved Court budget and shall affix the proper signature to approve.</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>Accounting will insure that the payment, invoice or requisition is covered in the budget, that appropriate documentation is in place, and affix his signature on the invoice or requisition and submit it to the Governor.</text>
+            <text>The Accounting Department shall insure that the payment, invoice or requisition is covered in the budget, that appropriate documentation is in place, and shall affix the proper signature on the invoice or requisition and submit it to the Governor.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>The Governor will receive the invoice or requisition with all necessary signatures and affix his signature indicating the item is ready for payment.</text>
+            <text>Upon receipt of the invoice or requisition with all necessary signatures and the Governor shall affix his signature indicating the item is ready for payment.</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>The Governor shall have administrative authority to approve all invoices if the judge is part-time contract, or address any other personnel matters, consistent with a supervisory role per the personnel policy, should the judge become part-time or full-time position.  However, the Governor shall not have any work-product authority to review orders or influence the flow of the docket or the outcome of cases</text>
+          <text>Contracts: Any Judicial Branch service or activity lasting more than one (1) year or costing $500.00 or more shall require a professional services contract.</text>
         </para>
-        <para>
-          <num>(c)</num>
-          <text>Contracts: Any Judicial Branch service or activity lasting more than one (1) year or costing $500.00 or more will require a professional services contract.</text>
-        </para>
+        <aftertext></aftertext>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.080" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1438,8 +1447,10 @@
           <num>(a)</num>
           <text>The provisions of this Act are severable and if any part or provision shall be held void by any court of competent jurisdiction, the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this Act.</text>
         </para>
+        <aftertext></aftertext>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.100" type="History"/>
         </annotations>
       </section>
     </container>

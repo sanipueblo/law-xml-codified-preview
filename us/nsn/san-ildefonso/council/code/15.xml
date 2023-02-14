@@ -2107,6 +2107,75 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.12</num>
+      <heading>SIHA Lease Assignments Act of 2022</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023"/>
+      <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023" eff="2022-12-14" path="" type="History"/>
+      <section>
+        <num>15.1.12.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "SIHA LEASE ASSIGNMENTS ACT OF 2022" (the "Act").</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023" eff="2022-12-14" path="" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023" eff="2022-12-14" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.12.020</num>
+        <heading>Purpose</heading>
+        <text>The Purpose of this Act is to authorize the Governor to execute a Quitclaim Deed, Assignment and Assumption, and Release document assigning the leasehold rights to sixteen properties which were formerly leased by the Northern Pueblos Housing Authority (NPHA), to the San Ildefonso Housing Authority (SIHA).</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023" eff="2022-12-14" path="" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023" eff="2022-12-14" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.12.030</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>NPHA has executed a Quitclaim Agreement assigning its interests in sixteen projects and leases to SIHA.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>SIHA wishes to assume all rights, obligations, and responsibilities therewith, including but not limited to all rights associated with these properties and has also executed the same Quitclaim Agreement.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>By Resolution No. SI-R21-026, the Pueblo de San Ildefonso Council created SIHA, and pursuant to SI-R21-028, the Tribal Council designated SIHA as the Pueblo's Tribally Designated Housing Entity (TDHE).</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>SIHA must possess leasehold rights to properties named in the Quitclaim document to fulfill TDHE powers, duties and responsibilities granted by the Pueblos, specifically the management of leased properties and conveyance of paid off properties.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council affirms its intention that leasehold rights formerly granted to NPHA be assigned to SIHA.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023" eff="2022-12-14" path="" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023" eff="2022-12-14" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.12.040</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes the Governor to execute a Quitclaim Deed, Assignment and Assumption, and release the document assigning the leasehold rights to sixteen properties formerly leased from the Pueblo by the Northern Pueblos Housing Authority (NPHA), to the San Ildefonso Housing Authority (SIHA).</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023" eff="2022-12-14" path="" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-023" eff="2022-12-14" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>

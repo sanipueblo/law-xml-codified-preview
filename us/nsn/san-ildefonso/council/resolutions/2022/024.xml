@@ -1,0 +1,476 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R22-024" codify:doc="Pueblo de San Ildefonso Code" codify:path="4.4.1">
+  <num>SI-R22-024</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R22-024</heading>
+  <heading type="law">First Amendment to the Judicial Act of 2012</heading>
+  <meta>
+    <effective>2022-12-14</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R22-024</citation>
+    </citations>
+    <history>
+      <adopted>2022-12-08</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 8th day of December, 2022, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In May 2012, the Pueblo enacted the Judicial Act of 2012 to govern and implement the new judicial system of the Pueblo provided in the new governor Agreement; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Judicial Act of 2012 includes many provisions that are critical to the overall operation of the Courts including administrative and budgetary issues; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Since the enactment of the Judicial Act of 2012 more than ten years ago, the Council, in consultation with the Courts, has identified several areas of the law that should be clarified including the authority of the Courts to exercise the judicial authority of the Pueblo and related administrative procedures and issues.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled the "First Amendment to the Judicial Act of 2012".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>December 8</u>, 2022, at a meeting with a vote of <u>10</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>0</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>M. Wayne Martinez, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R22-024</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>8</u><sup><u>th</u></sup> day of <u>December</u>, 2022, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>M. Wayne Martinez, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>14</u><sup><u>th</u></sup> day of <u>December</u>, 2022.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2022.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nathan Sanchez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2022, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Wayne Martinez, Council Secretary</text>
+  </procedural-data>
+  <attachment id="law">
+    <text>
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law" proof="needed">FIRST AMENDMENT TO THE JUDICIAL ACT OF 2012</heading>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>4.4</num>
+      <heading>Judicial Act of 2012</heading>
+      <container>
+        <num>4.4.1</num>
+        <heading>Judicial Act of 2012</heading>
+        <prefix>Part</prefix>
+        <section>
+          <codify:replace path="4.4.1.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.010"/>
+          <num>4.4.1.010</num>
+          <heading>Findings</heading>
+          <para>
+            <num>(a)</num>
+            <text>In the Article "COURTS" of the Agreement, the Pueblo established a separate and independent Judicial System, consisting of a Trial Court and Supreme Court;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>In the Agreement, the People have given the Council the authority to make and pass laws consistent with the Agreement.</text>
+          </para>
+        </section>
+        <section>
+          <codify:replace path="4.4.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.020"/>
+          <num>4.4.1.020</num>
+          <heading>Preamble</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo") has created a Judicial Branch in its governing document, the AGREEMENT ("Agreement"). The AGREEMENT, COURTS, provides that:</text>
+            <text>The purpose of this Article is for the Courts to maintain a limited government and to resolve disputes, and to the greatest extent, the judgments and orders of the Courts shall respect, perpetuate, and advance the culture, values, customs, and traditions of the Pueblo.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Agreement establishes a separate and independent Judicial Branch for the Pueblo de San Ildefonso and establishes a Trial Court and a Supreme Court.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>There is a need for legislation implementing the authority and duties of the Judicial Branch.</text>
+          </para>
+          <aftertext codify:value="">(May 10, 2012, SI-R12-016)</aftertext>
+        </section>
+        <section>
+          <codify:replace path="4.4.1.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.030"/>
+          <num>4.4.1.030</num>
+          <heading>Title and Purpose</heading>
+          <para>
+            <num>(a)</num>
+            <text>This Act shall be known as the "Pueblo de San Ildefonso Judicial Act" ("Act").</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The purpose of this Act is to implement the "COURTS" provision, Sections 1-6 in the Agreement, and to establish a framework for the general organization, procedures, policies and budget process for the Trial Court and Supreme Court.</text>
+          </para>
+          <aftertext codify:value="">(May 10, 2012, SI-R12-016)</aftertext>
+        </section>
+        <section>
+          <codify:replace path="4.4.1.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.040"/>
+          <num>4.4.1.040</num>
+          <heading>The Judiciary</heading>
+          <para>
+            <num>(a)</num>
+            <text>The judicial power of the Pueblo is vested in the Judicial Branch, consisting of a Trial Court and Supreme Court and other courts of limited jurisdiction, which may be established by the Pueblo.</text>
+          </para>
+          <aftertext codify:value="">(May 10, 2012, SI-R12-016)</aftertext>
+        </section>
+        <section>
+          <codify:replace path="4.4.1.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.050"/>
+          <num>4.4.1.050</num>
+          <heading>Jurisidiction</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Trial Court shall have original jurisdiction extending to all cases, matters or controversies arising under and as may be limited by the Agreement, laws, ordinances, regulations, customs and judicial decisions of the Pueblo.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Supreme Court shall have jurisdiction to hear all appeals from the Trial Court, but the Supreme Court shall have discretion as to which cases to accept. Decisions of the Supreme Court on all matters within its appellate jurisdiction shall be final.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Sovereign Immunity: The Jurisdiction of the Trial Court and Supreme Court shall not extend to any action against the Pueblo or its officials unless the sovereign immunity of the Pueblo has been explicitly and unequivocally waived by the Council in accordance with the requirements of the Agreement.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Reciprocity of Decisions: The Trial Court and Supreme Court shall enforce the judgments decrees, orders, warrants, subpoenas, records, and other judicial acts of foreign courts; and such process from foreign courts shall be presumed valid by the Trial Court and Supreme Court unless an objecting party demonstrates that (1) the foreign court lacked personal or subject-matter jurisdiction, or (2) the judgment, decree, warrant, subpoena, record, or other judicial act of the court (a) was obtained by fraud, duress, or coercion, (b) was obtained without fair notice or a fair hearing, (c) is repugnant to the public policy of the Pueblo, or (d) is not final under the laws and procedure of the foreign court: <em>provided that</em>:</text>
+            <para>
+              <num>(1)</num>
+              <text>The foreign court, in the view of the Trial Court or Supreme Court, has provided or will provide reciprocal enforcement of Trial Court or Supreme Court judgments, decrees, orders, warrants, subpoenas, records, and other judicial acts.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>This section does not apply to judgments or orders that federal law requires be given Full Faith and Credit.</text>
+            </para>
+          </para>
+          <aftertext codify:value="">(May 10, 2012, SI-R12-016)</aftertext>
+        </section>
+        <section>
+          <codify:replace path="4.4.1.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.060"/>
+          <num>4.4.1.060</num>
+          <heading>Power of the Courts</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Courts of the Pueblo shall have the power to:</text>
+            <para>
+              <num>(1)</num>
+              <text>Review any laws, resolutions, or other enactments of the Council and to declare such laws, resolutions or other enactments void or inconsistent with the Agreement.</text>
+              <para>
+                <num>(A)</num>
+                <text>The Trial Court and the Supreme Court shall apply the law of the Pueblo, and, to the extent applicable, the law of the United States.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>All decisions of the Trial Court and the Supreme Court shall be consistent with prior decisions of the Trial Court and the Supreme Court whenever reasonably possible.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Issue injunctions, attachments, writs of mandamus, quo warranto, review extradition, certiorari and prohibition, and to issue writs of habeas corpus upon petition by, or on behalf of, any person held in actual custody.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Judicial Branch shall have the authority to adopt written rules of procedures consistent with the requirements of the Agreement.</text>
+            <para>
+              <num>(1)</num>
+              <text>The Trial Court shall adopt rules and procedures for the Children's Court, subject to Supreme Court review and approval.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The Trial Court shall develop Trial Court procedures, subject to Supreme Court review and approval.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The Supreme Court shall develop rules and procedures for the Supreme Court.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The Supreme Court shall develop rules and procedures for the removal judges.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>The Supreme Court shall develop rules and procedures for the disqualification of judges.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The Supreme Court shall develop rules and procedures for admission to practice before the Courts.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>The Supreme Court shall adopt a Code of Judicial Responsibility for the Courts.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Certification: The Trial Court may certify to the Supreme Court a question or proposition of law on which it seeks instruction for the proper decision of a case. The certificate shall contain a statement of the nature of the case and the facts on which the question or proposition of law arises. Only questions or propositions of law may be certified, and they shall be stated separately and with precision. The Supreme Court shall have discretion whether to accept a certified question. The Supreme Court may make any rules needed for certification.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Interlocutory Appeals: Threshold questions of law, which must be decided in order to move a case forward on other issues, may be appealed to the Supreme Court, after the Trial Court has finally ruled on such threshold issues, but before the Trial Court has ruled on other issues in a case. It shall be in the discretion of the Supreme Court whether to accept such appeal. The Supreme Court may make any rules and procedures needed for Interlocutory appeals.</text>
+          </para>
+          <aftertext codify:value="">(May 10, 2012, SI-R12-016)</aftertext>
+        </section>
+        <section>
+          <codify:replace path="4.4.1.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.070"/>
+          <num>4.4.1.070</num>
+          <heading>Duties of the Court</heading>
+          <para>
+            <num>(a)</num>
+            <text>Create a Budget: The Supreme Court shall propose an Annual Budget for approval by the Council in accordance with the Council's budget process and the requirements of the Agreement.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Hire Clerks and other necessary Court Personnel: The Trial Court and Supreme Court shall hire and supervise their respective Court staff, consistent with the Pueblo's Personnel Policy Manual as applied by the Supreme Court. In the absence of either Clerk, the other Clerk may perform duties for both Courts.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Prepare Reports: The Trial Judge shall prepare semi-annual reports and the Chief Justice shall prepare annual reports describing the functioning of their respective courts, including budgetary performance and projections, and setting forth specific recommendations for improvements. The Chief Judge and the Chief Justice shall submit their reports to the Council and Governor.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Administer the Courts: The Chief Judge of the Trial Court and the Chief Justice of the Supreme Court shall be responsible for the administration of their respective Courts, shall assign cases, and manage their Court' calendar and business. The Chief Judge may designate an Associate Judge to act as Chief Judge in his or her absence. The Chief Justice may designate an Associate Justice to act as Chief Judge in his or her absence.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Appointment of Temporary Judges: In the absence of a Chief Judge, the Chief Justice of the Supreme Court, in consultation with the other Justices, shall appoint a temporary judge or judges until a Chief Judge is selected by the Council.</text>
+          </para>
+          <aftertext codify:value="">(May 10, 2012, SI-R12-016)</aftertext>
+        </section>
+        <section>
+          <codify:replace path="4.4.1.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.080"/>
+          <num>4.4.1.080</num>
+          <heading>Fiscal Procedures</heading>
+          <para>
+            <num>(a)</num>
+            <text>The following procedures shall be followed for all invoices for Court personnel or Judicial Branch activity:</text>
+            <para>
+              <num>(1)</num>
+              <text>The Tribal Court Clerk shall prepare all invoices and requisitions and insure that appropriate supporting documentation is completed and attached as necessary.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The Trial Court Judge shall review all invoices and indicate whether the payment, activity or materials requested are within the approved Court budget and shall affix the proper signature to approve.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The Accounting Department shall insure that the payment, invoice or requisition is covered in the budget, that appropriate documentation is in place, and shall affix the proper signature on the invoice or requisition and submit it to the Governor.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Upon receipt of the invoice or requisition with all necessary signatures and the Governor shall affix his signature indicating the item is ready for payment.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Contracts: Any Judicial Branch service or activity lasting more than one (1) year or costing $500.00 or more shall require a professional services contract.</text>
+          </para>
+          <aftertext codify:value="">(May 10, 2012, SI-R12-016)</aftertext>
+        </section>
+        <section>
+          <codify:replace path="4.4.1.100" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.100"/>
+          <num>4.4.1.100</num>
+          <heading>Severability</heading>
+          <para>
+            <num>(a)</num>
+            <text>The provisions of this Act are severable and if any part or provision shall be held void by any court of competent jurisdiction, the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this Act.</text>
+          </para>
+          <aftertext codify:value="">(May 10, 2012, SI-R12-016)</aftertext>
+        </section>
+      </container>
+    </container>
+  </attachment>
+</document>

@@ -2838,37 +2838,38 @@
     <container>
       <prefix>Part</prefix>
       <num>24.9.1</num>
-      <heading>Abandoned Vehicle Act of 2018</heading>
+      <heading>First Amendment to the Abandoned Vehicle Act of 2018<annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law" type="History"/></heading>
       <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
       <section>
         <num>24.9.1.010</num>
         <heading>Short Title</heading>
-        <text>This enactment shall be known as the Abandoned Vehicle Act of 2018.</text>
+        <text>This enactment shall be known as the "FIRST AMENDMENT TO THE ABANDONED VEHICLE ACT OF 2018" (the "Act").</text>
         <annotations>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.1" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>24.9.1.020</num>
         <heading>Purpose</heading>
-        <text>The purpose of this Act is to promote a safe, clean, and healthy environment by removing abandoned vehicles from Pueblo Lands.</text>
+        <text>The Purpose of this Act is to promote a safe, clean, and healthy environment by removing abandoned vehicles from Pueblo Lands.</text>
         <annotations>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.2" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
         <num>24.9.1.030</num>
         <heading>Findings</heading>
-        <text>The Council hereby finds and declares that:</text>
         <para>
           <num>(a)</num>
-          <text>The Pueblo has experienced an increasing number of abandoned cars and other vehicles on  Pueblo Lands; and</text>
+          <text>The Pueblo has experienced an increasing number of abandoned cars and other vehicles on Pueblo lands.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Abandoned vehicles create an unsafe environment by fostering rodent infestation, chemical contamination, as well as creating a safety hazard for children and an eyesore within the community; and</text>
+          <text>Abandoned vehicles create an unsafe environment by fostering rodent infestation, chemical contamination, as well as creating a safety hazard for children and an eyesore within the community.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -2877,14 +2878,28 @@
         <annotations>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.3" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
         <num>24.9.1.040</num>
+        <heading>Abandoned Vehicle Act</heading>
+        <para>
+          <num>(a)</num>
+          <text>Title 25 - TRAFFIC, of the Pueblo Code, shall be amended by adding the following new provisions:</text>
+        </para>
+        <annotations>
+          <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
+          <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.5" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.9.1.050</num>
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
-          <text>"Abandoned Vehicle" means any Vehicle that is inoperable, or has not been driven, or cannot be reasonably driven, for more than sixty (60) days and is located on any property within Pueblo Lands.</text>
+          <text>"Abandoned Vehicle" means a Vehicle that has one or more of the following Characteristics for more than sixty (60) days: (1) wrecked or missing exterior body parts; (2) missing an engine, transmission, or other major parts; (3) incapable of being operated under its own power; (4) is left on a jack or other support for long periods of time; (5) is being used for storage of items; or (6) is stored on an unpaved surface with overgrowth underneath or tires buried in the ground.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2892,15 +2907,15 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>"Antique Vehicle" shall mean an inoperable Vehicle that is more than twenty-five years old.</text>
+          <text>"Antique Vehicle" shall mean an in operable Vehicle that is more than twenty-five years old.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>"Vehicle" shall have the meaning as defined in Title 25 of the Code, and shall include Vehicles that cannot be drawn upon a public highway.</text>
+          <text>"Vehicle" shall have the meaning as defined in Title 25 of the Code, and shall include but not be limited to Vehicles that are propelled or cannot be drawn upon a public highway, All Terrain Vehicles, and boats.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>"Officer" shall mean a law enforcement officer employed by the U.S. Bureau of Indian Affairs and/or an official designated by the Governor of the Pueblo to enforce this Act.</text>
+          <text>"Officer" shall mean a law enforcement officer employed by the U.S. Bureau of Indian Affairs and/or a law enforcement official designated by the Governor of the Pueblo to enforce this Act.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -2908,47 +2923,52 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>"Pueblo Lands" shall mean all lands and all interests in land within the exterior boundaries of the Pueblo including any additional lands by the Pueblo.</text>
+          <text>"Pueblo Lands" shall mean all lands and all interests in land within the exterior boundaries of the Pueblo including any additional lands held by the Pueblo.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Code Enforcement Officer" shall mean an individual designated or employed by the Natural Resources Department that shall have the primary responsibility to enforce this Act.</text>
         </para>
         <annotations>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
-          <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.5" type="History"/>
+          <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.6" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law|1.5" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.9.1.050</num>
+        <num>24.9.1.060</num>
         <heading>Abandoned Vehicle Act Procedures</heading>
         <para>
           <num>(a)</num>
-          <text>Any Person or Persons who abandons any Vehicle on Pueblo Lands shall be cited by an Officer.  An Officer shall make reasonable efforts to determine the Owner of the Abandoned Vehicle.  If an Officer cannot determine the Owner of the Abandoned Vehicle, then the Officer shall issue a citation to the Person or Persons who own, rent, or hold a possessory interest in the property upon which the Abandoned Vehicle is located.</text>
+          <text>Any Person or Persons who abandon any Vehicle on Pueblo Lands shall be cited by a Code Enforcement Officer. A Code Enforcement Officer shall make reasonable efforts to determine the Owner of the Abandoned Vehicle. If a Code Enforcement Officer cannot determine the Owner of the Abandoned Vehicle, then the Code Enforcement Officer shall issue a citation to the Person or Persons who own, rent, or hold a possessory interest in the property upon which the Abandoned Vehicle is located.</text>
         </para>
         <para>
           <num>(b)</num>
           <text>Prior to issuance of a citation pursuant to Section 1.6(a):</text>
           <para>
             <num>(1)</num>
-            <text>If an Officer reasonably believes that an Abandoned Vehicle is located on Pueblo Lands, the Officer shall meet with the Owner or Owners of the Abandoned Vehicle, or the person responsible for the property where the Abandoned Vehicle is located, and provide a copy of this Act to the Owner, or the Person or Persons identified in Section 1.6(a) of this Act, with the date provided, and give verbal notice of a potential violation of this Act if the Abandoned Vehicle is not removed;</text>
+            <text>If a Code Enforcement Officer reasonably believes that an Abandoned Vehicle is located on Pueblo Lands, the Code Enforcement Officer shall meet with the Owner or Owners of the Abandoned Vehicle, or the person responsible for the property where the Abandoned Vehicle is located, and provide a copy of this Act to the Owner, or to the Person or Persons identified in Section 1.6(a) of this Act, with the date provided, and give written notice of a potential violation of this Act if the Abandoned Vehicle is not removed.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>If, after fourteen (14) calendar days from the issuance of a verbal notification, the Officer determines that the Abandoned Vehicle has not been removed from Pueblo Lands, the Officer shall issue a citation as described in Section 1.6(a).</text>
+            <text>If, after fourteen (14) calendar days from the issuance of a written notification, the Officer determines that the Abandoned Vehicle has not been removed from Pueblo Lands, the Code Enforcement Officer shall issue a citation as described in Section 1.6(a).</text>
           </para>
         </para>
         <para>
           <num>(c)</num>
-          <text>An Owner of an Antique Vehicle shall not be required to remove the Vehicle from Pueblo Lands; provided, that the Owner certifies in writing to the Officer, or to the Court, that the Vehicle is an Antique Vehicle, and that the Owner continuously maintains the Vehicle in a clean and safe manner, and in such a way as to not create an eyesore within the community as determined by the Officer subject to review by the Tribal Court.  A Person shall have no more than two Antique Vehicles.</text>
+          <text>An Owner of an Antique Vehicle shall not be required to remove the Vehicle from Pueblo Lands; provided, that the Owner certifies in writing to the Code Enforcement Officer, or to the Court, that the Vehicle is an Antique Vehicle, and that the Owner continuously maintains the Vehicle in a clean and safe manner, and in such a way as to not create an eyesore within the community as determined by the Code Enforcement Officer subject to review by the Trial Court. A Person shall have no more than two Antique Vehicles.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>A Person cited by an Officer for a violation of this Act shall have sixty (60) days from the date of the citation to remove the Abandoned Vehicle from Pueblo Lands without sanction or fines.  If the Person fails to timely remove the Abandoned Vehicle, then, upon request of the Officer, the Trial Court shall promptly hold a hearing to enforce the provisions of this Act; provided, that the Trial Court may provide a one-time extension of time not to exceed ninety (90) days for the Person to remove the Abandoned Vehicle.  If the Person has failed to remove the Abandoned Vehicle as ordered by the Court, then the Trial Court shall promptly issue an order declaring the Abandoned Vehicle to be forfeited and authorizing the Abandoned Vehicle to be removed by the Pueblo with the reasonable costs of the removal to be assessed by the Court against the Person.  Upon the issuance of an Order of Forfeiture by the Court, which shall designate the Pueblo as the owner of the Abandoned Vehicle, the Governor's Office shall promptly remove, or cause to be removed, the Abandoned Vehicle in question.  The Governor's Office shall provide the Person cited and the Court with a copy of an itemized billing for costs incurred due to the removal of the Abandoned Vehicle within fourteen (14) days of removal, and the Person shall be responsible for the payment of such removal costs, including reasonable court costs, attorney's fees, and collection costs, and other costs as ordered by the Trial Court.</text>
+          <text>A Person cited by a Code Enforcement Officer for a violation of this Act shall have sixty (60) days from the date of the citation to remove the Abandoned Vehicle from Pueblo Lands without sanction or fines. After sixty days, the Code Enforcement Officer shall have the authority to issue a fine for each violation of this Act in accordance with a fine scheduled adopted by the Governor. If the Person fails to timely remove the Abandoned Vehicle, then, upon request of the Code Enforcement Officer, the Trial Court shall promptly hold a hearing to enforce the provisions of this Act; provided, that the Trial Court may provide a one-time extension of time not to exceed ninety (90) days for the Person to remove the Abandoned Vehicle. If the Person has failed to remove the Abandoned Vehicle as ordered by the Court, then the Trial Court shall promptly issue an order declaring the Abandoned Vehicle to be forfeited and authorizing the Abandoned Vehicle to be removed by the Pueblo with the reasonable costs of the removal to be assessed by the Court against the Person and the payment of any fines assessed. Upon the issuance of an Order of Forfeiture by the Court, which shall designate the Pueblo as the owner of the Abandoned Vehicle, the Governor's Office shall promptly remove, or cause to be removed, the Abandoned Vehicle in question. The Governor's Office shall provide the Person cited and the Court with a copy of an itemized billing for costs incurred due to the removal of the Abandoned Vehicle within fourteen (14) days of removal and any fines assessed, and the Person shall be responsible for the payment of such removal costs and fines, including reasonable court costs, attorney's fees, and collection costs, and other costs, as ordered by the Trial Court.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>The Governor, at his discretion, may request a Bureau of Indian Affairs Officer to be present at the time the Abandoned Vehicle is removed. Any person interfering with Court-ordered removal of an Abandoned Vehicle shall be subject to the civil and criminal jurisdiction of the Pueblo, including to prosecution under the laws of the Pueblo.</text>
+          <text>The Governor, at his discretion, may request an Officer to be present at the time the Abandoned Vehicle is removed. Any Person interfering with Court-ordered removal of an Abandoned Vehicle shall be subject to the civil and criminal jurisdiction of the Pueblo, including to prosecution under the laws of the Pueblo.</text>
         </para>
         <annotations>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
-          <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.6" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law|1.6" type="History"/>
         </annotations>
       </section>
     </container>

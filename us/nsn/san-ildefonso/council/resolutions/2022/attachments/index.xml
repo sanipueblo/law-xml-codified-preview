@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" name="Attachments">
+  <heading>Attachments</heading>
+  <xi:include href="./028/index.xml"/>
+  <xi:include href="./027/index.xml"/>
+</collection>
