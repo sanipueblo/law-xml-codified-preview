@@ -223,30 +223,30 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2018, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.6.2">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.7.2">
     <container>
       <prefix>Part</prefix>
-      <num>11.6.2</num>
+      <num>11.7.2</num>
       <heading>Act Approving Pueblo de San Ildefonso Waste Water System Project - Phase 1</heading>
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="11.6.2"/>
+    <codified:at path="11.7.2"/>
     <heading>ACT APPROVING THE PUEBLO DE SAN ILDEFONSO WASTE WATER SYSTEM IMPROVEMENT PROJECT – PHASE 1</heading>
     <section>
-      <codify:insert num-value="11.6.2.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.6.2.010"/>
+      <codify:insert num-value="11.7.2.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.7.2.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT APPROVING THE PUEBLO DE SAN ILDEFONSO WASTE WATER SYSTEM IMPROVEMENT PROJECT – PHASE 1 ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="11.6.2.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.6.2.020"/>
+      <codify:insert num-value="11.7.2.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.7.2.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to approve the Pueblo de San Ildefonso Waste Water System Improvement Project – Phase 1 and related construction documents.</text>
     </section>
     <section>
-      <codify:insert num-value="11.6.2.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.6.2.030"/>
+      <codify:insert num-value="11.7.2.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.7.2.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -304,7 +304,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="11.6.2.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.6.2.040"/>
+      <codify:insert num-value="11.6.7.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.6.7.040"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
       <para>

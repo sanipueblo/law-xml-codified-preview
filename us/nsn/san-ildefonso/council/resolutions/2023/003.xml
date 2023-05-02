@@ -265,6 +265,7 @@
     </container>
   </codify:insert>
   <attachment id="law">
+    <codified:at path="6.5.37"/>
     <text class="center">
       <strong>PUEBLO DE SAN ILDEFONSO</strong>
     </text>

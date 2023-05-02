@@ -3375,24 +3375,381 @@
   <container>
     <prefix>Chapter</prefix>
     <num>11.5</num>
-    <heading>Fishing</heading>
+    <heading>Hunting</heading>
     <container>
       <prefix>Part</prefix>
       <num>11.5.1</num>
+      <heading>Pueblo de San Ildefonso Big Game Hunting Act</heading>
+      <annotations>
+        <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-043, dated October 25, 2012.</annotation>
+      </annotations>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+      <section>
+        <num>11.5.1.1</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Big Game Hunting Act ("Act").</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.2</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Bag limit" means the maximum number of a particular game species which may be taken by anyone in one day by a license holder.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Big game animals" means all deer and elk species.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Bow" means bow and arrows, and includes compound, recurve, and longbow. Arrows must have broadheads. No drugs may be used on arrows.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Carcass" means the dead body of any animal or any identifiable part of it.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Closed Season" means the time during which a category or species of animal may not be hunted or taken.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Department" means the Pueblo de San Ildefonso Natural Resources Department.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Director" means the Director of the Pueblo de San Ildefonso Natural Resources Department.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Firearm" means pistols, revolvers, rifles, shotguns and any device that is capable of being used as a weapon because it expels a projectile by some means of force.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Governor" means the Governor of the Pueblo de San Ildefonso or his or her designee.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Member" means a person enrolled in the Pueblo de San Ildefonso pursuant to the Governing Agreement and laws of the tribe governing enrollment.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Open season" means the time during which a designated category of animals may be hunted or taken pursuant to provisions of this Act.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Tribal Ranger" means a ranger in the Pueblo de San Ildefonso Parks and Wildlife Department.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Possession" means on the hunter's person or in his/her immediate control.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>"Pueblo lands" means all lands and interests in land within the exterior boundaries of the Pueblo and any additional lands acquired by the Pueblo. Also includes land assignments, community property areas, and public rights-of-way.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>"Sell" means to offer or possess for sale, barter, exchange or trade, or the act of selling, bartering, exchanging or trading. Sharing of game meat with other members of the Pueblo to avoid spoilage is permitted.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.3</num>
+        <heading>Purpose</heading>
+        <text>The Purpose of the Act is to regulate the harvesting of wildlife on Pueblo lands to ensure that hunting is conducted in a manner that is safe to those persons hunting and that wildlife is managed at sustainable levels.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.4</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso Tribal Council has regulatory authority over the management of wildlife resources on Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Unregulated hunting is detrimental to the wildlife and environment of the Pueblo. Civil Procedures for the enforcement of this Act are established herein, and enforcement shall be invoked and applied on an equal basis for all reported violations.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.5</num>
+        <heading>Hunting License Required</heading>
+        <para>
+          <num>(a)</num>
+          <text>All members of the Pueblo shall receive one Pueblo Hunting License for each Big Game species per year. The Governor, by proclamation, shall set a non-refundable fee that will be charged to members prior to the issuance of each license. The license shall include the following information:</text>
+          <para>
+            <num>(1)</num>
+            <text>Name of hunter; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Type of hunt; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The day(s) or dates on which the hunter is permitted to hunt; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Designation of the animal species that is being hunted; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The number of animals the hunter is permitted to take.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Every member of the Pueblo who hunts on Pueblo lands must have in his or her possession a Pueblo Hunting License. This license must be in his or her possession at all times when hunting or taking any big game on Pueblo lands.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.6</num>
+        <heading>Traditional Hunts</heading>
+        <text>Nothing in this Act shall prohibit the Governor from authorizing, upon the request of traditional Pueblo leaders, traditional hunting on Pueblo lands. Members participating in traditional hunts shall be exempt from the hunting license requirements established in this Act for the duration of traditional hunts.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.7</num>
+        <heading>Hunting by Non-Members</heading>
+        <text>Only enrolled members of the Pueblo de San Ildefonso are eligible to possess a Pueblo Hunting License and hunt within the jurisdiction of the Pueblo.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.8</num>
+        <heading>Designation of Hunting Areas</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Director of the Department of Natural Resources shall designate hunting areas where hunting is allowed on Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo lands and all other areas within the Pueblo's jurisdiction are closed to hunting of big game animals unless those areas are specifically designated for hunting.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.9</num>
+        <heading>Open Season for Big Game Hunt</heading>
+        <text>The Governor shall, by proclamation, establish open and closed seasons for the killing or taking of all kinds of big game animals and to change such open seasons from year to year and may fix different seasons for different types of hunts and hunting areas within the Pueblo.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.10</num>
+        <heading>Reporting Requirements</heading>
+        <text>Members must report their kill to the Director of the Natural Resource Department, or his designee, within five calendar days after the date on which an animal was taken.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.11</num>
+        <heading>Bag Limits</heading>
+        <text>The Governor shall, by proclamation, establish bag limits covering all big game animals and the numbers thereof which may be killed or taken by any one person during any one day or during any one open season. The Governor may also authorize or prohibit the killing or taking of any game animals of any kind or sex.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.12</num>
+        <heading>Legal Game Species and Sex</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Deer Buck:</heading>
+          <text>A legal buck must have three or more points on at least one antler. A point is a projection that is longer than one inch, measured from its base to its tip, including damaged or broken antlers. A broken point will count if it is one inch or longer. A burr at base of antler is not considered a point.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Mature Bull Elk:</heading>
+          <text>A mature bull elk must have at least one brow tine extending six or more inches from the main beam or at least one forked antler with both branches six or more inches long. A spike bull, or male elk with antlers that have a single beam without branches, is not considered a legal mature bull elk.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Cow Elk:</heading>
+          <text>A cow elk is any female, antlerless, elk.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.13</num>
+        <heading>Prohibited Activities</heading>
+        <text>The following activities are declared unlawful, thereby subjecting violators to a civil fine or assessment, and are prohibited on Pueblo lands:</text>
+        <para>
+          <num>(a)</num>
+          <text>Hunting without a license: Any person who hunts on Pueblo land without having possession of a valid Pueblo Hunting License in accordance with Section 1.5 for the game species, and date(s) in question shall have violated this Act and upon conviction, shall be assessed a civil fine of $300.00.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Hunting by non-members: Any non-member who hunts within the jurisdiction of the Pueblo shall have violated this Act and upon conviction, shall be assessed a civil fine of $1,000.00.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Spotlighting: Any person who shoots at or kills any big game animal with the aid of any light or lights attached to such vehicle or by means of any other artificial light shall have violated this Act and upon conviction, shall be assessed a civil fine of $300.00.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Sale of License: Any person who purchases a Pueblo Hunting License from anyone other than the Pueblo or sells a license shall have violated this Act and upon conviction, shall be assessed a civil fine of $150.00.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Transfer of License: Any person who uses or allows another person to make use of a Pueblo Hunting License issued to another shall have violated this Act and upon conviction, shall be assessed a civil fine of $100.00.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Killing or Possessing a Fawn or Doe: Any person who knowingly kills or possesses a fawn or doe deer, or carcass thereof, at any time, shall have violated this Act and upon conviction, shall be assessed a civil fine of $200.00.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Legal Firearms: It is unlawful to hunt with other than the specified weapon: Center-fire rifles or center-fire handguns chambered for a center-fired rifle cartridge. No fully automatic firearm may be used. Any person who uses a weapon other than those permitted by this section shall have violated this Act and upon conviction, shall be assessed a fine of $100.00.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Hunting in Closed Areas: Any person who hunts or takes an animal in an area of the Pueblo that is closed to hunting of big game animals or is not specifically</text>
+          <text>designated for hunting shall have violated this Act and upon conviction, shall be assessed a fine of $250.00.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Bag Limits: Any person who exceeds bag limits established in accordance with Section 11.5.1.11 of this Act shall have violated this Act and upon conviction, shall be assessed a fine of $500.00.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Using a Vehicle to Take Game: Any person who shoots at, kills or pursues any game animal from an automobile, truck or other self-propelled vehicle shall have violated this Act and upon conviction, shall be assessed a fine of $50.00.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Hunting or Possessing Game Out of Season: Any person, except as authorized by the Governor, who hunts, kills, wounds or otherwise takes, captures or has in his possession any game animal on Pueblo lands when the season has not been declared open in accordance with Section 1.9 shall have violated this Act and upon conviction, shall be assessed a fine of $200.00.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Hunting outside of Daylight Hours: Any person who takes, pursues, wounds or kills big game or small game animals on Pueblo lands during times other than daylight hours shall have violated this Act and upon conviction, shall be assessed a fine of $200.00. Daylight hours shall be from one-half hour before sunrise until one-half hour after sunset.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Interference with Tribal Ranger: Any person who disobeys or disregards a direct order of, or interferes with a Tribal Ranger, his designee, or police officer while performing his or her duties under this Act shall have violated this Act and upon conviction, shall be assessed a fine of $300.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.14</num>
+        <heading>Forfeitures of Sporting Arms</heading>
+        <text>Sporting Arms may be seized by the Pueblo and forfeited if they are used to take or attempt to take game in violation of this Act. Sporting Arms may be confiscated at the scene. Upon confiscation, Sporting Arms shall be transported to the Department of Natural Resources for receipt and retention pursuant to a procedure to be prescribed by the Director. A receipt shall be issued to the violator with a description of the Sporting Arm and date. Any Sporting Arm confiscated is subject to forfeiture upon conviction.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.15</num>
+        <heading>Additional Penalties</heading>
+        <para>
+          <num>(a)</num>
+          <text>In addition to the civil penalties authorized by this Act, any licenses authorized by this Act may be suspended or revoked by the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In addition to any penalty imposed by the Pueblo de San Ildefonso Tribal Court, the Court upon conviction may order restitution to the Pueblo community for damage done to Pueblo resources.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In addition to any civil penalties, the Pueblo de San Ildefonso Tribal Court may order payment of court fees and costs in the amount determined by the Tribal Court.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.16</num>
+        <heading>Subject Matter Jurisdiction Conferred to Tribal Court</heading>
+        <text>The Pueblo de San Ildefonso Tribal Court shall have subject matter jurisdiction to adjudicate all issues of law and fact, and to enter decrees appropriate to such jurisdiction, pertaining to civil proceedings on complaints filed by the Pueblo pursuant to this Act.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.17</num>
+        <heading>Effective Date</heading>
+        <text>This Act shall take effect immediately upon its enactment by resolution of the Pueblo de San Ildefonso Tribal Council.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.18</num>
+        <heading>Repeal of Inconsistent Code Provisions.</heading>
+        <text>Any and all Tribal Council resolutions or provisions in the Pueblo de San Ildefonso Law and Order code which conflict in any way with the provisions of this Act are hereby repealed to the extent that they are inconsistent with or conflict with or are contrary to the spirit and/or purpose of this Act.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.19</num>
+        <heading>Severability</heading>
+        <text>If any provision of this Act is found to be unconstitutional or unlawful by the Pueblo de San Ildefonso Tribal Courts or Federal Courts, such provision(s) shall be stricken and the remainder of this Act shall continue in full force and effect.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.5.1.20</num>
+        <heading>Amendment</heading>
+        <text>The Council may amend this Act upon majority vote of the Council</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+        </annotations>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.6</num>
+    <heading>Fishing</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.6.1</num>
       <heading>Pueblo de San Ildefonso Fishing Lake Act</heading>
       <annotations>
         <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-011, dated May 7, 2013.</annotation>
       </annotations>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-011"/>
       <section>
-        <num>11.5.1.010</num>
-        <heading>The Pueblo de San Ildefonso hereby enacts the attached law entitled "The Pueblo de San Ildefonso Fishing Lake Act."</heading>
+        <num>11.6.1.010</num>
+        <text>The Pueblo de San Ildefonso hereby enacts the attached law entitled "The Pueblo de San Ildefonso Fishing Lake Act."</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-011"/>
         </annotations>
       </section>
       <section>
-        <num>11.5.1.020</num>
+        <num>11.6.1.020</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the Pueblo Fishing Lake Act ("Act").</text>
         <annotations>
@@ -3400,7 +3757,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.030</num>
+        <num>11.6.1.030</num>
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
@@ -3503,7 +3860,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.040</num>
+        <num>11.6.1.040</num>
         <heading>Purpose</heading>
         <text>The purpose of the Act is to regulate the harvesting of game fish in the Pueblo de San Ildefonso Fishing Lake and to ensure that fishing is conducted in a manner that is safe to anglers and recreational users and that game fish are managed at sustainable levels.</text>
         <annotations>
@@ -3511,7 +3868,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.050</num>
+        <num>11.6.1.050</num>
         <heading>Findings</heading>
         <text>The Council hereby finds and declares that:</text>
         <para>
@@ -3539,7 +3896,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.060</num>
+        <num>11.6.1.060</num>
         <heading>Fishing Permit Required</heading>
         <para>
           <num>(a)</num>
@@ -3554,7 +3911,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.070</num>
+        <num>11.6.1.070</num>
         <heading>Traditional Fishing</heading>
         <text>Nothing in this Act shall prohibit the Governor from authorizing, upon request, fishing for traditional purposes.</text>
         <annotations>
@@ -3562,7 +3919,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.080</num>
+        <num>11.6.1.080</num>
         <heading>Open Season for Fishing</heading>
         <text>The Governor shall, by proclamation, establish open and closed seasons for fishing and change open seasons from year to year.</text>
         <annotations>
@@ -3570,7 +3927,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.090</num>
+        <num>11.6.1.090</num>
         <heading>Bag Limits</heading>
         <text>The Governor shall, by proclamation, establish bag limits covering all species of game fish caught or kept by any one person during any one day. The Governor may also, by proclamation, authorize or prohibit the taking or possession of game fish of any species or kind.</text>
         <annotations>
@@ -3578,7 +3935,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.100</num>
+        <num>11.6.1.100</num>
         <heading>Prohibited Activities</heading>
         <text>The following activities are declared unlawful, thereby subjecting violators to a civil fine or assessment, and are prohibited on Pueblo lands:</text>
         <para>
@@ -3619,7 +3976,7 @@
         </para>
         <para>
           <num>(j)</num>
-          <text>Bag Limits: Any person who exceeds or attempts to exceed bag limits established in accordance with Section 1.9 of this Act shall have violated this Act and upon conviction, shall be assessed a fine of $150.00.</text>
+          <text>Bag Limits: Any person who exceeds or attempts to exceed bag limits established in accordance with Section 1.9 of this Act shall have violated this Act and upon conviction, shall be assessed a fine of $160.00.</text>
         </para>
         <para>
           <num>(k)</num>
@@ -3646,7 +4003,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.110</num>
+        <num>11.6.1.110</num>
         <heading>Unclaimed or Abandoned Fishing Equipment</heading>
         <text>Any fishing pole, rod, lines, tackle, bait, or lure found unattended at the Pueblo Fishing Lake after the close of daily operating hours, shall be deemed unclaimed or abandoned. All fishing equipment deemed to be unclaimed or abandoned may be seized by the Tribal Ranger and upon seizure shall become the property of the Pueblo de San Ildefonso.  The Director shall sell the unclaimed or abandoned equipment through public or private sale and the proceeds there from shall go to the Pueblo. A written receipt must be executed for all equipment disposed of in accordance with this section.</text>
         <annotations>
@@ -3654,7 +4011,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.120</num>
+        <num>11.6.1.120</num>
         <heading>Additional Penalties</heading>
         <para>
           <num>(a)</num>
@@ -3673,7 +4030,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.130</num>
+        <num>11.6.1.130</num>
         <heading>Subject Matter Jurisdiction Conferred to Tribal Court</heading>
         <text>The Pueblo de San Ildefonso Tribal Court shall have subject matter jurisdiction to adjudicate all issues of law and fact, and to enter decrees appropriate to such jurisdiction, pertaining to civil proceedings on complaints filed by the Pueblo pursuant to this Act.</text>
         <annotations>
@@ -3681,7 +4038,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.140</num>
+        <num>11.6.1.140</num>
         <heading>Effective Date</heading>
         <text>This Act shall take effect immediately upon its enactment by resolution of the Pueblo de San Ildefonso Council.</text>
         <annotations>
@@ -3689,7 +4046,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.150</num>
+        <num>11.6.1.150</num>
         <heading>Repeal of Inconsistent Code Provisions</heading>
         <text>Any and all Council resolutions or provisions in the Pueblo de San Ildefonso Law and Order code which conflict in any way with the provisions of this Act are hereby repealed to the extent that they are inconsistent with or conflict with or are contrary to the spirit and/or purpose of this Act.</text>
         <annotations>
@@ -3697,7 +4054,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.160</num>
+        <num>11.6.1.160</num>
         <heading>Severability</heading>
         <text>If any provision of this Act is found to be unconstitutional or unlawful by the Pueblo de San Ildefonso Tribal Courts or Federal Courts, such provision(s) shall be stricken and the remainder of this Act shall continue in full force and effect.</text>
         <annotations>
@@ -3705,47 +4062,33 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.170</num>
+        <num>11.6.1.170</num>
         <heading>Amendment</heading>
         <text>The Council may amend this Act upon majority vote of the Council.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-011"/>
         </annotations>
       </section>
-    </container>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>11.6</num>
-    <heading>Waste Water</heading>
-    <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-    <container>
-      <prefix>Part</prefix>
-      <num>11.6.1</num>
-      <heading>Act Approving the Blue Dove Reclamation Site Layout</heading>
-      <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History"/>
       <section>
-        <num>11.6.1.010</num>
+        <num>11.7.1.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT APPROVING THE BLUE DOVE RECLAMATION FACILITY SITE LAYOUT ("Act")."</text>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-011"/>
           <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.6.1.020</num>
+        <num>11.7.1.020</num>
         <heading>Purpose</heading>
         <text>The purpose of this Act is to approve the Blue Dove Reclamation Facility Site Layout.</text>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-011"/>
           <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.6.1.030</num>
+        <num>11.7.1.030</num>
         <heading>Findings</heading>
         <text>The Council hereby finds and declares that:</text>
         <para>
@@ -3797,13 +4140,12 @@
           <text>the Council finds the need to approve the Blue Dove Reclamation Facility site layout.</text>
         </para>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-011"/>
           <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.6.1.040</num>
+        <num>11.7.1.040</num>
         <heading>Authorizations</heading>
         <para>
           <num>(a)</num>
@@ -3814,39 +4156,42 @@
           <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent and direction this Act.</text>
         </para>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-011"/>
           <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>11.6.2</num>
+      <num>11.7.1</num>
+      <heading>Act Approving the Blue Dove Reclamation Site Layout</heading>
+      <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History"/>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.7.2</num>
       <heading>Act Approving Pueblo de San Ildefonso Waste Water System Project - Phase 1</heading>
       <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" type="History"/>
       <section>
-        <num>11.6.2.010</num>
+        <num>11.7.2.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT APPROVING THE PUEBLO DE SAN ILDEFONSO WASTE WATER SYSTEM IMPROVEMENT PROJECT – PHASE 1 ("Act")."</text>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
           <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" type="History"/>
           <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.6.2.020</num>
+        <num>11.7.2.020</num>
         <heading>Purpose</heading>
         <text>The purpose of this Act is to approve the Pueblo de San Ildefonso Waste Water System Improvement Project – Phase 1 and related construction documents.</text>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
           <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" type="History"/>
           <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.6.2.030</num>
+        <num>11.7.2.030</num>
         <heading>Findings</heading>
         <text>The Council hereby finds and declares that:</text>
         <para>
@@ -3902,13 +4247,12 @@
           <text>The Council finds the need to approve the Pueblo de San Ildefonso Waste Water System Improvement Project – Phase 1 and related construction documents. Attached hereto and incorporated herein.</text>
         </para>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
           <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" type="History"/>
           <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.6.2.040</num>
+        <num>11.6.7.040</num>
         <heading>Authorizations</heading>
         <para>
           <num>(a)</num>
@@ -3919,7 +4263,6 @@
           <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent and direction this Act.</text>
         </para>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
           <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" type="History"/>
           <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="attachments|law|1.4" type="History"/>
         </annotations>
@@ -3927,31 +4270,29 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>11.6.3</num>
+      <num>11.7.3</num>
       <heading>Act Authorizing the Governor to Proceed with Wastewater Phase II (A)</heading>
       <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="" type="History"/>
       <section>
-        <num>11.6.3.010</num>
+        <num>11.7.3.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT AUTHORIZING THE GOVERNOR TO PROCEED WITH WASTEWATER PHASE II (A) ("Act")."</text>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
           <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="" type="History"/>
           <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.6.3.020</num>
+        <num>11.7.3.020</num>
         <heading>Purpose</heading>
         <text>The purpose of this act is to identify the Pueblo's current Wastewater needs (Phase 2a) to serve Pueblo residents and Pueblo businesses and, to address wastewater developments for the future (Phase 2b).</text>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
           <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="" type="History"/>
           <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.6.3.030</num>
+        <num>11.7.3.030</num>
         <heading>Findings</heading>
         <text>The Council hereby declares that:</text>
         <para>
@@ -4015,7 +4356,6 @@
           <text>Pueblo leadership understands that a streamlined approach of a system for Pueblo residents and businesses is needed until full County participation.</text>
         </para>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
           <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="" type="History"/>
           <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="attachments|law|1.3" type="History"/>
         </annotations>
@@ -4023,34 +4363,32 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>11.6.4</num>
+      <num>11.7.4</num>
       <heading>Waste Water System Project Land Designation Act</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
       <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" type="History"/>
       <section>
-        <num>11.6.4.010</num>
+        <num>11.7.4.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "WASTE WATER SYSTEM PROJECT LAND DESIGNATION ("Act")."</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
           <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" type="History"/>
           <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.6.4.020</num>
+        <num>11.7.4.020</num>
         <heading>Purpose</heading>
         <text>The Purpose of this Act is to designate certain Pueblo lands for the benefit of the Pueblo and to support the provision of public services to its members, residents, government and businesses.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
           <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" type="History"/>
           <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.6.4.030</num>
+        <num>11.7.4.030</num>
         <heading>Definitions</heading>
         <text>The Council hereby finds and declares that:</text>
         <para>
@@ -4067,13 +4405,12 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
           <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" type="History"/>
           <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.6.4.040</num>
+        <num>11.7.4.040</num>
         <heading>Findings</heading>
         <para>
           <num>(a)</num>
@@ -4101,13 +4438,12 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
           <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" type="History"/>
           <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.6.4.050</num>
+        <num>11.7.4.050</num>
         <heading>Authorizations</heading>
         <para>
           <num>(a)</num>
@@ -4119,11 +4455,16 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
           <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" type="History"/>
           <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.5" type="History"/>
         </annotations>
       </section>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.7</num>
+    <heading>Waste Water</heading>
+    <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
   </container>
 </container>

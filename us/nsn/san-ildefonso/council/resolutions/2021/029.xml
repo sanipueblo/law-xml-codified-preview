@@ -250,34 +250,34 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Terrence K. Garcia, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.6.4">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.7.4">
     <container>
       <prefix>Part</prefix>
-      <num>11.6.4</num>
+      <num>11.7.4</num>
       <heading>Waste Water System Project Land Designation Act</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="11.6.4"/>
+    <codified:at path="11.7.4"/>
     <text class="center">
       <strong>PUEBLO DE SAN ILDEFONSO</strong>
     </text>
     <heading type="law">WASTE WATER SYSTEM PROJECT LAND DESIGNATION ACT</heading>
     <section>
-      <codify:insert num-value="11.6.4.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.6.4.010"/>
+      <codify:insert num-value="11.7.4.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.7.4.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "WASTE WATER SYSTEM PROJECT LAND DESIGNATION ("Act")."</text>
     </section>
     <section>
-      <codify:insert num-value="11.6.4.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.6.4.020"/>
+      <codify:insert num-value="11.7.4.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.7.4.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The Purpose of this Act is to designate certain Pueblo lands for the benefit of the Pueblo and to support the provision of public services to its members, residents, government and businesses.</text>
     </section>
     <section>
-      <codify:insert num-value="11.6.4.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.6.4.030"/>
+      <codify:insert num-value="11.7.4.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.7.4.030"/>
       <num>1.3</num>
       <heading>Definitions</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -295,7 +295,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="11.6.4.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.6.4.040"/>
+      <codify:insert num-value="11.7.4.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.7.4.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <para>
@@ -324,7 +324,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="11.6.4.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.6.4.050"/>
+      <codify:insert num-value="11.7.4.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.7.4.050"/>
       <num>1.5</num>
       <heading>Authorizations</heading>
       <para>

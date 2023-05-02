@@ -839,112 +839,275 @@
     <container>
       <prefix>Part</prefix>
       <num>18.1.4</num>
-      <heading>Act Authorizing Gross Receipts Tax Code Amendment and Establishment of Tribal Gross Receipts Tax Rate</heading>
-      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-004"/>
+      <heading>GROSS RECEIPTS TAX</heading>
       <section>
         <num>18.1.4.010</num>
-        <heading>Short Title</heading>
-        <text>This enactment shall be known as the "ACT AUTHORIZING GROSS RECEIPTS TAX CODE AMENDMENT AND ESTABLISHMENT OF TRIBAL GROSS RECEIPTS TAX RATE." ("Act").</text>
+        <heading>Title.</heading>
+        <text>This Chapter shall be known as the Pueblo de San Ildefonso Gross Receipts Tax.  May also be referred to as the Gross Receipts Tax Code.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-004"/>
-          <annotation app="2023-03-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-004" eff="2023-03-24" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>18.1.4.020</num>
-        <heading>Purpose</heading>
-        <text>The purpose of this Act is to authorize the amendment of the Pueblo's Gross Receipts Tax to authorize the Council to establish the Pueblo's gross receipts tax rate.</text>
+        <heading>Purpose.</heading>
+        <text>The purpose of the Chapter is to generate revenues to support the Pueblo de San Ildefonso government, provide funding for industrial and business development, and provide for such other essential public services while respecting traditional Pueblo livelihoods, customs and their contributions to the tribal community.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-004"/>
-          <annotation app="2023-03-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-004" eff="2023-03-24" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>18.1.4.030</num>
-        <heading>Findings</heading>
-        <text>The Council hereby finds and declares that:</text>
+        <heading>Definitions.</heading>
+        <text>As used in this Chapter, the following terms mean:</text>
         <para>
           <num>(a)</num>
-          <text>The Council enacted the Pueblo's Gross Receipts Tax Code in 2013 to generate revenues to support the Pueblo's government, provide funding for industrial and business development, provide funding for other essential public services, and to govern the administration and enforcement of the Pueblo's gross receipts tax.</text>
+          <text>"Engaging in business" means carrying on or causing to be carried on any commercial activity involving the exchange of money or other valuable consideration for goods or services.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The Pueblo entered into a Cooperative Agreement in 2013 with the State of New Mexico Taxation and Revenue Department ("Cooperative Tax Agreement") for the reciprocal enforcement, administration and collection of gross receipts tax between the two jurisdictions.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>As required by the Cooperative Tax Agreement, the Pueblo's gross receipts tax rate is tied to the State's gross receipts tax rate and automatically increases or decreases with changes to State's gross receipts tax rate.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>The State of New Mexico reduced its gross receipts tax rate in 2022 and has introduced legislation, HB 547, to reduce its gross receipts tax rate over the next four (4) years beginning in 2023.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>As a result of the previous reduction in the State's gross receipts tax rate, the Pueblo's gross receipts tax rate automatically adjusted downward resulting in a reduction in tax revenue generated on the Pueblo's lands.</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>SB 147 has been introduced which would allow tribes and tribal entities that have cooperative tax agreements with the State of New Mexico to set their own tribal gross receipts tax rate regardless of the State's gross receipts tax rate.</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>In the event that HB 547, the legislation to reduce the State's gross receipts tax, and SB 147, the legislation that allows a tribe to set its own gross receipts tax rate, are signed into law, there is the need to set the Pueblo's tax rate based on circumstances on the Pueblo as opposed to being tied to the State's gross receipts rate.</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>The State only allows changes to a gross receipts tax rate twice a year due to notice and publication requirements.</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>To become effective July 1, 2023 any amendments must be submitted and executed by a tribe and the Taxation and Revenue Department Secretary by March 30, 2023 which may be before the Governor of New Mexico signs the applicable tax legislation into law.</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>It is in the best interest of the Pueblo to decouple the Pueblo's Gross Receipts Tax rate from the State's Gross Receipts Tax rate and amend the Pueblo's Gross Receipts Tax Code to authorize the Council to establish an appropriate tribal gross receipts rate at such times to coincide with the deadlines for changes pursuant to the Cooperative Tax Agreement with the State.</text>
-        </para>
-        <para>
-          <num>(k)</num>
-          <text>It is the best interest of the Pueblo to establish its gross receipts tax rate at 7%, and that such rate become effective July 1, 2023.</text>
-        </para>
-        <para>
-          <num>(l)</num>
-          <text>Amendment of the Pueblo's Gross Receipts Tax Code, Section 18.1.4.050, and the establishment of the Pueblo's gross receipts tax rate shall be contingent upon the applicable State gross receipts tax rate legislation being signed into law.</text>
+          <text>"Gross Receipts" are the total amount of money or value of other consideration received from selling goods, renting or leasing property, or from performing services within Pueblo lands.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-004"/>
-          <annotation app="2023-03-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-004" eff="2023-03-24" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>18.1.4.040</num>
-        <heading>Authorizations</heading>
+        <heading>Imposition of Gross Receipts Tax and Incidence of Tax.</heading>
         <para>
           <num>(a)</num>
-          <text>The Council authorizes the amendment of the Pueblo's Gross Receipts Tax Code Section 18.1.4.050, as shown in the attached document, to allow the Council to establish the Pueblo's gross receipts tax rate at such times during the year to coincide with the effective dates for amendments pursuant to the Cooperative Agreement with the New Mexico Taxation and Revenue Department.</text>
+          <text>A tax is imposed on any person engaging in business within Pueblo lands.</text>
+          <para>
+            <num>(1)</num>
+            <text>To prevent the evasion of the gross receipts tax and to aid in its administration, it is presumed that all receipts of a person engaging in business within Pueblo lands are subject to the Gross Receipts Tax, unless specifically exempted from the tax.</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>The Council approves the establishment of the Pueblo's gross receipts tax rate at 7% to be effective July 1, 2023.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The amendment of the Pueblo's Gross Receipts Tax Code and the establishment of the Pueblo's Gross Receipts Tax Rate shall be contingent upon the applicable State gross receipts tax rate legislation being signed into law.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>The Governor or his designee is authorized to take such actions to implement the intent of this Resolution, including the authority to make any minor edits to the Gross Receipts Tax Code as may be needed.</text>
+          <text>The incidence of the gross receipts tax imposed under this Chapter shall be on the person engaging in the business within Pueblo lands.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-004"/>
-          <annotation app="2023-03-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-004" eff="2023-03-24" path="" type="History"/>
         </annotations>
       </section>
-      <annotation app="2023-03-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-004" eff="2023-03-24" path="" type="History"/>
+      <section>
+        <num>18.1.4.050</num>
+        <heading>Rate of Tax.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The rate of the tax shall be equal to the gross receipts tax rate on the current semi-annual Gross Receipts Tax Rate Schedule provided by the New Mexico Department of Taxation and Revenue for the county and tribal tax district where the business is located.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The rate established in subsection A. above shall be adjusted automatically effective as of January 1 and July 1 of each year to correspond to the total gross receipts, sales or similar tax rate imposed by the State of Mew Mexico and any local option tax districts of the State of New Mexico located within the counties of Santa Fe or Los Alamos, outside of any municipalities.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
+      </section>
+      <section>
+        <num>18.1.4.060</num>
+        <heading>Taxpayer Returns and Reports of Receipts.</heading>
+        <text>A taxpayer maintaining a place of business on Pueblo lands who has receipts subject to this Agreement shall be required to report its taxable gross receipts for each of the following tax districts in which the taxpayer maintains a place of business:</text>
+        <text>District 1:   Pueblo lands located in Santa Fe County.</text>
+        <text>District 2:   Pueblo lands located in Los Alamos County.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
+      </section>
+      <section>
+        <num>18.1.4.070</num>
+        <heading>Location of Taxable Transactions.</heading>
+        <para>
+          <num>(a)</num>
+          <text>A sale of tangible personal property takes place within Pueblo lands if the seller delivers possession of the property to the buyer in the Pueblo, without regard to the location of the seller's permanent or principal place of business.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Construction services take place within Pueblo lands if they are performed in the Pueblo without regard to the location of any office or other business activity of the taxpayer.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A sale of electricity, natural gas, propane, water, telephone service, cable television service or internet access service takes place in the Pueblo if the physical location of the customer's premises or other place to which the utility's product or service is delivered to the customer in the Pueblo.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
+      </section>
+      <section>
+        <num>18.1.4.080</num>
+        <heading>Gross Receipts Tax Credit.</heading>
+        <para>
+          <num>(a)</num>
+          <text>If a gross receipts, sales or similar tax has been levied by the State of New Mexico or a political subdivision thereof on a taxable transaction taking place within the Pueblo's lands, the amount of the state tax may be credited against any gross receipts tax due the Pueblo in the amount equal to the lesser of twenty-five percent (25%) of the Pueblo's gross receipts tax or twenty-five percent (25%) of tax revenue produced by the sum of the rate of tax imposed under the New Mexico Gross Receipts and Compensating Tax Act and the total of the rates of the local option gross receipts taxes imposed on the receipts from the same transaction; provided that the New Mexico Gross Receipts and Compensating Tax Act allows a credit for the lesser of seventy-five percent (75%) of the tax imposed by the Pueblo on the receipts from the transaction or seventy-five percent (75%) of the tax revenue produced by the sum of the rate of tax imposed pursuant to the Gross Receipts and Compensating Tax Act and the total of the rates of local option gross receipts taxes imposed on the receipts from the same transaction.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo may enter into a cooperative agreement with the Secretary of the New Mexico Taxation and Revenue Department to carry out the provisions of this Chapter, provided that the agreement shall be valid only if approved by resolution of the Council.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
+      </section>
+      <section>
+        <num>18.1.4.090</num>
+        <heading>Exemptions.</heading>
+        <text>The Gross Receipts Tax <u>shall not apply to</u>:</text>
+        <para>
+          <num>(a)</num>
+          <text>Receipts of the Pueblo de San Ildefonso or its tribal members, its governmental agencies or political subdivisions.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Receipts from the sale or lease of tangible personal property, <em>other than construction materials</em>, to the Pueblo or its tribal members, its governmental agencies or political subdivisions.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Receipts from the performance of any service, <em>other than design, engineering or construction services</em>, performed for the Pueblo or its tribal members, its governmental agencies or political subdivisions.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Receipts of the United States, the State of New Mexico, or any agency, department or instrumentality, or political subdivision thereof, however, <em>this exemption does not apply to the receipts of a business, contractor, or subcontractor of any such governmental entity engaged in business on Pueblo lands</em>.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Receipts from the sale of gasoline or special fuel upon which a gasoline or special fuel excise tax has been paid to the Pueblo or the State of New Mexico.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Receipts from the sale of cigarettes on which the cigarette tax has been paid.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Receipts of taxpayers who are subject to the Pueblo's Business Property Tax.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Receipts from traditional Pueblo de San Ildefonso livelihoods, including but not limited to farming, livestock raising, bread making, pottery making and other artisans.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Receipts from wholesale sales, where tax will be collected by a subsequent retailer, which is subject to a gross receipts tax.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Receipts from the sale of telecommunications services, electricity, water, natural gas, propane, and firewood for residential use of the buyer or members of the buyer's household.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Receipts from community based fund raising charitable organizations recognized by the Governor's Office.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Receipts of an entity recognized by the Internal Revenue Service, as a charitable organization under Internal Revenue Code § 501(c)(3).</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Receipts of employees from wages or salaries, commissions, or any other form of renumeration for personal services.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Receipts from the retail sale of un-prepared food products.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Receipts from performing medical and dental services.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Receipts from sale of insurance premiums.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Receipts from vendors who sell less than ten (10) days in a calendar year, or receive less than $10,000 in gross receipts in a calendar year within the Pueblo.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>Receipts from yard sales, or the isolated or occasional sale of or leasing of tangible personal property or a service by a person who is not regularly engaged in the business of selling or leasing the same or similar property or service.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>Receipts from the performance of veterinary services.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>Receipts from the lease or rental of real property for residential purposes, including mobile home lots.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>Receipts from the sale of construction materials, design, engineering or construction services for residential construction if the sale is to the occupant(s) of the residence in which the construction materials or services will be incorporated.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
+      </section>
+      <section>
+        <num>18.1.4.100</num>
+        <heading>Authority to Issue Exemption from Tax; Tax Exempt Certificates.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Tax Assessor, upon Tribal Council approval, may issue an exemption from the tribal gross receipts tax, in whole or in part, in extraordinary circumstances when such an exemption is necessary to protect or promote the general welfare, health, safety or interest of the Pueblo or its people; provided that granting such a limited exemption would not otherwise violate federal law.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Tax Administrator may issue certificates to taxpayers documenting exemptions allowed by this subsection.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
+      </section>
+      <section>
+        <num>18.1.4.110</num>
+        <heading>Specific Examples of Applications of the Tax.</heading>
+        <text>The Gross Receipts Tax <u>applies to</u> the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Receipts of a business owned by the Pueblo, the Pueblo's federally or tribally chartered corporations and any subsidiary corporations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Receipts from the sale or lease of property to a business owned by the Pueblo, the Pueblo's federally or tribally chartered corporations and any subsidiary corporations.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Receipts from the sale of construction materials to the Pueblo, its governmental agencies, political subdivisions, or its federally or tribally chartered corporations and any subsidiary corporations.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Receipts from the performance of any service to a business owned by the Pueblo, the Pueblo's federally or tribally chartered corporations and any subsidiary corporations.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Receipts from the performance of design, engineering or construction services to the Pueblo, its governmental agencies, political subdivisions, or its federally or tribally chartered corporations and any subsidiary corporations.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Receipts of a business, contractor, or subcontractor of the United States, the State of New Mexico, or any agency, department or instrumentality, or political subdivision thereof engaged in business on Pueblo lands.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
+      </section>
+      <section>
+        <num>18.1.4.120</num>
+        <heading>Reporting and Payment of Tax.</heading>
+        <para>
+          <num>(a)</num>
+          <text>A person doing business within Pueblo lands who is subject to the gross receipts tax shall complete and file with the Tax Office a return for the preceding tax month on a form provided by the Tax Office providing such information as required.  A person who has no taxable gross receipts shall not be required to file a tax return unless required by the Tax Administrator.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The return shall report the total taxable receipts received during the reporting month less any amounts refunded to the purchaser upon cancellation of a sale.  Taxable gross receipts shall exclude any gross receipts taxes imposed by the State of New Mexico for which a reciprocal exclusion has been granted by the State.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>All taxes imposed by this Chapter are due and payable on or before the fifteenth (15<sup>th</sup>) day of the calendar month immediately following the month in which the receipts were received.  A payment of the amount of gross receipts tax due shall accompany the return for that reporting period.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-037"/>
+        </annotations>
+      </section>
     </container>
     <container>
       <prefix>Part</prefix>
