@@ -274,7 +274,7 @@
       <heading>Waste Water</heading>
     </container>
   </codify:insert>
-  <codify:insert path="11.6" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.7.1">
+  <codify:insert path="11.7" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.7.1">
     <container>
       <prefix>Part</prefix>
       <num>11.7.1</num>
@@ -282,7 +282,7 @@
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="11.6.1"/>
+    <codified:at path="11.7.1"/>
     <text>PUEBLO DE SAN ILDEFONSO</text>
     <heading>ACT APPROVING THE BLUE DOVE RECLAMATION FACILITY SITE LAYOUT</heading>
     <section>
