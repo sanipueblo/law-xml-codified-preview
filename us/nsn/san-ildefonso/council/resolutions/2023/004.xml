@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R23-004" codify:doc="Pueblo de San Ildefonso Code" codify:path="18.1">
+  <num>SI-R23-004</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R23-004</heading>
+  <heading type="law">Act Authorizing Gross Receipts Tax Code Amendment and Establishment of Tribal Gross Receipts Tax Rate</heading>
+  <meta>
+    <effective>2023-03-24</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R23-004</citation>
+    </citations>
+    <history>
+      <adopted>2023-03-24</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 24th day of March, 2023, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council enacted the Pueblo's Gross Receipts Tax Code in 2013 to generate revenues to support the Pueblo's government, provide funding for industrial and business development, provide funding for other essential public services, and to govern the administration and enforcement of the Pueblo's gross receipts tax; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo entered into a Cooperative Agreement in 2013 with the State of New Mexico Taxation and Revenue Department ("Cooperative Tax Agreement") for the reciprocal enforcement, administration and collection of gross receipts tax between the two jurisdictions; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as required by the Cooperative Tax Agreement, the Pueblo's gross receipts tax rate is tied to the State's gross receipts tax rate and automatically increases or decreases with changes to State's gross receipts tax rate; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the State of New Mexico reduced its gross receipts tax rate in 2022 and has introduced legislation, HB 547, to reduce its gross receipts tax rate over the next four (4) years beginning in 2023; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as a result of the previous reduction in the State's gross receipts tax rate, the Pueblo's gross receipts tax rate automatically adjusted downward resulting in a reduction in tax revenue generated on the Pueblo's lands; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SB 147 has been introduced which would allow tribes that have cooperative tax agreements with the State of New Mexico to set their own tribal gross receipts tax rate regardless of the State's gross receipts tax rate; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in the event that HB 547, the legislation to reduce the State's gross receipts tax, and SB 147, the legislation that allows a tribe to set its own gross receipts tax rate, are signed into law, there is the need to set the Pueblo's tax rate based on circumstances on the Pueblo as opposed to being tied to the State's gross receipts rate; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the State only allows changes to a gross receipts tax rate twice a year due to notice and publication requirements; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>to become effective July 1, any amendments must be submitted and executed by a tribe and the Taxation and Revenue Department Secretary by March 30, which may be before the Governor of New Mexico signs the applicable tax legislation into law; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has determined it is in the best interest of the Pueblo to decouple the Pueblo's Gross Receipts Tax rate from the State's Gross Receipts Tax rate and amend the Pueblo's Gross Receipts Tax Code to authorize the Council to establish an appropriate tribal gross receipts rate at such times to coincide with the deadlines for changes pursuant to the Cooperative Tax Agreement with the State; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has also determined it is the best interest of the Pueblo to establish its gross receipts tax rate at 7%, and that such rate become effective July 1, 2023; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the amendment of the Pueblo's Gross Receipts Tax Code, Section 18.1.4.050, and the establishment of the Pueblo's gross receipts tax rate shall be contingent upon the applicable State gross receipts tax rate legislation being signed into law.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "ACT AUTHORIZING GROSS RECEIPTS TAX CODE AMENDMENT AND ESTABLISHMENT OF TRIBAL GROSS RECEIPTS TAX RATE."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>March 24</u>, 2023, at a meeting with a vote of <u>9</u> in favor, <u>0</u> opposed, <u>1</u> abstaining and <u>0</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S):</strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. <u>SI-R23-004</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>24</u><sup><u>th</u></sup> day of <u> March</u>, 2023, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4 (c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u> 24</u><sup><u>th</u></sup> day of <u> March</u>, 2023.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the ____ day of ____________, 2023.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez, Jr.</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2023, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+  <codify:replace path="18.1.4" codified:doc="Pueblo de San Ildefonso Code" codified:path="|18.1.4.010">
+    <container>
+      <prefix>Part</prefix>
+      <num>18.1.4</num>
+      <heading>Act Authorizing Gross Receipts Tax Code Amendment and Establishment of Tribal Gross Receipts Tax Rate</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-004"/>
+      <section>
+        <num>18.1.4.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACT AUTHORIZING GROSS RECEIPTS TAX CODE AMENDMENT AND ESTABLISHMENT OF TRIBAL GROSS RECEIPTS TAX RATE." ("Act").</text>
+      </section>
+      <section>
+        <num>18.1.4.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the amendment of the Pueblo's Gross Receipts Tax to authorize the Council to establish the Pueblo's gross receipts tax rate.</text>
+      </section>
+      <section>
+        <num>18.1.4.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Council enacted the Pueblo's Gross Receipts Tax Code in 2013 to generate revenues to support the Pueblo's government, provide funding for industrial and business development, provide funding for other essential public services, and to govern the administration and enforcement of the Pueblo's gross receipts tax.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo entered into a Cooperative Agreement in 2013 with the State of New Mexico Taxation and Revenue Department ("Cooperative Tax Agreement") for the reciprocal enforcement, administration and collection of gross receipts tax between the two jurisdictions.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>As required by the Cooperative Tax Agreement, the Pueblo's gross receipts tax rate is tied to the State's gross receipts tax rate and automatically increases or decreases with changes to State's gross receipts tax rate.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The State of New Mexico reduced its gross receipts tax rate in 2022 and has introduced legislation, HB 547, to reduce its gross receipts tax rate over the next four (4) years beginning in 2023.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>As a result of the previous reduction in the State's gross receipts tax rate, the Pueblo's gross receipts tax rate automatically adjusted downward resulting in a reduction in tax revenue generated on the Pueblo's lands.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>SB 147 has been introduced which would allow tribes and tribal entities that have cooperative tax agreements with the State of New Mexico to set their own tribal gross receipts tax rate regardless of the State's gross receipts tax rate.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>In the event that HB 547, the legislation to reduce the State's gross receipts tax, and SB 147, the legislation that allows a tribe to set its own gross receipts tax rate, are signed into law, there is the need to set the Pueblo's tax rate based on circumstances on the Pueblo as opposed to being tied to the State's gross receipts rate.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The State only allows changes to a gross receipts tax rate twice a year due to notice and publication requirements.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>To become effective July 1, 2023 any amendments must be submitted and executed by a tribe and the Taxation and Revenue Department Secretary by March 30, 2023 which may be before the Governor of New Mexico signs the applicable tax legislation into law.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>It is in the best interest of the Pueblo to decouple the Pueblo's Gross Receipts Tax rate from the State's Gross Receipts Tax rate and amend the Pueblo's Gross Receipts Tax Code to authorize the Council to establish an appropriate tribal gross receipts rate at such times to coincide with the deadlines for changes pursuant to the Cooperative Tax Agreement with the State.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>It is the best interest of the Pueblo to establish its gross receipts tax rate at 7%, and that such rate become effective July 1, 2023.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Amendment of the Pueblo's Gross Receipts Tax Code, Section 18.1.4.050, and the establishment of the Pueblo's gross receipts tax rate shall be contingent upon the applicable State gross receipts tax rate legislation being signed into law.</text>
+        </para>
+      </section>
+      <section>
+        <num>18.1.4.040</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council authorizes the amendment of the Pueblo's Gross Receipts Tax Code Section 18.1.4.050, as shown in the attached document, to allow the Council to establish the Pueblo's gross receipts tax rate at such times during the year to coincide with the effective dates for amendments pursuant to the Cooperative Agreement with the New Mexico Taxation and Revenue Department.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council approves the establishment of the Pueblo's gross receipts tax rate at 7% to be effective July 1, 2023.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The amendment of the Pueblo's Gross Receipts Tax Code and the establishment of the Pueblo's Gross Receipts Tax Rate shall be contingent upon the applicable State gross receipts tax rate legislation being signed into law.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Governor or his designee is authorized to take such actions to implement the intent of this Resolution, including the authority to make any minor edits to the Gross Receipts Tax Code as may be needed.</text>
+        </para>
+      </section>
+    </container>
+  </codify:replace>
+  <attachment id="law">
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law" proof="needed">ACT AUTHORIZING GROSS RECEIPTS TAX CODE AMENDMENT AND ESTABLISHMENT OF TRIBAL GROSS RECEIPTS TAX RATE</heading>
+    <section>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "ACT AUTHORIZING GROSS RECEIPTS TAX CODE AMENDMENT AND ESTABLISHMENT OF TRIBAL GROSS RECEIPTS TAX RATE." ("Act").</text>
+    </section>
+    <section>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize the amendment of the Pueblo's Gross Receipts Tax to authorize the Council to establish the Pueblo's gross receipts tax rate.</text>
+    </section>
+    <section>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Council enacted the Pueblo's Gross Receipts Tax Code in 2013 to generate revenues to support the Pueblo's government, provide funding for industrial and business development, provide funding for other essential public services, and to govern the administration and enforcement of the Pueblo's gross receipts tax.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo entered into a Cooperative Agreement in 2013 with the State of New Mexico Taxation and Revenue Department ("Cooperative Tax Agreement") for the reciprocal enforcement, administration and collection of gross receipts tax between the two jurisdictions.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>As required by the Cooperative Tax Agreement, the Pueblo's gross receipts tax rate is tied to the State's gross receipts tax rate and automatically increases or decreases with changes to State's gross receipts tax rate.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The State of New Mexico reduced its gross receipts tax rate in 2022 and has introduced legislation, HB 547, to reduce its gross receipts tax rate over the next four (4) years beginning in 2023.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>As a result of the previous reduction in the State's gross receipts tax rate, the Pueblo's gross receipts tax rate automatically adjusted downward resulting in a reduction in tax revenue generated on the Pueblo's lands.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>SB 147 has been introduced which would allow tribes and tribal entities that have cooperative tax agreements with the State of New Mexico to set their own tribal gross receipts tax rate regardless of the State's gross receipts tax rate.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>In the event that HB 547, the legislation to reduce the State's gross receipts tax, and SB 147, the legislation that allows a tribe to set its own gross receipts tax rate, are signed into law, there is the need to set the Pueblo's tax rate based on circumstances on the Pueblo as opposed to being tied to the State's gross receipts rate.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The State only allows changes to a gross receipts tax rate twice a year due to notice and publication requirements.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>To become effective July 1, 2023 any amendments must be submitted and executed by a tribe and the Taxation and Revenue Department Secretary by March 30, 2023 which may be before the Governor of New Mexico signs the applicable tax legislation into law.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>It is in the best interest of the Pueblo to decouple the Pueblo's Gross Receipts Tax rate from the State's Gross Receipts Tax rate and amend the Pueblo's Gross Receipts Tax Code to authorize the Council to establish an appropriate tribal gross receipts rate at such times to coincide with the deadlines for changes pursuant to the Cooperative Tax Agreement with the State.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>It is the best interest of the Pueblo to establish its gross receipts tax rate at 7%, and that such rate become effective July 1, 2023.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Amendment of the Pueblo's Gross Receipts Tax Code, Section 18.1.4.050, and the establishment of the Pueblo's gross receipts tax rate shall be contingent upon the applicable State gross receipts tax rate legislation being signed into law.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.4</num>
+      <heading>Authorizations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council authorizes the amendment of the Pueblo's Gross Receipts Tax Code Section 18.1.4.050, as shown in the attached document, to allow the Council to establish the Pueblo's gross receipts tax rate at such times during the year to coincide with the effective dates for amendments pursuant to the Cooperative Agreement with the New Mexico Taxation and Revenue Department.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council approves the establishment of the Pueblo's gross receipts tax rate at 7% to be effective July 1, 2023.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The amendment of the Pueblo's Gross Receipts Tax Code and the establishment of the Pueblo's Gross Receipts Tax Rate shall be contingent upon the applicable State gross receipts tax rate legislation being signed into law.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Governor or his designee is authorized to take such actions to implement the intent of this Resolution, including the authority to make any minor edits to the Gross Receipts Tax Code as may be needed.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

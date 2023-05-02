@@ -16,16 +16,17 @@
     <history-start>2017-04-19</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="c58caadc0d9c8752c52292f9f5c950b3c758d68e"/>
+        <repository name="sanipueblo/law-xml" commit="1aabc76a06610c7c74be4cf62a3f20ddf441300d"/>
       </repositories>
-      <platform version="2.11.0.dev445" reproducible="false"/>
-      <build-date>2023-03-28</build-date>
-      <codified-date>2023-01-03</codified-date>
+      <platform version="2.10.0" reproducible="false"/>
+      <build-date>2023-05-02</build-date>
+      <codified-date>2023-03-24</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>
   <collection name="us/nsn/san-ildefonso/council/resolutions">
     <heading>Council Resolutions</heading>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2023/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2022/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2021/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2020/index.xml"/>
