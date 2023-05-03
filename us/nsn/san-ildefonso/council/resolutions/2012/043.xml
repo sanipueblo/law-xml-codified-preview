@@ -12,6 +12,7 @@
       <adopted>2012-10-22</adopted>
     </history>
   </meta>
+  <preamble/>
   <recitals>
     <recital>
       <conjunction>WHEREAS</conjunction>
@@ -42,7 +43,8 @@
       <text>the Council has determined it to be in the best interest of the Pueblo to prohibit activities that are detrimental to the safety of hunters and wildlife resources through the Pueblo de San Ildefonso Big Game Hunting Act ("Act") and to establish civil penalties for violations therein.</text>
     </recital>
     <recital>
-      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <conjunction>NOW THEREFORE BE IT RESOLVED:</conjunction>
+      <text/>
       <para>
         <num>1.</num>
         <text>The Pueblo de San Ildefonso hereby enacts the attached law entitled "The Pueblo de San Ildefonso Big Game Hunting Act"; and</text>
