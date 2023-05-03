@@ -2979,11 +2979,18 @@
     <prefix>Chapter</prefix>
     <container>
       <num>24.10.1</num>
-      <heading>Short Title</heading>
+      <heading>Civil Trespass Act of 2022</heading>
       <prefix>Part</prefix>
-      <text>This enactment shall be known as the "CIVIL TRESPASS ACT OF 2022" ("Act").</text>
       <section>
         <num>24.10.1.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "CIVIL TRESPASS ACT OF 2022" ("Act").</text>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.020</num>
         <heading>Purpose</heading>
         <text>The purposes of this Act are to:</text>
         <para>
@@ -3004,11 +3011,11 @@
           <text>Specify charges, penalties and damages for trespasses to Pueblo lands.</text>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.020</num>
+        <num>24.10.1.030</num>
         <heading>Findings</heading>
         <text>The Council finds and declares that:</text>
         <para>
@@ -3036,11 +3043,11 @@
           <text>It has been determined that it is in the best interest of the Pueblo to amend and restate Title XXI-Civil Trespass Code.</text>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.030</num>
+        <num>24.10.1.040</num>
         <heading>Definitions</heading>
         <text>When used in this Act, the term:</text>
         <para>
@@ -3096,11 +3103,11 @@
           <text>"Trespass charge" means the annual rental value of the total acreage encumbered by the property of the person in trespass which is equal to the encumbered acreage times the highest annual rental value per acre then in place anywhere on Pueblo lands as determined by the Realty Officer. A monthly trespass charge is then determined by dividing the annual rental value by twelve (12). The trespass charge may be changed at any time to reflect the then-current highest annual rental value on Pueblo lands.</text>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.040</num>
+        <num>24.10.1.050</num>
         <heading>Applicability</heading>
         <para>
           <num>(a)</num>
@@ -3111,42 +3118,42 @@
           <text>This Act does not apply to persons who are Pueblo members holding or claiming an interest in, possessing, entering upon, or otherwise using Pueblo lands under a valid assignment granted by the Pueblo or the United States in accordance with applicable federal law or regulations.</text>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.050</num>
+        <num>24.10.1.060</num>
         <heading>Construction</heading>
         <para>
           <num>(a)</num>
-          <text>The provisions of this Act are to be liberally construed to effectuate the intent, findings, and purposes set forth in Sections 24.10.1.010 and 24.10.1.020 of this Act, but not to conflict with applicable federal law and regulations.</text>
+          <text>The provisions of this Act are to be liberally construed to effectuate the intent, findings, and purposes set forth in <cite path="24.10.1.020">Sections 24.10.1.020</cite> and <cite path="24.10.1.030">24.10.1.030</cite> of this Act, but not to conflict with applicable federal law and regulations.</text>
         </para>
         <para>
           <num>(b)</num>
           <text>Nothing contained in this Act is to be construed to diminish, limit, or otherwise adversely affect any right or remedy otherwise held or available to the Pueblo or its members under other applicable law.</text>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>24.10.1.060</num>
-        <heading>Act as a Condition of Future Consents, Grants and Agreements</heading>
-        <text>The provisions of this Act shall be incorporated as a term and condition of the consent or grant by the Pueblo of every lease, easement, right-of-way, or permit, unless specifically waived by the Council by law.</text>
-        <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
         <num>24.10.1.070</num>
-        <heading>Prohibition Against Trespass</heading>
-        <text>It is unlawful to trespass upon Pueblo lands. Each day that a person trespasses constitutes a separate violation.</text>
+        <heading>Act as a Condition of Future Consents, Grants and Agreements</heading>
+        <text>The provisions of this Act shall be incorporated as a term and condition of the consent or grant by the Pueblo of every lease, easement, right-of-way, or permit, unless specifically waived by the Council by law.</text>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
         <num>24.10.1.080</num>
+        <heading>Prohibition Against Trespass</heading>
+        <text>It is unlawful to trespass upon Pueblo lands. Each day that a person trespasses constitutes a separate violation.</text>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.090</num>
         <heading>Penalties</heading>
         <para>
           <num>(a)</num>
@@ -3162,14 +3169,14 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>If a trespass occurs as a result of holding over, then the person in trespass shall pay a monthly trespass charge plus a compliance incentive charge. If the trespass is the result of knowing, intentional or negligent action of the person in trespass, the penalties specified in subsections (a) and (b) of this section may be added to trespass charges and compliance incentive charges and to any other damages specified in <cite path="24.10.1.090">Section 24.10.1.090</cite>.</text>
+          <text>If a trespass occurs as a result of holding over, then the person in trespass shall pay a monthly trespass charge plus a compliance incentive charge. If the trespass is the result of knowing, intentional or negligent action of the person in trespass, the penalties specified in subsections (a) and (b) of this section may be added to trespass charges and compliance incentive charges and to any other damages specified in <cite path="24.10.1.100">Section 24.10.1.100</cite>.</text>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.090</num>
+        <num>24.10.1.100</num>
         <heading>Damages</heading>
         <para>
           <num>(a)</num>
@@ -3200,11 +3207,11 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.100</num>
+        <num>24.10.1.110</num>
         <heading>Information and Investigation</heading>
         <para>
           <num>(a)</num>
@@ -3213,24 +3220,23 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>If the Realty Officer's investigation reveals a trespass, the Realty Officer shall, after</text>
-          <text>notifying the Governor, proceed in accordance with <cite path="24.10.1.110">Section 24.10.1.110</cite> of this Act.</text>
+          <text>If the Realty Officer's investigation reveals a trespass, the Realty Officer shall, after notifying the Governor, proceed in accordance with <cite path="24.10.1.120">Section 24.10.1.120</cite> of this Act.</text>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.110</num>
+        <num>24.10.1.120</num>
         <heading>Enforcement</heading>
         <text>Whenever the Realty Officer finds that a person has trespassed, the Realty Officer may take one or more of the following actions:</text>
         <para>
           <num>(a)</num>
-          <text>Issue a Notice of Trespass and Order to Comply to the person in trespass accordance with <cite path="24.10.1.120">Section 24.10.1.120</cite> of this Act;</text>
+          <text>Issue a Notice of Trespass and Order to Comply to the person in trespass accordance with <cite path="24.10.1.130">Section 24.10.1.130</cite> of this Act;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Issue a Notice of Assessment of Penalty and Damages to the person in trespass in accordance with <cite path="24.10.1.130">Section 24.10.1.130</cite> of this Act;</text>
+          <text>Issue a Notice of Assessment of Penalty and Damages to the person in trespass in accordance with <cite path="24.10.1.140">Section 24.10.1.140</cite> of this Act;</text>
         </para>
         <para>
           <num>(c)</num>
@@ -3238,14 +3244,14 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Enforce the lease, easement, right-of-way, or permit to which the person in trespass is a party in accordance with <cite path="24.10.1.180">Section 24.10.1.180</cite> of this Act.</text>
+          <text>Enforce the lease, easement, right-of-way, or permit to which the person in trespass is a party in accordance with <cite path="24.10.1.190">Section 24.10.1.190</cite> of this Act.</text>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.120</num>
+        <num>24.10.1.130</num>
         <heading>Notice of Trespass and Order to Comply</heading>
         <para>
           <num>(a)</num>
@@ -3273,7 +3279,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The Notice of Trespass and Order to Comply shall advise the person identified therein of the rights available under <cite path="24.10.1.160">Section 24.10.1.160</cite> of this Act.</text>
+          <text>The Notice of Trespass and Order to Comply shall advise the person identified therein of the rights available under <cite path="24.10.1.170">Section 24.10.1.170</cite> of this Act.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -3284,11 +3290,11 @@
           <text>Nothing in this section prohibits the Realty Officer from assessing any penalties or damages or both for trespasses by the person in trespass occurring before service of the Notice of Trespass and Order to Comply or before the completion of any cure period provided in the Notice of Trespass and Order to Comply.</text>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.130</num>
+        <num>24.10.1.140</num>
         <heading>Notice of Assessment of Penalty and Damages</heading>
         <para>
           <num>(a)</num>
@@ -3303,11 +3309,11 @@
           <text>The Notice of Assessment of Penalty and Damages shall specify:</text>
           <para>
             <num>(1)</num>
-            <text>the amount of any penalties assessed in accordance with <cite path="24.10.1.080">Section 24.10.1.080</cite> of this Act.</text>
+            <text>the amount of any penalties assessed in accordance with <cite path="24.10.1.090">Section 24.10.1.090</cite> of this Act.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>the amount of any damages assessed in accordance with <cite path="24.10.1.090">Section 24.10.1.090</cite> of this Act;</text>
+            <text>the amount of any damages assessed in accordance with <cite path="24.10.1.100">Section 24.10.1.100</cite> of this Act;</text>
           </para>
           <para>
             <num>(3)</num>
@@ -3319,7 +3325,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>advise the person identified therein of the appeals rights available under <cite path="24.10.1.160">Section 24.10.1.160</cite> of this Act.</text>
+            <text>advise the person identified therein of the appeals rights available under <cite path="24.10.1.170">Section 24.10.1.170</cite> of this Act.</text>
           </para>
         </para>
         <para>
@@ -3327,15 +3333,15 @@
           <text>The Notice of Assessment of Penalty and Damages must be served upon the person identified in the notice in accordance with the applicable lease, easement, right-of-way, or permit, if any.</text>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.140</num>
+        <num>24.10.1.150</num>
         <heading>Special Land Use License</heading>
         <para>
           <num>(a)</num>
-          <text>In lieu of imposing any penalties under <cite path="24.10.1.080">Section 24.10.1.080</cite> or damages under <cite path="24.10.1.090">Section 24.10.1.090</cite> of this Act, the Governor may grant a Special Land Use License to the person in trespass for a period not to exceed three (3) months to allow temporary use of Pueblo lands in the absence of a valid lease, easement, rights-of-way, or permit providing the person in trespass:</text>
+          <text>In lieu of imposing any penalties under <cite path="24.10.1.090">Section 24.10.1.090</cite> or damages under <cite path="24.10.1.100">Section 24.10.1.100</cite> of this Act, the Governor may grant a Special Land Use License to the person in trespass for a period not to exceed three (3) months to allow temporary use of Pueblo lands in the absence of a valid lease, easement, rights-of-way, or permit providing the person in trespass:</text>
           <para>
             <num>(1)</num>
             <text>has requested a Special Land Use License;</text>
@@ -3399,15 +3405,15 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.150</num>
+        <num>24.10.1.160</num>
         <heading>Payment of Penalties and Damages</heading>
         <para>
           <num>(a)</num>
-          <text>Penalties and damages assessed pursuant to <cite path="24.10.1.130">Section 24.10.1.130</cite> of this Act shall be due and payable upon receipt of Notice of Assessment of Penalty and Damages thereof and shall become delinquent thirty (30) days thereafter.</text>
+          <text>Penalties and damages assessed pursuant to <cite path="24.10.1.140">Section 24.10.1.140</cite> of this Act shall be due and payable upon receipt of Notice of Assessment of Penalty and Damages thereof and shall become delinquent thirty (30) days thereafter.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3422,11 +3428,11 @@
           <text>Monies collected through payment of assessments of penalties and damages, and any interest thereon, shall be deposited into such account as designated by the Tribal Council.</text>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.160</num>
+        <num>24.10.1.170</num>
         <heading>Appeals</heading>
         <para>
           <num>(a)</num>
@@ -3457,11 +3463,11 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.170</num>
+        <num>24.10.1.180</num>
         <heading>Hearing and Decision</heading>
         <para>
           <num>(a)</num>
@@ -3476,11 +3482,11 @@
           <text>The decision of the Governor regarding the appeal shall be final.</text>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.10.1.180</num>
+        <num>24.10.1.190</num>
         <heading>Enforcement of Lease, Easement, Right-of-Way or Permit</heading>
         <para>
           <num>(a)</num>
@@ -3499,35 +3505,35 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>24.10.1.190</num>
-        <heading>Judicial Enforcement</heading>
-        <text>The Governor may direct the tribal attorney to bring a civil action in any court of competent jurisdiction to enjoin a trespass or to obtain payment or enforcement of any assessment of damages or penalties, or for any other relief as may be authorized or allowed under any applicable law.</text>
-        <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
         <num>24.10.1.200</num>
-        <heading>Severability</heading>
-        <text>If any provision of this Act as enacted, or as later amended, or its application to any person or circumstance, is held invalid by a final judgment of a court of competent jurisdiction, then the invalidity shall not affect other provisions or applications of this Act that can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.</text>
+        <heading>Judicial Enforcement</heading>
+        <text>The Governor may direct the tribal attorney to bring a civil action in any court of competent jurisdiction to enjoin a trespass or to obtain payment or enforcement of any assessment of damages or penalties, or for any other relief as may be authorized or allowed under any applicable law.</text>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
         <num>24.10.1.210</num>
+        <heading>Severability</heading>
+        <text>If any provision of this Act as enacted, or as later amended, or its application to any person or circumstance, is held invalid by a final judgment of a court of competent jurisdiction, then the invalidity shall not affect other provisions or applications of this Act that can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.</text>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.220</num>
         <heading>Effective Date</heading>
         <text>This Act applies to any trespass occurring after the date the Council enacts this Act. The amendments supersede all prior laws and Act sections and shall be effective on the date of enactment.</text>
         <annotations>
-          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
-    <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law|24.10" type="History"/>
+    <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
