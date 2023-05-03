@@ -3602,7 +3602,8 @@
         </para>
         <para>
           <num>(d)</num>
-          <text><strong>Feral Cow:</strong> A feral cow of either sex and any age.</text>
+          <heading>Feral Cow:</heading>
+          <text>A feral cow of either sex and any age.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>

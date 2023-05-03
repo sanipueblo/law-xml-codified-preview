@@ -368,7 +368,8 @@
   <codify:insert path="11.5.1.120" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.5.1.120|(d)">
     <para>
       <num>(d)</num>
-      <text><strong>Feral Cow:</strong> A feral cow of either sex and any age.</text>
+      <heading>Feral Cow:</heading>
+      <text>A feral cow of either sex and any age.</text>
     </para>
   </codify:insert>
   <codify:replace path="11.5.1.130|(m)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.5.1.130|(m)">
