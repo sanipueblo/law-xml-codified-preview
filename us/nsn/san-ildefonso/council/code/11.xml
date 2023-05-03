@@ -3385,7 +3385,7 @@
       </annotations>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
       <section>
-        <num>11.5.1.1</num>
+        <num>11.5.1.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the Big Game Hunting Act ("Act").</text>
         <annotations>
@@ -3393,7 +3393,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.2</num>
+        <num>11.5.1.020</num>
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
@@ -3401,7 +3401,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>"Big game animals" means all deer and elk species.</text>
+          <text>“Big game animals” means all deer and elk species, and may include feral cattle.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -3425,46 +3425,51 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>"Firearm" means pistols, revolvers, rifles, shotguns and any device that is capable of being used as a weapon because it expels a projectile by some means of force.</text>
+          <text>“Feral cattle” means cattle without brands, ear tags or other signs of ownership.</text>
         </para>
         <para>
           <num>(i)</num>
-          <text>"Governor" means the Governor of the Pueblo de San Ildefonso or his or her designee.</text>
+          <text>"Firearm" means pistols, revolvers, rifles, shotguns and any device that is capable of being used as a weapon because it expels a projectile by some means of force.</text>
         </para>
         <para>
           <num>(j)</num>
-          <text>"Member" means a person enrolled in the Pueblo de San Ildefonso pursuant to the Governing Agreement and laws of the tribe governing enrollment.</text>
+          <text>"Governor" means the Governor of the Pueblo de San Ildefonso or his or her designee.</text>
         </para>
         <para>
           <num>(k)</num>
-          <text>"Open season" means the time during which a designated category of animals may be hunted or taken pursuant to provisions of this Act.</text>
+          <text>"Member" means a person enrolled in the Pueblo de San Ildefonso pursuant to the Governing Agreement and laws of the tribe governing enrollment.</text>
         </para>
         <para>
           <num>(l)</num>
-          <text>"Tribal Ranger" means a ranger in the Pueblo de San Ildefonso Parks and Wildlife Department.</text>
+          <text>"Open season" means the time during which a designated category of animals may be hunted or taken pursuant to provisions of this Act.</text>
         </para>
         <para>
           <num>(m)</num>
-          <text>"Possession" means on the hunter's person or in his/her immediate control.</text>
+          <text>"Tribal Ranger" means a ranger in the Pueblo de San Ildefonso Parks and Wildlife Department.</text>
         </para>
         <para>
           <num>(n)</num>
-          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+          <text>"Possession" means on the hunter's person or in his/her immediate control.</text>
         </para>
         <para>
           <num>(o)</num>
-          <text>"Pueblo lands" means all lands and interests in land within the exterior boundaries of the Pueblo and any additional lands acquired by the Pueblo. Also includes land assignments, community property areas, and public rights-of-way.</text>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
         </para>
         <para>
           <num>(p)</num>
+          <text>"Pueblo lands" means all lands and interests in land within the exterior boundaries of the Pueblo and any additional lands acquired by the Pueblo. Also includes land assignments, community property areas, and public rights-of-way.</text>
+        </para>
+        <para>
+          <num>(q)</num>
           <text>"Sell" means to offer or possess for sale, barter, exchange or trade, or the act of selling, bartering, exchanging or trading. Sharing of game meat with other members of the Pueblo to avoid spoilage is permitted.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.5.1.3</num>
+        <num>11.5.1.030</num>
         <heading>Purpose</heading>
         <text>The Purpose of the Act is to regulate the harvesting of wildlife on Pueblo lands to ensure that hunting is conducted in a manner that is safe to those persons hunting and that wildlife is managed at sustainable levels.</text>
         <annotations>
@@ -3472,7 +3477,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.4</num>
+        <num>11.5.1.040</num>
         <heading>Findings</heading>
         <text>The Council hereby finds and declares that:</text>
         <para>
@@ -3488,7 +3493,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.5</num>
+        <num>11.5.1.050</num>
         <heading>Hunting License Required</heading>
         <para>
           <num>(a)</num>
@@ -3523,7 +3528,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.6</num>
+        <num>11.5.1.060</num>
         <heading>Traditional Hunts</heading>
         <text>Nothing in this Act shall prohibit the Governor from authorizing, upon the request of traditional Pueblo leaders, traditional hunting on Pueblo lands. Members participating in traditional hunts shall be exempt from the hunting license requirements established in this Act for the duration of traditional hunts.</text>
         <annotations>
@@ -3531,7 +3536,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.7</num>
+        <num>11.5.1.070</num>
         <heading>Hunting by Non-Members</heading>
         <text>Only enrolled members of the Pueblo de San Ildefonso are eligible to possess a Pueblo Hunting License and hunt within the jurisdiction of the Pueblo.</text>
         <annotations>
@@ -3539,7 +3544,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.8</num>
+        <num>11.5.1.080</num>
         <heading>Designation of Hunting Areas</heading>
         <para>
           <num>(a)</num>
@@ -3554,7 +3559,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.9</num>
+        <num>11.5.1.090</num>
         <heading>Open Season for Big Game Hunt</heading>
         <text>The Governor shall, by proclamation, establish open and closed seasons for the killing or taking of all kinds of big game animals and to change such open seasons from year to year and may fix different seasons for different types of hunts and hunting areas within the Pueblo.</text>
         <annotations>
@@ -3562,7 +3567,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.10</num>
+        <num>11.5.1.100</num>
         <heading>Reporting Requirements</heading>
         <text>Members must report their kill to the Director of the Natural Resource Department, or his designee, within five calendar days after the date on which an animal was taken.</text>
         <annotations>
@@ -3570,7 +3575,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.11</num>
+        <num>11.5.1.110</num>
         <heading>Bag Limits</heading>
         <text>The Governor shall, by proclamation, establish bag limits covering all big game animals and the numbers thereof which may be killed or taken by any one person during any one day or during any one open season. The Governor may also authorize or prohibit the killing or taking of any game animals of any kind or sex.</text>
         <annotations>
@@ -3578,7 +3583,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.12</num>
+        <num>11.5.1.120</num>
         <heading>Legal Game Species and Sex</heading>
         <para>
           <num>(a)</num>
@@ -3595,17 +3600,22 @@
           <heading>Cow Elk:</heading>
           <text>A cow elk is any female, antlerless, elk.</text>
         </para>
+        <para>
+          <num>(d)</num>
+          <text><strong>Feral Cow:</strong> A feral cow of either sex and any age.</text>
+        </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.5.1.13</num>
+        <num>11.5.1.130</num>
         <heading>Prohibited Activities</heading>
         <text>The following activities are declared unlawful, thereby subjecting violators to a civil fine or assessment, and are prohibited on Pueblo lands:</text>
         <para>
           <num>(a)</num>
-          <text>Hunting without a license: Any person who hunts on Pueblo land without having possession of a valid Pueblo Hunting License in accordance with Section 1.5 for the game species, and date(s) in question shall have violated this Act and upon conviction, shall be assessed a civil fine of $300.00.</text>
+          <text>Hunting without a license: Any person who hunts on Pueblo land without having possession of a valid Pueblo Hunting License in accordance with Section 11.5.1.050 for the game species, and date(s) in question shall have violated this Act and upon conviction, shall be assessed a civil fine of $300.00.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3633,12 +3643,11 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>Hunting in Closed Areas: Any person who hunts or takes an animal in an area of the Pueblo that is closed to hunting of big game animals or is not specifically</text>
-          <text>designated for hunting shall have violated this Act and upon conviction, shall be assessed a fine of $250.00.</text>
+          <text>Hunting in Closed Areas: Any person who hunts or takes an animal in an area of the Pueblo that is closed to hunting of big game animals or is not specifically designated for hunting shall have violated this Act and upon conviction, shall be assessed a fine of $250.00.</text>
         </para>
         <para>
           <num>(i)</num>
-          <text>Bag Limits: Any person who exceeds bag limits established in accordance with Section 11.5.1.11 of this Act shall have violated this Act and upon conviction, shall be assessed a fine of $500.00.</text>
+          <text>Bag Limits: Any person who exceeds bag limits established in accordance with Section 11.5.1.110 of this Act shall have violated this Act and upon conviction, shall be assessed a fine of $500.00.</text>
         </para>
         <para>
           <num>(j)</num>
@@ -3646,7 +3655,7 @@
         </para>
         <para>
           <num>(k)</num>
-          <text>Hunting or Possessing Game Out of Season: Any person, except as authorized by the Governor, who hunts, kills, wounds or otherwise takes, captures or has in his possession any game animal on Pueblo lands when the season has not been declared open in accordance with Section 1.9 shall have violated this Act and upon conviction, shall be assessed a fine of $200.00.</text>
+          <text>Hunting or Possessing Game Out of Season: Any person, except as authorized by the Governor, who hunts, kills, wounds or otherwise takes, captures or has in his possession any game animal on Pueblo lands when the season has not been declared open in accordance with Section 11.1.5.090 shall have violated this Act and upon conviction, shall be assessed a fine of $200.00.</text>
         </para>
         <para>
           <num>(l)</num>
@@ -3654,22 +3663,24 @@
         </para>
         <para>
           <num>(m)</num>
-          <text>Interference with Tribal Ranger: Any person who disobeys or disregards a direct order of, or interferes with a Tribal Ranger, his designee, or police officer while performing his or her duties under this Act shall have violated this Act and upon conviction, shall be assessed a fine of $300.</text>
+          <text>Interference with Tribal Ranger: Any person who disobeys or disregards a direct order of, or interferes with a Tribal Ranger or other tribal official while performing his or her duties under this Act shall have violated this Act and upon conviction, shall be assessed a fine of $300.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.5.1.14</num>
+        <num>11.5.1.140</num>
         <heading>Forfeitures of Sporting Arms</heading>
-        <text>Sporting Arms may be seized by the Pueblo and forfeited if they are used to take or attempt to take game in violation of this Act. Sporting Arms may be confiscated at the scene. Upon confiscation, Sporting Arms shall be transported to the Department of Natural Resources for receipt and retention pursuant to a procedure to be prescribed by the Director. A receipt shall be issued to the violator with a description of the Sporting Arm and date. Any Sporting Arm confiscated is subject to forfeiture upon conviction.</text>
+        <text>Sporting Arms may be seized by the Pueblo and forfeited if they are used to take or attempt to take game in violation of this Act. Sporting Arms may be confiscated at the scene. Upon confiscation, Sporting Arms shall be transported to the Department of Natural Resources for receipt and retention pursuant to a procedure to be prescribed by the Director. A receipt shall be issued to the violator with a description of the Sporting Arm and date. Any Sporting Arms confiscated are subject to forfeiture upon conviction.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.5.1.15</num>
+        <num>11.5.1.150</num>
         <heading>Additional Penalties</heading>
         <para>
           <num>(a)</num>
@@ -3688,15 +3699,16 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.16</num>
+        <num>11.5.1.160</num>
         <heading>Subject Matter Jurisdiction Conferred to Tribal Court</heading>
-        <text>The Pueblo de San Ildefonso Tribal Court shall have subject matter jurisdiction to adjudicate all issues of law and fact, and to enter decrees appropriate to such jurisdiction, pertaining to civil proceedings on complaints filed by the Pueblo pursuant to this Act.</text>
+        <text>The Pueblo de San Ildefonso Tribal Court shall have subject matter jurisdiction to adjudicate all issues of law and fact, and to enter decrees appropriate to such jurisdiction, pertaining to civil proceedings on complaints filed by the Department of Natural Resources pursuant to this Act.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>11.5.1.17</num>
+        <num>11.5.1.170</num>
         <heading>Effective Date</heading>
         <text>This Act shall take effect immediately upon its enactment by resolution of the Pueblo de San Ildefonso Tribal Council.</text>
         <annotations>
@@ -3704,7 +3716,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.18</num>
+        <num>11.5.1.180</num>
         <heading>Repeal of Inconsistent Code Provisions.</heading>
         <text>Any and all Tribal Council resolutions or provisions in the Pueblo de San Ildefonso Law and Order code which conflict in any way with the provisions of this Act are hereby repealed to the extent that they are inconsistent with or conflict with or are contrary to the spirit and/or purpose of this Act.</text>
         <annotations>
@@ -3712,7 +3724,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.19</num>
+        <num>11.5.1.190</num>
         <heading>Severability</heading>
         <text>If any provision of this Act is found to be unconstitutional or unlawful by the Pueblo de San Ildefonso Tribal Courts or Federal Courts, such provision(s) shall be stricken and the remainder of this Act shall continue in full force and effect.</text>
         <annotations>
@@ -3720,7 +3732,7 @@
         </annotations>
       </section>
       <section>
-        <num>11.5.1.20</num>
+        <num>11.5.1.200</num>
         <heading>Amendment</heading>
         <text>The Council may amend this Act upon majority vote of the Council</text>
         <annotations>
