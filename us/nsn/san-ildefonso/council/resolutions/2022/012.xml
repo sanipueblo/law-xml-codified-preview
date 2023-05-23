@@ -273,17 +273,21 @@
       <num>24.11</num>
       <heading>Land Use Application Fee</heading>
       <container>
-        <num>24.11.1</num>
-        <heading>Short Title</heading>
         <prefix>Part</prefix>
-        <text>This enactment shall be known as the "LAND USE APPLICATION FEE ACT OF 2022" ("Act").</text>
+        <num>24.11.1</num>
+        <heading>LAND USE APPLICATION FEE ACT OF 2022</heading>
         <section>
           <num>24.11.1.010</num>
+          <heading>Short Title</heading>
+          <text>This enactment shall be known as the "LAND USE APPLICATION FEE ACT OF 2022" ("Act").</text>
+        </section>
+        <section>
+          <num>24.11.1.020</num>
           <heading>Purpose</heading>
           <text>The purpose of this Act is to authorize a Land Use Application Fee to be paid by an outside party who requests to use Pueblo de San Ildefonso ("Pueblo") lands for a business purpose to cover the Pueblo's costs to review and evaluate an application and to negotiate a new or renewed right-of-way, lease, permit or other land encumbrance.</text>
         </section>
         <section>
-          <num>24.11.1.020</num>
+          <num>24.11.1.030</num>
           <heading>Findings</heading>
           <para>
             <num>(a)</num>
@@ -323,7 +327,7 @@
           </para>
         </section>
         <section>
-          <num>24.11.1.030</num>
+          <num>24.11.1.040</num>
           <heading>Land Use Application Fee</heading>
           <para>
             <num>(a)</num>
@@ -375,12 +379,12 @@
           </para>
         </section>
         <section>
-          <num>24.11.1.040</num>
+          <num>24.11.1.050</num>
           <heading>Authorization</heading>
           <text>The Governor or his designee is authorized to take all actions as necessary and appropriate to carry out the purposes and intent of the Act.</text>
         </section>
         <section>
-          <num>24.11.1.050</num>
+          <num>24.11.1.060</num>
           <heading>Effective Date</heading>
           <text>The requirement for the payment of a Land Use Application Fee shall be effective as of the date the Act is approved by the Council and shall apply to all applications for a new or renewed right-of-way, lease, permit or other land encumbrance submitted to the Pueblo after the effective date of the Act.</text>
         </section>

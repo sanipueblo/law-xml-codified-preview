@@ -749,13 +749,13 @@
     </container>
     <codify:insert doc="Pueblo de San Ildefonso Code" path="24" after="24.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.10.1.010">
       <container>
+        <prefix>Chapter</prefix>
         <num>24.10</num>
         <heading>Civil Trespass</heading>
-        <prefix>Chapter</prefix>
         <container>
+          <prefix>Part</prefix>
           <num>24.10.1</num>
           <heading>Civil Trespass Act of 2022</heading>
-          <prefix>Part</prefix>
           <section>
             <num>24.10.1.010</num>
             <heading>Short Title</heading>
