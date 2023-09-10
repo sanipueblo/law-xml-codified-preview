@@ -782,7 +782,7 @@
           </para>
         </section>
         <section>
-          <codify:insert path="5.1.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.9.065"/>
+          <codify:insert path="5.1.9" after="5.1.9.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.9.065"/>
           <num codify:value="5.1.9.065">7</num>
           <heading>Posting and Notice of Election Results.</heading>
           <para>

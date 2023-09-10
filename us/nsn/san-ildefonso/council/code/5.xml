@@ -634,6 +634,27 @@
         </annotations>
       </section>
       <section>
+        <num>5.1.9.065</num>
+        <heading>Posting and Notice of Election Results.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The unofficial results of an Election shall be posted at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations at the earliest possible time after the tallying of the votes. The Election Commission shall notify the Governor and Lieutenant Governor of the unofficial results.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Election Commission shall certify the election results as "official" at the end of the election challenge period if no challenge was properly and timely filed, or at the completion of the election challenge appeal process. The Election Commission shall post the official election results at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations, along with notice to the Governor and Lieutenant Governor, at the earliest possible time after the end of the challenge period or the completion of the challenge appeal process.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In the event of a recount, the Election Commission shall post the results of the recount of ballots at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations, along with notice to the Governor and Lieutenant Governor.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
         <num>5.1.9.070</num>
         <heading>Tie Votes.</heading>
         <text>A tie vote for candidates in any Election shall be decided by a game of chance administered by the Election Commission at the earliest possible time after the election upon notice to the candidates, with notice posted at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public places. This does not prevent the tied candidates from participating in the game of chance immediately following the vote count if both candidates are available and agree to conduct the tie-breaker at that time.  In such instance, posting of notice shall not be required.</text>
@@ -687,27 +708,6 @@
         <num>5.1.9.120</num>
         <heading>Other Matters Decided by the Election Commission.</heading>
         <text>The Election Commission shall control all aspects of elections conducted by the Pueblo regardless of any Federal or State laws.  Any other election matters not specifically addressed in this law shall be decided by the Election Commission.  The decision of the Election Commission shall be final.</text>
-        <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.1.9.065</num>
-        <heading>Posting and Notice of Election Results.</heading>
-        <para>
-          <num>(a)</num>
-          <text>The unofficial results of an Election shall be posted at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations at the earliest possible time after the tallying of the votes. The Election Commission shall notify the Governor and Lieutenant Governor of the unofficial results.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The Election Commission shall certify the election results as "official" at the end of the election challenge period if no challenge was properly and timely filed, or at the completion of the election challenge appeal process. The Election Commission shall post the official election results at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations, along with notice to the Governor and Lieutenant Governor, at the earliest possible time after the end of the challenge period or the completion of the challenge appeal process.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>In the event of a recount, the Election Commission shall post the results of the recount of ballots at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations, along with notice to the Governor and Lieutenant Governor.</text>
-        </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
