@@ -19,33 +19,44 @@
       <section>
         <num>5.1.1.010</num>
         <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
         <para>
           <num>(a)</num>
-          <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+          <text>the Pueblo's Election Law governs the scope and process for tribal elections.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The voters of the Pueblo approved a Governing Agreement ("Agreement") for the Pueblo on November 19, 2011, and the Bureau of Indian Affairs approved the Agreement on December 21, 2011 pursuant to Federal law; and</text>
+          <text>the Pueblo de San Ildefonso Election Commission ("Election Commission") has determined a need to establish absentee voting in situations where students and active military personnel will be out of state at the time of a tribal election, and for homebound tribal elders who will not be able to physically appear at the tribal polling place.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>The Pueblo Council ("Council") is the duly constituted Legislative body acting for the Pueblo; and</text>
+          <text>the Election Commission has proposed changes to the Election Law to allow for absentee voting, including changes to some deadlines to accommodate timely issuance and return of absentee ballots, as shown on Attachment A hereto.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>The Council finds the need to amend the Pueblo's Election Law to address additional election issues and to update the existing law.</text>
+          <text>the Council has reviewed the proposed changes to the Election Law and determines it is in the best interest of the Pueblo to authorize amendment of the Election Law to allow for absentee voting in limited situations.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
         <num>5.1.1.020</num>
-        <heading>The Council hereby enacts the attached amendments to the "Election Law" as follows:</heading>
+        <heading>Council Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Election Law shall be amended to allow for absentee voting in tribal elections in limited situations as shown in Attachment A hereto.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Election Commission is authorized to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+        </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
     </container>
@@ -56,10 +67,10 @@
       <section>
         <num>5.1.2.010</num>
         <heading>Election Commission.</heading>
-        <text>The Election Commission shall be established in accordance with ELECTIONS AND VOTING, SECTION 2.  ELECTION COMMISSION (a) of the Agreement which states:</text>
+        <text>The Election Commission shall be established in accordance with ELECTIONS AND VOTING, SECTION 2. ELECTION COMMISSION (a) of the Agreement which states:</text>
         <include>
           <text>
-            <strong>There shall be an Election Commission comprised of five Commissioners with three Commissioners elected by the people, one Commissioner selected by the Governor, and one Commissioner selected by the Council.  The term of office for Election Commissioners shall be four years.  Whenever a term expires for the seat of an appointed Commissioner, the Governor or the Council shall appoint a Commissioner within fifteen days after being sworn into office.  Election Commissioners shall not be eligible to be a candidate for Governor or Council Representative.</strong>
+            <strong>There shall be an Election Commission comprised of five Commissioners with three Commissioners elected by the people, one Commissioner selected by the Governor, and one Commissioner selected by the Council. The term of office for Election Commissioners shall be four years. Whenever a term expires for the seat of an appointed Commissioner, the Governor or the Council shall appoint a Commissioner within fifteen days after being sworn into office. Election Commissioners shall not be eligible to be a candidate for Governor or Council Representative.</strong>
           </text>
         </include>
         <para>
@@ -75,13 +86,16 @@
           <num>(c)</num>
           <heading>Compensation.</heading>
           <text>The Commissioners shall be compensated according to the Agreement at ELECTIONS AND VOTING, Section 2. ELECTION COMMISISON (e) which states:</text>
-          <text>
-            <strong>The Election Commission shall be paid a fair compensation as established by the Council by law.</strong>
-          </text>
+          <include>
+            <text>
+              <strong>The Election Commission shall be paid a fair compensation as established by the Council by law.</strong>
+            </text>
+          </include>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
@@ -111,43 +125,47 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>overseeing election day activities at the polling place(s),</text>
+            <text>receiving and processing absentee ballot requests,</text>
           </para>
           <para>
             <num>(5)</num>
-            <text>confirming voter qualifications and determining voter challenges,</text>
+            <text>overseeing election day activities at the polling place(s),</text>
           </para>
           <para>
             <num>(6)</num>
-            <text>assisting voters with disabilities and/or language difficulties at the polling place(s),</text>
+            <text>confirming voter qualifications and determining voter challenges,</text>
           </para>
           <para>
             <num>(7)</num>
-            <text>collecting and counting ballots,</text>
+            <text>assisting voters with disabilities and/or language difficulties at the polling place(s),</text>
           </para>
           <para>
             <num>(8)</num>
-            <text>certifying and posting election results,</text>
+            <text>collecting and counting ballots,</text>
           </para>
           <para>
             <num>(9)</num>
-            <text>addressing any election challenges,</text>
+            <text>certifying and posting election results,</text>
           </para>
           <para>
             <num>(10)</num>
-            <text>enforcing election laws and regulations,</text>
+            <text>addressing any election challenges,</text>
           </para>
           <para>
             <num>(11)</num>
-            <text>developing such policies and procedures as necessary,</text>
+            <text>enforcing election laws and regulations,</text>
           </para>
           <para>
             <num>(12)</num>
-            <text>appointing and swearing in Election Commission poll watchers and bailiffs if circumstances require, and</text>
+            <text>adopting policies and procedures as necessary; provided, that: (i) any proposed policies and procedures shall be posted for public comment, (2) any public comments shall be reviewed and considered, and (3) any final policies and procedures shall be published and made available for public inspection,</text>
           </para>
           <para>
             <num>(13)</num>
-            <text>taking such other actions as necessary to insure all elections and related activities are conducted properly, efficiently, fairly and impartially.</text>
+            <text>appointing and swearing in Election Commission poll watchers and bailiffs if circumstances require, and</text>
+          </para>
+          <para>
+            <num>(14)</num>
+            <text>taking such other actions as necessary to ensure all elections and related activities are conducted properly, efficiently, fairly and impartially.</text>
           </para>
         </para>
         <para>
@@ -155,17 +173,18 @@
           <heading>Administrative Duties and Responsibilities.</heading>
           <para>
             <num>(1)</num>
-            <heading>Budget.</heading>
+            <heading>Budget</heading>
             <text>The Election Commission shall work with the Governor and Council Budget Committee to propose an operating budget for the Election Commission to be included in the annual budget or a budget modification.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>The Election Commission shall prepare all invoices and requisitions for all costs and expenses, and shall ensure supporting documentation is included. The Election Commission shall designate a Commissioner as signatory authority for invoicing on behalf of the Commission.  By affixing his or her signature to an invoice, the designated Commissioner is confirming that the payment, activity, or materials requested are within the approved Election Commission budget.</text>
+            <text>The Election Commission shall prepare all invoices and requisitions for all costs and expenses and shall ensure supporting documentation is included. The Election Commission shall designate a Commissioner as signatory authority for invoicing on behalf of the Commission.  By affixing his or her signature to an invoice, the designated Commissioner is confirming that the payment, activity, or materials requested are within the approved Election Commission budget.</text>
           </para>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
@@ -209,29 +228,26 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>The results of the Primary Election shall be posted no later than three (3) days after the close of counting ballots.</text>
-          </para>
-          <para>
-            <num>(4)</num>
             <text>A Primary Election shall be held in all election cycles where a Primary Election is required, even if the number of candidates nominated in the Primary Election is less than the number of candidates who will appear on the ballot in the General Election.</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(4)</num>
             <text>No Primary Election shall be held for Special Elections.</text>
-          </para>
-          <para>
-            <num>(6)</num>
-            <text>In a Special Election where there is only one vacancy and there is only one (1) candidate, an election shall be held regardless.</text>
           </para>
         </para>
         <para>
           <num>(d)</num>
           <heading>Special Elections.</heading>
           <text>All elections other than a General Election, or a Primary Election, shall be considered Special Elections, including elections to fill vacancies, Recall elections, and Referendum elections.</text>
+          <para>
+            <num>(1)</num>
+            <text>In a Special Election where there is only one (1) vacancy and there is only one (1) candidate, an election shall be held regardless.</text>
+          </para>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
@@ -264,11 +280,11 @@
           <heading>Nomination Period.</heading>
           <para>
             <num>(1)</num>
-            <text>Nominations of persons seeking elective office shall be accepted by the Election Commission beginning September 1<sup>st</sup> each year.  Nominations for elective office shall be closed on September 15<sup>th</sup> of each year.</text>
+            <text>Nominations of persons seeking elective office shall be accepted by the Election Commission beginning September 1<sup>st</sup> each year.  Nominations for elective office shall be closed on September 6<sup>th</sup> of each year.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>The Election Commission shall establish and post the dates and deadlines for acceptance of nominations of persons seeking elective office in Special Elections to fill vacancies.</text>
+            <text>The Election Commission shall establish and publicly post the dates and deadlines for acceptance of nominations of persons seeking elective office in Special Elections to fill vacancies.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -284,7 +300,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>From the date of the posting of the preliminary list of candidates through September 30<sup>th</sup>, the Election Commission shall accept any written challenges to the qualifications of any candidate or candidates on the preliminary list of candidates.  The Election Commission shall make written determinations on any such candidate challenges no later than October 10<sup>th</sup> of each year.  The Election Commission shall post the final list of candidates no later than October 15<sup>th</sup> of each year.</text>
+            <text>From the date of the posting of the preliminary list of candidates through September 12<sup>th</sup>, the Election Commission shall accept any written challenges to the qualifications of any candidate or candidates on the preliminary list of candidates.  The Election Commission shall make written determinations on any such candidate challenges no later than September 14<sup>th</sup> of each year.  The Election Commission shall post the final list of candidates no later than September 15<sup>th</sup> of each year.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -294,6 +310,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
@@ -312,7 +329,7 @@
               <strong>GOVERNOR, SECTION 2.  QUALIFICATIONS.</strong>
             </text>
             <text>
-              <strong>Candidates for Governor shall be enrolled Members of the Pueblo, and be at least thirty years old on the deadline date for filing candidacy.  Once a candidate is sworn in as Governor, the Governor shall immediately establish residency within the exterior boundaries of the Pueblo as defined at the time of the adoption of this Agreement.</strong>
+              <strong>Candidates for Governor shall be enrolled Members of the Pueblo, and be at least thirty years old on the deadline date for filing candidacy.  Once a candidate is sworn in as Governor, the Governor shall immediately establish residency within the exterior boundaries of the  as defined at the time of the adoption of this Agreement.</strong>
             </text>
           </include>
         </para>
@@ -324,13 +341,14 @@
               <strong>THE GOVERNMENT SECTION 3 QUALIFICATIONS</strong>
             </text>
             <text>
-              <strong>Candidates for Council Representatives shall be enrolled Members of the Pueblo, and at least twenty-five years old on the deadline date for filing candidacy.  Once a candidate is sworn in as a Representative, the Representative shall have thirty days to establish residency within the exterior boundaries of the Pueblo as defined at the time of adoption of this Agreement.</strong>
+              <strong>Candidates for Council Representatives shall be enrolled Members of the Pueblo, and at least twenty-five years old on the deadline date for filing candidacy.  Once a candidate is sworn in as a Representative, the Representative shall have thirty days to establish residency within the exterior boundaries of the  as defined at the time of adoption of this Agreement.</strong>
             </text>
           </include>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
@@ -346,10 +364,7 @@
           <text>The voting age for any election shall be set in accordance with Section 1, Voting of the Agreement which states:</text>
           <include>
             <text>
-              <strong>ELECTIONS AND VOTING.  SECTION 1.  VOTING.</strong>
-            </text>
-            <text>
-              <strong>All enrolled Members of the Pueblo eighteen years of age or older shall have the right to vote.</strong>
+              <strong>ELECTIONS AND VOTING.  SECTION 1.  VOTING.  All enrolled Members of the  eighteen years of age or older shall have the right to vote.</strong>
             </text>
           </include>
         </para>
@@ -360,6 +375,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
@@ -376,6 +392,62 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>5.1.6.030</num>
+        <heading>Voting by Absentee Ballot.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Eligibility.</heading>
+          <text>Any eligible voter who meets at least one of the following requirements shall be entitled to vote in any election by absentee ballot:</text>
+          <para>
+            <num>(1)</num>
+            <text>The voter is age fifty-five (55) or older and is homebound and unable to appear physically at the polling place on the date of the election; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The voter is an out-of-state college student or in the military and unable to 
+                appear physically at the polling place on the date of the election.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Requesting An Absentee Ballot.</heading>
+          <para>
+            <num>(1)</num>
+            <text>The eligible voter must request an absentee ballot by submitting a written request, either in the form of a letter or completed Absentee Ballot Request form, to the Election Commission. All requests must be signed by the requesting voter. The voter may be asked for proof they meet the eligibility requirements.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The voter may request an absentee ballot by submitting the written request to the Election Commission either by hand-delivery to the Election Commission office, mail to the Election Commission's listed address, or emailing a scanned request to the Election Commission's listed email address.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>All absentee ballot requests must be received by the Election Commission no later than 4:30 p.m. on the 15th day before the date of the Election. Requests that are not received by the deadline or that do not meet any of the requirements will not be accepted or processed. It is the sole responsibility of the requesting voter to ensure that the voter's mailing address is correct on their written request.</text>
+            <para>
+              <num>(A)</num>
+              <text>In the event of a Special Election to fill a vacancy in an elected position, an eligible voter may request an absentee ballot up to 12:00 noon the day before the Special Election. However, due to the short timeframe of the Special Election, the Election Commission cannot guarantee that the requesting voter will timely receive the absentee ballot or that the returned ballot will be received by the Election Commission by the deadline and voters are encouraged to submit absentee ballot requests as early as possible.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The voter shall complete the absentee ballot and return the absentee ballot in accordance with the stated instructions. Ballots may be returned by U.S. mail, private delivery service, or by hand-delivery to the Election Commission office.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The deadline for receipt of cast absentee ballots shall be 4:30p.m. on the day before the election.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Absentee ballots that do not bear the voter's signature or are not properly enclosed in the envelopes or do not meet the requirements to cast an absentee ballot or are received after the stated deadline shall not be opened, processed or counted.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
@@ -393,6 +465,10 @@
         <para>
           <num>(b)</num>
           <text>The Election Commission shall prepare an official ballot for every election.</text>
+          <para>
+            <num>(1)</num>
+            <text>The Election Commission shall ensure that absentee ballots are differentiated from regular ballots and provide space on the ballot to mark the date of issuance to the eligible voter.</text>
+          </para>
         </para>
         <para>
           <num>(c)</num>
@@ -400,11 +476,12 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>In referendum elections, the Election Commission shall prepare a ballot that includes the language from the referendum petition on the challenged law.</text>
+          <text>In Referendum Elections, the Election Commission shall prepare a ballot that includes the language from the referendum petition on the challenged law.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
@@ -427,9 +504,26 @@
           <num>(c)</num>
           <text>The Election Commission shall publicly post such dates and deadlines as necessary to hold the First Election within the two (2) month period required under the Agreement.</text>
         </para>
+        <section>
+          <num>5.1.8.010</num>
+          <heading>Notice of Election.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Election Commission shall post a notice at the polling place and in other public locations announcing the date of the election, the location of the polling place, and other pertinent information at least ninety (90) days before the General Election.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Election Commission shall publicly post at the polling place and in other public locations a notice announcing the dates for Special Elections, the location and other pertinent information for Special Elections.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Election Commission shall publicly post such dates and deadlines as necessary to hold the First Election within the two (2) month period required under the Agreement.</text>
+          </para>
+        </section>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
@@ -444,6 +538,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
@@ -453,15 +548,17 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
         <num>5.1.9.030</num>
         <heading>Fifty (50) Foot Limit.</heading>
-        <text>No persons except members of the Election Commission shall be allowed to remain within fifty (50) feet of a polling place, except while actually voting.</text>
+        <text>No persons except members of the Election Commission shall be allowed to remain within fifty (50) feet of a polling place, except while actually voting.  No campaigning or placement of campaign materials shall be allowed within a fifty (50) foot perimeter around the polling place.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
@@ -471,6 +568,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
@@ -491,6 +589,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
@@ -498,28 +597,50 @@
         <heading>Counting the Ballots.</heading>
         <para>
           <num>(a)</num>
-          <text>At the close of the polls, the Election Commission shall count the votes as marked on the ballots.  At the end of the tally, the Election Commission shall determine the total votes cast for each candidate or issue.  These results shall be written down, together with the number of rejected ballots, and shall be certified by each member of the Election Commission by signing his or her name thereto.  The results shall be posted at the polling place and in other public locations.</text>
+          <text>At the close of the polls, the Election Commission shall count the votes as marked on the ballots, including absentee ballots. At the end of the tally of in-person vote results, the Election Commission shall count votes as marked on the absentee ballots in accordance with Section (b) below. After the in-person and absentee ballot vote tally, the Election Commission shall determine the total votes cast for each candidate or issue.  These unofficial results shall be written down, together with the number of spoiled, rejected and unused ballots, and shall be certified by each member of the Election Commission by signing his or her name thereto.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The tallying of the votes shall be open for public observation, but the public must remain at a distance of at least ten (10) feet from the Election Commissioners and the ballot box.  The public must remain quiet and in no way interfere with the orderly tallying of the ballots.  If order cannot be kept, the Election Commission shall halt the tallying until such time order has been restored.</text>
+          <heading>Counting Absentee Ballots</heading>
+          <para>
+            <num>(1)</num>
+            <text>The Election Commission shall verify the validity of each cast absentee ballot by reviewing the voter list and list of absentee voters that were issued an absentee ballot and other documents necessary to ensure that the voter cast only a single ballot in the election.</text>
+            <para>
+              <num>(A)</num>
+              <text>In the event that a voter casts more than one absentee ballot, the Election Commission shall reject the older absentee ballot.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>In the event that the voter has voted in-person at the polling place and also by absentee ballot, the in-person vote shall be counted and the absentee ballot shall be rejected.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Election Commission shall count the votes as marked on the absentee ballots and add to the total vote tally.</text>
+          </para>
         </para>
         <para>
           <num>(c)</num>
+          <text>The tallying of the votes shall be open for public observation, but the public must remain at a distance of at least ten (10) feet from the Election Commissioners and the ballot box.  The public must remain quiet and in no way interfere with the orderly tallying of the ballots.  If order cannot be kept, the Election Commission shall halt the tallying until such time order has been restored.</text>
+        </para>
+        <para>
+          <num>(d)</num>
           <text>At the end of the tally, the Election Commission shall place the counted ballots, any spoiled ballots and any rejected ballots, in the ballot box.  The ballot box shall be locked and sealed.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
         <num>5.1.9.070</num>
         <heading>Tie Votes.</heading>
-        <text>A tie vote for candidates in any Election shall be decided by a game of chance administered by the Election Commission.</text>
+        <text>A tie vote for candidates in any Election shall be decided by a game of chance administered by the Election Commission at the earliest possible time after the election upon notice to the candidates, with notice posted at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public places. This does not prevent the tied candidates from participating in the game of chance immediately following the vote count if both candidates are available and agree to conduct the tie-breaker at that time.  In such instance, posting of notice shall not be required.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
@@ -529,6 +650,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
@@ -538,6 +660,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
@@ -547,15 +670,17 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
         <num>5.1.9.110</num>
         <heading>Recounts.</heading>
-        <text>Any Candidate for elective office shall have the right to request a recount of the election results within three (3) days of the election.  Upon receipt of a request for a recount, the Election Commission shall promptly conduct a recount and shall post the results of such recount.</text>
+        <text>Any Candidate for elective office shall have the right to request a recount of the election results within three (3) days of the election.  Upon receipt of a written request for a recount, the Election Commission shall promptly conduct a recount and shall post the results of such recount in accordance with Section 7.C. above.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
@@ -565,6 +690,28 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>5.1.9.065</num>
+        <heading>Posting and Notice of Election Results.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The unofficial results of an Election shall be posted at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations at the earliest possible time after the tallying of the votes. The Election Commission shall notify the Governor and Lieutenant Governor of the unofficial results.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Election Commission shall certify the election results as "official" at the end of the election challenge period if no challenge was properly and timely filed, or at the completion of the election challenge appeal process. The Election Commission shall post the official election results at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations, along with notice to the Governor and Lieutenant Governor, at the earliest possible time after the end of the challenge period or the completion of the challenge appeal process.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In the event of a recount, the Election Commission shall post the results of the recount of ballots at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations, along with notice to the Governor and Lieutenant Governor.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
@@ -577,19 +724,109 @@
         <heading>Election Results Challenge Process.</heading>
         <para>
           <num>(a)</num>
-          <text>Any eligible voter of the Pueblo shall have the right to challenge the results of any election within three (3) days of the certification of the election by filing a written challenge with the Election Commission.</text>
+          <text>Any eligible voter of the Pueblo shall have the right to challenge the results of any election within three (3) days of the posting of the unofficial election results by filing a written challenge with the Election Commission.</text>
+          <para>
+            <num>(1)</num>
+            <text>A challenge must contain the following information:</text>
+            <para>
+              <num>(A)</num>
+              <text>The voter's name, address, telephone number and email address (if any);</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Sworn, notarized statement of facts alleged to show the violation or reason for the challenge that includes:</text>
+              <para>
+                <num>(i)</num>
+                <text>Section of Election Law that was violated;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Identity of individual(s) involved in alleged violation(s);</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>Date, time and location of violation(s);</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>Estimated number of votes affected by the alleged violation(s);</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>Name and telephone number of any witnesses to the alleged violation(s).</text>
+              </para>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Relief requested from the Election Commission.</text>
+            </para>
+          </para>
         </para>
         <para>
           <num>(b)</num>
           <text>The Election Commission shall make a determination on all election challenges within five (5) days of receipt of a challenge and the decision of the Election Commission shall be final for purposes of judicial review.</text>
+          <para>
+            <num>(1)</num>
+            <text>The following shall be used by the Election Commission when considering submitted complaints:</text>
+            <para>
+              <num>(A)</num>
+              <text>No official election shall be voided by decision of the Election Commission in response to a complaint unless the voter clearly demonstrates that:</text>
+              <para>
+                <num>(i)</num>
+                <text>violation(s) of the Election Law occurred; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>said violation(s) would have changed the outcome of the election.</text>
+              </para>
+            </para>
+          </para>
         </para>
         <para>
           <num>(c)</num>
-          <text>Any eligible voter of the Pueblo shall have the right to challenge a final determination made by the Election Commission on any election challenge by filing suit in the Courts of the Pueblo within five (5) days of the date of the decision of the Election Commission.  A decision on an election challenge made by the Supreme Court of the Pueblo shall be final and shall not be subject to any further review by any other person or entity.</text>
+          <text>Following receipt and review of a properly executed challenge and such other evidence before the Election Commission, the Election Commission shall issue findings:</text>
+          <para>
+            <num>(1)</num>
+            <text>To dismiss the challenge, or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>To acknowledge the merit of the challenge but to reaffirm the election in question, or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>To acknowledge the merit of the challenge and to void the election in question.</text>
+            <text>The Election Commission shall notify the voter of its decision and shall post the decision at appropriate public places.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If the voter who brought the challenge is not satisfied with the Election Commission's decision, he or she shall have the right to appeal the final decision made by the Election Commission by filing suit in the Trial Court of the Pueblo within five (5) days of the date of the decision of the Election Commission.  The voter may not submit any evidence that was not before the Election Commission. A decision on an election challenge made by the Supreme Court of the Pueblo shall be final and shall not be subject to any further review by any other person or entity.</text>
+          <para>
+            <num>(1)</num>
+            <text>A Court shall not overturn the decision of the Election Commission unless it is shown by clear and convincing evidence that the Petitioner (Voter) is clearly entitled to the relief requested because the Election Commission decision was:</text>
+            <para>
+              <num>(A)</num>
+              <text>arbitrary and capricious;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>an abuse of discretion;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>not supported by the evidence of record; or</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>contrary to the Pueblo's law.</text>
+            </para>
+          </para>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
@@ -633,6 +870,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
@@ -645,10 +883,10 @@
         <heading>Referendum Election Process.</heading>
         <para>
           <num>(a)</num>
-          <text>Referendum elections shall be conducted in accordance with the ELECTIONS AND VOTING provision SECTION 6.  REFERENDUM of the Agreement which states:</text>
+          <text>Referendum elections shall be conducted in accordance with the ELECTIONS AND VOTING provision SECTION 6. REFERENDUM of the Agreement which states:</text>
           <include>
             <text>
-              <strong>The people reserve the power to subject any law to a binding referendum election and the Election Commission shall hold a Referendum Election upon a petition signed by at least fifty percent (50%) of the voters.  A simple majority of the votes cast shall decide the outcome of the Referendum Election.</strong>
+              <strong>The people reserve the power to subject any law to a binding referendum election and the Election Commission shall hold a Referendum Election upon a petition signed by at least fifty percent (50%) of the voters. A simple majority of the votes cast shall decide the outcome of the Referendum Election.</strong>
             </text>
           </include>
         </para>
@@ -675,34 +913,91 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
       <num>5.1.13</num>
-      <heading>OATH OF OFFICE</heading>
+      <heading>ELECTIONS TO FILL VACANCIES<annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/></heading>
       <section>
         <num>5.1.13.010</num>
-        <heading>Oath of Office.</heading>
-        <text>After the Election Commission has certified the results of the election and the winners are announced, and any challenges are finally decided, a Justice or Judge shall administer the oath of office without delay.</text>
+        <heading>Special Election to Fill Vacancy.</heading>
+        <para>
+          <num>(a)</num>
+          <text>A Special Election shall be held in accordance with the ELECTIONS AND VOTING provision, Section 5. VACANCIES of the Agreement which states:</text>
+          <include>
+            <text>
+              <strong>The Election Commission shall certify all vacancies.  Vacancy shall result from removal, recall, physical incapacity, or any circumstance that makes holding office impossible for more than thirty (30) days.</strong>
+            </text>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A vacancy in an elected office shall also occur when the office holder voluntarily resigns from their position.  Such resignation makes holding the office impossible for more than thirty (30) days since the office holder who resigns intends to voluntarily leave their position from the point of resignation forward.</text>
+          <para>
+            <num>(1)</num>
+            <text>Proof of voluntary resignation is a written letter or email correspondence that is offered as the office holder's intent to leave their position.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>When an office holder voluntarily resigns, such resignation becomes effective immediately, and no formal acceptance by either the Council or Governor is necessary to make the resignation effective.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>When an office holder voluntarily resigns, the resigning office holder shall notify the Election Commission of the voluntary resignation, or the Council or Governor shall notify the Election Commission in the event the resigning office holder provides notice of their resignation to either the Council or Governor.</text>
+          </para>
+        </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>5.1.13.020</num>
+        <heading>Vacancy Certification and Election Process.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Election Commission shall certify all vacancies, regardless of how the vacancy occurred.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Election Commission shall call a Special Election to be held within thirty (30) days of the Election Commission's certification of the vacancy.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>5.1.13.030</num>
+        <heading>Special Provisions where Elected Official Causes Special Election and Runs as Candidate in Subsequent Special Election.</heading>
+        <para>
+          <num>(a)</num>
+          <text>In the event that an elected official voluntarily creates a vacancy in their position for any reason, and then submits their name and intent to run in the Special Election to be held to fill the vacancy caused by that elected official, that candidate shall pay an election fee equal to one-half (1/2) of the cost of the Special Election. Such election fee must be paid in full before the former elected official is placed on the list of candidates for the Special Election.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
       <num>5.1.14</num>
-      <heading>AMENDMENT AND SEVERABILITY</heading>
+      <heading>OATH OF OFFICE<annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/></heading>
       <section>
         <num>5.1.14.010</num>
-        <heading>Amendment.</heading>
-        <text>The Council may amend this law upon a majority vote of the Council in accordance with the requirements of the Agreement for making laws.  The Election Commission may submit to the Council suggested amendments to the law as deemed necessary.</text>
+        <heading>Oath of Office.</heading>
+        <text>After the Election Commission has certified the results of the election and the winners are announced, and any challenges are finally decided, a Justice or Judge shall administer the oath of office on January 2 at a location within the Pueblo's lands. An Acknowledgement of the Oath of Office form shall be signed by the candidate, Justice or Judge and the Commission Chair and retained by the Commission.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
       <section>
@@ -712,6 +1007,32 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>5.1.15</num>
+      <heading>AMENDMENT AND SEVERABILITY</heading>
+      <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
+      <section>
+        <num>5.1.15.010</num>
+        <heading>Amendment.</heading>
+        <text>The Council may amend this law upon a majority vote of the Council in accordance with the requirements of the Agreement for making laws.  The Election Commission may submit to the Council suggested amendments to the law as deemed necessary.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>5.1.15.020</num>
+        <heading>Severability.</heading>
+        <text>The provisions of this law are severable and if any part or provision shall be held void by any court of competent jurisdiction, the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this law.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law" type="History"/>
         </annotations>
       </section>
     </container>
