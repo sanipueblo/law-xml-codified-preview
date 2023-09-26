@@ -27,5 +27,4 @@
   <xi:include href="./003.xml"/>
   <xi:include href="./002.xml"/>
   <xi:include href="./001.xml"/>
-  <xi:include href="./attachments/index.xml"/>
 </collection>
