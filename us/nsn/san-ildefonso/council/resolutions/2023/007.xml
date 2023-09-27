@@ -287,7 +287,7 @@
         <text>The Council hereby amends Section 1.4 Authorization of Program Funds, Subsection (c) to read as follows:</text>
         <text>The Council hereby authorizes up to $500,000 of available American Rescue Plan Act funds for use by SIHA for HIP and ERP services.</text>
       </para>
-      <codify:replace doc="Pueblo de San Ildefonso Code" path="§15.1.11.040|(c)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.11.040|(c)">
+      <codify:replace doc="Pueblo de San Ildefonso Code" path="|15.1.11.040|(c)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.11.040|(c)">
         <para>
           <num>(c)</num>
           <text>The Council hereby authorizes up to $500,000 of available American Rescue Plan Act funds for use by SIHA for HIP and ERP services.</text>

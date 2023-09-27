@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R23-013" codify:doc="Pueblo de San Ildefonso Code" codify:path="2.3">
+  <num>SI-R23-013</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R23-013</heading>
+  <heading type="law">Act Approving the Installation of a Chromium Monitoring Well and Authorizing a Limited Access Agreement</heading>
+  <meta>
+    <effective>2023-08-31</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R23-013</citation>
+    </citations>
+    <history>
+      <adopted>2023-08-24</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 24th day of August, 2023, the following Resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the sovereign authority of the Pueblo is vested in its Council and Governor; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>hazardous materials used and produced at the Los Alamos National Laboratory ("LANL") facility, along with hazardous wastes generated because of site operations, have been released to the environment beginning in the 1940s; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>of imminent concern is a large chromium groundwater plume under LANL in the regional groundwater aquifer that is migrating to the south and southeast towards Pueblo lands; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 2014, in response to the New Mexico Environment Department ("NMED") requirement that the Department of Energy/National Nuclear Security Administration ("DOE/NNSA") address migration of chromium beyond the LANL boundary, the Pueblo and DOE/NNSA negotiated terms whereby DOE/NNSA was permitted to install and operate a monitoring well within the Pueblo's Sacred Area for the purpose of studying groundwater quality for a five-y ear period; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>that Limited Access Agreement for the well identified as SIMR-2 was renewed in 2020 for an additional five-year period to allow for continued monitoring of the chromium plume; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the NMED, the DOE/NNSA, the DOE Office of Environmental Management ("DOE/EM"), the entity responsible for addressing DOE legacy environmental matters, and the Pueblo have determined the need to install an additional monitoring well in the Pueblo's Sacred Area to provide critical data on the movement of the chromium plume; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the NMED, the DOE/NNSA, the DOE/EM, and the Pueblo have determined an appropriate location for the second monitoring well identified as SIMR-3 within the Pueblo's Sacred Area as shown on the map attached hereto as Exhibit A; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS</conjunction>
+      <text>the proposed location for the monitoring well is within a part of the Sacred Area that was previously evaluated and approved by a tribal cultural survey committee consisting of representatives from the North and South Kivas when determining the location of the SIMR-2 well; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has been briefed on the immediate need for a second monitoring well in the Sacred Area as the data from that well could determine future mitigation and remediation actions for the chromium plume, and the need for a Limited Access Agreement to permit the well on tribal lands and establish terms of use for the Pueblo's resources, including compensation for the use of the Pueblo's water during construction and operation of the well.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED THAT</conjunction>
+      <text>the Council hereby enacts the attached law entitled the "ACT APPROVING THE INSTALLATION OF A CHROMIUM MONITORING WELL AND AUTHORIZING A LIMITED ACCESS AGREEMENT"; and,</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the Pueblo de San Ildefonso Council hereby authorizes and</text>
+      <text>directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u> August 24</u>, 2023, at a meeting with a vote of <u>8</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>2</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>________________________________</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R23-013</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>24</u><sup><u>th</u></sup> day of <u>August</u>, 2023, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u> 31</u><sup><u>st</u></sup> day of <u> August</u>, 2023</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2023.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2023, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.17">
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.17</num>
+      <heading>Act Approving the Installation of a Chromium Monitoring Well and Authorizing a Limited Access Agreement</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-013"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="2.3.17"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">ACT APPROVING THE INSTALLATION OF A CHROMIUM MONITORING WELL AND AUTHORIZING A LIMITED ACCESS AGREEMENT</heading>
+    <section>
+      <codify:insert num-value="2.3.17.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.17.010"/>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as "ACT APPROVING THE INSTALLATION OF A CHROMIUM MONITORING WELL AND AUTHORIZING A LIMITED ACCESS AGREEMENT" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert num-value="2.3.17.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.17.020"/>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to approve the installation of a chromium monitoring well in the Pueblo's Sacred Area, approve the proposed location of the monitoring well and to authorize the negotiation of a Limited Access Agreement to access the Pueblo's lands during construction and operation of the monitoring well and to provide terms for use of the Pueblo's resources.</text>
+    </section>
+    <section>
+      <codify:insert num-value="2.3.17.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.17.030"/>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>hazardous materials used and produced at the Los Alamos National Laboratory ("LANL") facility, along with hazardous wastes generated because of site operations, have been released to the environment beginning in the 1940s.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>of imminent concern is a large chromium groundwater plume under LANL in the regional groundwater aquifer that is migrating to the south and southeast towards Pueblo lands.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>in 2014, in response to the New Mexico Environment Department ("NMED") requirement that the Department of Energy/National Nuclear Security Administration ("DOE/NNSA") address migration of chromium beyond the LANL boundary, the Pueblo and DOE negotiated terms whereby DOE/NNSA was permitted to install and operate a monitoring well within the Pueblo's Sacred Area for the purpose of studying groundwater quality for a five-y ear period.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>that Limited Access Agreement for the well identified as SIMR-2 was renewed in 2020 for an additional five-year period to allow for continued monitoring of the chromium plume.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>the NMED, the DOE/NNSA, the DOE Office of Environmental Management ("DOE/EM"), the entity responsible for addressing DOE legacy environmental matters, and the Pueblo have determined the need to install an additional monitoring well in the Pueblo's Sacred Area to provide critical data on the movement of the chromium plume.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>the NMED, the DOE/NNSA, the DOE/EM, and the Pueblo have determined an appropriate location for the second monitoring well identified as SIMR-3 within the Pueblo's Sacred Area as shown on the map attached hereto as Exhibit A.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>the proposed location for the monitoring well is within a part of the Sacred Area that was previously evaluated and approved by a tribal cultural survey committee consisting of representatives from the North and South Kivas when determining the location of the SIMR-2 well.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>the Council has been briefed on the immediate need for a second monitoring well in the Sacred Area as the data from that well could determine future mitigation and remediation actions for the chromium plume, and the need for a Limited Access Agreement to permit the well on tribal lands and establish terms of use for the Pueblo's resources, including compensation for the use of the Pueblo's water during construction and operation of the well.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>the Council has determined that it is in the Pueblo's best interest to approve the installation of a second monitoring well in the Sacred Area at the location identified on Exhibit A and to authorize the negotiation of a Limited Access Agreement for the well.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>the Council recognizes the importance for work to continue between the Pueblo's Department of Environmental and Cultural Preservation ("DECP") and DOE/EM to install the monitoring well as quickly as possible after the Council's approval for the well location, including in the interim period while the terms of the Limited Access Agreement are being negotiated and finalized.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert num-value="2.3.17.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.17.040"/>
+      <num>1.4</num>
+      <heading>Authorizations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council approves the installation of a second monitoring well in the Sacred Area at the location identified on Exhibit A.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council authorizes the Governor to negotiate and execute a Limited Access Agreement as quickly as possible to permit the construction and operation of the monitoring well and to establish terms for the use of the Pueblo's resources, including compensation for the use of the Pueblo's water during the construction and operation of the well.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Council authorizes DECP to continue to work with DOE/EM on all tasks necessary to install the monitoring well in the interim period while the Governor negotiates and executes a Limited Access Agreement.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Council authorizes the Governor or his designee to any all actions deemed necessary to carry out the intent of this Act.</text>
+      </para>
+    </section>
+  </attachment>
+</document>
