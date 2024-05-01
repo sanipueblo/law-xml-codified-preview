@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R23-016">
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R23-016" codify:doc="Pueblo de San Ildefonso Code">
   <num>SI-R23-016</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R23-016</heading>
-  <heading type="law">Act Rescinding Si-R20-022 and Si-R22-027 and Authorizing Revised Second Amended Business Lease with San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store</heading>
+  <heading type="law">Act Rescinding SI-R20-022 and SI-R22-027 and Authorizing Revised Second Amended Business Lease with San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store</heading>
   <meta>
     <effective>2023-12-22</effective>
     <citations>
@@ -291,17 +291,30 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2023, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
+  <codify:repeal path="17.2.23" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.23.010"/>
+  <codify:repeal path="17.2.28" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.28.010"/>
+  <codify:insert path="17.2" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.30">
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.30</num>
+      <heading>Act Rescinding SI-R20-022 and SI-R22-027 and Authorizing Revised Second Amended Business Lease with San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
+    </container>
+  </codify:insert>
   <attachment id="law">
+    <codified:at path="17.2.30"/>
     <text class="center">
       <strong>PUEBLO DE SAN ILDEFONSO</strong>
     </text>
     <heading type="law">ACT AUTHORIZING THE REVISED SECOND AMENDED BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE TOTAVI GAS STATION AND CONVENIENCE STORE</heading>
     <section>
+      <codify:insert num-value="17.2.30.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.30.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as "Act Authorizing the Revised Second Amended Business Lease with San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store" ("Act").</text>
     </section>
     <section>
+      <codify:insert num-value="17.2.30.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.30.020"/>
       <num>1.2</num>
       <heading>Definitions</heading>
       <para>
@@ -334,11 +347,13 @@
       </para>
     </section>
     <section>
+      <codify:insert num-value="17.2.30.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.30.030"/>
       <num>1.3</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Revised Second Amended Business Lease. The Revised Second Amended Business Lease Totavi Gas Station and Convenience Store (the "Revised Second Amended Business Lease") sets out the second amended terms to the Business Lease, including the extension of the term and incorporating a payment schedule for the extended term; the expansion of the land included in the leased area; and, removing language prohibiting subleases, assignments, management agreements, or transfer of the Business Lease or any rights to interest in the Business Lease without the written approval of the Secretary and sureties to only require approval by the Pueblo.</text>
     </section>
     <section>
+      <codify:insert num-value="17.2.30.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.30.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -455,6 +470,7 @@
       </para>
     </section>
     <section>
+      <codify:insert num-value="17.2.30.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.30.050"/>
       <num>1.5</num>
       <heading>Council Authorizations and Waivers</heading>
       <para>
@@ -479,6 +495,7 @@
       </para>
     </section>
     <section>
+      <codify:insert num-value="17.2.30.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.30.060"/>
       <num>1.6</num>
       <heading>Authority of Tribal Governor to Execute the Revised Second Amended Business Lease</heading>
       <text>The Council hereby authorizes and directs the Governor of the Pueblo to negotiate and execute a final Revised Second Amended Business Lease in substantially the same form as the attached proposed Revised Second Amended Business Lease consistent with this Act, make any revisions and amendments that may be necessary and required to support the execution of a final Revised Second Amended Business Lease, as amended, and execute any certification that may be required by federal or tribal law to support the execution of a final Revised Second Amended Business Lease.</text>

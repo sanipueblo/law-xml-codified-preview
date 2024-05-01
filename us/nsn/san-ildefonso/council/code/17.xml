@@ -2496,304 +2496,128 @@
     <container>
       <prefix>Part</prefix>
       <num>17.2.23</num>
+      <reason>Repealed</reason>
       <heading>Act Authorizing Second Amendment to the Business Lease with the San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store</heading>
       <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" type="History"/>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.23.010</num>
         <heading>Short Title</heading>
-        <text>This enactment shall be known as the "ACT AUTHORIZING SECOND AMENDMENT TO THE BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE TOTAVI GAS STATION AND CONVENIENCE STORE" ("Act").</text>
+        <text>Repealed.</text>
         <annotations>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" type="History"/>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.1" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.23.020</num>
         <heading>Definitions</heading>
-        <para>
-          <num>(a)</num>
-          <text>"Agreement" means the Pueblo de San Ildefonso Governing Agreement.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>"Business Lease" means the Business lease for the Totavi Gas Station and Convenience Store entered into on May 9, 2018, between the Pueblo de San Ildefonso and San Ildefonso Services, LLC and all amendments thereto.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>"Loan" means the loan guaranteed by the U.S. Department of Agriculture that San Ildefonso Services, LLC will apply for.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" type="History"/>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.23.030</num>
         <heading>Purpose</heading>
-        <text>The purpose of this act is to authorize the second amendment to the Business Lease. The Second Amendment to the Business Lease Totavi Gas Station and Convenience Store (the "Second Amendment") sets out the amended terms to the Business Lease, including the extending the term and incorporating a payment schedule for the extended term.</text>
+        <text>Repealed.</text>
         <annotations>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" type="History"/>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.3" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.23.040</num>
         <heading>Findings</heading>
-        <text>The Council hereby finds that:</text>
-        <para>
-          <num>(a)</num>
-          <text>On May 9, 2018, the Pueblo and San Ildefonso Services, LLC entered into the Business Lease; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>San Ildefonso Services, LLC will apply for the Loan for purposes of making upgrades and other improvements to the Totavi Gas Station and Convenience Store; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The term of the Loan is expected to extend beyond the current term (i.e. September 30, 2022) of the Business Lease; and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>The term of the Business Lease cannot expire during the term of the Loan; and</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The term of the Business Lease shall be extended through September 30, 2027, to ensure that the term of the Business Lease does not expire during the term of the Loan; and</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>The annual rental payments for Year 3 through Year 5 specified in the Business Lease shall remain in full force and effect; and</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>The rental payments for Year 6 through Year 10 shall be in accordance with the following payment schedule:</text>
-          <text>
-            <table>
-              <tr>
-                <th>Year</th>
-                <th>Annual Rental Amount</th>
-                <th>Monthly Rate</th>
-              </tr>
-              <tr>
-                <td>6</td>
-                <td>$25,293.00</td>
-                <td>$2,107.75</td>
-              </tr>
-              <tr>
-                <td>7</td>
-                <td>$26,430.96</td>
-                <td>$2,202.58</td>
-              </tr>
-              <tr>
-                <td>8</td>
-                <td>$27,620.04</td>
-                <td>$2,301.67</td>
-              </tr>
-              <tr>
-                <td>9</td>
-                <td>$28,863.00</td>
-                <td>$2,405.25</td>
-              </tr>
-              <tr>
-                <td>10</td>
-                <td>$30,162.00</td>
-                <td>$2,513.50</td>
-              </tr>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>The Council, having reviewed the Second Amendment document, attached hereto, finds approval of the Second Amendment is in the best interest of the Pueblo.</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>All other items of the Business Lease shall remain in full force and effect.</text>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" type="History"/>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.4" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.23.050</num>
         <heading>Authorizations</heading>
-        <para>
-          <num>(a)</num>
-          <text>The Council approves the attached Second Amendment.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The Governor is authorized to take such actions necessary to make any minor technical non-substantive amendments to the Second Amendment document as may be necessary provided that Council is informed of such amendments.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The Governor is authorized to take such action as necessary to submit the completed Second Amendment to Northern Pueblos Agency, Bureau of Indian Affairs, for review and approval.</text>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" type="History"/>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.4" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
+      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
     </container>
     <container>
       <prefix>Part</prefix>
       <num>17.2.24</num>
+      <reason>Repealed</reason>
       <heading>Act Authorizing Second Amendment to the Business Lease with the San Ildefonso Services, LLC for the White Rock Gas Station and Convenience Store</heading>
       <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" type="History"/>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.24.010</num>
         <heading>Short Title</heading>
-        <text>This enactment shall be known as the "ACT AUTHORIZING SECOND AMENDMENT TO THE BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE WHITE ROCK GAS STATION AND CONVENIENCE STORE" ("Act").</text>
+        <text>Repealed.</text>
         <annotations>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" type="History"/>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.1" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.24.020</num>
         <heading>Definitions</heading>
-        <para>
-          <num>(a)</num>
-          <text>"Agreement" means the Pueblo de San Ildefonso Governing Agreement.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>"Business Lease" means the Business lease for the White Rock Gas Station and 	Convenience Store entered into on May 9, 2018, between the Pueblo de San Ildefonso and 	San Ildefonso Services, LLC and all amendments thereto.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>"Loan" means the loan guaranteed by the U.S. Department of Agriculture that San Ildefonso Services, LLC will apply for.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" type="History"/>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.24.030</num>
         <heading>Purpose</heading>
-        <text>The purpose of this act is to authorize the second amendment to the Business Lease. The Second Amendment to the Business Lease White Rock Gas Station and Convenience Store (the "Second Amendment") sets out the amended terms to the Business Lease, including the extending the term and incorporating a payment schedule for the extended term.</text>
+        <text>Repealed.</text>
         <annotations>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" type="History"/>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.3" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.24.040</num>
         <heading>Findings</heading>
-        <text>The Council hereby finds that:</text>
-        <para>
-          <num>(a)</num>
-          <text>On May 9, 2018, the Pueblo and San Ildefonso Services, LLC entered into the Business Lease; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>San Ildefonso Services, LLC will apply for the Loan for purposes of making upgrades and other improvements to the White Rock Gas Station and Convenience Store; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The term of the Loan is expected to extend beyond the current term (i.e. September 30, 2022) of the Business Lease; and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>The term of the Business Lease cannot expire during the term of the Loan; and</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The term of the Business Lease shall be extended through September 30, 2027, to ensure that the term of the Business Lease does not expire during the term of the Loan; and</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>The annual rental payments for Year 3 through Year 5 specified in the Business Lease shall remain in full force and effect; and</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>The rental payments for Year 6 through Year 10 shall be in accordance with the following payment schedule:</text>
-          <text>
-            <table>
-              <tr>
-                <th>Year</th>
-                <th>Annual Rental Amount</th>
-                <th>Monthly Rate</th>
-              </tr>
-              <tr>
-                <td>6</td>
-                <td>$25,293.00</td>
-                <td>$2,107.75</td>
-              </tr>
-              <tr>
-                <td>7</td>
-                <td>$26,430.96</td>
-                <td>$2,202.58</td>
-              </tr>
-              <tr>
-                <td>8</td>
-                <td>$27,620.04</td>
-                <td>$2,301.67</td>
-              </tr>
-              <tr>
-                <td>9</td>
-                <td>$28,863.00</td>
-                <td>$2,405.25</td>
-              </tr>
-              <tr>
-                <td>10</td>
-                <td>$30,162.00</td>
-                <td>$2,513.50</td>
-              </tr>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>The Council, having reviewed the Second Amendment document, attached hereto, finds approval of the Second Amendment is in the best interest of the Pueblo.</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>All other items of the Business Lease shall remain in full force and effect.</text>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" type="History"/>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.4" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.24.050</num>
         <heading>Authorizations</heading>
-        <para>
-          <num>(a)</num>
-          <text>The Council approves the attached Second Amendment.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The Governor is authorized to take such actions necessary to make any minor technical non-substantive amendments to the Second Amendment document as may be necessary provided that Council is informed of such amendments.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The Governor is authorized to take such action as necessary to submit the completed Second Amendment to Northern Pueblos Agency, Bureau of Indian Affairs, for review and approval.</text>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" type="History"/>
           <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.4" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
+      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
     </container>
     <container>
       <prefix>Part</prefix>
@@ -3117,129 +2941,351 @@
     <container>
       <prefix>Part</prefix>
       <num>17.2.28</num>
+      <reason>Repealed</reason>
       <heading>Approving and Authorizing the Third Amended Business Lease with San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
       <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.28.010</num>
         <heading>Short Title</heading>
-        <text>This enactment shall be known as the Act, "APPROVING AND AUTHORIZING</text>
-        <text>THE THIRD AMENDED BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE TOTAVI GAS STATION AND CONVENIENCE STORE."</text>
+        <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
           <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
           <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.1" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.28.020</num>
         <heading>Definitions</heading>
-        <para>
-          <num>(a)</num>
-          <text>"Totavi Convenience Store" means the Totavi Gas Station and Convenience Store located within the external boundaries of the Pueblo.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>"SIS LLC" means San Ildefonso Services, LLC, a single member limited liability</text>
-          <text>company organized under tribal law and wholly owned by the Pueblo<strong>.</strong></text>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
           <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
           <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.28.030</num>
         <heading>Purpose</heading>
-        <text>The purpose of this Act is to authorize and direct the Governor of the Pueblo to negotiate and execute a Third Amended Business Lease with SIS LLC for the Totavi Gas Station and Convenience Store.</text>
+        <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
           <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
           <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.3" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>17.2.28.040</num>
         <heading>Findings</heading>
-        <text>The Council hereby finds and declares that:</text>
-        <para>
-          <num>(a)</num>
-          <text>SIS LLC is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>On June 21, 2017, the Pueblo de San Ildefonso enacted a law entitled "Act to Transfer Ownership and Operation of C-Stores to San Ildefonso Services, LLC."</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>To carry out the Act, the Pueblo and SIS LLC effected the transfer of ownership and operation of the Totavi and White Rock C-Stores on July 1, 2017.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Under Article VIII of its Articles of Organization, San Ildefonso Services LLC has authority to "buy, sell, lease and otherwise acquire and maintain buildings, offices, shops and other appurtenances proper and necessary for the carrying on of said business."</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The Pueblo and SIS, LLC entered into the Business Lease (the "Business Lease") for the Totavi Gas Station and Convenience Store dated May 9, 2018, and the term of such lease began on July 1, 2017; and</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>On or about March 22, 2019, the Parties amended the Business Lease to correct the acreage of the leased premises and to update the date of the Surveyor's Certificate.</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>The Business Lease and its accompanying amendment were both approved by the Superintendent, Northern Pueblo Agency, Bureau of Indian Affairs (BIA), on March 27, 2019, which is attached hereto as <strong><cite doc="#SI-R22-027 Attachment A">Attachment A</cite></strong>.</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>On or around November 24, 2020, the parties further amended the Business Lease (the "Second Amended Lease") whereby SIS LLC borrowed funds from the Pueblo for purposes of making upgrades and other improvements to the Totavi Gas Station and Convenience Store, and the Business Lease was extended for an additional five years through September 30, 2027, see Council Resolution No. SI-R20-022 and the second amended lease attached hereto as <strong><cite doc="#SI-R22-027 Attachment B">Attachment B</cite></strong>.</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>There is no record that the Second Amendment was recorded with the BIA.</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>The Pueblo and SIS, LLC desire to further amend the Business Lease to expand the land included in the leased area by approximately 11.13 acres as described in the proposed Third Amended Lease (the "Third Amended Lease.")</text>
-        </para>
-        <para>
-          <num>(k)</num>
-          <text>The Business Lease, as amended, prohibits subleases, assignments, management agreements, or transfers of the Business Lease or any rights to or interest in the Business Lease, without the written approval of the Pueblo, the Secretary and sureties, if any.</text>
-        </para>
-        <para>
-          <num>(l)</num>
-          <text>The Pueblo and SIS, LLC desire to amend Paragraph K, Sublease, Assignment, Management Agreement, Transfer of the Business Lease, as amended, to only require approval by the Pueblo and to remove approval of the Secretary and sureties, if any.</text>
-        </para>
-        <para>
-          <num>(m)</num>
-          <text>The proposed Third Amended Lease is attached to this Resolution, as <strong><cite doc="#SI-R22-027 Attachment C">Attachment C</cite></strong>.</text>
-        </para>
-        <para>
-          <num>(n)</num>
-          <text>The Pueblo and SIS, LLC desire to diversify the services provided by the business on the property which may include subleases for the development of an RV Park, facilitation of a laydown yard, construction of a cell tower, and development of peripheral support businesses including but not limited to a laundromat, restaurant, a vendor area, and other lawful business uses.</text>
-        </para>
-        <para>
-          <num>(o)</num>
-          <text>Paragraph K of the Business Lease, as amended, shall be modified and replaced with the following:</text>
-          <para>
-            <num>K.</num>
-            <text>SUBLEASE, ASSIGNMENT, MANAGEMENT AGREEMENT, TRANSFER</text>
-            <text>Lessee shall not sublease, assign, place under management agreement, or in any manner whatsoever transfer this Lease or any right to or interest in this Lease or any of the improvements on the Leased Premises, without the written approval of Lessor, and no such sublease, assignment, or transfer shall be valid or binding without such approval, and then only upon the condition that the sublease, assignee or other successor in interest, excepting an approved encumbrance(s), shall agree in writing to be bound by each and all of the covenants and conditions of this Lease. Should Lessee attempt to make any such sublease, assignment, or transfer, except as foresaid, such action shall be deemed a breach of this Lease. Approval of one sublease, assignment, or transfer shall not validate a subsequent sublease, assignment, or transfer, and the restriction of this Section shall apply to each successive sublease, assignment, or transfer hereunder and shall be severally binding upon each and every sublessee, assignee, transferee and other successor in interest of the Lessee.</text>
-          </para>
-        </para>
-        <para>
-          <num>(p)</num>
-          <text>For purposes of recording this Amendment with BIA, the changes agreed upon by the Parties and reflected in the Second Amendment are hereby incorporated into this Third Amendment.</text>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
           <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
           <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.4" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+        </annotations>
+      </section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
+        <num>17.2.28.050</num>
+        <heading>Council Authorizations and Waivers</heading>
+        <text>Repealed.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.5" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+        </annotations>
+      </section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
+        <num>17.2.28.060</num>
+        <heading>Authority of Tribal Governor to Execute the Third Amended Business Lease</heading>
+        <text>Repealed.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.6" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+        </annotations>
+      </section>
+      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.29</num>
+      <reason>Repealed</reason>
+      <heading>Approving and Authorizing the Third Amended Business Lease with San Ildefonso Services, LLC for the White Rock Gas Station and Convenience Store</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
+      <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
+        <num>17.2.29.010</num>
+        <heading>Short Title</heading>
+        <text>Repealed.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.1" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+        </annotations>
+      </section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
+        <num>17.2.29.020</num>
+        <heading>Definitions</heading>
+        <text>Repealed.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+        </annotations>
+      </section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
+        <num>17.2.29.030</num>
+        <heading>Purpose</heading>
+        <text>Repealed.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.3" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+        </annotations>
+      </section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
+        <num>17.2.29.040</num>
+        <heading>Findings</heading>
+        <text>Repealed.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.4" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+        </annotations>
+      </section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
+        <num>17.2.29.050</num>
+        <heading>Council Authorizations and Waivers</heading>
+        <text>Repealed.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.5" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+        </annotations>
+      </section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
+        <num>17.2.29.060</num>
+        <heading>Authority of Tribal Governor to Execute the Third Amended Business Lease</heading>
+        <text>Repealed.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.6" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+        </annotations>
+      </section>
+      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.30</num>
+      <heading>Act Rescinding SI-R20-022 and SI-R22-027 and Authorizing Revised Second Amended Business Lease with San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
+      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+      <section>
+        <num>17.2.30.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as "Act Authorizing the Revised Second Amended Business Lease with San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store" ("Act").</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>17.2.28.050</num>
+        <num>17.2.30.020</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" means the Pueblo de San Ildefonso Governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Business Lease" means the Business Lease for the Totavi Gas Station and Convenience Store entered into on May 9, 2018, between the Pueblo de San Ildefonso and San Ildefonso Services, LLC and all amendments thereto.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"USDA Loan" means the loan guaranteed by the U.S. Department of Agriculture that San Ildefonso Services.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"SIS LLC" means San Ildefonso Services, LLC, a single member limited liability company organized under tribal law and wholly owned by the Pueblo<strong>.</strong></text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Totavi Convenience Store" means the Totavi Convenience Store and Gas Station located within the external boundaries of the Pueblo.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.30.030</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the Revised Second Amended Business Lease. The Revised Second Amended Business Lease Totavi Gas Station and Convenience Store (the "Revised Second Amended Business Lease") sets out the second amended terms to the Business Lease, including the extension of the term and incorporating a payment schedule for the extended term; the expansion of the land included in the leased area; and, removing language prohibiting subleases, assignments, management agreements, or transfer of the Business Lease or any rights to interest in the Business Lease without the written approval of the Secretary and sureties to only require approval by the Pueblo.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.30.040</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>SIS LLC is chartered under tribal law as a single member limited liability</text>
+          <text>company wholly owned by the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>On June 21, 2017, the Pueblo de San Ildefonso enacted a law entitled "Act to Transfer Ownership and Operation of C-Stores to San Ildefonso Services, LLC," and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>To carry out the Act, the Pueblo and SIS LLC effected the transfer of ownership and operation of the Totavi and White Rock C-Stores on July 1, 2017; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Under Article VIII of its Articles of Organization, San Ildefonso Services LLC has authority to "buy, sell, lease and otherwise acquire and maintain buildings, offices, shops and other appurtenances proper and necessary for the carrying on of said business," and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo and SIS LLC entered into the Business Lease (the "Business Lease") for the Totavi Gas Station and Convenience Store dated May 9, 2018, and the term of such lease began on July 1, 2017; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>On or about March 22, 2019, the Parties amended the Business Lease to correct the acreage of the leased premises and to update the date of the Surveyor's Certificate; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Business Lease and its accompanying amendment were both approved by the Superintendent, Northern Pueblo Agency, Bureau of Indian Affairs (BIA), on March 27, 2019; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>On or around November 24, 2020, the Parties further amended the Business Lease (the "Second Amended Lease") whereby SIS LLC secured a USDA loan for purposes of making upgrades and other improvements to the Totavi Gas Station and Convenience Store, and the Business Lease was extended for an additional five years through September 30, 2027; and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The term of the USDA Loan extends beyond the current term of the Business Lease.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The term of the Business Lease cannot expire during the term of the USDA Loan.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The term of the Business Lease shall be extended through September 30, 2027, to ensure that the term of the Business Lease does not expire during the term of the USDA Loan.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>A fully executed copy of the Second Amended Lease cannot be found and there is no record that it was recorded with BIA for review and approval.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>The annual rental payments for Year 3 through Year 5 specified in the Business Lease shall remain in full force and effect.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>The rental payments for Year 6 through Year 10 shall be in accordance with the following payment schedule:</text>
+          <text>
+            <table class="layout-table">
+              <thead>
+                <tr>
+                  <th>Year</th>
+                  <th>Annual Rental Amount</th>
+                  <th>Monthly Rate</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>6</td>
+                  <td>$25,293.00</td>
+                  <td>$2,107.75</td>
+                </tr>
+                <tr>
+                  <td>7</td>
+                  <td>$26,430.96</td>
+                  <td>$2,202.58</td>
+                </tr>
+                <tr>
+                  <td>8</td>
+                  <td>$27,620.04</td>
+                  <td>$2,301.67</td>
+                </tr>
+                <tr>
+                  <td>9</td>
+                  <td>$28,863.00</td>
+                  <td>$2,405.25</td>
+                </tr>
+                <tr>
+                  <td>10</td>
+                  <td>$30,162.00</td>
+                  <td>$2,513.50</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>The acreage shall be expanded in the leased area as described in the Revised Second Amended Lease.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Approval of the Secretary and sureties, if any, for subleases, assignments, management agreements, or transfer of the Business Lease or any rights to or interest in the Business Lease shall be removed and the only approval required shall be by the Pueblo.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>The Council, finds it in the best intertest of the Pueblo to authorize the Governor to negotiate and execute the Revised Second Amended Business Lease.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>All other terms of the Business Lease, as amended, shall remain in full force and effect.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.30.050</num>
         <heading>Council Authorizations and Waivers</heading>
         <para>
           <num>(a)</num>
@@ -3255,79 +3301,100 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>The Council has determined that it is in the Pueblo's best interest to provide an express and limited waiver of its immunity from suit, subject to the limitations herein, only as to actions to enforce the Business Lease, as amended, or any settlement agreement reached in mediation under the Business Lease, provided that the Pueblo's limited waiver of sovereign immunity is granted only to San Ildefonso Services, LLC and not to any other individual or entity, and that the Pueblo de San Ildefonso Tribal Court shall have exclusive jurisdiction over any lawsuit brought pursuant to this limited waiver of immunity.</text>
+          <text>The Council has determined that it is in the Pueblo's best interest to provide an express and limited waiver of its immunity from suit, subject to the limitations herein, only as to actions to enforce the Business Lease, as amended, or any settlement agreement reached in mediation under the Business Lease, as amended, provided that the Pueblo's limited waiver of sovereign immunity is granted only to San Ildefonso Services, LLC and not to any other individual or entity, and that the Pueblo de San Ildefonso Tribal Court shall have exclusive jurisdiction over any lawsuit brought pursuant to this limited waiver of immunity.</text>
         </para>
         <para>
           <num>(e)</num>
           <text>The Council has determined that the Governor may execute said Business Leases, as amended, or any other certification required by federal or tribal law.</text>
         </para>
         <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.5" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.5" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>17.2.28.060</num>
-        <heading>Authority of Tribal Governor to Execute the Third Amended Business Lease</heading>
-        <text>The Council hereby authorizes and directs the Governor of the Pueblo to negotiate and execute a final Third Amended Business Lease in substantially the same form as the attached proposed Third Amended Business Lease consistent with this Act, make any revisions and amendments that may be necessary and required to support the execution of a final Third Amended Business Lease, as amended, and execute any certification that may be required by federal or tribal law to support the execution of a final Third Amended Business Lease.</text>
+        <num>17.2.30.060</num>
+        <heading>Authority of Tribal Governor to Execute the Revised Second Amended Business Lease</heading>
+        <text>The Council hereby authorizes and directs the Governor of the Pueblo to negotiate and execute a final Revised Second Amended Business Lease in substantially the same form as the attached proposed Revised Second Amended Business Lease consistent with this Act, make any revisions and amendments that may be necessary and required to support the execution of a final Revised Second Amended Business Lease, as amended, and execute any certification that may be required by federal or tribal law to support the execution of a final Revised Second Amended Business Lease.</text>
         <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.6" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.6" type="History"/>
         </annotations>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>17.2.29</num>
-      <heading>Approving and Authorizing the Third Amended Business Lease with San Ildefonso Services, LLC for the White Rock Gas Station and Convenience Store</heading>
-      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-      <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
+      <num>17.2.31</num>
+      <heading>Act Rescinding SI-R20-023 and SI-R22-028 and Authorizing Revised Second Amended Business Lease with San Ildefonso Services, LLC for the White Rock Gas Station and Convenience Store</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
+      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
       <section>
-        <num>17.2.29.010</num>
+        <num>17.2.31.010</num>
         <heading>Short Title</heading>
-        <text>This enactment shall be known as the Act, "APPROVING AND AUTHORIZING THE THIRD AMENDED BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE WHITE ROCK GAST STATION AND CONVENIENCE STORE."</text>
+        <text>This enactment shall be known as "Act Authorizing the Revised Second Amended Business Lease with San Ildefonso Services, LLC for the White Rock Gas Station and Convenience Store" ("Act").</text>
         <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.1" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>17.2.29.020</num>
+        <num>17.2.31.020</num>
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
-          <text>"White Rock Convenience Store" means the White Rock Convenience Store and Gas Station located within the external boundaries of the Pueblo.</text>
+          <text>"Agreement" means the Pueblo de San Ildefonso Governing Agreement.</text>
         </para>
         <para>
           <num>(b)</num>
+          <text>"Business Lease" means the Business Lease for the White Rock Gas Station and Convenience Store entered into on May 9, 2018, between the Pueblo de San Ildefonso and San Ildefonso Services, LLC and all amendments thereto.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"USDA Loan" means the loan guaranteed by the U.S. Department of Agriculture that San Ildefonso Services, LLC.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(f)</num>
           <text>"SIS LLC" means San Ildefonso Services, LLC, a single member limited liability company organized under tribal law and wholly owned by the Pueblo<strong>.</strong></text>
         </para>
+        <para>
+          <num>(g)</num>
+          <text>"White Rock Convenience Store" means the White Rock Convenience Store and Gas Station located within the external boundaries of the Pueblo.</text>
+        </para>
         <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.2" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>17.2.29.030</num>
+        <num>17.2.31.030</num>
         <heading>Purpose</heading>
-        <text>The purpose of this Act is to authorize and direct the Governor of the Pueblo to negotiate and execute a Third Amended Business Lease with SIS LLC for the White Rock Gas Station and Convenience Store.</text>
+        <text>The purpose of this Act is to authorize the Revised Second Amended Business Lease. The Revised Second Amended Business Lease White Rock Gas Station and Convenience Store (the "Revised Second Amended Business Lease") sets out the second amended terms to the Business Lease, including the extension of the term and incorporating a payment schedule for the extended term; the expansion of the land included in the leased area; and, removing language prohibiting subleases, assignments, management agreements, or transfer of the Business Lease or any rights to interest in the Business Lease without the written approval of the Secretary and sureties to only require approval by the Pueblo.</text>
         <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.3" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>17.2.29.040</num>
+        <num>17.2.31.040</num>
         <heading>Findings</heading>
         <text>The Council hereby finds and declares that:</text>
         <para>
           <num>(a)</num>
-          <text>SIS LLC is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo.</text>
+          <text>SIS LLC is chartered under tribal law as a single member limited liability</text>
+          <text>company wholly owned by the Pueblo.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3351,57 +3418,98 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>The Business Lease and its accompanying amendment were both approved by the Superintendent, Northern Pueblo Agency, Bureau of Indian Affairs (BIA), on March 27, 2019, which is attached hereto as <strong><cite doc="#SI-R22-028 Attachment A">Attachment A</cite></strong>.</text>
+          <text>The Business Lease and its accompanying amendment were both approved by the Superintendent, Northern Pueblo Agency, Bureau of Indian Affairs (BIA), on March 27, 2019.</text>
         </para>
         <para>
           <num>(h)</num>
-          <text>On or around November 24, 2020, the Pueblo and SIS LLC further amended the Business Lease (the "Second Amended Lease") whereby SIS LLC secured a loan for purposes of making upgrades and other improvements to the White Rock Gas Station and Convenience Store, and the Business Lease was extended for an additional five years through September 30, 2027, <em>see </em>Council Resolution No. SI-R20-023 and the Second Amended Lease attached hereto as <strong><cite doc="#SI-R22-028 Attachment B">Attachment B</cite>.</strong></text>
+          <text>On or around November 24, 2020, the Parties further amended the Business Lease (the "Second Amended Lease") whereby SIS LLC secured a USDA loan for purposes of making upgrades and other improvements to the White Rock Gas Station and Convenience Store, and the Business Lease was extended for an additional five years through September 30, 2027.</text>
         </para>
         <para>
           <num>(i)</num>
-          <text>There is no record that the Second Amendment was recorded with the BIA.</text>
+          <text>The term of the USDA Loan extends beyond the current term of the Business Lease.</text>
         </para>
         <para>
           <num>(j)</num>
-          <text>The Pueblo and SIS LLC desire to further amend the Business Lease to expand the acres included in the leased area as described in the proposed Third Amended Lease (the "Third Amended Lease").</text>
+          <text>The term of the Business Lease cannot expire during the term of the USDA Loan.</text>
         </para>
         <para>
           <num>(k)</num>
-          <text>The Business Lease, as amended, prohibits subleases, assignments, management agreements, or transfers of the Business Lease or any rights to or interest in the Business Lease, without the written approval of the Pueblo, the Secretary and sureties, if any.</text>
+          <text>The term of the Business Lease shall be extended through September 30, 2027, to ensure that the term of the Business Lease does not expire during the term of the USDA Loan.</text>
         </para>
         <para>
           <num>(l)</num>
-          <text>The Pueblo and SIS LLC desire to amend Paragraph K, Sublease, Assignment, Management Agreement, Transfer of the Business Lease, as amended, to only require approval by the Pueblo and to remove approval of the Secretary and sureties, if any.</text>
+          <text>A fully executed copy of the Second Amended Lease cannot be found and there is no record that it was recorded with BIA for review and approval.</text>
         </para>
         <para>
           <num>(m)</num>
-          <text>The proposed Third Amended Lease is attached to this Resolution, as <strong><cite doc="#SI-R22-028 Attachment C">Attachment C</cite></strong>.</text>
+          <text>The annual rental payments for Year 3 through Year 5 specified in the Business Lease shall remain in full force and effect.</text>
         </para>
         <para>
           <num>(n)</num>
-          <text>The Pueblo and SIS LLC desire to diversify the services provided by the business to include all lawful business uses.</text>
+          <text>The rental payments for Year 6 through Year 10 shall be in accordance with the following payment schedule:</text>
+          <text>
+            <table class="layout-table">
+              <thead>
+                <tr>
+                  <th>Year</th>
+                  <th>Annual Rental Amount</th>
+                  <th>Monthly Rate</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>6</td>
+                  <td>$25,293.00</td>
+                  <td>$2,107.75</td>
+                </tr>
+                <tr>
+                  <td>7</td>
+                  <td>$26,430.96</td>
+                  <td>$2,202.58</td>
+                </tr>
+                <tr>
+                  <td>8</td>
+                  <td>$27,620.04</td>
+                  <td>$2,301.67</td>
+                </tr>
+                <tr>
+                  <td>9</td>
+                  <td>$28,863.00</td>
+                  <td>$2,405.25</td>
+                </tr>
+                <tr>
+                  <td>10</td>
+                  <td>$30,162.00</td>
+                  <td>$2,513.50</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
         </para>
         <para>
           <num>(o)</num>
-          <text>Paragraph K of the Business Lease, as amended, shall be modified and replaced with the following:</text>
-          <para>
-            <num proof="needed">K.</num>
-            <text>SUBLEASE, ASSIGNMENT, MANAGEMENT AGREEMENT, TRANSFER</text>
-            <text>Lessee shall not sublease, assign, place under management agreement, or in any manner whatsoever transfer this Lease or any right to or interest in this Lease or any of the improvements on the Leased Premises, without the written approval of Lessor, and no such sublease, assignment, or transfer shall be valid or binding without such approval, and then only upon the condition that the sublease, assignee or other successor in interest, excepting an approved encumbrance(s), shall agree in writing to be bound by each and all of the covenants and conditions of this Lease. Should Lessee attempt to make any such sublease, assignment, or transfer, except as foresaid, such action shall be deemed a breach of this Lease. Approval of one sublease, assignment, or transfer shall not validate a subsequent sublease, assignment, or transfer, and the restriction of this Section shall apply to each successive sublease, assignment, or transfer hereunder and shall be severally binding upon each and every sublessee, assignee, transferee and other successor in interest of the Lessee.</text>
-          </para>
+          <text>The acreage shall be expanded in the leased area as described in the Revised Second Amended Lease.</text>
         </para>
         <para>
           <num>(p)</num>
-          <text>For purposes of recording this Amendment with BIA, the changes agreed upon by the Parties and reflected in the Second Amendment are hereby incorporated into this Third Amendment.</text>
+          <text>Approval of the Secretary and sureties, if any, for subleases, assignments, management agreements, or transfer of the Business Lease or any rights to or interest in the Business Lease shall be removed and the only approval required shall be by the Pueblo.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>The Council, finds it in the best intertest of the Pueblo to authorize the Governor to negotiate and execute the Revised Second Amended Business Lease.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>All other terms of the Business Lease, as amended, shall remain in full force and effect.</text>
         </para>
         <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.4" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>17.2.29.050</num>
+        <num>17.2.31.050</num>
         <heading>Council Authorizations and Waivers</heading>
         <para>
           <num>(a)</num>
@@ -3417,26 +3525,26 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>The Council has determined that it is in the Pueblo's best interest to provide an express and limited waiver of its immunity from suit, subject to the limitations herein, only as to actions to enforce the Business Lease, as amended, or any settlement agreement reached in mediation under the Business Lease, provided that the Pueblo's limited waiver of sovereign immunity is granted only to San Ildefonso Services, LLC and not to any other individual or entity, and that the Pueblo de San Ildefonso Tribal Court shall have exclusive jurisdiction over any lawsuit brought pursuant to this limited waiver of immunity.</text>
+          <text>The Council has determined that it is in the Pueblo's best interest to provide an express and limited waiver of its immunity from suit, subject to the limitations herein, only as to actions to enforce the Business Lease, as amended, or any settlement agreement reached in mediation under the Business Lease, as amended, provided that the Pueblo's limited waiver of sovereign immunity is granted only to San Ildefonso Services, LLC and not to any other individual or entity, and that the Pueblo de San Ildefonso Tribal Court shall have exclusive jurisdiction over any lawsuit brought pursuant to this limited waiver of immunity.</text>
         </para>
         <para>
           <num>(e)</num>
           <text>The Council has determined that the Governor may execute said Business Leases, as amended, or any other certification required by federal or tribal law.</text>
         </para>
         <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.5" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.5" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>17.2.29.060</num>
-        <heading>Authority of Tribal Governor to Execute the Third Amended Business Lease</heading>
-        <text>The Council hereby authorizes and directs the Governor of the Pueblo to negotiate and execute a final Third Amended Business Lease in substantially the same form as the attached proposed Third Amended Business Lease consistent with this Act, make any revisions and amendments that may be necessary and required to support the execution of a final Third Amended Business Lease, as amended, and execute any certification that may be required by federal or tribal law to support the execution of a final Third Amended Business Lease.</text>
+        <num>17.2.31.060</num>
+        <heading>Authority of Tribal Governor to Execute the Revised Second Amended Business Lease</heading>
+        <text>The Council hereby authorizes and directs the Governor of the Pueblo to negotiate and execute a final Revised Second Amended Business Lease in substantially the same form as the attached proposed Revised Second Amended Business Lease consistent with this Act, make any revisions and amendments that may be necessary and required to support the execution of a final Revised Second Amended Business Lease, as amended, and execute any certification that may be required by federal or tribal law to support the execution of a final Revised Second Amended Business Lease.</text>
         <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.6" type="History"/>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.6" type="History"/>
         </annotations>
       </section>
     </container>

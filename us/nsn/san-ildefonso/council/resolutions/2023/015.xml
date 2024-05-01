@@ -278,9 +278,10 @@
     <section>
       <num>1.4</num>
       <heading>Penalties</heading>
-      <text>A new subsection (c) shall be added to Title 10, Section 10.1.6.050 as follows:</text>
-      <text>10.1.6.050 Criminal Penalties for Committing an Act of Domestic Violence.</text>
+      <text>A new subsection (c) shall be added to <cite doc="Pueblo de San Ildefonso Code" path="10">Title 10</cite>, <cite doc="Pueblo de San Ildefonso Code" path="10.1.6.080">Section 10.1.6.080</cite> as follows:</text>
+      <text><cite doc="Pueblo de San Ildefonso Code" path="10.1.6.080">10.1.6.080</cite> Criminal Penalties for Committing an Act of Domestic Violence.</text>
       <para>
+        <codify:insert path="10.1.6.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="|10.1.6.080|(c)"/>
         <num>(c)</num>
         <text>Any person who commits an Act of Domestic Violence shall be guilty of Domestic Violence and upon conviction thereof, may be sentenced to confinement for a period not to exceed one (1) year or pay of fine of up to $5,000 or both with costs.</text>
       </para>
