@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R23-018" codify:doc="Pueblo de San Ildefonso Code">
+  <num>SI-R23-018</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R23-018</heading>
+  <heading type="law">Authorizing the Governor to Enter into a Memorandum of Understanding with the Federal National Mortgage Association Also Known as Fannie Mae</heading>
+  <meta>
+    <effective>2023-12-22</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R23-018</citation>
+    </citations>
+    <history>
+      <adopted>2023-12-15</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 15th day of December, 2023, the following Resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo desires to allow tribal members to obtain home loans on tribal trust or restricted lands from the Federal National Mortgage Association, commonly known as Fannie Mae ("Fannie Mae"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it is necessary and in the best interests of the Pueblo to enter into a Memorandum of Understanding (MOU) with Fannie Mae for said purposes, and a standard MOU is attached as Exhibit A.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby authorizes the Governor to enter into a Memorandum of Understanding with Fannie Mae for the purpose of allowing Pueblo de San Ildefonso tribal members to obtain conventional home loans from lenders funded by Fannie Mae, and said MOU to be substantially similar to the MOU form attached as Exhibit A.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>December 15</u>, 2023, at a meeting with a vote of <u>6</u> in favor, <u>0</u> opposed, <u>2</u> abstaining and <u>2</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>CR Irene Tse-Pe</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R23-018</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>15</u><sup><u>th</u></sup> day of <u>December</u>, 2023, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>22</u><sup><u>nd</u></sup> day of <u>December</u>, 2023.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2023.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>M. Wayne Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Michael Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Irene Tse-Pe</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2023, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Irene Tse-Pe, Council Secretary</text>
+  </procedural-data>
+  <codify:insert path="15.1" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14">
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.14</num>
+      <heading>Authorizing the Governor to Enter into a Memorandum of Understanding with the Federal National Mortgage Association Also Known as Fannie Mae</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-018"/>
+    </container>
+  </codify:insert>
+  <attachment id="law/">
+    <codified:at path="15.1.14"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">AUTHORIZING THE GOVERNOR TO ENTER INTO A MEMORANDUM OF UNDERSTANDING WITH THE FEDERAL NATIONAL MORTGAGE ASSOCIATION ALSO KNOWN AS FANNIE MAE</heading>
+    <text class="center">
+      <strong>EXHIBIT A:</strong>
+    </text>
+    <text class="center">
+      <strong>MEMORANDUM OF UNDERSTANDING</strong>
+    </text>
+    <text class="center">
+      <strong>(Form)</strong>
+    </text>
+    <text>This Memorandum of Understanding ("MOU") is entered into as of the 15<sup>th</sup> day of December, 2023, between Fannie Mae and the Pueblo de San Ildefonso (the "Tribe").</text>
+    <text class="center">
+      <strong>RECITALS</strong>
+    </text>
+    <text class="text-indent-2">1. Fannie Mae's Native American Conventional Lending Initiative ("NACLI") is an initiative in which Fannie Mae purchases first-lien mortgage loans (the "Mortgages") made by lenders to borrowers for the purchase of one- to four-family residences and the refinance of existing mortgage loans located on either Trust Land or Restricted Land.</text>
+    <text class="text-indent-2">2. Fannie Mae's willingness to purchase such Mortgages is subject to the following: (i) the Designated Lender and the Mortgages comply with Fannie Mae's guidelines as set forth in Fannie Mae's Selling and Servicing Guide, as amended from time to time, and with the contract terms negotiated between Fannie Mae and the Designated Lender; (ii) the Tribe enters into this MOU with Fannie Mae; and (iii) Fannie Mae finds acceptable for NACLI (a) the Tribal ordinances or statutes establishing the Legal Standards (defined below), (b) the organizational documents of the Tribe through which NACLI will be implemented, (c) the note and mortgage instruments evidencing the Mortgages and (d) the borrower's real property interest in the Trust Land or Restricted Land, as applicable.</text>
+    <text>NOW, THEREFORE, in consideration of the premises and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree to the following:</text>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14.010"/>
+      <num codify:value="15.1.14.010">1</num>
+      <heading codify:value="Definitions">DEFINITIONS</heading>
+      <para>
+        <num codify:value="(a)">(A)</num>
+        <text><u>Legal Standards</u> shall mean the minimum requirements for legal standards and procedures established by the Tribe and acceptable in all respects to Fannie Mae relating to</text>
+        <para>
+          <num codify:value="(1)">(i)</num>
+          <text>Conveyances of beneficial interests in Trust Land or Restricted Land to lenders as security for Mortgages to borrowers,</text>
+        </para>
+        <para>
+          <num codify:value="(2)">(ii)</num>
+          <text>Creation and regulation of Assignment Rights and Assignment Mortgages, if the Tribe has a land assignment law,</text>
+        </para>
+        <para>
+          <num codify:value="(3)">(iii)</num>
+          <text>Manufactured Housing, if applicable, to provide for foreclosure as real property and not a repossession of personal property</text>
+        </para>
+        <para>
+          <num codify:value="(4)">(iv)</num>
+          <text>Recording of Mortgages,</text>
+        </para>
+        <para>
+          <num codify:value="(5)">(v)</num>
+          <text>Mortgage foreclosure proceedings,</text>
+        </para>
+        <para>
+          <num codify:value="(6)">(vi)</num>
+          <text>Evictions, and</text>
+        </para>
+        <para>
+          <num codify:value="(7)">(vii)</num>
+          <text>Transfer/resale restrictions.</text>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(b)">(B)</num>
+        <text><u>Tribe</u> shall mean the Pueblo de San Ildefonso Tribe, an Indian tribe, band, nation, village or other organization or community of Indians federally recognized as eligible for the services provided to Indian Tribes by the Secretary of the Interior because of its status as an Indian Tribe, according to standards published annually in the FEDERAL REGISTER pursuant to the Act of November 2, 1994 (108 Stat. 4791).</text>
+      </para>
+      <para>
+        <num codify:value="(c)">(C)</num>
+        <text><u>Native American</u> shall mean a person who is a member of the Tribe.</text>
+      </para>
+      <para>
+        <num codify:value="(d)">(D)</num>
+        <text><u>Designated Lender</u> shall mean one or more Fannie Mae-approved lenders that are approved as NACLI lenders and are selected by the Tribe to make loans to qualifying borrowers for the purchase of one- to four-family residences located on Trust Land or Restricted Land subject to such terms and conditions as may be established by the Designated Lender (in consultation with Fannie Mae) under NACLI. "Designated Lender" shall also include a successor to, or assign of, such entity.</text>
+      </para>
+      <para>
+        <num codify:value="(e)">(E)</num>
+        <text><u>Restricted Land</u> or land in restricted status shall mean land the title to which is owned by a tribe or an individual Native American and is subject to restrictions against alienation imposed by a federal statute. Generally, the restrictions are set forth in the patent or deed to the lands, except restricted lands held by the heirs of the allottees of the five Civilized Tribes in Oklahoma where such federal restrictions arise by virtue of limitations contained in the conveyance instrument pursuant to federal law or because of federal law directly imposing such limitations.</text>
+      </para>
+      <para>
+        <num codify:value="(f)">(F)</num>
+        <text><u>Trust Land</u> or land in trust shall mean land the title to which is held in trust by the United States for an individual Native American or the Tribe.</text>
+      </para>
+      <para>
+        <num codify:value="(g)">(G)</num>
+        <text><u>Eligible Borrower</u> shall be any one of the following:</text>
+        <para>
+          <num codify:value="(1)">(i)</num>
+          <text>An individual Native American,</text>
+        </para>
+        <para>
+          <num codify:value="(2)">(ii)</num>
+          <text>The Indian Housing Authority affiliated with the Tribe ("IHA"),</text>
+        </para>
+        <para>
+          <num codify:value="(3)">(iii)</num>
+          <text>The "Tribally Designated Housing Entity" ("TDHE") affiliated with the Tribe, or</text>
+        </para>
+        <para>
+          <num codify:value="(4)">(iv)</num>
+          <text>The Tribe, provided, however, the Tribe may not act as Borrower where the subject of a Mortgage is a leasehold estate and there are no parties to the subject ground lease other than the Tribe and/or an IHA or Tribally designated entity.</text>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(h)">(H)</num>
+        <text><u>Residential Ground Lease</u> is any lease of Restricted Land or Trust Land to an Eligible Borrower which is acceptable to Fannie Mae after review by its counsel. The "Residential Lease of Tribal-Owned Land" (which the Tribe represents is based on the lease attached to the "One-Stop Mortgage Center Initiative in Indian Country" issued in October 2000 by the U.S. Department of Housing and Urban Development and the U.S. Department of the Treasury), attached hereto as <strong>Exhibit 1</strong>, as amended by the "Fannie Mae Rider to Residential Lease of Tribal Owned Land" (attached hereto as <strong>Exhibit 2</strong>) is a form of residential ground lease which is satisfactory to Fannie Mae under this agreement.</text>
+      </para>
+      <para>
+        <num codify:value="(i)">(I)</num>
+        <text><u>Assignment</u> is any transfer of rights to occupy, control, build on, or otherwise exercise dominion over Restricted Land or Trust Land pursuant to a tribal Assignment law which has received the approval of the BIA.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14.020"/>
+      <num codify:value="15.1.14.020">2</num>
+      <heading codify:value="Support for Mortgage Lending">SUPPORT FOR MORTGAGE LENDING</heading>
+      <para>
+        <num codify:value="(a)">(A)</num>
+        <text>The Tribe shall consult with Fannie Mae to identify one or more Fannie Mae-approved lenders to act as "Designated Lenders."</text>
+      </para>
+      <para>
+        <num codify:value="(b)">(B)</num>
+        <text>The Tribe agrees to the establishment and maintenance of Legal Standards as long as Fannie Mae is the holder of any Mortgage originated pursuant to this MOU.</text>
+      </para>
+      <para>
+        <num codify:value="(c)">(C)</num>
+        <text>The Tribe may satisfy the Legal Standards by adopting by ordinance, either</text>
+        <para>
+          <num codify:value="(1)">(i)</num>
+          <text>The laws of the state where the mortgaged properties are located relating to such standards and procedures;</text>
+        </para>
+        <para>
+          <num codify:value="(2)">(ii)</num>
+          <text>The "Model Tribal Lending Code" which is attached to the "One-Stop Mortgage Center Initiative in Indian Country" (issued in October 2000 by the U.S. Department of Housing and Urban Development and the U.S. Department of the Treasury); or</text>
+        </para>
+        <para>
+          <num codify:value="(3)">(iii)</num>
+          <text>Enacting conveyance, recordation, foreclosure and eviction laws which are specifically reviewed and approved by Fannie Mae's counsel, and by adopting appropriate ordinances governing Manufactured Housing and Land Assignments, as necessary.</text>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(d)">(D)</num>
+        <text>The Tribe shall ensure that each Eligible Borrower to whom a loan is made in connection with this MOU holds or possesses, at the time of such financing, either (i) a leasehold estate on Trust Land or Restricted Land pursuant to a Residential Ground Lease satisfactory to Fannie Mae that is entered into between the Tribe (or TDHE or IHA) and the Eligible Borrower (provided, however, the lessor and the lessee may not be the same entity; for example, if a TDHE or IHA is the lessor, that same TDHE or IHA may not be the lessee); (ii) a valid Assignment of Trust Land or Restricted Land pursuant to the Tribe's Land Assignment Law; or (iii) a sole beneficial interest in individual Trust Land or Restricted Land (as evidenced by a deed of allotment), and that such Borrower will acquire, construct or rehabilitate a dwelling on such property with the proceeds of the Mortgage or refinance an existing mortgage loan on such property.</text>
+      </para>
+      <para>
+        <num codify:value="(e)">(E)</num>
+        <text>The Tribe shall ensure that each Eligible Borrower to whom a loan is made in connection with this MOU shall convey to the Designated Lender a security interest in the applicable real property interest described in Section 2 <span codify:value="(d)">(D)</span> above, by an appropriate instrument satisfactory to the Designated Lender, Fannie Mae and the Tribe, as security for a Mortgage made pursuant to NACLI.</text>
+      </para>
+      <para>
+        <num codify:value="(f)">(F)</num>
+        <text>The Tribe, and the Eligible Borrower who applies for a Mortgage, will permit the Designated Lender or Fannie Mae, and their respective successors or assigns, to enter upon the Trust Land or Restricted Land, as applicable, for the purpose of carrying out such actions as the Designated Lender and Fannie Mae determine are necessary to evaluate the advisability of providing the Mortgage, to service the Mortgage after origination, and to otherwise carry out or enforce the terms of the Mortgage.</text>
+      </para>
+      <para>
+        <num codify:value="(g)">(G)</num>
+        <text>The Tribe will, to the maximum extent possible, assist the Designated Lender and Fannie Mae, and their successors and assigns, in their efforts to facilitate the continued availability of conventional mortgage financing on the Trust Land or Restricted Land. Such assistance shall include:</text>
+        <para>
+          <num codify:value="(1)">(i)</num>
+          <text>Assisting the Designated Lender and Fannie Mae in finding a qualified substitute purchaser of the mortgaged property if the initial borrower is unable to fulfill the obligations under the Mortgage;</text>
+        </para>
+        <para>
+          <num codify:value="(2)">(ii)</num>
+          <text>Assisting the Designated Lender and Fannie Mae with the proper recordation of Mortgages and other legal instruments; and</text>
+        </para>
+        <para>
+          <num codify:value="(3)">(iii)</num>
+          <text>Supporting enforcement of foreclosures and evictions in connection with any default under a Mortgage in accordance with the Legal Standards.</text>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(h)">(H)</num>
+        <text>The Tribe and Fannie Mae acknowledge and agree that Mortgages made pursuant to NACLI shall be recorded in (i) the appropriate Bureau of Indian Affairs Area Land Titles and Records Office, (ii) the county recorder's office in the state in which the mortgaged properties are located, and (iii) the following recording office established under Tribal law that are designated by the Tribe for the recording of Mortgages: <u>Realty Office of the Tribe</u>.</text>
+      </para>
+      <para>
+        <num codify:value="(i)">(I)</num>
+        <text>With respect to any leasehold estate or Assignment financed by a Mortgage, the Tribe, as lessor, agrees that it shall not attempt to cancel, modify, amend, terminate, surrender or forfeit any Residential Ground Lease, leasehold estate, or Assignment without the prior written consent of the Designated Lender and Fannie Mae, or their successors or assigns, as long as such Mortgage remains outstanding and the Designated Lender or Fannie Mae, or their successors or assigns, otherwise has an interest in such leasehold estate or Assignment.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14.030"/>
+      <num codify:value="15.1.14.030">3</num>
+      <heading codify:value="Fannie Mae Purchase of Mortgages">FANNIE MAE PURCHASE OF MORTGAGES</heading>
+      <text>In consideration of the foregoing, Fannie Mae stands ready to purchase from the Designated Lender qualifying loans made to Eligible Borrowers secured by a Mortgage or Deed of Trust on Trust Land or Restricted Land, a leasehold interest thereon, or an Assignment thereof, to the extent permitted by applicable law.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14.040"/>
+      <num codify:value="15.1.14.040">4</num>
+      <heading codify:value="Consent to Jurisdiction">CONSENT TO JURISDICTION</heading>
+      <text>The Tribe and Fannie Mae hereby expressly consents to the jurisdiction of the <u>Pueblo de San Ildefonso Tribal Court and Supreme Court</u> with respect to any action brought to enforce the obligations owed by it to another party under this MOU.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14.050"/>
+      <num codify:value="15.1.14.050">5</num>
+      <heading codify:value="Termination">TERMINATION</heading>
+      <text>In the event that either party wishes to terminate the relationship established hereunder, this MOU shall terminate 30 days following receipt of written notice of such termination from either party. Provided, however, such termination shall not affect the Tribe's commitments under Sections <span codify:value="2(b), (f), (g), and (i)">2(B), (F), (G), and (I)</span> above, as long as Fannie Mae is the holder of any Mortgage originated pursuant to this MOU.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14.060"/>
+      <num codify:value="15.1.14.060">6</num>
+      <heading codify:value="Counterparts">COUNTERPARTS</heading>
+      <text>This MOU may be executed in multiple counterparts, each of which is deemed an original and all of which together constitute one and the same document.</text>
+    </section>
+    <text>IN WITNESS WHEREOF, the parties hereto have executed this MOU on the dates provided below.</text>
+    <text>
+      <strong>Fannie Mae</strong>
+    </text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>By:</td>
+          <td class="text-indent-1">_____________________</td>
+        </tr>
+        <tr>
+          <td>Name:</td>
+          <td class="text-indent-1">
+            <u>Michael T. Hernandez</u>
+          </td>
+        </tr>
+        <tr>
+          <td>Title:</td>
+          <td class="text-indent-1">
+            <u>Vice President</u>
+          </td>
+        </tr>
+        <tr>
+          <td>Date:</td>
+          <td class="text-indent-1">
+            <u>3/20/2024</u>
+          </td>
+        </tr>
+      </table>
+    </text>
+    <text>
+      <strong>Pueblo de San Ildefonso</strong>
+    </text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>By:</td>
+          <td class="text-indent-1">_____________________</td>
+        </tr>
+        <tr>
+          <td>Name:</td>
+          <td class="text-indent-1">
+            <u>Christopher A. Moquino</u>
+          </td>
+        </tr>
+        <tr>
+          <td>Title:</td>
+          <td class="text-indent-1">
+            <u>Governor</u>
+          </td>
+        </tr>
+        <tr>
+          <td>Date:</td>
+          <td class="text-indent-1">_____________________</td>
+        </tr>
+      </table>
+    </text>
+  </attachment>
+</document>

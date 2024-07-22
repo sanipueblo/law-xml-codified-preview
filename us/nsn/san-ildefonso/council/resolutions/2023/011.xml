@@ -302,9 +302,9 @@
         <text>The Election Commission is authorized to take such actions as deemed necessary to carry out the intent of this Resolution.</text>
       </para>
     </section>
-    <container>
+    <container name="election-law">
       <heading class="center">ELECTION LAW</heading>
-      <container>
+      <container name="i">
         <heading class="center">ARTICLE I – ELECTION COMMISSION</heading>
         <section>
           <codify:replace path="5.1.2.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.2.010"/>
@@ -422,7 +422,7 @@
           </para>
         </section>
       </container>
-      <container>
+      <container name="ii">
         <heading>ARTICLE II – ELECTIONS</heading>
         <section>
           <codify:replace path="5.1.3.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.3.010"/>
@@ -479,7 +479,7 @@
           </para>
         </section>
       </container>
-      <container>
+      <container name="iii">
         <heading class="center">ARTICLE III – NOMINATIONS</heading>
         <section>
           <codify:replace path="5.1.4.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.4.010"/>
@@ -536,7 +536,7 @@
           </para>
         </section>
       </container>
-      <container>
+      <container name="iv">
         <heading class="center">ARTICLE IV – CANDIDATE QUALIFICATIONS</heading>
         <section>
           <codify:replace path="5.1.5.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.5.010"/>
@@ -568,7 +568,7 @@
           </para>
         </section>
       </container>
-      <container>
+      <container name="v">
         <heading class="center">ARTICLE V - VOTING</heading>
         <section>
           <codify:replace path="5.1.6.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.6.010"/>
@@ -653,7 +653,7 @@
           </para>
         </section>
       </container>
-      <container>
+      <container name="vi">
         <heading>ARTICLE VI – BALLOTS</heading>
         <section>
           <codify:replace path="5.1.7.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.7.010"/>
@@ -681,7 +681,7 @@
           </para>
         </section>
       </container>
-      <container>
+      <container name="vii">
         <heading>ARTICLE VII – NOTICE OF ELECTIONS</heading>
         <section>
           <codify:insert path="5.1.8.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.8.010"/>
@@ -701,7 +701,7 @@
           </para>
         </section>
       </container>
-      <container>
+      <container name="viii">
         <heading>ARTICLE VIII – ELECTION PROCEDURES</heading>
         <section>
           <codify:replace path="5.1.9.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.9.010"/>
@@ -835,7 +835,7 @@
           <text>The Election Commission shall control all aspects of elections conducted by the Pueblo regardless of any Federal or State laws.  Any other election matters not specifically addressed in this law shall be decided by the Election Commission.  The decision of the Election Commission shall be final.</text>
         </section>
       </container>
-      <container>
+      <container name="ix">
         <heading>ARTICLE IX – CHALLENGES TO THE ELECTION RESULTS</heading>
         <section>
           <codify:replace path="5.1.10.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.10.010"/>
@@ -944,7 +944,7 @@
           </para>
         </section>
       </container>
-      <container>
+      <container name="x">
         <heading>ARTICLE X – RECALL ELECTIONS</heading>
         <section>
           <codify:replace path="5.1.11.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.11.010"/>
@@ -982,7 +982,7 @@
           </para>
         </section>
       </container>
-      <container>
+      <container name="xi">
         <heading>ARTICLE XI – REFERENDUM ELECTIONS</heading>
         <section>
           <codify:replace path="5.1.12.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.12.010"/>
@@ -1019,7 +1019,7 @@
           </para>
         </section>
       </container>
-      <container>
+      <container name="xii">
         <heading>ARTICLE XII – ELECTIONS TO FILL VACANCIES</heading>
         <codify:replace path="5.1.13|heading" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.13">
           <heading>ELECTIONS TO FILL VACANCIES</heading>
@@ -1077,7 +1077,7 @@
           </para>
         </section>
       </container>
-      <container>
+      <container name="xiii">
         <heading>ARTICLE XIII – OATH OF OFFICE</heading>
         <codify:replace path="5.1.14|heading" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.14">
           <heading>OATH OF OFFICE</heading>
@@ -1089,7 +1089,7 @@
           <text>After the Election Commission has certified the results of the election and the winners are announced, and any challenges are finally decided, a Justice or Judge shall administer the oath of office on January 2 at a location within the Pueblo's lands. An Acknowledgement of the Oath of Office form shall be signed by the candidate, Justice or Judge and the Commission Chair and retained by the Commission.</text>
         </section>
       </container>
-      <container>
+      <container name="xiv">
         <heading>ARTICLE XIV – AMENDMENT AND SEVERABILITY</heading>
         <codify:insert path="5.1" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.15">
           <container>
