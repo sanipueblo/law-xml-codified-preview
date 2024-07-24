@@ -135,7 +135,7 @@
     <subheading>GOVERNOR'S ACTION:</subheading>
     <text>{ X } APPROVED</text>
     <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
-    <text>On this 25th day of November	, 2020.</text>
+    <text>On this 25th day of November  , 2020.</text>
     <text>Perry Martinez, Governor</text>
     <text>Presented by the Governor to the Council on the _______ day of ________________, 2020.</text>
     <subheading>COUNCIL'S ACTION:</subheading>
@@ -254,7 +254,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>"Business Lease" means the Business lease for the White Rock Gas Station and 	Convenience Store entered into on May 9, 2018, between the Pueblo de San Ildefonso and 	San Ildefonso Services, LLC and all amendments thereto.</text>
+        <text>"Business Lease" means the Business lease for the White Rock Gas Station and  Convenience Store entered into on May 9, 2018, between the Pueblo de San Ildefonso and  San Ildefonso Services, LLC and all amendments thereto.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -353,7 +353,7 @@
     </section>
     <section>
       <codify:insert num-value="17.2.24.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.24.050"/>
-      <num>1.4</num>
+      <num>1.5</num>
       <heading>Authorizations</heading>
       <para>
         <num>(a)</num>

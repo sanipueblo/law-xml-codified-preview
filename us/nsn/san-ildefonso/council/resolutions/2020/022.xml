@@ -353,7 +353,7 @@
     </section>
     <section>
       <codify:insert num-value="17.2.23.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.23.050"/>
-      <num>1.4</num>
+      <num>1.5</num>
       <heading>Authorizations</heading>
       <para>
         <num>(a)</num>
