@@ -2481,6 +2481,89 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.15</num>
+      <heading>Authorizing the San Ildefonso Housing Authority Apply for a 2023 Indian Housing Block Grant on Behalf of the Pueblo</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001"/>
+      <annotation app="2024-03-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001" eff="2024-03-25" path="" type="History"/>
+      <section>
+        <num>15.1.15.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "AUTHORIZATION FOR THE SAN ILDEFONSO HOUSING AUTHORITY TO APPLY FOR A 2023 INDIAN COMMUNITY DEVELOPMENT BLOCK GRANT ON BEHALF OF THE PUEBLO" ("Act").</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001"/>
+          <annotation app="2024-03-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001" eff="2024-03-25" path="" type="History"/>
+          <annotation app="2024-03-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001" eff="2024-03-25" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.15.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this resolution is to authorize the San Ildefonso Housing Authority to apply for an Indian Housing Block Grant (IHBG) for construction of new homes on the reservation for IHBG eligible families.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001"/>
+          <annotation app="2024-03-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001" eff="2024-03-25" path="" type="History"/>
+          <annotation app="2024-03-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001" eff="2024-03-25" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.15.030</num>
+        <heading>Findings</heading>
+        <text>The San Ildefonso Council hereby finds that,</text>
+        <para>
+          <num>(a)</num>
+          <text>San Ildefonso Housing Authority ("SIHA") is the Tribally Designated Housing Entity ("TDHE") authorized to develop, rehabilitate and manage affordable housing activities for San Ildefonso and to participate in the design and implementation of comprehensive community and housing development activities and administer its NAHASDA funding.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo and SIHA has determined there is a shortage of new homes for IHBG Eligible families which has created overcrowding and risk for homelessness and other health and safety issues for IHBG eligible families.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo and SIHA has determined new homes are essential to ensure San Ildefonso families are able to live on the reservation, thereby preserving its culture and traditions.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo and SIHA has determined the need for new construction of homes for IHBG eligible families cannot be met with existing sources of funding and therefore the IHBG Competitive Grant is essential to address substandard housing conditions on the reservation.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo must meet certain threshold requirements in Section III.D., Threshold Eligibility Requirements. Similarly, there are eligibility requirements under Section III.E., Statutory and Regulatory Requirements Affecting Eligibility in order to be deemed eligible for IHBG funding whether the application is made directly by the Pueblo or on the Pueblo's behalf by its TDHE, the Pueblo and SIHA intends to fully comply with the threshold requirements and of the 2023 IHBG grant.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>SIHA has adopted a code of conduct policy and, in coordination with the Pueblo, prepared and disclosed to the public a statement of conflict of interests, specifically that no conflict of interest exists within the qualified applicants for the IHBG funding project nor the criteria for the selection of the proposed beneficiaries.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>SIHA has adopted and Fiscal Management and Procurement and Contract Management policies that meets 2 CFR 200 requirements.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001"/>
+          <annotation app="2024-03-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001" eff="2024-03-25" path="" type="History"/>
+          <annotation app="2024-03-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001" eff="2024-03-25" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.15.040</num>
+        <heading>Authorizations</heading>
+        <text>The Council hereby,</text>
+        <para>
+          <num>(a)</num>
+          <text>authorizes the Governor and the San Ildefonso Housing Authority to apply for Fiscal Year 2023 IHBG funding on behalf of the Pueblo for new construction of homes for IHBG eligible families; and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>authorizes the Governor and the San Ildefonso Housing Authority to take any and all actions necessary to effectuate the intent of the project and the 2023 IHBG application and process.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001"/>
+          <annotation app="2024-03-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001" eff="2024-03-25" path="" type="History"/>
+          <annotation app="2024-03-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001" eff="2024-03-25" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>

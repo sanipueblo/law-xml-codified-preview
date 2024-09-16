@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R24-002" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5">
+  <num>SI-R24-002</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R24-002</heading>
+  <heading type="law">Grant Application Authorization Act of 2024</heading>
+  <meta>
+    <effective>2024-04-22</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R24-002</citation>
+    </citations>
+    <history>
+      <adopted>2024-04-18</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 18th day of April, 2024, the following Resolution and law were adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo receives significant funds through grants from governmental and other sources to operate the government and programs for the benefit of the People; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council supports and encourages the Governor and Executive Branch Departments to apply for and obtain available grant funds for the benefit of the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has previously enacted the Grant Application and Authorization Act to provide the Governor and Executive Branch Departments and programs with broad legal authorization to apply for and receive grant funds for the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has reauthorized the Grant Application and Authorization Act multiple times with sunset clauses, and the most recent four-year extension passed in 2020 is set to expire at the end of Fiscal Year 2024; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council finds it is in the best interests of the Pueblo to provide the Governor and Executive Branch with an efficient and streamlined process to authorize the Pueblo to apply for and receive grants, and to enact a six-year extension of the Grant Application and Authorization Act to expire at the end of Fiscal Year 2030.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "GRANT APPLICATION AUTHORIZATION ACT OF 2024."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>April 18</u>, 2024, at a meeting with a vote of <u>9</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>________________________________</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R24-002</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u> 18</u><sup><u>th</u></sup> day of <u>April</u>, 2024, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>22</u><sup><u>nd</u></sup> day of <u> April</u>, 2024.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2024.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.38">
+    <container>
+      <prefix>Part</prefix>
+      <num>6.5.38</num>
+      <heading>Grant Application Authorization Act of 2024</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-002"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="6.5.38"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">GRANT APPLICATION AUTHORIZATION ACT OF 2024</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.38.010"/>
+      <num codify:value="6.5.38.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the " GRANT AUTHORIZATION ACT" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.38.020"/>
+      <num codify:value="6.5.38.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to provide a six-year extension of the Grant Application and Authorization Act.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.38.030"/>
+      <num codify:value="6.5.38.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo receives significant funds through grants from governmental and other sources to operate the government and programs for the benefit of the People; and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council supports and encourages the Governor and Executive Branch Departments to apply for and obtain available grant funds for the benefit of the Pueblo; and,</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Council has previously enacted the Grant Application and Authorization Act to provide the Governor and Executive Branch Departments and programs with broad legal authorization to apply for and receive grant funds for the Pueblo; and,</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Council has reauthorized the Grant Application and Authorization Act multiple times with sunset clauses, and the most recent four-year extension passed in 2020 is set to expire at the end of Fiscal Year 2024; and,</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Council finds it is in the best interests of the Pueblo to provide the Governor and Executive Branch with an efficient and streamlined process to authorize the Pueblo to apply for and receive grants, and to enact a six-year extension of the Grant Application and Authorization Act.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.38.040"/>
+      <num codify:value="6.5.38.040">1.4</num>
+      <heading>Six-year Extension</heading>
+      <text>The Council hereby provides a six-year extension and restatement of the Grant Authorization Act to be effective through the end of the fiscal year 2030 as follows:</text>
+      <text>
+        <strong>6.5.20.050 Grant Authorization</strong>
+      </text>
+      <para>
+        <num>(a)</num>
+        <text>The Governor and Executive Branch Departments are hereby authorized to apply for and receive grant funds from any governmental or private source for the benefit of the Pueblo through the end of the Fiscal Year 2030; provided that any matching funds that may be required to obtain a grant shall be separately appropriated in a budget or budget modification prior to the acceptance of such grant, and provided further, that no grant shall be accepted unless such grant includes funds for the Pueblo's indirect costs or the Council has specifically authorized the acceptance of the grant without indirect costs; and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Governor is hereby authorized to prepare the necessary documents to apply for and obtain grant funds in a form and manner acceptable to the funding source, including the authorization to prepare and certify a Council Resolution that may be required by the funding source and such Resolution shall include the date and vote tallies of this Act and such Resolution shall not be required to be presented to Council for another approval; and,</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>When a grant is applied for or submitted under the authorizations of this Act, the Governor shall notify the Council of such submission at the next Council meeting.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R24-001" codify:doc="Pueblo de San Ildefonso Code" codify:path="15.1">
+  <num>SI-R24-001</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R24-001</heading>
+  <heading type="law">Authorizing the San Ildefonso Housing Authority Apply for a 2023 Indian Housing Block Grant on Behalf of the Pueblo</heading>
+  <meta>
+    <effective>2024-03-25</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R24-001</citation>
+    </citations>
+    <history>
+      <adopted>2024-03-13</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 13th day of March, 2024, the following Resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the sovereign authority of the Pueblo is vested in its Council and Governor; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>San Ildefonso Housing Authority ("SIHA") is the Tribally Designated Housing Entity ("TDHE") authorized to develop, rehabilitate and manage affordable housing activities for San Ildefonso and to participate in the design and implementation of comprehensive community and housing development activities and administer its NAHASDA funding; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo and SIHA has determined there is a shortage of new homes for IHBG Eligible families which has created overcrowding and risk for homelessness and other health and safety issues for IHBG eligible families; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo and SIHA has determined new homes are essential to ensure San Ildefonso families are able to live on the reservation, thereby preserving its culture and traditions; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo and SIHA has determined the need for new construction of homes for IHBG eligible families cannot be met with existing sources of funding and therefore the IHBG Competitive Grant is essential to address substandard housing conditions on the reservation; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo must meet certain threshold requirements in Section III.D., Threshold Eligibility Requirements. Similarly, there are eligibility requirements under Section III.E., Statutory and Regulatory Requirements Affecting Eligibility in order to be deemed eligible for IHBG funding whether the application is made directly by the Pueblo or on the Pueblo's behalf by its TDHE, the Pueblo and SIHA intends to fully comply with the threshold requirements and of the 2023 IHBG grant; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SIHA has adopted a code of conduct policy and, in coordination with the Pueblo, prepared and disclosed to the public a statement of conflict of interests, specifically that no conflict of interest exists within the qualified applicants for the IHBG funding project nor the criteria for the selection of the proposed beneficiaries; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SIHA has adopted and Fiscal Management and Procurement and Contract Management policies that meets 2 CFR 200 requirements.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED THAT,</conjunction>
+      <text>the Council hereby authorizes the Governor and the San Ildefonso Housing Authority to take any and all actions necessary to effectuate the intent of the project and the 2023 IHBG application and process.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the Council hereby authorizes the Governor and the San Ildefonso Housing Authority to take any and all actions necessary to effectuate the intent of the project and the 2023 IHBG application and process.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>March 13</u>, 2024, at a meeting with a vote of <u>6</u> in favor, <u>0</u> opposed, <u> 0</u> abstaining and <u>4</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>________________________________</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R24-001</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>13</u><sup><u>th</u></sup> day of <u>March</u>, 2024, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u> 25</u><sup><u>th</u></sup> day of <u>March</u>, 2024.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2024.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.15">
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.15</num>
+      <heading>Authorizing the San Ildefonso Housing Authority Apply for a 2023 Indian Housing Block Grant on Behalf of the Pueblo</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-001"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="15.1.15"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">AUTHORIZING THE SAN ILDEFONSO HOUSING AUTHORITY APPLY FOR A 2023 INDIAN HOUSING BLOCK GRANT ON BEHALF OF THE PUEBLO</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.15.010"/>
+      <num codify:value="15.1.15.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "AUTHORIZATION FOR THE SAN ILDEFONSO HOUSING AUTHORITY TO APPLY FOR A 2023 INDIAN COMMUNITY DEVELOPMENT BLOCK GRANT ON BEHALF OF THE PUEBLO" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.15.020"/>
+      <num codify:value="15.1.15.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this resolution is to authorize the San Ildefonso Housing Authority to apply for an Indian Housing Block Grant (IHBG) for construction of new homes on the reservation for IHBG eligible families.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.15.030"/>
+      <num codify:value="15.1.15.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The San Ildefonso Council hereby finds that,</text>
+      <para>
+        <num>(a)</num>
+        <text>San Ildefonso Housing Authority ("SIHA") is the Tribally Designated Housing Entity ("TDHE") authorized to develop, rehabilitate and manage affordable housing activities for San Ildefonso and to participate in the design and implementation of comprehensive community and housing development activities and administer its NAHASDA funding.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo and SIHA has determined there is a shortage of new homes for IHBG Eligible families which has created overcrowding and risk for homelessness and other health and safety issues for IHBG eligible families.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Pueblo and SIHA has determined new homes are essential to ensure San Ildefonso families are able to live on the reservation, thereby preserving its culture and traditions.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Pueblo and SIHA has determined the need for new construction of homes for IHBG eligible families cannot be met with existing sources of funding and therefore the IHBG Competitive Grant is essential to address substandard housing conditions on the reservation.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Pueblo must meet certain threshold requirements in Section III.D., Threshold Eligibility Requirements. Similarly, there are eligibility requirements under Section III.E., Statutory and Regulatory Requirements Affecting Eligibility in order to be deemed eligible for IHBG funding whether the application is made directly by the Pueblo or on the Pueblo's behalf by its TDHE, the Pueblo and SIHA intends to fully comply with the threshold requirements and of the 2023 IHBG grant.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>SIHA has adopted a code of conduct policy and, in coordination with the Pueblo, prepared and disclosed to the public a statement of conflict of interests, specifically that no conflict of interest exists within the qualified applicants for the IHBG funding project nor the criteria for the selection of the proposed beneficiaries.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>SIHA has adopted and Fiscal Management and Procurement and Contract Management policies that meets 2 CFR 200 requirements.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.15.040"/>
+      <num codify:value="15.1.15.040">1.4</num>
+      <heading>Authorizations</heading>
+      <text>The Council hereby,</text>
+      <para>
+        <num>(a)</num>
+        <text>authorizes the Governor and the San Ildefonso Housing Authority to apply for Fiscal Year 2023 IHBG funding on behalf of the Pueblo for new construction of homes for IHBG eligible families; and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>authorizes the Governor and the San Ildefonso Housing Authority to take any and all actions necessary to effectuate the intent of the project and the 2023 IHBG application and process.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

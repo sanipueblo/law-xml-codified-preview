@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R24-004" codify:doc="Pueblo de San Ildefonso Code" codify:path="24.2">
+  <num>SI-R24-004</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R24-004</heading>
+  <heading type="law">Guaje Power Line Quit Claim Deed Authorization Act</heading>
+  <meta>
+    <effective>2024-04-22</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R24-004</citation>
+    </citations>
+    <history>
+      <adopted>2024-04-18</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 18th day of April, 2024, the following Resolution and law were adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 1959, the Pueblo de San Ildefonso ("Pueblo") granted a fifty (50) year easement to the Atomic Energy Commission, the predecessor agency to the U.S. Department of Energy/National Nuclear Security Administration (DOE/NNSA) to construct, operate, and maintain water wells, water lines and facilities, power transmission lines, access roads and related facilities on Pueblo lands in the Guaje Canyon area; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to a 1992 Supplemental Agreement with DOE, the DOE elected to cease operation of the water wells, water and electric lines, and other related facilities within the original easement and required use of the original easement through December 31, 1996, to allow for the removal and abandonment of DOE's improvements constructed on the easement and restoration of the easement property; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under the 1992 Supplemental Agreement, in the event that the Pueblo did not exercise its right to purchase the improvements and DOE did not exercise its right to remove the improvements, the improvements would become the property of the Pueblo, provided that DOE agreed to tie in the abandoned transmission lines into the Jemez Mountain Electric Cooperative, Inc. ("JMEC") system at no cost to the Pueblo to avoid loss of electric service to the Pueblo's properties; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under the Supplemental Agreement, DOE agreed to transfer the abandoned power transmission lines to the Pueblo on the date the of the tie-in to the JMEC system, however, DOE transferred the transmission lines to the Pueblo pursuant to a Material Shipping Report, dated March 2, 1993, without the agreed tie-in to the JMEC system; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>when the Pueblo inquired in 1999 about extending temporary power in the Totavi area, DOE informed the Pueblo that the transmission lines were no longer DOE property as a result of the transfer in 1993; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>DOE/NNSA has determined that the 1993 Material Shipping Report was not a legally binding document and wishes to properly document the transfer of the transmission lines that took place under the Material Shipping Report; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>DOE/NNSA has proposed the attached Quit Claim Deed to properly document the transfer of the transmission lines, poles and other equipment shown on the Guaje Line Pole List attached to the Quit Claim Deed as Exhibit B, subject to the following terms:</text>
+      <para>
+        <num>1.</num>
+        <text>DOE/NNSA is released from all operation and maintenance responsibilities for the identified transmission lines, poles and other equipment.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>DOE/NNSA will be responsible to tie in the Guaje Line to the JMEC system at no cost to the Pueblo in accordance with the 1992 Supplemental Agreement.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Pueblo will receive electric service through Las Alamos County at the Pueblo's expense until the tie-in to the JMEC is complete.</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has been fully briefed and has reviewed the proposed Quit Claim Deed document and attachments and has determined that it is in the best interest of the Pueblo to authorize the Governor to sign a form of the Quit Claim Deed.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED THAT</conjunction>
+      <text>the Council hereby enacts the attached law entitled "GUAJE POWER LINE QUIT CLAIM DEED AUTHORIZATION ACT</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>April 18</u>, 2024, at a meeting with a vote of in favor, opposed, abstaining and absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>________________________________</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R24-002</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u> 18</u><sup><u>th</u></sup> day of <u>April</u>, 2024, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u> 22</u><sup><u>nd</u></sup> day of <u> April</u> , 2024.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2024.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.10">
+    <container>
+      <prefix>Part</prefix>
+      <num>24.2.10</num>
+      <heading>Guaje Power Line Quit Claim Deed Authorization Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-004"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="24.2.10"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">GUAJE POWER LINE QUIT CLAIM DEED AUTHORIZATION ACT</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.10.010"/>
+      <num codify:value="24.2.10.010">1.1</num>
+      <heading>. Short Title</heading>
+      <text>This enactment shall be known as the "GUAJE POWER LINE QUIT CLAIM DEED AUTHORIZATION ACT" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.10.020"/>
+      <num codify:value="24.2.10.020">1.2</num>
+      <heading>. Purpose</heading>
+      <text>The purpose of this Act is authorize the Governor sign a Quit Claim Deed from the Department of Energy/National Nuclear Security Administration (DOE/NNSA) to properly document the transfer of electric transmission lines, poles and related equipment located in the DOE/NNSA Easement on Pueblo lands in the Guaje Canyon area.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.10.030"/>
+      <num codify:value="24.2.10.030">1.3</num>
+      <heading>. Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>In 1959, the Pueblo de San Ildefonso ("Pueblo") granted a fifty (50) year easement to the Atomic Energy Commission, the predecessor agency to the U.S. Department of Energy/National Nuclear Security Administration (DOE/NNSA) to construct, operate, and maintain water wells, water lines and facilities, power transmission lines, access roads and related facilities on Pueblo lands in the Guaje Canyon area.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Pursuant to a 1992 Supplemental Agreement with DOE, the DOE elected to cease operation of the water wells, water and electric lines, and other related facilities within the original easement and required use of the original easement through December 31, 1996, to allow for the removal and abandonment of DOE's improvements constructed on the easement and restoration of the easement property.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Under the 1992 Supplemental Agreement, in the event that the Pueblo did not exercise its right to purchase the improvements and DOE did not exercise its right to remove the improvements, the improvements would become the property of the Pueblo, provided that DOE agreed to tie in the abandoned transmission lines into the Jemez Mountain Electric Cooperative, Inc. ("JMEC") system at no cost to the Pueblo to avoid loss of electric service to the Pueblo's properties.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Under the Supplemental Agreement, DOE agreed to transfer the abandoned power transmission lines to the Pueblo on the date the of the tie in to the JMEC system, however, DOE transferred the transmission lines to the Pueblo pursuant to a Material Shipping Report, dated March 2, 1993, without the agreed tie-in to the JMEC system.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>When the Pueblo inquired in 1999 about extending temporary power in the Totavi area, DOE informed the Pueblo that the transmission lines were no longer DOE property as a result of the transfer in 1993; and,</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>DOE/NNSA has determined that the 1993 Material Shipping Report was not a legally binding document and wishes to properly document the transfer of the transmission lines that took place under the Material Shipping Report; and,</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>DOE/NNSA has proposed the attached Quit Claim Deed to properly document the transfer of the transmission lines, poles and other equipment shown on the Guaje Line Pole List attached to the Quit Claim Deed as Exhibit B, subject to the following terms:</text>
+        <para>
+          <num>1.</num>
+          <text>DOE/NNSA is released from all operation and maintenance responsibilities for the identified transmission lines, poles and other equipment.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>DOE/NNSA will be responsible to tie-in the Guaje Line to the JMEC system at no cost to the Pueblo in accordance with the 1992 Supplemental Agreement.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The Pueblo will receive electric service through Las Alamos County at the Pueblo's expense until the tie-in to the JMEC is complete.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Council has been fully briefed and has reviewed the proposed Quit Claim Deed document and attachments and has determined that it is in the best interest of the Pueblo to authorize the Governor to sign a form of the Quit Claim Deed.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.10.040"/>
+      <num codify:value="24.2.10.040">1.4</num>
+      <heading>. Authorization and Waivers</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes the Governor to sign a form of the Quit Claim Deed from DOE/NNSA and to make any revisions or amendments as may be necessary to support the execution of the Quit Claim Deed subject to the provisions of this Act.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Governor, or his designee, is authorized to take all actions as necessary to carry out the intent of this Act.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

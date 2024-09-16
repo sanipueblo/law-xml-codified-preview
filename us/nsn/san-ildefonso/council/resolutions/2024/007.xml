@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R24-007" codify:doc="Pueblo de San Ildefonso Code" codify:path="17.2">
+  <num>SI-R24-007</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R24-007</heading>
+  <heading type="law">Act Supporting San Ildefonso Services Application to Grid Alternatives' Tribal Solar Accelerator Fund for Tribal Facilty Solar Project Funding</heading>
+  <meta>
+    <effective>2024-05-16</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R24-007</citation>
+    </citations>
+    <history>
+      <adopted>2024-05-15</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 15th day of May, 2024, the following resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>San Ildefonso Services, LLC (SIS) is wholly owned by a single member, the Pueblo de San Ildefonso (the "Pueblo"), for the benefit of the Pueblo and its members; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>San Ildefonso Services, LLC is a Manager-Managed LLC, which is currently operated by a four-member Board; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>San Ildefonso Services, LLC is authorized by its Articles of Organization to engage in business ventures, acquire, manage, and operate buildings, personal property, and real property, and to take any action incidental, necessary, or convenient to affect any or all of the purposes for which it is organized; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>economic development and job creation are priorities of the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SIS plans to apply for GRID Alternatives' Tribal Solar Accelerator Fund ("TSAF Grant") for $200,000.00 for tribal facility solar project to expand solar job opportunities in tribal communities; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>assistance from SIS, in 2023, the Pueblo was awarded a formula grant in the amount of $144,178.00 from DOE through the Grid Deployment Office ("DOE Grant") funded by the Bipartisan Infrastructure Law whose description includes "enhancing the resilience of the electric grid to States and Indian Tribes" and for which such funds can be contributed to the TSAF Grant tribal facility solar project; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the 2024-2026 formula grants from this same source each total in excess of $200,000.00 indicating the Pueblo will receive additional funds from this source; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the 2023 DOE Grant requires 15% match funding or in-kind funds totaling $21,626.70, which will be satisfied by use of State of New Mexico matching grant funds through the New Mexico Indian Affairs Department ("IAD"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo supports SIS' proposed plan for the TSAF Grant funding is to install a 50kW solar covered carport structure for the Tribal Administrative building parking lot employing tribal members from the Pueblo as the labor force who will be trained and hired for the project; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>this size system would cover the electric utility bill from the Tribal Administrative building on the Pueblo's tribal lands offsetting approximately $1,000/month in Jemez Mountain Electric Coop charges and fees; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the cost of this project is approximately $350,000 and requires funding from the Pueblo's DOE Grant funds, including the IAD's match funds; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the project, if awarded could be completed within one year after being awarded the TSAF Grant funding; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the SIS Manager with the support of the SIS Member's Representatives unanimously approved a motion to proceed with the above options for Tribal Council's consideration and support of submitting an application to the TSAF at a special Member's Representatives meeting held on May1, 2024; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council believes it is in the best interest of the Pueblo for SIS to apply for the TSAF Grant and to contribute DOE Grant funds and IAD match funding.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "ACT SUPPORTING SAN ILDEFONSO SERVICES' APPLICATION TO GRID ALTERNATIVES TRIBAL SOLAR ACCELERATOR FUND FOR TRIBAL FACILTY SOLAR PROJECT FUNDING."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u> May</u>, 2024, at a meeting with a vote of <u>8</u> in favor, <u> 0 </u>opposed, <u>1</u> abstaining and <u> 1</u> absent pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>____________________________</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No.<u> SI-R24-007</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>15</u><sup><u>th</u></sup> day of <u> May</u>, 2024, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>16</u><sup><u>th</u></sup> day of <u>May</u>, 2024.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2024.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.32">
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.32</num>
+      <heading>Act Supporting San Ildefonso Services Application to Grid Alternatives' Tribal Solar Accelerator Fund for Tribal Facilty Solar Project Funding</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="17.2.32"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">ACT SUPPORTING SAN ILDEFONSO SERVICES APPLICATION TO GRID ALTERNATIVES' TRIBAL SOLAR ACCELERATOR FUND FOR TRIBAL FACILTY SOLAR PROJECT FUNDING</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.32.010"/>
+      <num codify:value="17.2.32.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "ACT SUPPORTING SAN ILDEFONSO SERVICES APPLICATION TO GRID ALTERNATIVES' TRIBAL SOLAR ACCELERATOR FUND FOR TRIBAL FACILTY SOLAR PROJECT FUNDING" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.32.020"/>
+      <num codify:value="17.2.32.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this resolution is to authorize San Ildefonso Services to submit an application and, if successful, manage the project through funding obtained from Grid Alternatives from their Tribal Facility Solar Project Funding Grant, utilizing DOE 2023 Resiliency Grant fund and the New Mexico Indian Affairs Department funding as the matching funds required for the grant…</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.32.030"/>
+      <num codify:value="17.2.32.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>San Ildefonso Services, LLC is authorized by its Articles of Organization to engage in business ventures, acquire, manage, and operate buildings, personal property, and real property, and to take any action incidental, necessary, or convenient to affect any or all of the purposes for which it is organized.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Economic development and job creation are priorities of the Pueblo.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>It is in the best interest of the Pueblo for SIS to apply for the TSAF Grant funds in the amount of $200,000.00 for tribal facility solar project to expand solar job opportunities in tribal communities.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Pueblo was awarded a formula grant in the amount of $144,178.00 from DOE through the Grid Deployment Office funded by the Bipartisan Infrastructure Law whose description includes "enhancing the resilience of the electric grid to States and Indian Tribes" and these funds can be utilized for a solar project.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The 2023 grant required the applicant to provide 15% matching or in-kind funds totaling $21,626.70 and these can be satisfied by use of State of New Mexico matching grant funds through IAD.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The proposed plan for the TSAF Grant funding is to install a 50kW solar covered carport structure for the Tribal Administrative building parking lot employing tribal members from the Pueblo as the labor force who will be trained and hired for the project.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The cost of this project is approximately $350,000 and requires funding from both TSAF Grant and from the Pueblo's Resiliency Grant.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The project, could be completed within one year after being awarded the TSAF Grant Funding.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The SIS Manager with the support of the SIS Member's Representatives unanimously approved a motion to proceed with the above options for Tribal Council's consideration and support of submitting an application to the TSAF at a special Member's Representatives meeting held on May 1, 2024.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The Tribal Council believes it is in the best interest of the Pueblo for SIS to apply for the TSAF Grant.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.32.040"/>
+      <num codify:value="17.2.32.040">1.4</num>
+      <heading>Authorization</heading>
+      <text>The Council hereby authorizes and directs the Governor, or his tribal organization designee, San Ildefonso Services LLC, to take such actions as deemed necessary to carry out the intent of this resolution which is to apply for the funds and execute the project and to submit any additional documents, including statements and certification for and in behalf of the Pueblo necessary to fill any funding requirements or to fulfill the purposes of this act.</text>
+    </section>
+  </attachment>
+</document>

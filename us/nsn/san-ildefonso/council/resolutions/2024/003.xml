@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R24-003" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5">
+  <num>SI-R24-003</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R24-003</heading>
+  <heading type="law">The BIA P.L. 93-638 Contract Authorization Act</heading>
+  <meta>
+    <effective>2024-04-22</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R24-003</citation>
+    </citations>
+    <history>
+      <adopted>2024-04-18</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 18th day of         April, 2024, the following Resolution and law were adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has contracted and administered various programs and services provided by the Bureau of Indian Affairs ("BIA") through contracts with the BIA pursuant to the Indian Self-Determination and Education Assistance Act ("ISDEAA"), also known as P.L. 93-638 ("638" contracts); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo is required to apply to BIA for initial "638" contracts as well as for renewal of on-going "638" contracts; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a Council resolution or authorization is required for the "638" contract application and its submission to BIA; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo acknowledges the benefits received from the services provided by the various "638" contracted programs and wishes to continue to contract with BIA to receive funding to administer these programs; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has determined that it is in the best interest of the Pueblo to authorize the Governor to contract with the BIA for programs and services that are beneficial to the Pueblo without the need to continually return to the Council for a resolution or authorization for the "638" contract, particularly for a renewal of an existing contract; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has determined that is in the best interest of the Pueblo to authorize the Governor to negotiate and execute a contract agreement and to take any other actions necessary to effectuate a contract for the following BIA-contracted programs:</text>
+      <text>Consolidated Tribal Government Program</text>
+      <text>Indian Child Welfare Act Program</text>
+      <text>Johnson O'Malley Program</text>
+      <text>Scholarships Program</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council intends that this authorization shall remain in effect until rescinded by the Council.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "THE BIA P.L. 93-638 CONTRACT AUTHORIZATION ACT."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>April 18</u>, 2024, at a meeting with a vote of <u>9</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R24-003</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>18</u><sup><u>th</u></sup> day of <u> April</u>, 2024, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u> 22</u><sup><u>nd</u></sup> day of <u>April </u>, 2024.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2024.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39">
+    <container>
+      <prefix>Part</prefix>
+      <num>6.5.39</num>
+      <heading>The BIA P.L. 93-638 Contract Authorization Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-003"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="6.5.39"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">THE BIA P.L. 93-638 CONTRACT AUTHORIZATION ACT</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39.010"/>
+      <num codify:value="6.5.39.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "THE BIA P.L. 93-638 CONTRACT AUTHORIZATION ACT" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39.020"/>
+      <num codify:value="6.5.39.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act to authorize the Governor to contract with the BIA for programs and services that are beneficial to the Pueblo without the need to return to the Council for a resolution or authorization for the "638" contract, particularly for a renewal of an existing "638" contract.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39.030"/>
+      <num codify:value="6.5.39.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo de San Ildefonso ("Pueblo") contracted and administered various programs and services provided by the Bureau of Indian Affairs ("BIA") through contracts with the BIA pursuant to the Indian Self-Determination and Education Assistance Act ("ISDEAA"), also known as P.L. 93-638 ("638 contracts").</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo is required to apply to BIA for initial "638" contracts as well as for renewal of on-going "638" contracts.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A Council resolution or authorization is required for the "638" contract application and its submission to BIA.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Pueblo acknowledges the benefits received from the services provided by the various "638" contracted programs and wishes to continue to contract with BIA to receive funding to administer these programs.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Council has determined that it is in the best interest of the Pueblo to authorize the Governor to contract with the BIA for programs and services that are beneficial to the Pueblo without the need to continually return to the Council for a resolution or authorization for the "638" contract, particularly for a renewal of an existing contract.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Council has determined that is in the best interest of the Pueblo to authorize the Governor to negotiate and execute a contract agreement and to take any other actions necessary to effectuate a contract for the following BIA-contracted programs:</text>
+        <text>Consolidated Tribal Government Program</text>
+        <text>Indian Child Welfare Act Program</text>
+        <text>Johnson O'Malley Program</text>
+        <text>Scholarships Program</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Council intends that this authorization shall remain in effect until rescinded by the Council.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39.040"/>
+      <num codify:value="6.5.39.040">1.4</num>
+      <heading>Authorizations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Governor is authorized to contract with the BIA for programs and services that are beneficial to the Pueblo without the need to return to the Council for a resolution or authorization for the "638" contract, particularly if it is for a renewal of an existing contract.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Governor is authorized to negotiate and execute a contract agreement and to take any other actions necessary to effectuate a contract for the following BIA-contracted programs:</text>
+        <text>Consolidated Tribal Government Program</text>
+        <text>Indian Child Welfare Act Program</text>
+        <text>Johnson O'Malley Program</text>
+        <text>Scholarships Program</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Governor is also authorized to negotiate and execute a new contract agreement for any other BIA program not listed in Section 1.4(b) above, and upon issuance of a "638" contract by BIA, such program shall be subject to the continuing authorization of this Act.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In the event that BIA requires a specific resolution or other authorization for a "638" contract, the Governor is authorized to issue a form of resolution or authorization in accordance with the Pueblo's Grant Authorization Act.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>When a "638" contract application or agreement has been submitted to BIA under the authorizations of this Act, the Governor shall notify the Council of such submission at the next Council meeting.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>This authorization shall remain in effect until rescinded by the Council.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

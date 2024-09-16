@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R24-005" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5">
+  <num>SI-R24-005</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R24-005</heading>
+  <heading type="law">Act Authorizing Signature of Western Area Power Adminstration Contracts</heading>
+  <meta>
+    <effective>2024-05-16</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R24-005</citation>
+    </citations>
+    <history>
+      <adopted>2024-05-15</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 15th day of May, 2024, the following resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Western Area Power Administration ("WAPA") is a power marketing authority under the Department of Energy which acts as a wholesale electricity supplier in the western United States; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>WAPA markets and transmits hydropower allocations to customers through long-term power contracts referred to as Firm Electric Service contracts; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 2004, the Pueblo de San Ildefonso ("Pueblo") and WAPA entered into a Firm Electric Contract to receive an allocation of WAPA power ("Pueblo's Allocation") and the Pueblo and WAPA also entered into a Benefit Crediting Contract to allow Tri-State Generation and Transmission Association ("Tri-State") and Jemez Mountain Electric Cooperative, Inc. ("JMEC") to receive the Pueblo's Allocation of federal electric power and to have JMEC pay the Pueblo for the benefit of that federal electric power; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has been receiving financial payments under the Benefit Crediting Contract since 2004; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>WAPA's Firm Electric Service contract with the Pueblo will be expiring on September 30, 2024 and WAPA has reached out to the Pueblo to extend the Firm Electric Service contract through 2057 and to enter into another Benefit Crediting Contract; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has been fully briefed and has reviewed the proposed Firm Electric Service Contract and the Benefit Crediting Contract and attachments and has determined that it is in the best interest of the Pueblo to authorize the Governor to sign a form of the Firm Electric Service Contract and the Benefit Crediting Contract.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED THAT</conjunction>
+      <text>the Council hereby enacts the attached law entitled "ACT AUTHORIZING SIGNATURE OF WESTERN AREA POWER ADMINSTRATION CONTRACTS."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u> May</u>, 2024, at a meeting with a vote of <u>8</u> in favor, <u>0</u> opposed, <u>1</u> abstaining and <u> 1 </u> absent pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>____________________________</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No.<u> SI-R24-005</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>15</u><sup><u>th</u></sup> day of <u>May</u>, 2024, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>16</u><sup><u>th</u></sup> day of <u>May</u>, 2024.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2024.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.40">
+    <container>
+      <prefix>Part</prefix>
+      <num>6.5.40</num>
+      <heading>Act Authorizing Signature of Western Area Power Adminstration Contracts</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-005"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="6.5.40"/>
+    <text>
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">ACT AUTHORIZING SIGNATURE OF WESTERN AREA POWER ADMINSTRATION CONTRACTS</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.40.010"/>
+      <num codify:value="6.5.40.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "Act Authorizing Signature of Western Area Power Administration Contracts."</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.40.020"/>
+      <num codify:value="6.5.40.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize the Governor to negotiate and sign contracts with the Western Area Power Administration to allow the Pueblo to continue to receive benefits from long term power contracts.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.40.030"/>
+      <num codify:value="6.5.40.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Western Area Power Administration ("WAPA") is a power marketing authority under the Department of Energy which acts as a wholesale electricity supplier in the western United States.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>WAPA markets and transmits hydropower allocations to customers through long-term power contracts referred to as Firm Electric Service contracts.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In 2004, the Pueblo de San Ildefonso ("Pueblo") and WAPA entered into a Firm Electric Contract to receive an allocation of WAPA power ("Pueblo's Allocation") and the Pueblo and WAPA also entered into a Benefit Crediting Contract to allow Tri-State Generation and Transmission Association ("Tri-State") and Jemez Mountain Electric Cooperative, Inc. ("JMEC") to receive the Pueblo's Allocation of federal electric power and to have JMEC pay the Pueblo for the benefit of that federal electric power.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Pueblo has been receiving financial payments under the Benefit Crediting Contract since 2004.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>WAPA's Firm Electric Service contract with the Pueblo will be expiring on September 30, 2024, and WAPA has reached out to the Pueblo to extend the Firm Electric Service contract through 2057 and to enter into another Benefit Crediting Contract.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Council has been fully briefed and has reviewed the proposed Firm Electric Service Contract, the Benefit Crediting Contract, and attachments and has determined that it is in the best interest of the Pueblo to authorize the Governor to sign a form of the Firm Electric Service Contract and the Benefit Crediting Contract.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.40.040"/>
+      <num codify:value="6.5.40.040">1.4</num>
+      <heading>Authorizations and Waivers</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes the Governor to negotiate and sign a form of the Firm Electric Service Contract, the Benefit Crediting Contract, and related attachments, and is authorized to make any revisions or amendments as may be necessary to support the execution of the contracts.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Governor, or his designee, is authorized to take all actions as necessary to carry out the intent of this Act.</text>
+      </para>
+    </section>
+  </attachment>
+</document>
