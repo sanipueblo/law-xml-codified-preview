@@ -351,9 +351,26 @@
         <text>All other items of the Business Lease shall remain in full force and effect.</text>
       </para>
     </section>
-    <section>
-      <codify:insert num-value="17.2.23.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.23.050"/>
-      <num>1.5</num>
+    <section name="1.4~1">
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.23.050">
+        <section>
+          <num>17.2.23.050</num>
+          <heading>Authorizations</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Council approves the attached Second Amendment.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Governor is authorized to take such actions necessary to make any minor technical non-substantive amendments to the Second Amendment document as may be necessary provided that Council is informed of such amendments.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Governor is authorized to take such action as necessary to submit the completed Second Amendment to Northern Pueblos Agency, Bureau of Indian Affairs, for review and approval.</text>
+          </para>
+        </section>
+      </codify:insert>
+      <num>1.4</num>
       <heading>Authorizations</heading>
       <para>
         <num>(a)</num>

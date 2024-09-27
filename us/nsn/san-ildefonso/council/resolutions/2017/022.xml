@@ -260,9 +260,9 @@
         <text>JOM programs that foster specialized, culturally sensitive, and unique educational programs that develop leadership skills of future tribal leaders necessary to promote positive academic, social, and economic changes in Indian communities will cease to exist without continued and appropriate levels of annual funding from Congress.</text>
       </para>
     </section>
-    <section>
-      <codify:insert num-value="13.1.3.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|13.1.3.040"/>
-      <num>1.4</num>
+    <section name="1.3~1">
+      <codify:insert num-value="13.1.3.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|1.3~1"/>
+      <num>1.3</num>
       <heading>Support for JOM Program</heading>
       <para>
         <num>(a)</num>
