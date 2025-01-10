@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R24-016" codify:doc="Pueblo de San Ildefonso Code" codify:path="17.2">
+  <num>SI-R24-016</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R24-016</heading>
+  <heading type="law">Act Designating Pueblo de San Ildefonso Lands for the San Ildefonso Services Fiber Network Project</heading>
+  <meta>
+    <effective>2024-12-16</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R24-016</citation>
+    </citations>
+    <history>
+      <adopted>2024-12-13</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 13th day of December, 2024, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>San Ildefonso Services, LLC ("SIS") is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo de San Ildefonso (the "Pueblo"), for the benefit of the Pueblo and its members; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SIS was awarded a grant from National Telecommunications Infrastructure Administration ("NTIA") for the design and construction of a Fiber to the Home ("FTTH") network project to expand internet capabilities and to provide high-speed internet to over 255 homes and businesses located on the Pueblo, to build the tribal IT capacity, to develop new business opportunities for tribal residents, and to connect the Pueblo's FTTH network back to a data center for internet access in Albuquerque; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SIS was awarded additional funding through the State of New Mexico's Office of Broadband Access and Expansion ("OBAE") Middle Mile Project and matching funds from Los Alamos County to financially augment the NTIA FTTH project; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in order to complete the NTIA FTTH Project and the OBAE Middle Mile Project (collectively "the SIS Fiber Network Project"), SIS will need to provide evidence that SIS has acquired continuous and adequate authorization for the Pueblo's land to be used for the construction, operation, and maintenance of the SIS Fiber Network Project; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has authority to enact laws pertaining to all lands, persons and activities within the Pueblo pursuant to the Governing Agreement; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has the sovereign power and governmental authority to designate Pueblo de San Ildefonso land for the benefit of the SIS and to support the provision of public services to its members and residents, tribal government and businesses; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>such a designation of Pueblo de San Ildefonso land for the benefit of SIS, a tribally chartered single member limited liability company wholly owned by the Pueblo, does not convey or alienate any interests in such lands to a third party or encumber those lands for the benefit of any third party and therefore such designation does not require the approval of the Secretary of the Interior under 25 CFR Part 169; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council reviewed and considered the attached proposed route consisting of an approximately 10 foot wide 45 mile long easement for the location of the SIS Fiber Network Project on lands held by the Pueblo de San Ildefonso and has determined it is in the best interests of the Pueblo to designate this land for the public purposes of construction, operation, and maintenance of the SIS Fiber Network Project and to authorize SIS to use such designated lands for the SIS Fiber Network Project; provided that SIS shall deliver to the Governor a more specific map of definite location and design and construction plans of the network facilities not less than sixty (60) days prior to construction; provided further that SIS shall provide to the Governor a legal description within sixty (60) days after the fiber infrastructure has been fully installed.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "ACT DESIGNATING PUEBLO DE SAN ILDEFONSO LANDS FOR THE SAN ILDEFONSO SERVICES FIBER NETWORK PROJECT."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>December 13</u>, 2024, at a meeting with a vote of <u>7</u> in favor, <u>0</u> opposed, <u>1</u> abstaining and <u>2</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Montoya</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R24-016</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>13</u><sup><u>th</u></sup> day of <u>December</u>, 2024, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>16</u><sup><u>th</u></sup> day of <u>December</u>, 2024.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2024.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Montoya</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.33">
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.33</num>
+      <heading>Act Designating Pueblo de San Ildefonso Lands for the San Ildefonso Services Fiber Network Project</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="17.2.33"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">ACT DESIGNATING PUEBLO DE SAN ILDEFONSO LANDS FOR THE SAN ILDEFONSO SERVICES FIBER NETWORK PROJECT</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.33.010"/>
+      <num codify:value="17.2.33.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "ACT DESIGNATING PUEBLO DE SAN ILDEFONSO LANDS FOR THE SAN ILDEFONSO SERVICES FIBER NETWORK PROJECT."</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.33.020"/>
+      <num codify:value="17.2.33.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to designate certain Pueblo de San Ildefonso lands for the interest of the San Ildefonso Services ("SIS"), a tribally chartered single member limited liability company wholly owned by the Pueblo de San Ildefonso ("Pueblo"), for its Fiber Network Project and to support the provision of public services to its members, residents, tribal government and businesses.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.33.030"/>
+      <num codify:value="17.2.33.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>SIS was awarded a grant from National Telecommunications Infrastructure Administration ("NTIA") for the design and construction of a Fiber to the Home ("FTTH") network project to expand internet capabilities and to provide high-speed internet to over 255 homes and businesses located on the Pueblo, to build the tribal IT capacity, to develop new business opportunities for tribal residents, and to connect the Pueblo's FTTH network back to a data center for internet access in Albuquerque.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>SIS was awarded additional funding through the State of New Mexico's Office of Broadband Access and Expansion ("OBAE") Middle Mile Project and matching funds from Los Alamos County to financially augment the NTIA FTTH project.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In order to complete the NTIA FTTH Project and the OBAE Middle Mile Project (collectively "the SIS Fiber Network Project"), SIS will need to provide evidence that SIS has acquired continuous and adequate authorization for the Pueblo's land to be used for the construction, operation, and maintenance of the SIS Fiber Network Project.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Council has authority to enact laws pertaining to all lands, persons and activities within the Pueblo pursuant to the Governing Agreement.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Council has the sovereign power and governmental authority to designate Pueblo de San Ildefonso land for the benefit of the SIS and to support the provision of public services to its members and residents, tribal government and businesses.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Such a designation of Pueblo de San Ildefonso land for the benefit of SIS, a tribally chartered single member limited liability company wholly owned by the Pueblo, does not convey or alienate any interests in such lands to a third party or encumber those lands for the benefit of any third party and therefore such designation does not require the approval of the Secretary of the Interior under 25 CFR Part 169.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Council reviewed and considered the attached map of the proposed route consisting of an approximately 10-foot-wide 45-mile-long easement for the fiber network facilities on lands held by the Pueblo de San Ildefonso and has determined it is in the best interests of the Pueblo to designate this land for the public purposes of construction, operation, and maintenance of the SIS Fiber Network Project and authorize SIS to use such designated lands for the SIS Fiber Network Project.</text>
+      </para>
+    </section>
+    <section><codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.33.040"/>&gt;
+      <num codify:value="17.2.33.040">1.4</num><heading>Authorizations</heading><para><num>(a)</num><text>The Council hereby approves the designation of the Pueblo de San Ildefonso land described in the attached map for the public purposes of the construction, operation, and maintenance of the SIS Fiber Network Project and such designation shall remain in full force and effect for so long as the land shall be required for the fiber network facilities.</text></para><para><num>(b)</num><text>The Council authorizes SIS to use such designated lands for the construction, operation, and maintenance of the SIS Fiber Network Project.</text></para><para><num>(c)</num><text>SIS shall deliver to Governor a map of definite location and design and construction plans of the network facilities describing the land dedicated for public purposes for the fiber network not less than sixty (60) days prior to construction and SIS shall deliver a legal description within sixty (60) days after the fiber infrastructure is fully installed.</text></para><para><num>(d)</num><text>The Governor and legal counsel are authorized to take all necessary actions to perfect such designation and to prepare and execute such documents as may be necessary to give full force and effect to the intent of this Act.</text></para></section>
+  </attachment>
+</document>

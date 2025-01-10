@@ -1,0 +1,503 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R24-014" codify:doc="Pueblo de San Ildefonso Code" codify:path="2.3">
+  <num>SI-R24-014</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R24-014</heading>
+  <heading type="law">Act of 2024 Authorizing the Formation of the Santa Fe Indian School District and Governing Council and Delegation of Certain Governmental Authority of the Pueblo de San Ildefonso over the Santa Fe Indian School Trust Lands</heading>
+  <meta>
+    <effective>2024-11-27</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R24-014</citation>
+    </citations>
+    <history>
+      <adopted>2024-11-21</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 21st day of November, 2024, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo") possesses inherent sovereign powers over the Pueblo's lands, wherever situated; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to the Santa Fe Indian School Act of 2000, Public Law 106-568 §§ 821-824, 114 Stat. 2868, 2919 ("SFIS Act") approximately 115 acres of land, which includes the Santa Fe Indian School ("SFIS") and the Indian Health Service Unit properties, was taken into trust by the United States for the benefit of the 19 Pueblos in New Mexico ("SFIS Trust Lands" or "Indian School Tract"). The lands are to be used for the educational, health and cultural purposes of the Santa Fe Indian School, including use for related non-profit or technical programs, as operated by Santa Fe Indian School, Inc., ("SFIS, Inc.") the non-profit corporation chartered under the State of New Mexico and wholly owned by the 19 Pueblos; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the SFIS Trust Lands are part of Indian Country and not subject to City, State or County laws; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 2004, each of the 19 Pueblos delegated its authority on all matters related to the governance, operation and administration of the SFIS Trust Lands to the SFIS, Inc. and its Board of Trustees ("Board"), the entity also responsible for educational functions of the SFIS. In 2006 with such new authority, the SFIS Board adopted the first amended and re-stated Articles of Incorporation and in 2008 the Board adopted the second amended and restated Bylaws; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 2012, in response to concerns of Pueblo Governors that economic development and governance of the SFIS Trust Lands was taking precedence over education activities, the SFIS, Inc. Board adopted Resolution No. 20120511 committing to the separation of educational functions of the SFIS and the economic development projects on the SFIS Trust Lands and further committing to work toward consensus with the 19 Pueblos before proceeding with the establishment of any type of governance activity; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>at a Special Governors meeting in July 2015, the Governors adopted Resolution No. 20150720 reaffirming their support for the separation of governance functions for the SFIS Trust Lands from the SFIS educational functions, and establishing a Governance Subcommittee consisting of Governors and other designated tribal representatives to analyze the options for a separate governance structure; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the 19 Pueblos established the Albuquerque Indian School District ("AISD") as the governmental entity responsible for the Albuquerque Indian School trust lands and the governing authority is exercised by the AISD Governing Council, comprised of the 19 Pueblo Governors; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to the SFIS, Inc. Member Resolution No. 20151105, each of the Governors adopted the Governance Subcommittee's recommendation that the governance structure in place at the AISD be used for governance of the SFIS Trust Lands and directed a transition of governance responsibilities for the SFIS Trust Lands to AISD; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to AISD Governing Council Resolution No. GC 2015-12, the AISD Governing Council adopted the AISD Oversight Commission's recommendation that the AISD governance structure be used for governance of the SFIS Trust Lands; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on September 22, 2017 at a duly called meeting, the AISD Governing Council voted to amend the existing AISD Charter to include new provisions on governance of SFIS Trust Lands. The vote failed by the following vote count: Six (6) in favor, eight (8) against and four (4) abstaining; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on December 5, 2017, March 13, 2018, and July 24, 2018, at duly called meetings of SFIS Member/Shareholders, the SFIS, Inc. Board was directed to develop a standalone SFIS District charter based on a political subdivision of the 19 Pueblos and which memorializes the land-use limitations in the SFIS Act; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>subsequently there has not been consensus amongst the 19 Pueblos on any proposed structure to govern the SFIS Trust Lands nor has a charter/bylaws document for a SFISD Governing Council or an alternative body been established; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 2023, at a duly called meeting October 12, 2023 of the SFIS Member/Shareholders and the SFIS, Inc. Board, the SFIS Inc. Board and SFIS Member/Shareholders recommitted to resolving the development of a governance structure that satisfied various concerns about the governance over the SFIS Trust Lands; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a workgroup was established between the SFIS, Inc. Board and authorized representatives of available SFIS Member/Shareholders to develop a consensus charter; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>this workgroup has duly informed the SFIS Member/Shareholders as part of regular updates on their progress and recommendations at duly called meetings on November 20, 2023, February 16, 2024, March 13, 2024, and April 23, 2024; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>this workgroup has recommended:</text>
+      <para>
+        <num>1.</num>
+        <text>The 19 Pueblos initially establish a Governing Council, to be a wholly owned and controlled political subdivision, of the 19 Pueblos;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The SFIS Trust Lands be designated the SFIS Trust Lands as the "Santa Fe Indian School District" ("SFISD");</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Santa Fe Indian School District be governed by the "Santa Fe Indian School District Governing Council" who will consist of each of the participating 19 Pueblo Governors or their designees;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The "Santa Fe Indian School District Governing Council be established and governed by a charter describing certain governmental powers delegated and other such provisions describing the purpose, powers, activities, and limitations of the Governing Council;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>All prior 19 Pueblo resolutions delegating governmental powers over the SFIS Trust Lands including but not limited to, the SFIS, Inc. and the AISD be amended or repealed to clarify the delegation of governmental powers from the 19 Pueblos to the Santa Fe Indian School District Governing Council;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>All operation of the SFIS, Inc. rest with the Board of Trustees for the SFIS, Inc.</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "ACT OF 2024 AUTHORIZING THE FORMATION OF THE SANTA FE INDIAN SCHOOL DISTRICT AND GOVERNING COUNCIL AND DELEGATION OF CERTAIN GOVERNMENTAL AUTHORITY OF THE PUEBLO DE SAN ILDEFONSO OVER THE SANTA FE INDIAN SCHOOL TRUST LANDS AND ADOPTION OF CHARTER."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>November 21</u>, 2024, at a meeting with a vote of <u>9</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Montoya</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R24-014</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>21</u><sup><u>st</u></sup> day of <u>November</u>, 2024, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u> 27</u><sup><u>th</u></sup> day of <u>November</u>, 2024.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2024.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Nichole S. Montoya</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.18">
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.18</num>
+      <heading>Act of 2024 Authorizing the Formation of the Santa Fe Indian School District and Governing Council and Delegation of Certain Governmental Authority of the Pueblo de San Ildefonso over the Santa Fe Indian School Trust Lands</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-014"/>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="2.3.18"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">ACT OF 2024 AUTHORIZING THE FORMATION OF THE SANTA FE INDIAN SCHOOL DISTRICT AND GOVERNING COUNCIL AND DELEGATION OF CERTAIN GOVERNMENTAL AUTHORITY OF THE PUEBLO DE SAN ILDEFONSO OVER THE SANTA FE INDIAN SCHOOL TRUST LANDS</heading>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.18.010"/>
+      <num codify:value="2.3.18.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "ACT OF 2024 AUTHORIZING THE FORMATION OF THE SANTA FE INDIAN SCHOOL DISTRICT AND GOVERNING COUNCIL AND DELEGATION OF CERTAIN GOVERNMENTAL AUTHORITY OF THE PUEBLO DE SAN ILDEFONSO OVER THE SANTA FE INDIAN SCHOOL TRUST LANDS" ("Act")</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.18.020"/>
+      <num codify:value="2.3.18.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize the formation of the Santa Fe Indian School District and Governing Council and delegate certain governmental authority of the Pueblo de San Ildefonso to govern and manage the Santa Fe Indian School Trust lands.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.18.030"/>
+      <num codify:value="2.3.18.030">1.3</num>
+      <heading>Findings</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo de San Ildefonso ("Pueblo") possesses inherent sovereign powers over the Pueblo's lands, wherever situated.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Pursuant to the Santa Fe Indian School Act of 2000, Public Law 106-568 §§ 821-824, 114 Stat. 2868, 2919 ("SFIS Act") approximately 115 acres of land, which includes the Santa Fe Indian School ("SFIS") and the Indian Health Service Unit properties, was taken into trust by the United States for the benefit of the 19 Pueblos in New Mexico ("SFIS Trust Lands" or "Indian School Tract"). The lands are to be used for the educational, health and cultural purposes of the Santa Fe Indian School, including use for related non-profit or technical programs, as operated by Santa Fe Indian School, Inc., ("SFIS, Inc.") the non-profit corporation chartered under the State of New Mexico and wholly owned by the 19 Pueblo.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The SFIS Trust Lands are part of Indian Country and not subject to City, State or County Laws.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In 2004, each of the 19 Pueblos delegated its authority on all matters related to the governance, operation and administration of the SFIS Trust Lands to the SFIS, Inc. and its Board of Trustees ("Board"), the entity also responsible for educational functions of the SFIS. In 2006 with such new authority, the SFIS Board adopted the first amended and re-stated Articles of Incorporation and in 2008 the Board adopted the second amended and restated Bylaws.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>In 2012, in response to concerns of Pueblo Governors that economic development and governance of the SFIS Trust Lands was taking precedence over education activities, the SFIS, Inc. Board adopted Resolution No. 20120511 committing to the separation of educational functions of the SFIS and the economic development projects on the SFIS Trust Lands and further committing to work toward consensus with the 19 Pueblos before proceeding with the establishment of any type of governance activity.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>At a Special Governors meeting in July 2015, the Governors adopted Resolution No. 20150720 reaffirming their support for the separation of governance functions for the SFIS Trust Lands from the SFIS educational functions, and establishing a Governance Subcommittee consisting of Governors and other designated tribal representatives to analyze the options for a separate governance structure.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The 19 Pueblos established the Albuquerque Indian School District ("AISD") as the governmental entity responsible for the Albuquerque Indian School trust lands and the governing authority is exercised by the AISD Governing Council, comprised of the 19 Pueblo Governors.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Pursuant to the SFIS, Inc. Member Resolution No. 20151105, each of the Governors adopted the Governance Subcommittee's recommendation that the governance structure in place at the AISD be used for governance of the SFIS Trust Lands and directed a transition of governance responsibilities for the SFIS Trust Lands to AISD.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Pursuant to AISD Governing Council Resolution No. GC 2015-12, the AISD Governing Council adopted the AISD Oversight Commission's recommendation that the AISD governance structure be used for governance of the SFIS Trust Lands.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>On September 22, 2017 at a duly called meeting, the AISD Governing Council voted to amend the existing AISD Charter to include new provisions on governance of SFIS Trust Lands. The vote failed by the following vote count: Six (6) in favor, eight (8) against and four (4) abstaining.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>On December 5, 2017, March 13, 2018, and July 24, 2018, at duly called meetings of SFIS Member/Shareholders, the SFIS, Inc. Board was directed to develop a standalone SFIS District charter based on a political subdivision of the 19 Pueblos and which memorializes the land-use limitations in the SFIS Act.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Subsequently, there has not been consensus amongst the 19 Pueblos on any proposed structure to govern the SFIS Trust Lands nor has a charter/bylaws document for a SFISD Governing Council or an alternative body been established.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>In 2023, at a duly called meeting October 12, 2023 of the SFIS Member/Shareholders and the SFIS, Inc. Board, the SFIS Inc. Board and SFIS Member/Shareholders recommitted to resolving the development of a governance structure that satisfied various concerns about the governance over the SFIS Trust Lands.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>A workgroup was established between the SFIS, Inc. Board and authorized representatives of available SFIS Member/Shareholders to develop a consensus charter.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>This workgroup has duly informed the SFIS Member/Shareholders as part of regular updates on their progress and recommendations at duly called meetings on November 20, 2023, February 16, 2024, March 13, 2024, and April 23, 2024.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>This workgroup has recommended:</text>
+        <para>
+          <num>1.</num>
+          <text>The 19 Pueblos initially establish a Governing Council, to be a wholly owned and controlled political subdivision, of the 19 Pueblos;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The SFIS Trust Lands be designated the SFIS Trust Lands as the "Santa Fe Indian School District" ("SFISD");</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The Santa Fe Indian School District be governed by the "Santa Fe Indian School District Governing Council" who will consist of each of the participating 19 Pueblo Governors or their designees;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The "Santa Fe Indian School District Governing Council be established and governed by a charter describing certain governmental powers delegated and other such provisions describing the purpose, powers, activities, and limitations of the Governing Council;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>All prior 19 Pueblo resolutions delegating governmental powers over the SFIS Trust Lands including but not limited to, the SFIS, Inc. and the AISD be amended or repealed to clarify the delegation of governmental powers from the 19 Pueblos to the Santa Fe Indian School District Governing Council;</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>All operation of the SFIS, Inc. rest with the Board of Trustees for the SFIS, Inc.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.18.040"/>
+      <num codify:value="2.3.18.040">1.4</num>
+      <heading>Authorizations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes the designation of the "Santa Fe Indian School District" which comprised of SFIS Trust Lands as established pursuant to the SFIS Act and any after acquired lands.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council authorizes the establishment of the "Santa Fe Indian School District Governing Council" ("SFISD GC"), a political subdivision of the 19 Pueblos, including the Pueblo de San Ildefonso, initially consisting of 19 Pueblo members each represented by their respective Governor or their designee, which shall govern, manage, and operate the Santa Fe Indian School District in accordance with a governing charter subject to limitations on land use as specified in the Santa Fe Indian School Act.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Council authorizes the Pueblo's participation as a member of the SFISD Governing Council.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Council hereby delegates governance powers to the SFISD GC pursuant to the attached charter marked as "Attachment 1".</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Council authorizes the Governor or their designee, to participate on behalf of the Pueblo as a member of the SFISD GC to exercise governmental powers on behalf of the Tribal Council over all matters related to governance of the Santa Fe Indian School District.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The decision whether to exercise any powers delegated by this Act is left to the sound discretion of the Governor or their designee.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Council Pueblo de San Ildefonso does not waive its sovereign immunity by its participation in the SFISD GC.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The SFISD Governing Council is authorized to only waive the sovereign immunity of the Santa Fe Indian School District or the SFISD GC, SFIS District committees, SFIS District committee members, or the SFIS District Manager, employees or agents of the SFISD Governing Council. In any instance where a waiver of sovereign immunity is granted, it shall not waive the sovereign immunity of any of the Pueblos, including the Pueblo de San Ildefonso or of any entity other than the SFIS District that is owned by any or all of the Pueblos. No waiver by the Governing Council shall create any liability on the part of any of the Pueblos, including the Pueblo de San Ildefonso, or of any entity other than the SFIS District.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Governor is directed ant authorized to execute the attached charter, or in a form substantially similar to the document marked as Attachment 1. Changes which are minor or technical in form may be included in the final version.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The Governor is directed and authorized to submit this Act and authorizing resolution to the SFIS GC.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>The Council hereby authorizes the Governor, and his designee(s) to execute all actions and all documents necessary to initiate the intent of this Act.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.18.050"/>
+      <num codify:value="2.3.18.050">1.5</num>
+      <heading>Effective Date and Repeal of Prior Act</heading>
+      <para>
+        <num>(a)</num>
+        <text>This Act and authorizations contained herein shall be effective as of the date the Act is approved by the Council.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This Act repeals and replaces in its entirety the Pueblo's <em>"Act Authorizing the Formation of the Santa Fe Indian School District Governing Council and Adoption of Charter"</em> enacted on November 14, 2022 by Resolution SI-R22-019."</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Council repeals in its entirety the Pueblo's "<em>Act Rescinding the Delegation of the Pueblo de San Ildefonso's Governance Authority Over the Santa Fe Indian School Trust Lands</em>" which was enacted on November 23, 2017, by Resolution SI-R17-040, <u>provided</u> the effective date of the repeal of that Act shall be on the date that the SFISD Charter is fully executed by Tribal Council resolutions from all 19 Pueblos approving the SFISD Charter attached in Section 1.4(d). <em><u>Until that time, the 2017 Act remains in full effect</u></em>.</text>
+      </para>
+    </section>
+  </attachment>
+</document>
