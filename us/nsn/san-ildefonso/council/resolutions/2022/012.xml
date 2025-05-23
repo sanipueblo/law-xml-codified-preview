@@ -268,7 +268,7 @@
     </text>
     <heading type="law">THE LAND USE APPLICATION FEE ACT OF 2022</heading>
     <container>
-      <codify:insert doc="Pueblo de San Ildefonso Code" path="24" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.11.1.010"/>
+      <codify:insert doc="Pueblo de San Ildefonso Code" path="24" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.11.1.010|annos"/>
       <prefix>Chapter</prefix>
       <num>24.11</num>
       <heading>Land Use Application Fee</heading>

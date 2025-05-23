@@ -291,8 +291,8 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2023, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:repeal path="17.2.23" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.23.010"/>
-  <codify:repeal path="17.2.28" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.28.010"/>
+  <codify:repeal path="17.2.23" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.23.010|annos"/>
+  <codify:repeal path="17.2.28" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.28.010|annos"/>
   <codify:insert path="17.2" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.30">
     <container>
       <prefix>Part</prefix>
