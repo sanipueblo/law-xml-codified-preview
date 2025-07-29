@@ -2333,6 +2333,75 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.19</num>
+      <heading>Act Authorizing a Service Line Agreement with Los Alamos County</heading>
+      <annotation app="2025-07-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-006" eff="2025-07-03" path="" type="History"/>
+      <section>
+        <num>2.3.19.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as "Act Authorizing a Service Line Agreement with Los Alamos County" ("Act").</text>
+        <annotations>
+          <annotation app="2025-07-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-006" eff="2025-07-03" path="" type="History"/>
+          <annotation app="2025-07-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-006" eff="2025-07-03" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.3.19.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the Governor to negotiate and sign a service line agreement with Los Alamos County ("County") to provide maintenance and repair services on the electric line and facilities owned by the Pueblo that serve the Totavi Store and the surrounding area.</text>
+        <annotations>
+          <annotation app="2025-07-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-006" eff="2025-07-03" path="" type="History"/>
+          <annotation app="2025-07-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-006" eff="2025-07-03" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.3.19.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The County owns and operates an electric generation, transmission and distribution system within the County.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Totavi Convenience Store ("Totavi Store") which is operated by San Ildefonso Services ("SIS") receives its electricity from the County over various electric lines, poles and other infrastructure owned by the Pueblo located on the Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The County owns and operates its own electric utility system and has the personnel and equipment available to maintain the Pueblo's electric lines, poles and infrastructure serving the Totavi Store and surrounding area on Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo and the County wish to enter into an agreement for the County to provide agreed upon maintenance and repair services for the Pueblo-owned electric line and facilities that extend from the County's facilities onto Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council has reviewed a form of a service line agreement with the County that is attached hereto as Exhibit 1 and determines it is in the best interest of the Pueblo to authorize the Governor to negotiate and sign a service line agreement with the County for the electric line and facilities that serve the Totavi Store and surrounding area.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-006" eff="2025-07-03" path="" type="History"/>
+          <annotation app="2025-07-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-006" eff="2025-07-03" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.3.19.040</num>
+        <heading>Council Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor is authorized to negotiate and sign a form of a service line agreement similar to Exhibit 1 attached hereto.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent of this Act.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-07-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-006" eff="2025-07-03" path="" type="History"/>
+          <annotation app="2025-07-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-006" eff="2025-07-03" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>

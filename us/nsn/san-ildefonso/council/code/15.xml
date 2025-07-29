@@ -2740,6 +2740,60 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.17</num>
+      <heading>Authorizing a Lease of Land to the San Ildefonso Housing Authority</heading>
+      <annotation app="2025-04-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-002" eff="2025-04-14" path="" type="History"/>
+      <section>
+        <num>15.1.17.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "SAN ILDEFONSO HOUSING AUTHORITY LAND LEASE AUTHORIZATION ACT" ("Act").</text>
+        <annotations>
+          <annotation app="2025-04-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-002" eff="2025-04-14" path="" type="History"/>
+          <annotation app="2025-04-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-002" eff="2025-04-14" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.17.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this resolution is to authorize the Governor to enter into a land lease with the San Ildefonso Housing Authority for housing purpose.</text>
+        <annotations>
+          <annotation app="2025-04-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-002" eff="2025-04-14" path="" type="History"/>
+          <annotation app="2025-04-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-002" eff="2025-04-14" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.17.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The San Ildefonso Housing Authority ("SIHA") is the Tribally Designated Housing Entity for the Pueblo and develops and manages housing programs for the Pueblo's tribal members; and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The SIHA is developing the Deer Tail Phase 2 Subdivision, consisting of forty (40) acres, more or less, which will provide lots for homes managed by SIHA and homes built by individual tribal members pursuant to a home mortgage; and,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The SIHA requires a lease to the Subdivision site to allow the SIHA to plan the subdivision, and to allow SIHA to sublease lots to families that qualify for a mortgage, and to enter into occupancy agreements with eligible tribal members for the lease-purchase or rental of a home.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-04-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-002" eff="2025-04-14" path="" type="History"/>
+          <annotation app="2025-04-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-002" eff="2025-04-14" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>15.1.17.040</num>
+        <heading>Authorization</heading>
+        <text>The Council hereby authorizes the Governor of the Pueblo to negotiate and execute a Land Lease of forty (40) acres, more or less, of tribal trust lands to SIHA for housing purposes for the Deer Tail Phase 1 Subdivision and to submit the Lease to the Bureau of Indian Affairs for approval and recording.</text>
+        <annotations>
+          <annotation app="2025-04-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-002" eff="2025-04-14" path="" type="History"/>
+          <annotation app="2025-04-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-002" eff="2025-04-14" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>

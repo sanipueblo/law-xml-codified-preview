@@ -404,12 +404,15 @@
           <text>Any eligible voter who meets at least one of the following requirements shall be entitled to vote in any election by absentee ballot:</text>
           <para>
             <num>(1)</num>
-            <text>The voter is age fifty-five (55) or older and is homebound and unable to appear physically at the polling place on the date of the election; or</text>
+            <text>The voter is age fifty-five (55) or older, resides within the Pueblo boundaries, and is homebound and unable to appear physically at the polling place on the date of the election; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>The voter is an out-of-state college student or in the military and unable to 
-                appear physically at the polling place on the date of the election.</text>
+            <text>The voter is an out-of-state college student or in the military and unable to appear physically at the polling place on the date of the election; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The voter is in the military, or is the spouse of a military member, and unable to appear physically at the polling place on the date of the election.</text>
           </para>
         </para>
         <para>
@@ -417,11 +420,11 @@
           <heading>Requesting An Absentee Ballot.</heading>
           <para>
             <num>(1)</num>
-            <text>The eligible voter must request an absentee ballot by submitting a written request, either in the form of a letter or completed Absentee Ballot Request form, to the Election Commission. All requests must be signed by the requesting voter. The voter may be asked for proof they meet the eligibility requirements.</text>
+            <text>The eligible voter must request an absentee ballot by submitting a written request, either in the form of a letter or completed Absentee Ballot Request form, to the Election Commission. All requests must be signed by the requesting voter.  The voter may be asked for proof they meet the eligibility requirements.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>The voter may request an absentee ballot by submitting the written request to the Election Commission either by hand-delivery to the Election Commission office, mail to the Election Commission's listed address, or emailing a scanned request to the Election Commission's listed email address.</text>
+            <text>The voter may request an absentee ballot by submitting the written request to the Election Commission either by hand-delivery to the Election Commission office, mail to the Election Commission’s listed address, or emailing a scanned request to the Election Commission’s listed email address.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -434,7 +437,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The voter shall complete the absentee ballot and return the absentee ballot in accordance with the stated instructions. Ballots may be returned by U.S. mail, private delivery service, or by hand-delivery to the Election Commission office.</text>
+          <text>The voter shall complete the absentee ballot and return the absentee ballot in accordance with the stated instructions.  Ballots may be returned by U.S. mail, private delivery service, or by hand-delivery to the Election Commission office.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -442,12 +445,13 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Absentee ballots that do not bear the voter's signature or are not properly enclosed in the envelopes or do not meet the requirements to cast an absentee ballot or are received after the stated deadline shall not be opened, processed or counted.</text>
+          <text>Absentee ballots that do not bear the voter’s signature or are not properly enclosed in the envelopes or do not meet the requirements to cast an absentee ballot or are received after the stated deadline shall not be opened, processed or counted.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
           <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|v|3" type="History"/>
+          <annotation app="2025-07-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-005" eff="2025-07-03" path="" type="History"/>
         </annotations>
       </section>
     </container>

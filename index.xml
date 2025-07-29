@@ -16,16 +16,17 @@
     <history-start>2017-04-19</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="1f63c1d88825ca815a75dede1bb0bb1b195cfa89"/>
+        <repository name="sanipueblo/law-xml" commit="f04d44f559f5f120e609e97bc28ba6725f34304c"/>
       </repositories>
-      <platform version="2.16.0" reproducible="false"/>
-      <build-date>2025-05-23</build-date>
-      <codified-date>2024-12-16</codified-date>
+      <platform version="2.16.5" reproducible="false"/>
+      <build-date>2025-07-29</build-date>
+      <codified-date>2025-07-03</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>
   <collection name="us/nsn/san-ildefonso/council/resolutions">
     <heading>Council Resolutions</heading>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2025/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2024/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2023/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2022/index.xml"/>

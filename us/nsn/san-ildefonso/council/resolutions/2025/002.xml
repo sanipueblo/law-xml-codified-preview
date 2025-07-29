@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R25-002" codify:doc="Pueblo de San Ildefonso Code" codify:path="15.1">
+  <num>SI-R25-002</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R25-002</heading>
+  <heading type="law">Authorizing a Lease of Land to the San Ildefonso Housing Authority</heading>
+  <meta>
+    <effective>2025-04-14</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R25-002</citation>
+    </citations>
+    <history>
+      <adopted>2025-04-10</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 10th day of April, 2025, the following resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, lands and other resources in accordance with its constitution; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo Council ("Council") is the duly constituted legislative body acting with authority for the Pueblo and responsible for its people in its exercise of sovereign governmental powers; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the San Ildefonso Housing Authority ("SIHA") is the Tribally Designated Housing Entity for the Pueblo and develops and manages housing programs for the Pueblo's tribal members; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the SIHA is developing the Deer Tail Phase 2 Subdivision, consisting of forty (40) acres, more or less, which will provide lots for homes managed by SIHA and homes built by individual tribal members pursuant to a home mortgage; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SIHA requires a lease to the Subdivision site to allow the SIHA to plan the subdivision, and to allow SIHA to sublease lots to families that qualify for a mortgage, and to enter into occupancy agreements with eligible tribal members for the lease-purchase or rental of a home.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby authorizes the Governor of the Pueblo to negotiate and execute a Land Lease of forty (40) acres, more or less, of tribal trust lands to SIHA and authorizes the submission of a Lease to the Bureau of Indian Affairs for approval and recording.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "San Ildefonso Housing Authority Land Lease Authorization Act."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>April 10</u>, 2025, at a meeting with a vote of <u>9</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">John Gonzales</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Christopher Romero</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R25-002</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>10</u><sup><u>th</u></sup> day of <u>April</u>, 2025, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>14</u><sup><u>th</u></sup> day of <u>April</u>, 2025.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2025.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2025, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.17">
+    <container>
+      <prefix>Part</prefix>
+      <num>15.1.17</num>
+      <heading>Authorizing a Lease of Land to the San Ildefonso Housing Authority</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="15.1.17"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">AUTHORIZING A LEASE OF LAND TO THE SAN ILDEFONSO HOUSING AUTHORITY</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.17.010"/>
+      <num codify:value="15.1.17.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "SAN ILDEFONSO HOUSING AUTHORITY LAND LEASE AUTHORIZATION ACT" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.17.020"/>
+      <num codify:value="15.1.17.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this resolution is to authorize the Governor to enter into a land lease with the San Ildefonso Housing Authority for housing purpose.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.17.030"/>
+      <num codify:value="15.1.17.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The San Ildefonso Housing Authority ("SIHA") is the Tribally Designated Housing Entity for the Pueblo and develops and manages housing programs for the Pueblo's tribal members; and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The SIHA is developing the Deer Tail Phase 2 Subdivision, consisting of forty (40) acres, more or less, which will provide lots for homes managed by SIHA and homes built by individual tribal members pursuant to a home mortgage; and,</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The SIHA requires a lease to the Subdivision site to allow the SIHA to plan the subdivision, and to allow SIHA to sublease lots to families that qualify for a mortgage, and to enter into occupancy agreements with eligible tribal members for the lease-purchase or rental of a home.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.17.040"/>
+      <num codify:value="15.1.17.040">1.4</num>
+      <heading>Authorization</heading>
+      <text>The Council hereby authorizes the Governor of the Pueblo to negotiate and execute a Land Lease of forty (40) acres, more or less, of tribal trust lands to SIHA for housing purposes for the Deer Tail Phase 1 Subdivision and to submit the Lease to the Bureau of Indian Affairs for approval and recording.</text>
+    </section>
+  </attachment>
+</document>

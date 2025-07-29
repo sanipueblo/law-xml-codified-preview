@@ -1036,27 +1036,29 @@
     <container>
       <prefix>Part</prefix>
       <num>24.2.11</num>
-      <heading>PNM Norton Hernandez 115 KV Transmission Easement Agreement Authorization Act</heading>
+      <heading>First Amendment to the PNM Norton Hernandez 115 KV Transmission Easement Agreement Authorization Act<annotation app="2025-01-31" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-001" eff="2025-01-31" path="" type="History"/></heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006"/>
       <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006" eff="2024-05-16" path="" type="History"/>
       <section>
         <num>24.2.11.010</num>
         <heading>Short Title</heading>
-        <text>This enactment shall be known as the "PNM NORTON HERNANDEZ 115 KV TRANSMISSION EASEMENT AGREEMENT AUTHORIZATION ACT."</text>
+        <text>This enactment shall be known as the "FIRST AMENDMENT TO THE PNM NORTON HERNANDEZ 115 KV TRANSMISSION EASEMENT AGREEMENT AUTHORIZATION ACT."</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006"/>
           <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006" eff="2024-05-16" path="" type="History"/>
           <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006" eff="2024-05-16" path="attachments|law|1.1" type="History"/>
+          <annotation app="2025-01-31" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-001" eff="2025-01-31" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>24.2.11.020</num>
         <heading>Purpose</heading>
-        <text>The purpose of this Act is to authorize the Governor to negotiate and sign an Easement Agreement between the Pueblo de San Ildefonso and the Public Service Company of New Mexico ("PNM") for a right-of-way over the Pueblo's lands along with an agreement with PNM to provide the Pueblo with access to four (4) strands of dark fiber from the ninety-six (96) fiber optic strands installed on the Norton Hernandez electric transmission line for the Pueblo's use.</text>
+        <text>The purpose of this Act is to authorize the Governor to negotiate and sign an Easement Agreement between the Pueblo de San Ildefonso and the Public Service Company of New Mexico ("PNM") for a right-of-way over the Pueblo's lands along with an agreement with PNM to provide the Pueblo with access to four (4) strands of dark fiber from the ninety-six (96) fiber optic strands installed on the Norton Hernandez electric transmission line for the Pueblo's use and to authorize the Bureau of Indian Affairs ("BIA") to grant an Easement for Right-of-Way to PNM for that purpose.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006"/>
           <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006" eff="2024-05-16" path="" type="History"/>
           <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006" eff="2024-05-16" path="attachments|law|1.2" type="History"/>
+          <annotation app="2025-01-31" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-001" eff="2025-01-31" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1068,20 +1070,25 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>"NH Line" means the Norton Hernandez 115 kV electric transmission line.</text>
+          <text>"BIA" means the Bureau of Indian Affairs, Department of Interior. Superintendent, Northern Pueblos Agency.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>"PNM" means the Public Service Company of New Mexico.</text>
+          <text>"NH Line" means the Norton Hernandez 115 kV electric transmission line.</text>
         </para>
         <para>
           <num>(d)</num>
+          <text>"PNM" means the Public Service Company of New Mexico.</text>
+        </para>
+        <para>
+          <num>(e)</num>
           <text>"Pueblo" means the Pueblo de San Ildefonso. "Pueblo" also means the lands over which the Pueblo has jurisdiction.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006"/>
           <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006" eff="2024-05-16" path="" type="History"/>
           <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006" eff="2024-05-16" path="attachments|law|1.3" type="History"/>
+          <annotation app="2025-01-31" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-001" eff="2025-01-31" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1098,7 +1105,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>As part of that Easement Agreement, PNM was allowed to install ninety-six (96) fiber optic strands within two static wires on the NH Line provided that PNM was only allowed to use up to twelve (12) fiber optic lines for its internal communication purposes and was prohibited from using any other fiber optic lines for any other purpose without the written approval of the Pueblo and the Bureau of Indian Affairs ("BIA").</text>
+          <text>As part of that Easement Agreement, PNM was allowed to install ninety-six (96) fiber optic strands within two static wires on the NH Line provided that PNM was only allowed to use up to twelve (12) fiber optic lines for its internal communication purposes and was prohibited from using any other fiber optic lines for any other purpose without the written approval of the Pueblo and the BIA.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1118,12 +1125,17 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>The Council also finds it is in the best interest of the Pueblo to waive the requirement for a bond as the compensation will be paid in full upon the approval of the Grant of Right-of-Way by the BIA, and to waive the valuation and accept the agreed upon compensation negotiated between the Pueblo and PNM, and to grant a limited waiver of the Pueblo's immunity from suit only to enforce the Easement Agreement and an IRU Agreement.</text>
+          <text>The Council also finds it in the best interest of the Pueblo to grant a limited waiver of the Pueblo's immunity from suit only to enforce the Easement Agreement and the IRU Agreement.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Council also finds it is in the best interest of the Pueblo authorize the BIA to grant an Easement for Right-of-Way to PNM, and to waive the requirement for a bond as the compensation will be paid in full upon the approval of the Grant of Right-of-Way by the BIA, and to waive the valuation and accept the agreed upon compensation negotiated between the Pueblo and PNM.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006"/>
           <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006" eff="2024-05-16" path="" type="History"/>
           <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006" eff="2024-05-16" path="attachments|law|1.4" type="History"/>
+          <annotation app="2025-01-31" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-001" eff="2025-01-31" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1135,15 +1147,15 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The Council hereby waives the requirement for a bond pursuant to 25 CFR §169.103(f)(2) as the compensation will be paid in full upon the approval of the Grant of Right-of-Way by the BIA, and requests that the BIA defer to the Council's waiver of such bond or security.</text>
+          <text>The Council hereby grants an express and limited waiver of the Pueblo's immunity from suit, subject to the limitations herein, to enforce the Easement Agreement and an IRU Agreement, provided that the waiver runs solely to the benefit of PNM, the waiver extends only to the contractual claims of the particular agreement and shall be limited to claims arising from the acts or omissions of the Pueblo, its officers, employees or agents, and applies only to consent to the dispute resolution provisions of the particular agreement, and the waiver does not include special, consequential or punitive damages, costs or attorney fees.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>The Council has reviewed the proposed monetary compensation to be paid under the proposed Easement Agreement and has determined the compensation amount negotiated between PNM and the Pueblo to be satisfactory to the Pueblo and the Council hereby waives the valuation requirement pursuant to 25 CFR § 169.110(a).</text>
+          <text>The Council hereby requests and authorizes the BIA to grant an Easement for Right-of-Way to PNM in the same or similar form as attached hereto as Exhibit A, and waives the requirement for a bond pursuant to 25 CFR §169.103(f)(2) as the compensation will be paid in full upon the approval of the Grant of Right-of-Way by the BIA, and requests that the BIA defer to the Council's waiver of such bond or security.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>The Council hereby grants an express and limited waiver of the Pueblo's immunity from suit, subject to the limitations herein, to enforce the Easement Agreement and an IRU Agreement, provided that the waiver runs solely to the benefit of PNM, the waiver extends only to the contractual claims of the particular agreement and shall be limited to claims arising from the acts or omissions of the Pueblo, its officers, employees or agents, and applies only to consent to the dispute resolution provisions of the particular agreement, and the waiver does not include special, consequential or punitive damages, costs or attorney fees.</text>
+          <text>The Council has reviewed the proposed monetary compensation to be paid under the proposed Easement Agreement and has determined the compensation amount negotiated between PNM and the Pueblo to be satisfactory to the Pueblo and the Council hereby waives the valuation requirement pursuant to 25 CFR § 169.110(a).</text>
         </para>
         <para>
           <num>(e)</num>
@@ -1153,6 +1165,7 @@
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006"/>
           <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006" eff="2024-05-16" path="" type="History"/>
           <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-006" eff="2024-05-16" path="attachments|law|1.5" type="History"/>
+          <annotation app="2025-01-31" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-001" eff="2025-01-31" path="attachments|law|1.5" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3896,5 +3909,135 @@
       </section>
     </container>
     <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-012" eff="2022-09-23" path="attachments|law|24.11" type="History"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>24.12</num>
+    <heading>Land Designations</heading>
+    <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="" type="History"/>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.12.1</num>
+      <heading>Cemetery Designation Act of 2025</heading>
+      <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="" type="History"/>
+      <section>
+        <num>24.12.1.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "CEMETERY DESIGNATION ACT OF 2025" ("Act").</text>
+        <annotations>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="" type="History"/>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.12.1.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this resolution is to designate a location for a new cemetery for the Pueblo and to authorize the Governor to oversee and regulate the use of the new cemetery .</text>
+        <annotations>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="" type="History"/>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.12.1.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo has identified the need to address the overcrowding issues at the current cemetery due to the limited space available for new burials and the need to avoid any disturbance of existing graves; and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Beginning in February 2023, the Pueblo initiated a public process to determine whether an expansion of the existing cemetery could be accomplished or whether a new location for a cemetery should be identified ("Project"); and,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In July 2023, the Pueblo conducted a public meeting about the Project; and,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The public discussion about the Project has included church officials, Pueblo officials and employees, traditional leaders of the Pueblo, and the general public; and,</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The traditional leaders of the North Kiva and the South Kiva ("Traditional Leaders") were consulted throughout the process, including the efforts to select a suitable location for a new cemetery; and,</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo's Realty Office ("Realty Office"), Department of Environmental and Cultural Preservation ("DECP"), and Tribal Historic Preservation Office ("THPO") were included in the discussions involving the Project to determine if the lands under consideration for a new cemetery were legally available, not likely to cause environmental harm to the water table and other resources, and did not contain any culturally significant sites; and,</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Pueblo also consulted with outside experts regarding the siting of a new cemetery including a professional cemetery Planner who provided helpful insights into the details and issues involved in establishing a new cemetery; and,</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>After extensive consultation with interested parties, the Pueblo reached a preliminary recommendation about the Project that identified four (4) possible locations for a new cemetery since expanding the existing cemetery in front of the church was not an option due to the existing gravesites, archeological sites, and limited space available; and,</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>After engaging in additional consultation about the Project and the preliminary recommendation, the Traditional Leaders indicated that a public meeting should be conducted to select a location for a new cemetery from the list of four (4) possible locations; and,</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>In March 2025, the Pueblo sponsored a public meeting to discuss and analyze the four (4) possible locations for a new cemetery, culminating in the preliminary selection of the "Coral Area" site, with the church officials indicating their support of the preliminary decision; and,</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The Coral Area site, consisting of approximately two acres of land, was determined to be the best location for a new cemetery because the initial findings of the Realty Office, DECP, and THPO, indicates that the site includes no disputed land claims, the site is large enough to accommodate foreseeable future burials, the site includes reasonable access and parking space, the site has wastewater and water nearby, and that the site is not close to any residential homes.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="" type="History"/>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.12.1.040</num>
+        <heading>Location of the New Cemetery</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby designates the Coral Area site, consisting of approximately two acres, as the location for the new cemetery for the Pueblo, subject to final approval by the Governor of the specific demarcation and parameters of the site.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Prior to the final designation of the Coral Area site as the location of the new cemetery, the Governor shall consult with the Realty Office, DECP, and THPO to ensure that the Pueblo has proper title and control by the area, and that no adverse environmental or cultural issues are present at the site.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Upon final approval of the site for the new cemetery, the Council hereby authorizes and directs the Governor to conduct site preparation including constructing a visible demarcation of the site as a cemetery in order to avoid unnecessary disturbance of the site.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="" type="History"/>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.12.1.050</num>
+        <heading>Non-denominational Burials</heading>
+        <text>The new cemetery location shall be open for use by all Members of the Pueblo and their families regardless of their religious beliefs or religious denomination.</text>
+        <annotations>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="" type="History"/>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="attachments|law|1.5" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.12.1.060</num>
+        <heading>Regulation of the Cemetery</heading>
+        <text>The Governor, or his designee, shall promulgate written regulations governing the use of the new cemetery in an orderly and respectful manner, which shall include an orderly and fair designation process of burial sites based on an established grid of available sites. The regulations shall address the designated official(s) who shall be vested with the authority to oversee and approve burials in accordance with the culture, beliefs, and values of the Pueblo.</text>
+        <annotations>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="" type="History"/>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="attachments|law|1.6" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.12.1.070</num>
+        <heading>Authorization of Funding</heading>
+        <text>The Council hereby authorizes up to $50,000 for initial planning and preparation of the Coral Area site as the location of the new cemetery for the Pueblo, subject to an appropriation of funds in an Annual Budget or Budget Modification for such purposes.</text>
+        <annotations>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="" type="History"/>
+          <annotation app="2025-05-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-003" eff="2025-05-27" path="attachments|law|1.7" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
 </container>

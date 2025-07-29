@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R25-001" codify:doc="Pueblo de San Ildefonso Code">
+  <num>SI-R25-001</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R25-001</heading>
+  <heading type="law">First Amendment to the PNM Norton Hernandez 115 KV Transmission Easement Agreement Authorization Act</heading>
+  <meta>
+    <effective>2025-01-31</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R25-001</citation>
+    </citations>
+    <history>
+      <adopted>2025-01-31</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 31st day of January, 2025, the following resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Public Service Company of New Mexico ("PNM") owns and operates a 115 kV electric transmission line, known as the Norton Hernandez line ("NH Line"), within the exterior boundaries of the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the previous Easement Agreement for a right-of-way for the NH Line expired on May 21, 2023; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as part of that Easement Agreement, PNM was allowed to install ninety-six (96) fiber optic strands within two static wires on the NH Line provided that PNM was only allowed to use up to twelve (12) fiber optic lines for its internal communication purposes and was prohibited from using any other fiber optic lines for any other purpose without the written approval of the Pueblo and the Bureau of Indian Affairs ("BIA"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo and PNM have negotiated terms for a new Easement Agreement for a twenty-year (20) term to begin on May 22, 2023 and end on May 21, 2043; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo and PNM have agreed upon compensation in the amount of $6,536,979 in a lump sum payment for the Easement Agreement to the Pueblo within 30 days of the BIA granting and recording the Grant of Easement for Right-of-Way; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>PNM agrees to provide four (4) strands of dark fiber to the Pueblo for its use subject to an Indefeasible Right of Use ("IRU") Agreement and PNM agrees to negotiate for access for an additional two (2) strands of dark fiber in the future; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has been fully briefed and has reviewed the proposed Easement Agreement and IRU Agreement terms and has determined that it is in the best interest of the Pueblo to grant a limited waiver of the Pueblo's immunity from suit to enforce the Easement Agreement and an IRU Agreement and authorize the Governor to sign a form of the Easement Agreement and an IRU Agreement; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council also finds it is in the best interest of the Pueblo to authorize the BIA to grant an Easement for Right-of-Way to PNM in the same or similar form as attached hereto as Exhibit A, and to waive the requirement for a bond as the compensation will be paid in full upon the approval of the grant of Easment for Right-of Way by the BIA, and to waive the valuation requirement and accept the agreed upon compensation negotiated between the Pueblo and PNM, and to grant a limited waiver of the Pueblo's immunity from suit to enforce the Easement Agreement and an IRU Agreement.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED THAT,</conjunction>
+      <text>the Council hereby enacts the attached law entitled "FIRST AMENDMENT TO THE PNM NORTON HERNANDEZ 115 KV TRANSMISSION EASEMENT AGREEMENT AUTHORIZATION ACT."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>January 31</u>, 2025, at a meeting with a vote of <u>9</u> in favor, <u>0</u> opposed, <u>1</u> abstaining and <u>0</u> absent pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">John Gonzales</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Christopher Romero</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No.<u> SI-R25-001</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u>31</u><sup><u>st </u></sup> day of <u>January</u>, 2025, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>31</u><sup><u>st</u></sup> day of <u>January</u>, 2025.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2025.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-text-align="justify" data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2025, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+  </procedural-data>
+  <codify:replace path="|24.2.11|heading" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.11">
+    <heading>First Amendment to the PNM Norton Hernandez 115 KV Transmission Easement Agreement Authorization Act</heading>
+  </codify:replace>
+  <attachment id="law">
+    <section>
+      <codify:replace path="24.2.11.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.11.010"/>
+      <num codify:value="24.2.11.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "FIRST AMENDMENT TO THE PNM NORTON HERNANDEZ 115 KV TRANSMISSION EASEMENT AGREEMENT AUTHORIZATION ACT."</text>
+    </section>
+    <section>
+      <codify:replace path="24.2.11.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.11.020"/>
+      <num codify:value="24.2.11.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize the Governor to negotiate and sign an Easement Agreement between the Pueblo de San Ildefonso and the Public Service Company of New Mexico ("PNM") for a right-of-way over the Pueblo's lands along with an agreement with PNM to provide the Pueblo with access to four (4) strands of dark fiber from the ninety-six (96) fiber optic strands installed on the Norton Hernandez electric transmission line for the Pueblo's use and to authorize the Bureau of Indian Affairs ("BIA") to grant an Easement for Right-of-Way to PNM for that purpose.</text>
+    </section>
+    <section>
+      <codify:replace path="24.2.11.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.11.030"/>
+      <num codify:value="24.2.11.030">1.3</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Act" means the PNM Norton Hernandez 115 kV Transmission Easement Agreement Authorization Act.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"BIA" means the Bureau of Indian Affairs, Department of Interior. Superintendent, Northern Pueblos Agency.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"NH Line" means the Norton Hernandez 115 kV electric transmission line.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"PNM" means the Public Service Company of New Mexico.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Pueblo" means the Pueblo de San Ildefonso. "Pueblo" also means the lands over which the Pueblo has jurisdiction.</text>
+      </para>
+    </section>
+    <section>
+      <codify:replace path="24.2.11.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.11.040"/>
+      <num codify:value="24.2.11.040">1.4</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>PNM owns and operates the NH Line, a 115 kV electric transmission line, located within the exterior boundaries of the Pueblo.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The previous Easement Agreement for a right-of-way for the NH Line expired on May 21, 2023.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>As part of that Easement Agreement, PNM was allowed to install ninety-six (96) fiber optic strands within two static wires on the NH Line provided that PNM was only allowed to use up to twelve (12) fiber optic lines for its internal communication purposes and was prohibited from using any other fiber optic lines for any other purpose without the written approval of the Pueblo and the BIA.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Pueblo and PNM have negotiated terms for a new Easement Agreement for a twenty-year (20) term to begin on May 22, 2023 and end on May 21, 2043.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Pueblo and PNM have agreed upon compensation in the amount of $6,536,979 in a lump sum payment for the Easement Agreement to the Pueblo within 30 days of the BIA granting and recording the Grant of Easement for Right-of-Way.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>PNM agrees to provide four (4) strands of dark fiber to the Pueblo for its use subject to an Indefeasible Right of Use ("IRU") Agreement and PNM agrees to negotiate for access for an additional two (2) strands of dark fiber in the future.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Council has been fully briefed and has reviewed the proposed Easement Agreement terms and has determined that it is in the best interest of the Pueblo to authorize the Governor to negotiate and sign an Easement Agreement and an IRU Agreement for access to the dark fiber, <em>provided</em> that PNM's use of the remaining ninety-six (96) fiber strands is limited to its internal business communications and PNM shall not use those fibers for any other purpose without the prior written approval by the Pueblo and the BIA.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Council also finds it in the best interest of the Pueblo to grant a limited waiver of the Pueblo's immunity from suit only to enforce the Easement Agreement and the IRU Agreement.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Council also finds it is in the best interest of the Pueblo authorize the BIA to grant an Easement for Right-of-Way to PNM, and to waive the requirement for a bond as the compensation will be paid in full upon the approval of the Grant of Right-of-Way by the BIA, and to waive the valuation and accept the agreed upon compensation negotiated between the Pueblo and PNM.</text>
+      </para>
+    </section>
+    <section>
+      <codify:replace path="24.2.11.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.11.050"/>
+      <num codify:value="24.2.11.050">1.5</num>
+      <heading>Authorizations and Waivers</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes the Governor to negotiate and sign an Easement Agreement with PNM for the NH Line as well as an IRU Agreement for access to the dark fiber subject to the terms identified herein in substantially similar form, and to make any revisions and amendments as may be necessary to support the execution of an Easement Agreement and an IRU Agreement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council hereby grants an express and limited waiver of the Pueblo's immunity from suit, subject to the limitations herein, to enforce the Easement Agreement and an IRU Agreement, provided that the waiver runs solely to the benefit of PNM, the waiver extends only to the contractual claims of the particular agreement and shall be limited to claims arising from the acts or omissions of the Pueblo, its officers, employees or agents, and applies only to consent to the dispute resolution provisions of the particular agreement, and the waiver does not include special, consequential or punitive damages, costs or attorney fees.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Council hereby requests and authorizes the BIA to grant an Easement for Right-of-Way to PNM in the same or similar form as attached hereto as Exhibit A, and waives the requirement for a bond pursuant to 25 CFR §169.103(f)(2) as the compensation will be paid in full upon the approval of the Grant of Right-of-Way by the BIA, and requests that the BIA defer to the Council's waiver of such bond or security.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Council has reviewed the proposed monetary compensation to be paid under the proposed Easement Agreement and has determined the compensation amount negotiated between PNM and the Pueblo to be satisfactory to the Pueblo and the Council hereby waives the valuation requirement pursuant to 25 CFR § 169.110(a).</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Governor, or his designee, is authorized to take all actions as necessary to carry out the intent of this Act.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

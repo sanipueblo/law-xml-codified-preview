@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R25-006" codify:doc="Pueblo de San Ildefonso Code" codify:path="2.3">
+  <num>SI-R25-006</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R25-006</heading>
+  <heading type="law">Act Authorizing a Service Line Agreement with Los Alamos County</heading>
+  <meta>
+    <effective>2025-07-03</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R25-006</citation>
+    </citations>
+    <history>
+      <adopted>2025-06-25</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 26th day of June, 2025, the following Resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the sovereign authority of the Pueblo is vested in its Council and Governor; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Los Alamos County ("County") owns and operates an electric generation, transmission and distribution system within the County; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Totavi Convenience Store ("Totavi Store") which is operated by San Ildefonso Services ("SIS") receives its electricity from the County over various electric lines, poles and other infrastructure owned by the Pueblo located on the Pueblo lands; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the County owns and operates its own electric utility system and has the personnel and equipment available to maintain the Pueblo's electric lines, poles and infrastructure serving the Totavi Store and surrounding area on Pueblo lands; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo and the County wish to enter into an agreement for the County to provide agreed upon maintenance and repair services for the Pueblo-owned electric line and facilities that extend from the County's facilities onto Pueblo lands; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has reviewed a form of a service line agreement with the County that is attached hereto as Exhibit 1 and determines it is in the best interest of the Pueblo to authorize the Governor to negotiate and sign a service line agreement with the County for the electric line and facilities that serve the Totavi Store and surrounding area.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED THAT</conjunction>
+      <text>the Council hereby enacts the attached law entitled the "ACT AUTHORIZING A SERVICE LINE AGREEMENT WITH LOS ALAMOS COUNTY."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u> June 26</u>, 2025, at a meeting with a vote of <u> 6</u> in favor, <u>0</u> opposed, <u>3</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>________________________________</text>
+    <text>Raelene Martinez, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">John Gonzales</td>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Christopher Romero</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R25-006</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u> 3rd </u>day of <u>July</u>, 2025, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{   } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this __________ day of _______________________, 2025.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2025.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2025, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.19">
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.19</num>
+      <heading>Act Authorizing a Service Line Agreement with Los Alamos County</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="2.3.19"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">ACT AUTHORIZING A SERVICE LINE AGREEMENT WITH LOS ALAMOS COUNTY</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.19.010"/>
+      <num codify:value="2.3.19.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as "Act Authorizing a Service Line Agreement with Los Alamos County" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.19.020"/>
+      <num codify:value="2.3.19.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize the Governor to negotiate and sign a service line agreement with Los Alamos County ("County") to provide maintenance and repair services on the electric line and facilities owned by the Pueblo that serve the Totavi Store and the surrounding area.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.19.030"/>
+      <num codify:value="2.3.19.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The County owns and operates an electric generation, transmission and distribution system within the County.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Totavi Convenience Store ("Totavi Store") which is operated by San Ildefonso Services ("SIS") receives its electricity from the County over various electric lines, poles and other infrastructure owned by the Pueblo located on the Pueblo lands.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The County owns and operates its own electric utility system and has the personnel and equipment available to maintain the Pueblo's electric lines, poles and infrastructure serving the Totavi Store and surrounding area on Pueblo lands.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Pueblo and the County wish to enter into an agreement for the County to provide agreed upon maintenance and repair services for the Pueblo-owned electric line and facilities that extend from the County's facilities onto Pueblo lands.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Council has reviewed a form of a service line agreement with the County that is attached hereto as Exhibit 1 and determines it is in the best interest of the Pueblo to authorize the Governor to negotiate and sign a service line agreement with the County for the electric line and facilities that serve the Totavi Store and surrounding area.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.19.040"/>
+      <num codify:value="2.3.19.040">1.4</num>
+      <heading>Council Authorizations</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Governor is authorized to negotiate and sign a form of a service line agreement similar to Exhibit 1 attached hereto.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent of this Act.</text>
+      </para>
+    </section>
+  </attachment>
+</document>
