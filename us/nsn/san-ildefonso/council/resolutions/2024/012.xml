@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R24-012" codify:doc="Pueblo de San Ildefonso Code" codify:path="15.1">
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R24-012" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.5">
   <num>SI-R24-012</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R24-012</heading>
   <heading type="law">Approving the Ihs Community Health Representative Program Authorization Act for FY 2025</heading>
@@ -252,7 +252,7 @@
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="6.5.41"/>
+    <codified:at path="|6.5.41"/>
     <text class="center">
       <strong>PUEBLO DE SAN ILDEFONSO</strong>
     </text>
