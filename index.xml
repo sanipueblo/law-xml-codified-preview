@@ -16,11 +16,11 @@
     <history-start>2017-04-19</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="f04d44f559f5f120e609e97bc28ba6725f34304c"/>
+        <repository name="sanipueblo/law-xml" commit="da60b884169283920616825a6a9d5a9bede7495e"/>
       </repositories>
       <platform version="2.16.5" reproducible="false"/>
-      <build-date>2025-07-29</build-date>
-      <codified-date>2025-07-03</codified-date>
+      <build-date>2025-07-30</build-date>
+      <codified-date>2025-07-06</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>
