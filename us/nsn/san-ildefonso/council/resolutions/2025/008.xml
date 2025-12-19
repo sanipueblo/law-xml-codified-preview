@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R25-008" codify:doc="Pueblo de San Ildefonso Code">
+  <num>SI-R25-008</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R25-008</heading>
+  <heading type="law">Judicial Removal Process Reform Act of 2025</heading>
+  <meta>
+    <effective>2025-11-18</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R25-008</citation>
+    </citations>
+    <history>
+      <adopted>2025-11-14</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 14 day of November, 2025, the following resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In 2011, the voters of the Pueblo approved a new governing Agreement that functions as the Pueblo's constitution ("Agreement") and that establishes a judicial branch of government comprised of a Trial Court and a Supreme Court along with distinct executive (Governor) and legislative (Council) branches of government; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Prior to 2011, the courts of the Pueblo were established by law enacted in 1984 by the Tribal Council, which included a process to remove judges from office by a majority vote of the Tribal Council for gross misconduct involving moral turpitude or neglect of duty; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In 2012, the Council enacted the "Judicial Act of 2012" ("Judicial Act"), which provided additional legal authority and guidance for the courts to operate, and also directed the Supreme Court to establish judicial ethical rules and procedures for the removal of judges and justices for violations of those rules; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In 2014, pursuant to the Judicial Act of 2012, the Supreme Court approved the "Code of Judicial Conduct (Rules of Judicial Responsibility, Disqualification and Removal)" ("Judicial Rules") establishing basic ethical rules for judges and justices and governing the due process requirements for the removal of judges and justices for violations of the rules; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The original 1984 Code that provides for the removal of judges and justices by the former "Tribal Council" conflicts with the 2011 Agreement, and further conflicts with the Judicial Act and the Judicial Rules, which establishes an independent body to conduct the removal process for judges and justices; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Council has identified the need to clarify and strengthen the process for the discipline and removal of judges and justices of the Courts of the Tribe.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached resolution and laws entitled the "Judicial Removal Process Reform Act of 2025".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>November 14</u> , 2025, at a meeting with a vote of <u>7</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>3</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>CR Perry Martinez, CR Brandi Martinez</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Brandi Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Gary Alan Roybal</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R25-008</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>18</u> day of <u>November</u>, 2025, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>18</u><sup><u>th</u></sup> day of <u>November</u>, 2025.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2025.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Brandi Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Gary Alan Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _____________, 2025, at a meeting with a vote of ____ in favor, ____ opposed, ____ abstaining and ____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+  </procedural-data>
+  <attachment id="law">
+    <section>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "Judicial Removal Process Reform Act of 2025" ("Act").</text>
+    </section>
+    <section>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to clarify and strengthen the process to identify and address potential ethical violations by judges and justices of the Courts of the Pueblo.</text>
+    </section>
+    <section>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>In 2011, the voters of the Pueblo approved a new governing Agreement that functions as the Pueblo's constitution ("Agreement") and that establishes a judicial branch of government comprised of a Trial Court and a Supreme Court along with distinct executive (Governor) and legislative (Council) branches of government; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Prior to 2011, the courts of the Pueblo were established by law enacted in 1984 by the Tribal Council, which included a process to remove judges from office by a majority vote of the Tribal Council for gross misconduct involving moral turpitude or neglect of duty; and,</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In 2012, the Council enacted the "Judicial Act of 2012" ("Judicial Act"), which provided additional legal authority and guidance for the courts to operate, and also directed the Supreme Court to establish judicial ethical rules and procedures for the removal of judges and justices for violations of those rules; and,</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In 2014, pursuant to the Judicial Act of 2012, the Supreme Court approved the "Code of Judicial Conduct (Rules of Judicial Responsibility, Disqualification and Removal)" ("Judicial Rules") establishing basic ethical rules for judges and justices and governing the due process requirements for the removal of judges and justices for violations of the rules; and,</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The original 1984 Code that provides for the removal of judges and justices by the former "Tribal Council" conflicts with the 2011 Agreement, and further conflicts with the Judicial Act and the Judicial Rules, which establishes an independent body to conduct the removal process for judges and justices; and,</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Council has identified the need to clarify and strengthen the process for the discipline and removal of judges and justices of the Courts of the Tribe.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.4</num>
+      <heading>Repeal of the Selected Provisions of the 1984 Code</heading>
+      <text>The following provisions of the Code shall be repealed:</text>
+      <para>
+        <num>(a)</num>
+        <text>Section 4.1.1.030 (b) – addressing the composition of the Court of Appeals;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Section 4.1.2.010 (a), (c), (d), and (g) – addressing the appointment of judges and justices, the terms of office of judges and justices, the qualifications of judges and justices, and the composition of the Court of Appeals;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Section 4.1.3.010 – addressing the process for the removal of judges and justices from office;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>4.1.6.010(a) in pertinent part, which states, "…with the concurrence of the Governor as provided in the San Ildefonso Pueblo personnel policy and procedures." – addressing the hiring of a court clerk;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>4.2.1.230 – addressing the composition of the Court of Appeals; and,</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>4.2.1.270 – addressing the amendment of the rules (Code).</text>
+      </para>
+    </section>
+    <section>
+      <num>1.5</num>
+      <heading>Revision of the Judicial Rules</heading>
+      <text>4.4.1.060 of the Code shall be amended by adding a new subsection (e) as follows:</text>
+      <para>
+        <num>(e)</num>
+        <text>The Supreme Court shall revise the Judicial Rules. The revised Judicial Rules shall:</text>
+        <para>
+          <num>(i)</num>
+          <text>use the American Bar Association Model Code of Judicial Conduct as a guide to the extent that it does not conflict with the laws and traditions of the Pueblo;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>include a provision that allows the Governor or Council, in addition to a citizen of the Pueblo, to initiate the process to seek the discipline or removal of judge or justice from office, and when invoked by the Governor or Council, to do so without the need to pay a filing fee;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>include a provision that requires the Chief Justice, or an Associate Justice in the event the Chief Justice is unable or unwilling to act, to make a probable cause determination on whether to proceed with the discipline or removal process within ten (10) days of the filing of a complaint, and a prohibition that the Justice making the probable cause determination shall not be eligible to serve on a removal panel;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>include a provision to hold open administrative pre-hearings in the presence of the parties including advising the parties to the judicial discipline and removal hearing of hearing dates and times, the names of appointed members of the administrative hearing panel, and to discuss with the parties the schedule to be used to conduct pre-hearing and hearing matters;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>set a standard of proof as clear and convincing evidence to discipline or remove a judge or justice from office;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>provide that a judge or justice subject to discipline or removal shall not be entitled to court appointed counsel, but shall have the right to counsel at their own expense;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>provide the hearing panel with the authority to temporarily suspend without pay, on a showing of just cause, the accused judge or justice pending the determination of the hearing panel on the judicial discipline or removal;</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>include a prohibition that a judge or justice subject to discipline or removal shall not utilize court staff for anything related to the disciplinary or removal process except for filing documents related to the removal process;</text>
+        </para>
+        <para>
+          <num>(ix)</num>
+          <text>include reasonable deadlines for the completion of administrative hearings and the issuance of a ruling on the decision whether to discipline and/or remove the accused judge or justice; and,</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>include a provision that the decision by the hearing panel shall be published in a forum that is accessible for review by the citizens of the Pueblo.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>1.6</num>
+      <heading>Amendment of the Code</heading>
+      <text>Title 4 – Judiciary of the Code shall be amended to add a new Chapter 4.7 as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Chief Justice of the Supreme Court shall be a qualified, licensed attorney selected by the seated justices of the Supreme Court;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Chief Justice or a designee should regularly meet with the Trial Court, the Office of the Governor, and the Council to maintain good working relationships;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Chief Justice shall cause to be conducted a professional Court assessment at least once every five years by an independent party and/or the Bureau of Indian Affairs that shall include a written summary of the strengths and weaknesses of the Courts along with recommendations for improvements to the judicial branch of government;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A professional prosecutor, employed and paid by the executive branch of government, shall be required for all criminal prosecutions where the defendant is subject to possible incarceration.</text>
+      </para>
+    </section>
+  </attachment>
+</document>
