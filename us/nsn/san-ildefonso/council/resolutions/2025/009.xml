@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R25-009" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.6">
+  <num>SI-R25-009</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R25-009</heading>
+  <heading type="law" proof="needed">Investment Policy Guidelines Reaffirmation and Amendment Act of 2025</heading>
+  <meta>
+    <effective proof="needed">2025-11-18</effective>
+    <citations>
+      <citation type="res" proof="needed">Council Resolution No. SI-R25-009</citation>
+    </citations>
+    <history>
+      <adopted>2025-11-14</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 14 day of November, 2025, the following resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In 2017, the Pueblo discovered that its (former) Investment Advisors were improperly reporting financial statistics on account statements resulting in financial harm to the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In 2017, in order to reform the financial investment practices of the Pueblo, and the Council authorized the Pueblo's financial investments to be professionally managed by multiple investment companies to replace the former Investment Advisors; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In 2017, the Council also authorized the Pueblo to hire a professional investment monitor as a "watchdog" over the Tribe's investments to ensure that the integrity and professionalism of the management of the Pueblo's financial reserves by the investment companies; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>For the last eight years, the Pueblo has experienced internal financial stability in the investments area. During that period of stability, the financial reserves of the Tribe have more than doubled, despite a high turnover in the position of Finance Director of the Pueblo, which might have otherwise led to instability, and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Council has identified the need clarify the role of the Finance Director to ensure that the Finance Department is staffed by a qualified Director who has intimate knowledge of the Pueblo's financial practices and the daily operation of the Finance Department; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Council has identified the need to ensure the continued stability of the Pueblo's financial investments including the continued retention of, and oversight by, a professional portfolio monitor that reports to the Governor and Council on a regular basis.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby restates and amends the Pueblo's Investment Policy Guidelines by enacting the attached law entitled the Investment Policy Guidelines Reaffirmation and Amendment Act of 2025.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>November 14</u>, 2025, at a meeting with a vote of <u>7</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>3</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>CR Perry Martinez, CR John Gonzales</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">John Gonzales</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Christopher Romero</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R25-009</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>18</u> day of <u>November</u>, 2025, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>18</u><sup><u>th</u></sup> day of <u>November</u>, 2025.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2025.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">John Gonzales</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Christopher Romero</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2025, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raelene Martine, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.13">
+    <container>
+      <prefix>Part</prefix>
+      <num>6.6.13</num>
+      <heading>Investment Policy Guidelines Reaffirmation and Amendment Act of 2025</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="6.6.13"/>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.13.010"/>
+      <num codify:value="6.6.13.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "Investment Policy Guidelines Reaffirmation and Amendment Act of 2025" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.13.020"/>
+      <num codify:value="6.6.13.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to reaffirm and amend the Investment Policy Guidelines of the Pueblo to require the continued employment of an independent, professional Investment Portfolio Monitor, and to clarify the role and duties of the Finance Director of the Pueblo.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.13.030"/>
+      <num codify:value="6.6.13.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>In 2017, the Pueblo discovered that its (former) Investment Advisors were improperly reporting the Pueblo's financial statistics on its portfolio resulting in financial harm to the Pueblo; and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In 2017, in order to reform the financial investment practices of the Pueblo, the Council authorized the Pueblo's financial investments to be professionally managed by multiple investment companies to replace the former Investment Advisors; and,</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In 2017, the Council also authorized the Pueblo to hire a professional investment monitor as a "watchdog" over the Tribe's investments to ensure that the integrity and professionalism of the management of the Pueblo's financial reserves by the investment companies; and,</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>For the last eight years, the Pueblo has experienced a steady increase in the performance of its investments including more than double in the size of its financial reserves despite a high turnover in position of Finance Director of the Pueblo; and,</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Council has identified the need to ensure the continued stability of the Pueblo's financial investments including the continued employment of, and oversight by, a professional portfolio monitor that reports to the Governor and Council on a regular basis.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.13.040"/>
+      <num codify:value="6.6.13.040">1.4</num>
+      <heading>Reaffirmation of the Investment Policy Guidelines</heading>
+      <text>The Council hereby affirms and restates the Investment Policy Guidelines, as amended, and attached hereto.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.6.13.050"/>
+      <num codify:value="6.6.13.050">1.5</num>
+      <heading>Requirement to Continue the Employment of a Professional Portfolio Monitor</heading>
+      <text>The attached Investment Policy Guidelines, as amended and attached hereto, shall include the following provision:</text>
+      <text>The Governor is hereby authorized and directed to continue to hire a professional, independent portfolio monitoring company that is not associated with any investment advisor or the Pueblo to continue to monitor the Pueblo's financial investments, to facilitate quarterly meetings of the Pueblo's investment committee, and to report to the Governor and Council on a regular basis.</text>
+    </section>
+  </attachment>
+</document>

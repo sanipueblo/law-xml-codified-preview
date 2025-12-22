@@ -296,26 +296,35 @@
       <heading>Repeal of the Selected Provisions of the 1984 Code</heading>
       <text>The following provisions of the Code shall be repealed:</text>
       <para>
+        <codify:repeal path="|4.1.1.030|(b)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.1.1.030|(b)"/>
         <num>(a)</num>
         <text>Section 4.1.1.030 (b) – addressing the composition of the Court of Appeals;</text>
       </para>
       <para>
+        <codify:repeal path="|4.1.2.010|(a)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.1.2.010|(a)"/>
+        <codify:repeal path="|4.1.2.010|(c)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.1.2.010|(c)"/>
+        <codify:repeal path="|4.1.2.010|(d)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.1.2.010|(d)"/>
+        <codify:repeal path="|4.1.2.010|(g)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.1.2.010|(g)"/>
         <num>(b)</num>
         <text>Section 4.1.2.010 (a), (c), (d), and (g) – addressing the appointment of judges and justices, the terms of office of judges and justices, the qualifications of judges and justices, and the composition of the Court of Appeals;</text>
       </para>
       <para>
+        <codify:repeal path="|4.1.3.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.1.3.010"/>
         <num>(c)</num>
         <text>Section 4.1.3.010 – addressing the process for the removal of judges and justices from office;</text>
       </para>
       <para>
+        <codify:repeal path="|4.1.6.010|(a)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.1.6.010|(a)"/>
         <num>(d)</num>
         <text>4.1.6.010(a) in pertinent part, which states, "…with the concurrence of the Governor as provided in the San Ildefonso Pueblo personnel policy and procedures." – addressing the hiring of a court clerk;</text>
       </para>
       <para>
+        <codify:repeal path="|4.2.1.230" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.2.1.230"/>
         <num>(e)</num>
         <text>4.2.1.230 – addressing the composition of the Court of Appeals; and,</text>
       </para>
       <para>
+        <codify:repeal path="|4.2.1.270" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.2.1.270"/>
         <num>(f)</num>
         <text>4.2.1.270 – addressing the amendment of the rules (Code).</text>
       </para>
@@ -325,6 +334,7 @@
       <heading>Revision of the Judicial Rules</heading>
       <text>4.4.1.060 of the Code shall be amended by adding a new subsection (e) as follows:</text>
       <para>
+        <codify:insert path="|4.4.1.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.060|(e)"/>
         <num>(e)</num>
         <text>The Supreme Court shall revise the Judicial Rules. The revised Judicial Rules shall:</text>
         <para>
@@ -373,19 +383,57 @@
       <num>1.6</num>
       <heading>Amendment of the Code</heading>
       <text>Title 4 – Judiciary of the Code shall be amended to add a new Chapter 4.7 as follows:</text>
+      <codify:insert path="|4" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.7">
+        <container>
+          <prefix>Chapter</prefix>
+          <num>4.7</num>
+          <heading>Judicial Removal Process Reform Act of 2025</heading>
+        </container>
+      </codify:insert>
+      <codify:insert path="|4.7" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.7.1">
+        <container>
+          <prefix>Part</prefix>
+          <num>4.7.1</num>
+          <heading>Qualifications and Duties of Chief Justice of the Supreme Court</heading>
+        </container>
+      </codify:insert>
       <para>
+        <codify:insert path="|4.7.1" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.7.1.010">
+          <section>
+            <num>4.7.1.010</num>
+            <text>The Chief Justice of the Supreme Court shall be a qualified, licensed attorney selected by the seated justices of the Supreme Court;</text>
+          </section>
+        </codify:insert>
         <num>(a)</num>
         <text>The Chief Justice of the Supreme Court shall be a qualified, licensed attorney selected by the seated justices of the Supreme Court;</text>
       </para>
       <para>
+        <codify:insert path="|4.7.1" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.7.1.020">
+          <section>
+            <num>4.7.1.020</num>
+            <text>The Chief Justice or a designee should regularly meet with the Trial Court, the Office of the Governor, and the Council to maintain good working relationships;</text>
+          </section>
+        </codify:insert>
         <num>(b)</num>
         <text>The Chief Justice or a designee should regularly meet with the Trial Court, the Office of the Governor, and the Council to maintain good working relationships;</text>
       </para>
       <para>
+        <codify:insert path="|4.7.1" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.7.1.030">
+          <section>
+            <num>4.7.1.030</num>
+            <text>The Chief Justice shall cause to be conducted a professional Court assessment at least once every five years by an independent party and/or the Bureau of Indian Affairs that shall include a written summary of the strengths and weaknesses of the Courts along with recommendations for improvements to the judicial branch of government;</text>
+          </section>
+        </codify:insert>
         <num>(c)</num>
         <text>The Chief Justice shall cause to be conducted a professional Court assessment at least once every five years by an independent party and/or the Bureau of Indian Affairs that shall include a written summary of the strengths and weaknesses of the Courts along with recommendations for improvements to the judicial branch of government;</text>
       </para>
       <para>
+        <codify:insert path="|4.7.1" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.7.1.040">
+          <section>
+            <num>4.7.1.040</num>
+            <text>A professional prosecutor, employed and paid by the executive branch of government, shall be required for all criminal prosecutions where the defendant is subject to possible incarceration.</text>
+          </section>
+        </codify:insert>
         <num>(d)</num>
         <text>A professional prosecutor, employed and paid by the executive branch of government, shall be required for all criminal prosecutions where the defendant is subject to possible incarceration.</text>
       </para>

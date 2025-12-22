@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R25-010" codify:doc="Pueblo de San Ildefonso Code" codify:path="24.2">
+  <num>SI-R25-010</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R25-010</heading>
+  <heading type="law">Comcast Right-of-Way Authorization Act</heading>
+  <meta>
+    <effective>2025-11-18</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R25-010</citation>
+    </citations>
+    <history>
+      <adopted>2025-11-17</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 17 day of November, 2025, the following resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Comcast Cable Communications Management, LLC ("Comcast") owns a fiber optic line which crosses over the Pueblo's lands; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Bureau of Indian Affairs ("BIA") executed a lease agreement on March 12, 1980 with Los Alamos Cable TV which authorized television cable to be buried along State Road 4 on the Pueblo's lands; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the initial lease term began on March 17, 1980 and was for a period of twenty (20) years with an annual rent of $3,000, with an option for an additional twenty (20) year term with rent to be renegotiated at the end of that first twenty (20) year term. The Lease also contained a provision for a rent adjustment at five (5) year intervals and a provision for interest on late payments; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Los Alamos Cable TV was subsequently acquired by Comcast, although the date of acquisition by Comcast is unknown, and Comcast assumed the Los Alamos Cable TV lease apparently without notice to the Pueblo or the BIA; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Comcast at some point since 1980 has replaced the television cable with a fiber optic line without notice to or approval by the Pueblo or the BIA; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it appears that Comcast exercised the option to renew for a second twenty (20) year term but it is unknown if Comcast notified the Pueblo or the BIA of their intention to do so and the rental payment adjustment did not occur at any point over the lease term; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the lease expired on March 17, 2020, and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo and Comcast have negotiated terms to reconcile compensation owed to the Pueblo or paid by Comcast under the prior lease and terms for a new Right-of-Way Agreement for the fiber optic line; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo and Comcast have negotiated terms for a Right-of-Way for a twenty-year (20) term to begin on March 17, 2020 and end on March 16, 2040; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo and Comcast have agreed upon total compensation in the amount of $1,168,810.61 which includes compensation for past use under the prior lease and compensation for the new Right-of-Way; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has been fully briefed and has reviewed the proposed Right-of-Way Agreement terms and has determined that it is in the best interest of the Pueblo to grant a limited waiver of the Pueblo's immunity from suit to enforce a Right-of-Way Agreement and to authorize the Governor to sign a form of the Right-of-Way Agreement; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council also finds it is in the best interest of the Pueblo to authorize the BIA to grant an Easement for Right-of-Way to Comcast in the same or similar form as attached hereto as Exhibit A, and to waive the requirement for a bond as Comcast agrees to make a substantial partial payment toward the total compensation due upon signature of the Right-of-Way Agreement, and to waive the valuation requirement and accept the agreed upon compensation negotiated between the Pueblo and Comcast.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled "COMCAST RIGHT-OF-WAY AUTHORIZATION ACT."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>November 17</u>, 2025, at a meeting with a vote of <u>5</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>5</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>CR Perry Martinez, Secretary Raelene Martinez</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">John Gonzales</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Christopher Romero</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R25-009</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>18</u> day of <u>November</u>, 2025, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Raelene Martinez, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>18</u><sup><u>th</u></sup> day of <u>November</u>, 2025.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2025.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">John Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Christopher Romero</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2025, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Raelene Martine, Council Secretary</text>
+  </procedural-data>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.13">
+    <container>
+      <prefix>Part</prefix>
+      <num>24.2.13</num>
+      <heading>Comcast Right-of-Way Authorization Act</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="24.2.13"/>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.13.010"/>
+      <num codify:value="24.2.13.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "COMCAST RIGHT-OF-WAY AUTHORIZATION ACT."</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.13.020"/>
+      <num codify:value="24.2.13.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize the Governor to negotiate and sign a Right-of-Way Agreement between the Pueblo de San Ildefonso and the Comcast Cable Communications Management, LLC ("Comcast") for a right-of-way for a fiber optic line over the Pueblo's lands and to authorize the Bureau of Indian Affairs ("BIA") to grant an Easement for Right-of-Way to Comcast for that purpose.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.13.030"/>
+      <num codify:value="24.2.13.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>Comcast Cable Communications Management, LLC ("Comcast") owns a fiber optic line which crosses over the Pueblo's lands.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Bureau of Indian Affairs ("BIA") executed a lease agreement on March 12, 1980 with Los Alamos Cable TV which authorized television cable to be buried along State Road 4 on the Pueblo's lands.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The initial lease term with Los Alamos Cable TV began on March 17, 1980 and was for a period of twenty (20) years with an annual payment amount of $3,000, with an option for an additional twenty (20) year term with rent to be renegotiated at the end of that first twenty (20) year term. The Lease also contained a provision for a rent adjustment at five (5) year intervals and a provision for interest on late payments.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Los Alamos Cable TV was subsequently acquired by Comcast, although the date of acquisition by Comcast is unknown, and Comcast assumed the Los Alamos Cable TV lease apparently without notice to the Pueblo or the BIA.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Comcast at some point since 1980 has replaced the television cable with a fiber optic line without notice to or approval by the Pueblo or the BIA.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>It appears that Comcast exercised the option to renew for a second twenty (20) year term but it is unknown if Comcast notified the Pueblo or the BIA of their intention to do so and the rental payment adjustment did not occur at any point over the lease term.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The lease expired on March 17, 2020.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Pueblo and Comcast have negotiated terms to reconcile compensation owed to the Pueblo or paid by Comcast under the prior lease and terms for a new Right-of-Way Agreement for the fiber optic line.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Pueblo and Comcast have negotiated terms for a Right-of-Way for a twenty-year (20) term to begin on March 17, 2020 and end on March 16, 2040.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The Pueblo and Comcast have agreed upon total compensation in the amount of $1,168,810.61 which includes compensation for past use under the prior lease and compensation for the new Right-of-Way.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>The Council has been fully briefed and has reviewed the proposed Right-of-Way Agreement terms and has determined that it is in the best interest of the Pueblo to grant a limited waiver of the Pueblo's immunity from suit to enforce the Right-of-Way Agreement and authorize the Governor to sign a form of the Right-of-Way Agreement.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>The Council also finds it is in the best interest of the Pueblo to authorize the BIA to grant an Easement for Right-of-Way to Comcast in the same or similar form as attached hereto as Exhibit A, and to waive the requirement for a bond as Comcast has made a substantial partial payment toward the total compensation due, and to waive the valuation requirement and accept the agreed upon compensation negotiated between the Pueblo and Comcast.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.13.040"/>
+      <num codify:value="24.2.13.040">1.4</num>
+      <heading>Authorizations and Waivers</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes the Governor to negotiate and sign a Right-of-Way Agreement with Comcast for the fiber optic line subject to the terms identified herein in substantially similar form, and to make any revisions and amendments as may be necessary to support the execution of a Right-of-Way Agreement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council hereby grants an express and limited waiver of the Pueblo's immunity from suit, subject to the limitations herein, to enforce the Right-of-Way Agreement, provided that the waiver runs solely to the benefit of Comcast, the waiver extends only to the contractual claims of the particular agreement and shall be limited to claims arising from the acts or omissions of the Pueblo, its officers, employees or agents, and applies only to consent to the dispute resolution provisions of the particular agreement, and the waiver does not include special, consequential or punitive damages, costs or attorney fees.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Council hereby requests and authorizes the BIA to grant an Easement for Right-of-Way to PNM in the same or similar form as attached hereto as <strong>Exhibit A.</strong></text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Council hereby waives the requirement for a bond pursuant to 25 CFR §169.103(f)(2) as Comcast has agreed to make a substantial partial payment upon signature of the Right-of-Way Agreement toward the total compensation due, and requests that the BIA defer to the Council's determination regarding waiver of such bond or security.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Council has reviewed the proposed monetary compensation to be paid under the proposed Right-of-Way Agreement and has determined the compensation amount negotiated between Comcast and the Pueblo to be satisfactory to the Pueblo and the Council hereby waives the valuation requirement pursuant to 25 CFR § 169.110(a) and requests that the BIA defer to the Council's waiver regarding valuation.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Governor, or his designee, is authorized to take all actions as necessary to carry out the intent of this Act.</text>
+      </para>
+    </section>
+  </attachment>
+</document>
