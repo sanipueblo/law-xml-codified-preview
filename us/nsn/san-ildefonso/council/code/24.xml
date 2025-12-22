@@ -1171,11 +1171,11 @@
     </container>
     <container>
       <prefix>Part</prefix>
-      <num>24.2.13</num>
+      <num>24.2.12</num>
       <heading>Comcast Right-of-Way Authorization Act</heading>
       <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-010" eff="2025-11-18" path="" type="History"/>
       <section>
-        <num>24.2.13.010</num>
+        <num>24.2.12.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "COMCAST RIGHT-OF-WAY AUTHORIZATION ACT."</text>
         <annotations>
@@ -1184,7 +1184,7 @@
         </annotations>
       </section>
       <section>
-        <num>24.2.13.020</num>
+        <num>24.2.12.020</num>
         <heading>Purpose</heading>
         <text>The purpose of this Act is to authorize the Governor to negotiate and sign a Right-of-Way Agreement between the Pueblo de San Ildefonso and the Comcast Cable Communications Management, LLC ("Comcast") for a right-of-way for a fiber optic line over the Pueblo's lands and to authorize the Bureau of Indian Affairs ("BIA") to grant an Easement for Right-of-Way to Comcast for that purpose.</text>
         <annotations>
@@ -1193,7 +1193,7 @@
         </annotations>
       </section>
       <section>
-        <num>24.2.13.030</num>
+        <num>24.2.12.030</num>
         <heading>Findings</heading>
         <text>The Council hereby finds and declares that:</text>
         <para>
@@ -1250,7 +1250,7 @@
         </annotations>
       </section>
       <section>
-        <num>24.2.13.040</num>
+        <num>24.2.12.040</num>
         <heading>Authorizations and Waivers</heading>
         <para>
           <num>(a)</num>

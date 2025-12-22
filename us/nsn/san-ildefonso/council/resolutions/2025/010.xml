@@ -275,30 +275,30 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2025, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Raelene Martine, Council Secretary</text>
   </procedural-data>
-  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.13">
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.12">
     <container>
       <prefix>Part</prefix>
-      <num>24.2.13</num>
+      <num>24.2.12</num>
       <heading>Comcast Right-of-Way Authorization Act</heading>
     </container>
   </codify:insert>
   <attachment id="law">
-    <codified:at path="24.2.13"/>
+    <codified:at path="24.2.12"/>
     <section>
-      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.13.010"/>
-      <num codify:value="24.2.13.010">1.1</num>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.12.010"/>
+      <num codify:value="24.2.12.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "COMCAST RIGHT-OF-WAY AUTHORIZATION ACT."</text>
     </section>
     <section>
-      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.13.020"/>
-      <num codify:value="24.2.13.020">1.2</num>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.12.020"/>
+      <num codify:value="24.2.12.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Governor to negotiate and sign a Right-of-Way Agreement between the Pueblo de San Ildefonso and the Comcast Cable Communications Management, LLC ("Comcast") for a right-of-way for a fiber optic line over the Pueblo's lands and to authorize the Bureau of Indian Affairs ("BIA") to grant an Easement for Right-of-Way to Comcast for that purpose.</text>
     </section>
     <section>
-      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.13.030"/>
-      <num codify:value="24.2.13.030">1.3</num>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.12.030"/>
+      <num codify:value="24.2.12.030">1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
       <para>
@@ -351,8 +351,8 @@
       </para>
     </section>
     <section>
-      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.13.040"/>
-      <num codify:value="24.2.13.040">1.4</num>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.12.040"/>
+      <num codify:value="24.2.12.040">1.4</num>
       <heading>Authorizations and Waivers</heading>
       <para>
         <num>(a)</num>
