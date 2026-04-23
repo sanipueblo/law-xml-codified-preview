@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R26-001" codify:doc="Pueblo de San Ildefonso Code">
+  <num>SI-R26-001</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R26-001</heading>
+  <heading type="law">Act Supporting San Ildefonso Services' Application to New Mexico Finance Authority Local Solar Access Fund for Tribal Facility Solar Project Funding</heading>
+  <meta>
+    <effective>2026-03-05</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R26-001</citation>
+    </citations>
+    <history>
+      <adopted>2026-03-03</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 3rd day of March, 2026, the following resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>San Ildefonso Services, LLC (SIS) is wholly owned by a single member, the Pueblo de San Ildefonso ( "Pueblo"), for the benefit of the Pueblo and its members; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>San Ildefonso Services, LLC is a Manager-Managed LLC, which is currently operated by a five-member Board; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>San Ildefonso Services, LLC is authorized by its Articles of Organization to engage in business ventures, acquire, manage, and operate buildings, personal property, and real property, and to take any action incidental, necessary, or convenient to affect any or all of the purposes for which it is organized; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>economic development and job creation are priorities of the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SIS, pursuant to authorization from the Pueblo, plans to submit a grant application in SIS' name to the New Mexico Finance Authority Local Access Solar Fund for Tribal Facility Solar Project Funding ("NMFA Grant") to fund the Pueblo facility solar projects (the "Project") including the expansion of energy production on the Pueblo and the employment of trained tribal members for construction of the project. Awardees may receive an amount of up to $1,000,000 with no match required; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the project will be managed by SIS and can be completed within one (1) year after being awarded the NMFA grant; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed plan for the NMFA Grant is to install up to four arrays with a total size of 131KW, one covered parking array to be shared by the Pueblo Senior Center and the Senior Health Center, one ground mount array for the pumphouse, and one rooftop array for the Tewa Center; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the size of the systems would offset the electric utility bill from the buildings and pumphouse, offsetting approximately $2,000 per month in Jemez Mountain Electric Coop. fees; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the cost of this project is approximately $1,000,000 and will require assistance from the Pueblo's Accounting Staff to administer the funding with those costs reimbursed by SIS through an MOU for services between SIS and the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the project, once constructed, will be owned by the Pueblo, requiring it be insured by the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>at a Member's Representatives meeting held on February 9, 2026, the SIS Member's Representatives unanimously approved SIS' presentation and authorized its presentation to the Council for its consideration and approval of the NMFA Grant application submission and Project; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council believes it is in the best interest of the Pueblo for SIS to apply for the NMFA Grant and to have SIS reimburse the Pueblo for the expenses incurred by the Pueblo in executing the Grant.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached resolution entitled "ACT SUPPORTING SAN ILDEFONSO SERVICES' APPLICATION TO NEW MEXICO FINANCE AUTHORITY LOCAL SOLAR ACCESS FUND FOR TRIBAL FACILITY SOLAR PROJECT FUNDING."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>March 3</u>, 2026, at a meeting with a vote of <u>8</u> in favor, <u>0</u> opposed, <u>1</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Denise Moquino</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R26-001</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>3</u><sup><u>rd</u></sup> day of <u>March</u>, 2026, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>5</u><sup><u>th</u></sup> day of <u>March</u>, 2026.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2026.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2026, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino Martinez, Council Secretary</text>
+  </procedural-data>
+  <codify:insert path="|17.2" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.34">
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.34</num>
+      <heading>Act Supporting San Ildefonso Services' Application to New Mexico Finance Authority Local Solar Access Fund for Tribal Facility Solar Project Funding</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="17.2.34"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">ACT SUPPORTING SAN ILDEFONSO SERVICES APPLICATION TO NEW MEXICO FINANCE AUTHORITY LOCAL SOLAR ACCESS FUND FOR TRIBAL FACILITY SOLAR PROJECT FUNDING</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.34.010"/>
+      <num codify:value="17.2.34.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "ACT SUPPORTING SAN ILDEFONSO SERVICES' APPLICATION TO NEW MEXICO FINANCE AUTHORITY LOCAL SOLAR ACCESS FUND FOR TRIBAL FACILITY SOLAR PROJECT FUNDING" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.34.020"/>
+      <num codify:value="17.2.34.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to support San Ildefonso Services' application to New Mexico Finance Authority Local Solar Access Fund for Tribal Facility Solar Project Funding ("NMFA Grant") and, if awarded, for SIS to manage the project using the NMFA Grant funds, and reimburse the Pueblo for Administrative expenses associated with managing the funds.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.34.030"/>
+      <num codify:value="17.2.34.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>San Ildefonso Services, LLC (SIS) is wholly owned by a single member, the Pueblo de San Ildefonso (the "Pueblo"), for the benefit of the Pueblo and its members.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>San Ildefonso Services, LLC is a Manager-Managed LLC, which is currently operated by a five-member Board.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>San Ildefonso Services, LLC is authorized by its Articles of Organization to engage in business ventures, acquire, manage, and operate buildings, personal property, and real property, and to take any action incidental, necessary, or convenient to affect any or all of the purposes for which it is organized.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>It is in the best interest of the Pueblo for SIS to apply for the NMFA for the Pueblo facility solar project (the "Project"), to create job opportunities in tribal communities, and to train and hire members of the Pueblo.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Pueblo supports SIS' proposed plan to use the NMFA Grant to install 130kW solar projects including one covered parking array to be shared by the Pueblo Senior Center and the Senior Health Center, a ground mount array for the pumphouse, and a rooftop array for the Tewa Center.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Project will be managed by SIS and can be completed within one year after being awarded the NMFA Grant.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Pueblo Administrative support is required for the Pueblo to be reimbursed by SIS as a part of the cost of the Project.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Project, once constructed, would offset approximately $2,000 per month in electric bills and will be owned and insured by the Pueblo.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>At a Member's Representatives meeting held on February 9, 2026, the SIS Member's Representatives unanimously approved SIS' presentation and authorized its presentation to the Council for its consideration and approval of the NMFA Grant application submission and Project.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.34.040"/>
+      <num codify:value="17.2.34.040">1.4</num>
+      <heading>Authorization</heading>
+      <text>The Council hereby authorizes and directs the Governor, or his designee to take such actions as deemed necessary to carry out the intent of this Act in support of SIS' submission of the NMFA Grant application for the Pueblo facility solar Project in accordance with the SIS presentation of the Project, and to submit any additional documents, including statements and certification for and in behalf of the Pueblo necessary to fulfill any funding requirements or to fulfill the purposes of this Act.</text>
+    </section>
+  </attachment>
+</document>

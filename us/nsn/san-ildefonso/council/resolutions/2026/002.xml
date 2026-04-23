@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R26-002" codify:doc="Pueblo de San Ildefonso Code">
+  <num>SI-R26-002</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R26-002</heading>
+  <heading type="law">Impersonation of Pueblo Officials and Employees Law</heading>
+  <meta>
+    <effective>2026-03-05</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R26-002</citation>
+    </citations>
+    <history>
+      <adopted>2026-03-03</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 3rd day of March, 2026, the following resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>there is a need to protect the integrity of the Pueblo's duly constituted government, elected leadership, and employees, and prevent and deter false claims of authority to act on behalf of the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council desires to protect the Pueblo's government-to-government relationships with the United States and other governmental entities and prevent fraud, confusion, interference with governmental functions, and reputational harm; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council desires to provide clear civil and criminal remedies for impersonation of Pueblo officials or employees.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached resolution entitled the "THE IMPERSONATION OF PUEBLO OFFICIALS AND EMPLOYEES ACT".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>March 3</u><sup><u>rd</u></sup>, 2026, at a meeting with a vote of <u>8</u> in favor, <u>0</u> opposed, <u>1</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Martinez</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Denise Moquino</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td data-text-align="center" data-vertical-align="middle">X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R26-002</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>3</u><sup><u>rd</u></sup> day of <u>March</u>, 2026, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>5</u><sup><u>th</u></sup> day of <u>March</u>, 2026.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2026.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-vertical-align="bottom">Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Brandi Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Gary Alan Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td data-vertical-align="bottom">Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2026, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+  </procedural-data>
+  <codify:insert path="|8.1" codified:doc="Pueblo de San Ildefonso Code" codified:path="|8.1.4">
+    <container>
+      <prefix>Part</prefix>
+      <num>8.1.4</num>
+      <heading>Impersonation of Pueblo Officials and Employees Law</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="|8.1.4"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">IMPERSONATION OF PUEBLO OFFICIALS AND EMPLOYEES LAW</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|8.1.4.010"/>
+      <num codify:value="8.1.4.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "Impersonation of Pueblo Officials and Employees Law" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|8.1.4.020"/>
+      <num codify:value="8.1.4.020">1.2</num>
+      <heading>Purpose and Authority</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of this resolution is to:</text>
+        <para>
+          <num codify:value="(1)">(a)</num>
+          <text>Protect the integrity of the Pueblo's duly constituted government, elected leadership, and employees;</text>
+        </para>
+        <para>
+          <num codify:value="(2)">(b)</num>
+          <text>Prevent and deter false claims of authority to act on behalf of the Pueblo;</text>
+        </para>
+        <para>
+          <num codify:value="(3)">(c)</num>
+          <text>Protect the Pueblo's government-to-government relationships with the United States and other governmental entities;</text>
+        </para>
+        <para>
+          <num codify:value="(4)">(d)</num>
+          <text>Prevent fraud, confusion, interference with governmental functions, and reputational harm; and</text>
+        </para>
+        <para>
+          <num codify:value="(5)">(e)</num>
+          <text>Provide clear civil and criminal remedies for impersonation of Pueblo officials or employees.</text>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <heading>Authority.</heading>
+        <text>This Law is enacted pursuant to the inherent sovereign authority of the San Ildefonso Pueblo, as reserved under its governing Agreement and recognized by federal law, to govern its internal affairs, protect its political integrity, regulate conduct affecting the Pueblo, and enforce its laws through civil and criminal remedies.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|8.1.4.030"/>
+      <num codify:value="8.1.4.030">1.3</num>
+      <heading>Definitions</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text><strong>"Pueblo"</strong> means the San Ildefonso Pueblo, a federally recognized Indian tribe, including all Pueblo departments, enterprises, boards, commissions, and instrumentalities.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><strong>"Elected Official"</strong> means any individual duly elected or appointed in accordance with the governing Agreement and laws of the Pueblo, including but not limited to the Governor, Lieutenant Governor, and members of the Pueblo Council.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><strong>"Pueblo Employee"</strong> means any individual employed by, contracted with, or otherwise authorized to act on behalf of the Pueblo or any Pueblo department or enterprise.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><strong>"Impersonate" or "Impersonation"</strong> means knowingly and falsely representing oneself, directly or indirectly, by words, actions, documents, electronic communications, or other means, as: a. An elected official of the Pueblo; b. A Pueblo employee or authorized agent; or c. A person otherwise authorized to act on behalf of, speak for, or bind the Pueblo.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text><strong>"Knowingly"</strong> means that a person is aware that the representation is false or unauthorized, or acts with reckless disregard as to its truth or falsity.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text><strong>"Aggrieved Party"</strong> means the Pueblo or any individual or entity that suffers harm, confusion, reliance, interference, or potential liability as a result of conduct prohibited by this Law.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|8.1.4.040"/>
+      <num codify:value="8.1.4.040">1.4</num>
+      <heading>Prohibited Acts</heading>
+      <text>It is unlawful for any person, without lawful authority, to:</text>
+      <para>
+        <num codify:value="(a)">(1)</num>
+        <text>Impersonate an elected official or Pueblo employee;</text>
+      </para>
+      <para>
+        <num codify:value="(b)">(2)</num>
+        <text>Claim to be the "true," "rightful," or otherwise legitimate leader or governor of the Pueblo when such claim is not recognized under Pueblo law;</text>
+      </para>
+      <para>
+        <num codify:value="(c)">(3)</num>
+        <text>Represent or imply to any federal, state, local, tribal, or other governmental entity or official that the person has authority to act for, represent, or bind the Pueblo;</text>
+      </para>
+      <para>
+        <num codify:value="(d)">(4)</num>
+        <text>Attempt to conduct or participate in meetings, consultations, negotiations, or communications with any governmental or non-governmental entity while falsely claiming authority to represent the Pueblo;</text>
+      </para>
+      <para>
+        <num codify:value="(e)">(5)</num>
+        <text>Use Pueblo titles, seals, letterhead, business cards, insignia, or other indicia of governmental authority in connection with an impersonation; or</text>
+      </para>
+      <para>
+        <num codify:value="(f)">(6)</num>
+        <text>Aid, abet, conspire with, or assist another person in committing any act prohibited by this Law.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|8.1.4.050"/>
+      <num codify:value="8.1.4.050">1.5</num>
+      <heading>Civil Cause of Action and Remedies</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <heading>Standing.</heading>
+        <text>The Pueblo, acting through its Governor, Pueblo Council, or Prosecutor, or other duly authorized official, and any aggrieved party, may bring a civil action for violations of this Law.</text>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <heading>Jurisdiction.</heading>
+        <text>The Courts of the Pueblo shall have exclusive original jurisdiction over civil actions arising under this Law.</text>
+      </para>
+      <para>
+        <num codify:value="(c)">C.</num>
+        <heading>Civil Remedies.</heading>
+        <text>Upon a finding that a violation has occurred, the Court may grant one or more of the following remedies:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>Declaratory relief establishing that the defendant lacks authority to act on behalf of the Pueblo;</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>Temporary, preliminary, and permanent injunctive relief prohibiting further impersonation or misrepresentation;</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>Civil penalties in amounts not to exceed one thousand dollars ($1,000) per violation, with each act and each day of continued violation constituting a separate offense;</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>Restitution for any losses, costs, or damages incurred by the Pueblo or an aggrieved party;</text>
+        </para>
+        <para>
+          <num codify:value="(5)">5.</num>
+          <text>Disgorgement of any benefit, compensation, or thing of value obtained through the prohibited conduct;</text>
+        </para>
+        <para>
+          <num codify:value="(6)">6.</num>
+          <text>Court costs and reasonable attorneys' fees awarded to the prevailing Pueblo or aggrieved party; and</text>
+        </para>
+        <para>
+          <num codify:value="(7)">7.</num>
+          <text>Any other relief the Court deems just and proper to protect the Pueblo's governmental interests.</text>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(d)">D.</num>
+        <heading>Federal Cease-and-Desist Notices.</heading>
+        <text>Upon issuance of an injunction or declaratory judgment under this Section, the Court may authorize the Pueblo to transmit court-approved cease-and-desist notices to federal and state agencies or officials, or other interested parties, identifying the defendant as lacking authority to act on behalf of the Pueblo.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|8.1.4.060"/>
+      <num codify:value="8.1.4.060">1.6</num>
+      <heading>Criminal Offense – Impersonation of a Pueblo Official or Employee</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <heading>Offense Defined.</heading>
+        <text>A person commits the offense of impersonation of a Pueblo official or employee if the person knowingly impersonates an elected official, Pueblo employee, or authorized agent of the Pueblo with intent to induce another person or governmental entity to submit to such pretended authority, rely upon the impersonation, or act in response to the false representation.</text>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <heading>Classification and Penalties.</heading>
+        <text>This offense shall be classified and punished in a manner consistent with the Pueblo's Criminal Code and governing Agreement limits. Penalties may include:</text>
+        <para>
+          <num codify:value="(1)">1.</num>
+          <text>A fine not to exceed five thousand dollars ($5,000) per violation;</text>
+        </para>
+        <para>
+          <num codify:value="(2)">2.</num>
+          <text>Incarceration for a period not to exceed one year per violation;</text>
+        </para>
+        <para>
+          <num codify:value="(3)">3.</num>
+          <text>Probation, community service, or other lawful sanctions; or</text>
+        </para>
+        <para>
+          <num codify:value="(4)">4.</num>
+          <text>Any combination of the foregoing.</text>
+        </para>
+      </para>
+      <aftertext>Each act of impersonation, each communication, and each day the violation continues constitutes a separate offense.</aftertext>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|8.1.4.070"/>
+      <num codify:value="8.1.4.070">1.7</num>
+      <heading>Enforcement and Official Certifications</heading>
+      <para>
+        <num codify:value="(a)">A.</num>
+        <heading>Criminal Enforcement.</heading>
+        <text>This Law may be enforced by Pueblo law enforcement officers and prosecuted by the Pueblo, the prosecutor, or other authorized official.</text>
+      </para>
+      <para>
+        <num codify:value="(b)">B.</num>
+        <heading>Official Certifications of Authority.</heading>
+        <text>The Governor or his designee is authorized to issue written certifications identifying the individuals who are duly elected or authorized to act on behalf of the Pueblo. Such certifications may be provided to federal, state, or other governmental entities and shall constitute <em>prima facie</em> evidence of lawful authority.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|8.1.4.080"/>
+      <num codify:value="8.1.4.080">1.8</num>
+      <heading>Sovereign Immunity</heading>
+      <text>Nothing in this Law shall be construed as a waiver of the sovereign immunity of the San Ildefonso Pueblo, its officers, employees, or agents. Any waiver of sovereign immunity must be express and in writing.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|8.1.4.090"/>
+      <num codify:value="8.1.4.090">1.9</num>
+      <heading>Severability</heading>
+      <text>If any provision of this Law is held invalid or unenforceable, such invalidity shall not affect the remaining provisions, which shall continue in full force and effect.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|8.1.4.100"/>
+      <num codify:value="8.1.4.100">2.0</num>
+      <heading>Effective Date</heading>
+      <text>This Law shall take effect upon adoption by the Council and approval as required by the Agreement and laws of the San Ildefonso Pueblo.</text>
+    </section>
+  </attachment>
+</document>
