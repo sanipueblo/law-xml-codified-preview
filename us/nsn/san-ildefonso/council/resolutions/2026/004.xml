@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R26-004" codify:doc="Pueblo de San Ildefonso Code">
+  <num>SI-R26-004</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R26-004</heading>
+  <heading type="law">Minimum Standards for Key Employees Act of 2026</heading>
+  <meta>
+    <effective>2026-05-19</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R26-004</citation>
+    </citations>
+    <history>
+      <adopted>2026-05-12</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 12<sup>th</sup> day of May, 2026, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo ("Pueblo") operates a complex, sophisticated government utilizing millions of dollars and employing more than one hundred people; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>several departments and key employees provide critical services that allow the government to operate efficiently and that safeguard the finances of the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo recently experienced an unfortunate theft of its governmental funds due in part to the lack of on-site supervision and oversight of departmental staff; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has identified the need to establish minimum standards for key employees within the government including the Controller, the Tribal Administrator, Human Resources Manager, and the General Counsel of the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has also identified the need to avoid conflicts of interest with key employees who may now, or in the future, serve as Council Representatives.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached resolution and laws entitled the "Minimum Standards for Key Employees Act of 2026".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>May 12</u>, 2026, at a meeting with a vote of <u>6</u> in favor, <u>2</u> opposed, <u>1</u> abstaining and <u>1</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Brandi Martinez</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td>X</td>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td>X</td>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Gary Alan Roybal</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R26-004</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>12</u><sup><u>th</u></sup> day of <u>May</u>, 2026, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED – The Governor did not approve by the 7-day deadline, so the law became effective on May 19, 2026.</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this __________ day of ________________, 2026.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2026.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Brandi Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Gary Alan Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2026, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+  </procedural-data>
+  <codify:insert path="|6.7" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.7">
+    <container>
+      <prefix>Part</prefix>
+      <num>6.7.7</num>
+      <heading>Minimum Standards for Key Employees Act of 2026</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="6.7.7"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">MINIMUM STANDARDS FOR KEY EMPLOYEES ACT OF 2026</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.7.010"/>
+      <num codify:value="6.7.7.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "Minimum Standards for Key Employees Act of 2026" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.7.020"/>
+      <num codify:value="6.7.7.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to establish minimum standards for key employees with the government in order to protect the assets of the Pueblo and to provide fairness within its governmental operations.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.7.030"/>
+      <num codify:value="6.7.7.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo ("Pueblo") operates a complex, sophisticated government utilizing millions of dollars and employing more than one hundred people.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Several departments and key employees provide critical services that allow the government to operate efficiently and that safeguard the finances of the Pueblo.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Pueblo recently experienced an unfortunate theft of its governmental funds due in part to the lack of on-site supervision and oversight of departmental staff.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Council has identified the need to establish minimum standards for key employees within the government including the Tribal Administrator, the Controller, the Human Resources Manager, and the General Counsel of the Pueblo.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Council has also identified the need to avoid conflicts of interest with key employees who may now, or in the future, serve as Council Representatives.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.7.040"/>
+      <num codify:value="6.7.7.040">1.4</num>
+      <heading>Minimum Standards for Key Employees</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Administrator, the Controller, the Human Resources Manager, and the General Counsel shall be considered key employees of the Pueblo (the "Key Employees").</text>
+        <para>
+          <num>(i)</num>
+          <text>The Tribal Administrator shall be a full-time, in-house employee of the Pueblo, and shall work on-site at the headquarters of the Pueblo. The Governor shall be authorized to select a Tribal Administrator, who shall serve at-will at the pleasure of the Governor.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The Controller shall be a full-time, in-house employee of the Pueblo and shall work on-site at the headquarters of the Pueblo. The Governor shall be authorized to select a Controller, who shall serve at-will at the pleasure of the Governor. The Governor may offer an employment contract to a Controller; provided, that any severance payment shall be limited to no more than six months' salary.</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The Human Resources Manager shall be a full-time, in-house employee of the Pueblo who shall work on-site at the headquarters of the Pueblo. The Governor shall be authorized to select a Human Resources Manager.</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The General Counsel of the Pueblo shall be selected by the Governor who may be a full-time in-house employee, or may be an outside attorney or law firm, and shall serve at-will at the pleasure of the Governor. A General Counsel of the Pueblo who is an outside attorney or law firm shall not be required to work on-site at the headquarters of the Pueblo.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No Key Employee as identified herein shall also serve as an elected Representative of the Council.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>All Key Employees shall be paid in accordance with the Annual Budget or Budget Modification approved by the Council by law.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.7.050"/>
+      <num codify:value="6.7.7.050">1.5</num>
+      <heading>Independent Investigation of the Theft of Funds</heading>
+      <text>The Governor is hereby authorized and directed to engage a professional accounting/consulting firm ("Firm") within ten (10) days to conduct an independent investigation into the recent theft of funds and resources from the Pueblo; provided, that the Firm selected has not been employed by the Pueblo during the previous five years. The Firm shall be required, at a minimum, to: (1) investigate and evaluate the nature and extent of the theft of funds; (2) determine whether sufficient internal controls were in place to protect against theft and whether those controls were followed; (3) determine whether steps have been taken, including any interim measures, to prevent the theft of additional funds; (4) determine whether efforts have been made to recover the funds in question; and, (5) make recommendations to prevent the theft of Pueblo funds in the future. The Firm shall also evaluate any cybersecurity that the Pueblo has in place to prevent the electronic theft of funds from the Pueblo, including whether the Pueblo has cybersecurity insurance coverage. The Firm shall prepare and present a written report on its findings to the Governor and Council. The Council hereby authorizes up to fifty-thousand dollars ($50,000) to engage a firm.</text>
+    </section>
+  </attachment>
+</document>
