@@ -67,7 +67,7 @@
         </para>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(a)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(a)" target-path="|4.1.1.030|(b)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -131,7 +131,10 @@
         </para>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(b)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(b)" target-path="|4.1.2.010|(a)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(b)" target-path="|4.1.2.010|(c)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(b)" target-path="|4.1.2.010|(d)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(b)" target-path="|4.1.2.010|(g)" type="History"/>
         </annotations>
       </section>
     </container>
@@ -145,7 +148,7 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(c)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(c)" target-path="|4.1.3.010" type="History"/>
         </annotations>
       </section>
     </container>
@@ -274,7 +277,7 @@
         </para>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(d)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(d)" target-path="|4.1.6.010|(a)" type="History"/>
         </annotations>
       </section>
     </container>
@@ -827,7 +830,7 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(e)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(e)" target-path="|4.2.1.230" type="History"/>
         </annotations>
       </section>
       <section>
@@ -918,7 +921,7 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(f)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.4|(f)" target-path="|4.2.1.270" type="History"/>
         </annotations>
       </section>
     </container>
@@ -926,15 +929,15 @@
       <prefix>Part</prefix>
       <num>4.2.2</num>
       <heading>Court Filings Limitation Act of 2017</heading>
-      <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="" type="History"/>
+      <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="" target-path="4.2" type="History"/>
       <section>
         <num>4.2.2.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "COURT FILINGS LIMITATION ACT OF 2017."</text>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="" type="History"/>
-          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="attachments|law|1.1" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="" target-path="4.2" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="attachments|law|1.1" target-path="4.2|4.2.2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -990,8 +993,8 @@
         </para>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="" type="History"/>
-          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="attachments|law|1.2" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="" target-path="4.2" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="attachments|law|1.2" target-path="4.2|4.2.2" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1157,7 +1160,7 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
-          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.010" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.010" target-path="4.4.1|4.4.1.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1179,7 +1182,7 @@
         <text></text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
-          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.020" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.020" target-path="4.4.1|4.4.1.020" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1196,7 +1199,7 @@
         <text></text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
-          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.030" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.030" target-path="4.4.1|4.4.1.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1209,7 +1212,7 @@
         <text></text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
-          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.040" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.040" target-path="4.4.1|4.4.1.040" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1242,7 +1245,7 @@
         <text></text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
-          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.050" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.050" target-path="4.4.1|4.4.1.050" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1355,8 +1358,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
-          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.060" type="History"/>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.5|(e)" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.060" target-path="4.4.1|4.4.1.060" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.5|(e)" target-path="|4.4.1.060" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1385,7 +1388,7 @@
         <text></text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
-          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.070" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.070" target-path="4.4.1|4.4.1.070" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1418,7 +1421,7 @@
         <text></text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
-          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.080" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.080" target-path="4.4.1|4.4.1.080" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1442,7 +1445,7 @@
         <text></text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-016"/>
-          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.100" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-024" eff="2022-12-14" path="attachments|law|4.4|4.4.1|4.4.1.100" target-path="4.4.1|4.4.1.100" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1461,20 +1464,20 @@
     <prefix>Chapter</prefix>
     <num>4.6</num>
     <heading>Trial Date Deadline Modification Act</heading>
-    <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History" display="false"/>
+    <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" target-path="4" type="History" display="false"/>
     <container>
       <prefix>Part</prefix>
       <num>4.6.1</num>
       <heading>Trial Date Deadline Modification Act</heading>
-      <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History"/>
+      <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" target-path="4.6" type="History"/>
       <section>
         <num>4.6.1.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "TRIAL DATE DEADLINE MODIFICATION ACT."</text>
         <annotations>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History" display="false"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="attachments|law|1.1" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" target-path="4" type="History" display="false"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" target-path="4.6" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="attachments|law|1.1" target-path="4.6.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1482,9 +1485,9 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to extend the trial date deadline up to 90 days from arraignment in order to allow the parties sufficient time to prepare for trial.</text>
         <annotations>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History" display="false"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="attachments|law|1.2" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" target-path="4" type="History" display="false"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" target-path="4.6" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="attachments|law|1.2" target-path="4.6.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1504,9 +1507,9 @@
           <text>The Council has determined that it is in the best interest of the Tribe and for the administration of justice to extend the trial date deadline to allow parties sufficient time to prepare for trial and to avoid dismissal of cases that should go to trial. .</text>
         </para>
         <annotations>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History" display="false"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="attachments|law|1.3" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" target-path="4" type="History" display="false"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" target-path="4.6" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="attachments|law|1.3" target-path="4.6.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1514,9 +1517,9 @@
         <heading>Extension of Trial Date Deadline</heading>
         <text>If the defendant enters a plea of not guilty, the Court shall set a date for trial, which shall be at least ten (10) days but not more than ninety (90) days from the date of arraignment, unless the court finds good cause pursuant to a written order to provide a further extension of the trial date, but in no case shall the trial date extend beyond one year from the date of arraignment.</text>
         <annotations>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History" display="false"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" type="History"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="attachments|law|1.4" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" target-path="4" type="History" display="false"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="" target-path="4.6" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-027" eff="2018-11-20" path="attachments|law|1.4" target-path="4.6.1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1525,42 +1528,46 @@
     <prefix>Chapter</prefix>
     <num>4.7</num>
     <heading>Judicial Removal Process Reform Act of 2025</heading>
-    <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" type="History"/>
+    <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" target-path="|4" type="History"/>
     <container>
       <prefix>Part</prefix>
       <num>4.7.1</num>
       <heading>Qualifications and Duties of Chief Justice of the Supreme Court</heading>
-      <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" type="History"/>
+      <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" target-path="|4.7" type="History"/>
       <section>
         <num>4.7.1.010</num>
         <text>The Chief Justice of the Supreme Court shall be a qualified, licensed attorney selected by the seated justices of the Supreme Court;</text>
         <annotations>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" type="History"/>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6|(a)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" target-path="|4" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" target-path="|4.7" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6|(a)" target-path="|4.7.1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>4.7.1.020</num>
         <text>The Chief Justice or a designee should regularly meet with the Trial Court, the Office of the Governor, and the Council to maintain good working relationships;</text>
         <annotations>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" type="History"/>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6|(b)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" target-path="|4" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" target-path="|4.7" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6|(b)" target-path="|4.7.1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>4.7.1.030</num>
         <text>The Chief Justice shall cause to be conducted a professional Court assessment at least once every five years by an independent party and/or the Bureau of Indian Affairs that shall include a written summary of the strengths and weaknesses of the Courts along with recommendations for improvements to the judicial branch of government;</text>
         <annotations>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" type="History"/>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6|(c)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" target-path="|4" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" target-path="|4.7" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6|(c)" target-path="|4.7.1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>4.7.1.040</num>
         <text>A professional prosecutor, employed and paid by the executive branch of government, shall be required for all criminal prosecutions where the defendant is subject to possible incarceration.</text>
         <annotations>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" type="History"/>
-          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6|(d)" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" target-path="|4" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6" target-path="|4.7" type="History"/>
+          <annotation app="2025-11-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-008" eff="2025-11-18" path="attachments|law|1.6|(d)" target-path="|4.7.1" type="History"/>
         </annotations>
       </section>
     </container>

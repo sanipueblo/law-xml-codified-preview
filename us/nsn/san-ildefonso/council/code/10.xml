@@ -327,15 +327,15 @@
       <prefix>Part</prefix>
       <num>10.1.6</num>
       <heading>Domestic Violence Prevention Act</heading>
-      <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" type="History"/>
+      <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" target-path="10.1" type="History"/>
       <section>
         <num>10.1.6.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "DOMESTIC VIOLENCE PREVENTION ACT."</text>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" type="History"/>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.1" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.1" target-path="10.1|10.1.6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -344,8 +344,8 @@
         <text>The purpose of this Act is to establish strong legal protections for victims of Domestic Violence.</text>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" type="History"/>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.2" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.2" target-path="10.1|10.1.6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -366,8 +366,8 @@
         </para>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" type="History"/>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.3" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.3" target-path="10.1|10.1.6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -376,8 +376,8 @@
         <text>The Courts of the Pueblo shall have the authority to exercise criminal jurisdiction over any act of Domestic Violence that occurs within the exterior boundaries of the Pueblo and that involves an Indian. The Courts of the Pueblo shall have the authority to exercise civil jurisdiction over any act of Domestic Violence that occurs within the exterior boundaries of the Pueblo and that involves any person.</text>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" type="History"/>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.4" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.4" target-path="10.1|10.1.6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -397,8 +397,8 @@
         </para>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" type="History"/>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.5" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.5" target-path="10.1|10.1.6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -422,8 +422,8 @@
         </para>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" type="History"/>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.6" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.6" target-path="10.1|10.1.6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -443,8 +443,8 @@
         </para>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" type="History"/>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.7" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.7" target-path="10.1|10.1.6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -464,9 +464,9 @@
         </para>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" type="History"/>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.8" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-015" eff="2023-12-22" path="attachments|law|1.4" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.8" target-path="10.1|10.1.6" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-015" eff="2023-12-22" path="attachments|law|1.4" target-path="10.1.6.080" type="History"/>
         </annotations>
       </section>
       <section>
@@ -486,8 +486,8 @@
         </para>
         <annotations>
           <annotation type="History">1984 Code</annotation>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" type="History"/>
-          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.9" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-024" eff="2018-09-20" path="attachments|law|1.9" target-path="10.1|10.1.6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -496,7 +496,7 @@
       <num>10.1.7</num>
       <heading>Elder Abuse Prevention Act</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025"/>
-      <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" type="History"/>
+      <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" target-path="10.1" type="History"/>
       <section>
         <num>10.1.7.010</num>
         <heading>DEFINITIONS</heading>
@@ -556,8 +556,8 @@
         <annotations>
           <annotation type="History">1984 Code</annotation>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" type="History"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|1" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|1" target-path="10.1|10.1.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -567,8 +567,8 @@
         <annotations>
           <annotation type="History">1984 Code</annotation>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" type="History"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|2" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|2" target-path="10.1|10.1.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -605,8 +605,8 @@
         <annotations>
           <annotation type="History">1984 Code</annotation>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" type="History"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|3" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|3" target-path="10.1|10.1.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -623,8 +623,8 @@
         <annotations>
           <annotation type="History">1984 Code</annotation>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" type="History"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|4" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|4" target-path="10.1|10.1.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -654,8 +654,8 @@
         <annotations>
           <annotation type="History">1984 Code</annotation>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" type="History"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|5" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|5" target-path="10.1|10.1.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -681,8 +681,8 @@
         <annotations>
           <annotation type="History">1984 Code</annotation>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" type="History"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|6" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|6" target-path="10.1|10.1.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -703,8 +703,8 @@
         <annotations>
           <annotation type="History">1984 Code</annotation>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" type="History"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|7" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|7" target-path="10.1|10.1.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -730,8 +730,8 @@
         <annotations>
           <annotation type="History">1984 Code</annotation>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" type="History"/>
-          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|8" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="" target-path="10.1" type="History"/>
+          <annotation app="2018-11-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-025" eff="2018-11-20" path="attachments|law|8" target-path="10.1|10.1.7" type="History"/>
         </annotations>
       </section>
     </container>

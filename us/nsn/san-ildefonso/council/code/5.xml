@@ -39,7 +39,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|1.3" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|1.3" target-path="5.1.1.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -56,7 +56,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|1.4" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|1.4" target-path="5.1.1.020" type="History"/>
         </annotations>
       </section>
     </container>
@@ -95,7 +95,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|i|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|i|1" target-path="5.1.2.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -184,7 +184,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|i|2" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|i|2" target-path="5.1.2.020" type="History"/>
         </annotations>
       </section>
     </container>
@@ -247,7 +247,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|ii|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|ii|1" target-path="5.1.3.010" type="History"/>
         </annotations>
       </section>
     </container>
@@ -310,7 +310,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|iii|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|iii|1" target-path="5.1.4.010" type="History"/>
         </annotations>
       </section>
     </container>
@@ -348,7 +348,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|iv|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|iv|1" target-path="5.1.5.010" type="History"/>
         </annotations>
       </section>
     </container>
@@ -375,7 +375,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|v|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|v|1" target-path="5.1.6.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -392,7 +392,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|v|2" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|v|2" target-path="5.1.6.020" type="History"/>
         </annotations>
       </section>
       <section>
@@ -450,8 +450,8 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|v|3" type="History"/>
-          <annotation app="2025-07-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-005" eff="2025-07-06" path="" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|v|3" target-path="5.1.6" type="History"/>
+          <annotation app="2025-07-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-005" eff="2025-07-06" path="" target-path="5.1.6.030" type="History"/>
         </annotations>
       </section>
     </container>
@@ -485,7 +485,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|vi|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|vi|1" target-path="5.1.7.010" type="History"/>
         </annotations>
       </section>
     </container>
@@ -527,7 +527,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|vii|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|vii|1" target-path="5.1.8.010" type="History"/>
         </annotations>
       </section>
     </container>
@@ -542,7 +542,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|1" target-path="5.1.9.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -552,7 +552,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|2" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|2" target-path="5.1.9.020" type="History"/>
         </annotations>
       </section>
       <section>
@@ -562,7 +562,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|3" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|3" target-path="5.1.9.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -572,7 +572,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|4" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|4" target-path="5.1.9.040" type="History"/>
         </annotations>
       </section>
       <section>
@@ -593,7 +593,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|5" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|5" target-path="5.1.9.050" type="History"/>
         </annotations>
       </section>
       <section>
@@ -634,7 +634,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|6" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|6" target-path="5.1.9.060" type="History"/>
         </annotations>
       </section>
       <section>
@@ -655,7 +655,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|7" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|7" target-path="5.1.9" type="History"/>
         </annotations>
       </section>
       <section>
@@ -665,7 +665,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|8" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|8" target-path="5.1.9.070" type="History"/>
         </annotations>
       </section>
       <section>
@@ -675,7 +675,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|9" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|9" target-path="5.1.9.080" type="History"/>
         </annotations>
       </section>
       <section>
@@ -685,7 +685,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|10" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|10" target-path="5.1.9.090" type="History"/>
         </annotations>
       </section>
       <section>
@@ -695,7 +695,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|11" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|11" target-path="5.1.9.100" type="History"/>
         </annotations>
       </section>
       <section>
@@ -705,7 +705,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|12" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|12" target-path="5.1.9.110" type="History"/>
         </annotations>
       </section>
       <section>
@@ -715,7 +715,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|13" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|viii|13" target-path="5.1.9.120" type="History"/>
         </annotations>
       </section>
     </container>
@@ -830,7 +830,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|ix|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|ix|1" target-path="5.1.10.010" type="History"/>
         </annotations>
       </section>
     </container>
@@ -874,7 +874,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|x|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|x|1" target-path="5.1.11.010" type="History"/>
         </annotations>
       </section>
     </container>
@@ -917,14 +917,14 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xi|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xi|1" target-path="5.1.12.010" type="History"/>
         </annotations>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
       <num>5.1.13</num>
-      <heading>ELECTIONS TO FILL VACANCIES<annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xii" type="History"/></heading>
+      <heading>ELECTIONS TO FILL VACANCIES<annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xii" target-path="5.1.13|heading" type="History"/></heading>
       <section>
         <num>5.1.13.010</num>
         <heading>Special Election to Fill Vacancy.</heading>
@@ -956,7 +956,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xii|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xii|1" target-path="5.1.13.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -973,7 +973,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xii|2" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xii|2" target-path="5.1.13" type="History"/>
         </annotations>
       </section>
       <section>
@@ -986,14 +986,14 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xii|3" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xii|3" target-path="5.1.13" type="History"/>
         </annotations>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
       <num>5.1.14</num>
-      <heading>OATH OF OFFICE<annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiii" type="History"/></heading>
+      <heading>OATH OF OFFICE<annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiii" target-path="5.1.14|heading" type="History"/></heading>
       <section>
         <num>5.1.14.010</num>
         <heading>Oath of Office.</heading>
@@ -1001,7 +1001,7 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiii|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiii|1" target-path="5.1.14.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1018,7 +1018,7 @@
       <prefix>Part</prefix>
       <num>5.1.15</num>
       <heading>AMENDMENT AND SEVERABILITY</heading>
-      <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiv" type="History"/>
+      <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiv" target-path="5.1" type="History"/>
       <section>
         <num>5.1.15.010</num>
         <heading>Amendment.</heading>
@@ -1026,8 +1026,8 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiv" type="History"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiv|1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiv" target-path="5.1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiv|1" target-path="5.1.15" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1037,8 +1037,8 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-006"/>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-002"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiv" type="History"/>
-          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiv|2" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiv" target-path="5.1" type="History"/>
+          <annotation app="2023-08-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-011" eff="2023-08-01" path="attachments|law|election-law|xiv|2" target-path="5.1.15" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1047,12 +1047,12 @@
     <prefix>Chapter</prefix>
     <num>5.2</num>
     <heading>Election Law Amendments and Restatement of 2019</heading>
-    <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
+    <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
     <container>
       <prefix>Part</prefix>
       <num>5.2.1</num>
       <heading>Election Commission</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.1.010</num>
         <heading>Election Commission.</heading>
@@ -1082,9 +1082,9 @@
           </include>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|I|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|I|1" target-path="5|5.2|5.2.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1166,9 +1166,9 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|I|2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|I|2" target-path="5|5.2|5.2.1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1176,7 +1176,7 @@
       <prefix>Part</prefix>
       <num>5.2.2</num>
       <heading>Elections</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.2.010</num>
         <heading>Elections.</heading>
@@ -1230,9 +1230,9 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|II|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|II|1" target-path="5|5.2|5.2.2" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1240,7 +1240,7 @@
       <prefix>Part</prefix>
       <num>5.2.3</num>
       <heading>Nominations</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.3.010</num>
         <heading>Nominations.</heading>
@@ -1294,9 +1294,9 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|III|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|III|1" target-path="5|5.2|5.2.3" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1304,7 +1304,7 @@
       <prefix>Part</prefix>
       <num>5.2.4</num>
       <heading>Candidate Qualifications</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.4.010</num>
         <heading>Qualifications.</heading>
@@ -1333,9 +1333,9 @@
           </include>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|IV|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|IV|1" target-path="5|5.2|5.2.4" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1343,7 +1343,7 @@
       <prefix>Part</prefix>
       <num>5.2.5</num>
       <heading>Voting</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.5.010</num>
         <heading>Voting Age.</heading>
@@ -1361,9 +1361,9 @@
           <text>Any voter who will turn age eighteen (18) by or on the date of the Primary Election shall be eligible to vote. For the First Election, the cut-off date for age eligibility shall be the date of the First Election.</text>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|V|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|V|1" target-path="5|5.2|5.2.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1378,9 +1378,9 @@
           <text>From the date of the posting of the preliminary list of voters through September 30<sup>th</sup>, the Election Commission shall accept any written challenges to the eligibility of a voter or voters on the preliminary list of voters.  The Election Commission shall make written determinations on any such voter challenges no later than October 10<sup>th</sup> of each year.  The Election Commission shall post the final list of voters no later than October 15<sup>th</sup> of each year.</text>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|V|2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|V|2" target-path="5|5.2|5.2.5" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1388,7 +1388,7 @@
       <prefix>Part</prefix>
       <num>5.2.6</num>
       <heading>Ballots</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.6.010</num>
         <heading>Ballots.</heading>
@@ -1409,9 +1409,9 @@
           <text>In Referendum Elections, the Election Commission shall prepare a ballot that includes the language from the referendum petition on the challenged law.</text>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VI|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VI|1" target-path="5|5.2|5.2.6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1419,7 +1419,7 @@
       <prefix>Part</prefix>
       <num>5.2.7</num>
       <heading>Notice of Elections</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.7.010</num>
         <heading>Notice of Election.</heading>
@@ -1436,9 +1436,9 @@
           <text>The Election Commission shall publicly post such dates and deadlines as necessary to hold the First Election within the two (2) month period required under the Agreement.</text>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VII|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VII|1" target-path="5|5.2|5.2.7" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1446,15 +1446,15 @@
       <prefix>Part</prefix>
       <num>5.2.8</num>
       <heading>Election Procedures</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.8.010</num>
         <heading>Polling Place.</heading>
         <text>There shall be one (1) polling place located at the Pueblo.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|1" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1462,9 +1462,9 @@
         <heading>Hours of Voting.</heading>
         <text>The polls shall be open at the polling place from 7:00 a.m. to 7:00 p.m. Voters in line at the polling place but unable to cast their ballots before 7:00 p.m. shall be allowed to finish voting.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|2" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1472,9 +1472,9 @@
         <heading>Fifty (50) Foot Limit.</heading>
         <text>No persons except members of the Election Commission shall be allowed to remain within fifty (50) feet of a polling place, except while actually voting.  No campaigning or placement of campaign materials shall be allowed within a fifty (50) foot perimeter around the polling place.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|3" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|3" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1482,9 +1482,9 @@
         <heading>Maintaining Peace at Polling Place.</heading>
         <text>The Election Commission or Bailiff shall keep the peace and protect the voting place by preventing disturbances at the polling place and interference with persons desiring to vote.  This includes the authority to remove unruly or uncooperative persons from the polling place or from within the fifty (50) foot limit.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|4" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|4" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1503,9 +1503,9 @@
           <text>The Election Commission may utilize electronic voting machines to conduct elections.</text>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|5" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1524,9 +1524,9 @@
           <text>At the end of the tally, the Election Commission shall place the counted ballots, any spoiled ballots and any rejected ballots, in the ballot box.  The ballot box shall be locked and sealed.</text>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|6" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|6" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1545,9 +1545,9 @@
           <text>In the event of a recount, the Election Commission shall post the results of the recount of ballots at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public locations, along with notice to the Governor and Lieutenant Governor.</text>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|7" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|7" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1555,9 +1555,9 @@
         <heading>Tie Votes.</heading>
         <text>A tie vote for candidates in any Election shall be decided by a game of chance administered by the Election Commission at the earliest possible time after the election upon notice to the candidates, with notice posted at the polling place, the Governor's Office, the Tewa Center, public bulletin boards, and other public places. This does not prevent the tied candidates from participating in the game of chance immediately following the vote count if both candidates are available and agree to conduct the tie-breaker at that time.  In such instance, posting of notice shall not be required.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|8" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|8" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1565,9 +1565,9 @@
         <heading>Spoiled Ballots.</heading>
         <text>If a voter spoils a ballot and obtains another ballot, the spoiled ballot shall be marked "SPOILED".  Each member of the Election Commission shall sign his or her name below this marking and the spoiled ballot shall be secured by the Election Commission.  All spoiled ballots shall be placed in the ballot box at the end of the tallying.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|9" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|9" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1575,9 +1575,9 @@
         <heading>Unused Ballots.</heading>
         <text>Ballots unused at the end of the voting shall be marked "UNUSED" and shall be placed in the ballot box at the end of the tallying.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|10" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|10" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1585,9 +1585,9 @@
         <heading>Rejected Ballots.</heading>
         <text>If, during the tallying of the votes, the Election Commission is unable to determine from the ballot the choice of the voter, the ballot shall be rejected.  All rejected ballots shall be placed in the ballot box at the end of the tallying.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|11" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|11" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1595,9 +1595,9 @@
         <heading>Recounts.</heading>
         <text>Any Candidate for elective office shall have the right to request a recount of the election results within three (3) days of the election.  Upon receipt of a written request for a recount, the Election Commission shall promptly conduct a recount and shall post the results of such recount in accordance with Section 7.C. above.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|12" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|12" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1605,9 +1605,9 @@
         <heading>Other Matters Decided by the Election Commission.</heading>
         <text>The Election Commission shall control all aspects of elections conducted by the Pueblo regardless of any Federal or State laws.  Any other election matters not specifically addressed in this law shall be decided by the Election Commission.  The decision of the Election Commission shall be final.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|13" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|VIII|13" target-path="5|5.2|5.2.8" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1615,7 +1615,7 @@
       <prefix>Part</prefix>
       <num>5.2.9</num>
       <heading>Challenges to the Election Results</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.9.010</num>
         <heading>Election Results Challenge Process.</heading>
@@ -1721,9 +1721,9 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|IX|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|IX|1" target-path="5|5.2|5.2.9" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1731,7 +1731,7 @@
       <prefix>Part</prefix>
       <num>5.2.10</num>
       <heading>Recall Elections</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.10.010</num>
         <heading>Recall Elections.</heading>
@@ -1766,9 +1766,9 @@
           <text>An individual who voluntarily places his or her signature on a petition shall not be allowed to later withdraw or remove their signature from the petition.</text>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|X|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|X|1" target-path="5|5.2|5.2.10" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1776,7 +1776,7 @@
       <prefix>Part</prefix>
       <num>5.2.11</num>
       <heading>Referendum Elections</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.11.010</num>
         <heading>Referendum Election Process.</heading>
@@ -1810,9 +1810,9 @@
           <text>An individual who voluntarily places his or her signature on a petition shall not be allowed to later withdraw or remove their signature from the petition.</text>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XI|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XI|1" target-path="5|5.2|5.2.11" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1820,7 +1820,7 @@
       <prefix>Part</prefix>
       <num>5.2.12</num>
       <heading>Elections to Fill Vacancies</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.12.010</num>
         <heading>Special Election to Fill Vacancy.</heading>
@@ -1850,9 +1850,9 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XII|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XII|1" target-path="5|5.2|5.2.12" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1867,9 +1867,9 @@
           <text>The Election Commission shall call a Special Election to be held within thirty (30) days of the Election Commission's certification of the vacancy.</text>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XII|2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XII|2" target-path="5|5.2|5.2.12" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1880,9 +1880,9 @@
           <text>In the event that an elected official voluntarily creates a vacancy in their position for any reason, and then submits their name and intent to run in the Special Election to be held to fill the vacancy caused by that elected official, that candidate shall pay an election fee equal to one-half (1/2) of the cost of the Special Election. Such election fee must be paid in full before the former elected official is placed on the list of candidates for the Special Election.</text>
         </para>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XII|3" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XII|3" target-path="5|5.2|5.2.12" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1890,15 +1890,15 @@
       <prefix>Part</prefix>
       <num>5.2.13</num>
       <heading>Oath of Office</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.13.010</num>
         <heading>Oath of Office.</heading>
         <text>After the Election Commission has certified the results of the election and the winners are announced, and any challenges are finally decided, a Justice or Judge shall administer the oath of office on January 2 at a location within the Pueblo's lands. An Acknowledgement of the Oath of Office form shall be signed by the candidate, Justice or Judge and the Commission Chair and retained by the Commission.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XIII|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XIII|1" target-path="5|5.2|5.2.13" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1906,15 +1906,15 @@
       <prefix>Part</prefix>
       <num>5.2.14</num>
       <heading>Amendment and Severability</heading>
-      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
+      <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
       <section>
         <num>5.2.14.010</num>
         <heading>Amendment.</heading>
         <text>The Council may amend this law upon a majority vote of the Council in accordance with the requirements of the Agreement for making laws.  The Election Commission may submit to the Council suggested amendments to the law as deemed necessary.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XIV|1" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XIV|1" target-path="5|5.2|5.2.14" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1922,9 +1922,9 @@
         <heading>Severability.</heading>
         <text>The provisions of this law are severable and if any part or provision shall be held void by any court of competent jurisdiction, the decision of the court so holding shall not affect or impair any of the remaining parts or provisions of this law.</text>
         <annotations>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" type="History"/>
-          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XIV|2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="" target-path="5" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law" target-path="5|5.2" type="History"/>
+          <annotation app="2019-06-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-011" eff="2019-06-11" path="attachments|law|XIV|2" target-path="5|5.2|5.2.14" type="History"/>
         </annotations>
       </section>
     </container>

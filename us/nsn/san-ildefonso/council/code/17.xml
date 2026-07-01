@@ -1207,14 +1207,14 @@
       <prefix>Part</prefix>
       <num>17.2.7</num>
       <heading>Act to Transfer Ownership and Operation of C-Stores to San Ildefonso Services, LLC</heading>
-      <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" type="History"/>
+      <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.7.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT TO TRANSFER OWNERSHIP AND OPERATION OF C-STORES TO SAN ILDEFONSO SERVICES, LLC."</text>
         <annotations>
-          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" type="History"/>
-          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="attachments|law|1.1" type="History"/>
+          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" target-path="17.2" type="History"/>
+          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="attachments|law|1.1" target-path="17.2|17.2.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1229,8 +1229,8 @@
           <text>"SIS LLC" means San Ildefonso Services, LLC, a single member limited liability company organized under tribal law and wholly owned by the Pueblo.</text>
         </para>
         <annotations>
-          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" type="History"/>
-          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="attachments|law|1.2" type="History"/>
+          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" target-path="17.2" type="History"/>
+          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="attachments|law|1.2" target-path="17.2|17.2.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1238,8 +1238,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to authorize the transfer of ownership and operation of the C-Stores from the Pueblo to SIS LLC.</text>
         <annotations>
-          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" type="History"/>
-          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="attachments|law|1.3" type="History"/>
+          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" target-path="17.2" type="History"/>
+          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="attachments|law|1.3" target-path="17.2|17.2.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1255,8 +1255,8 @@
           <text>The Council has determined that it is in the best interests of the Pueblo to transfer the ownership and operation of the C-Stores to SIS LLC.</text>
         </para>
         <annotations>
-          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" type="History"/>
-          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="attachments|law|1.4" type="History"/>
+          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" target-path="17.2" type="History"/>
+          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="attachments|law|1.4" target-path="17.2|17.2.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1296,8 +1296,8 @@
           <text>SIS LLC will assume full responsibility for insuring, maintaining, and repairing the C-Stores, and will be responsible for continuing or maintaining any and all policies of insurance with coverage and limits at or exceeding the coverage and limits of the current policies and as mandated by law or agreement.</text>
         </para>
         <annotations>
-          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" type="History"/>
-          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="attachments|law|1.5" type="History"/>
+          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" target-path="17.2" type="History"/>
+          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="attachments|law|1.5" target-path="17.2|17.2.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1305,8 +1305,8 @@
         <heading>Authority of Tribal Governor to Execute Transfer</heading>
         <text>The Council hereby authorizes the Governor of the Pueblo to carry out and execute all documents necessary to effect the transfer of the C-Stores to SIS LLC pursuant to the terms of this Act.</text>
         <annotations>
-          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" type="History"/>
-          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="attachments|law|1.6" type="History"/>
+          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="" target-path="17.2" type="History"/>
+          <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-018" eff="2017-06-23" path="attachments|law|1.6" target-path="17.2|17.2.7" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1315,7 +1315,7 @@
       <num>17.2.8</num>
       <heading>Amending Article XI(I) of the Third Amended Articles of Organization and Section 2.7.3 of the Fourth Amended Operating Agreement of San Ildefonso Services, LLC</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028"/>
-      <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" type="History"/>
+      <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.8.010</num>
         <heading>Findings</heading>
@@ -1353,7 +1353,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028"/>
-          <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" type="History"/>
+          <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" target-path="17.2" type="History"/>
+          <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" target-path="|17.2.8" type="History"/>
+          <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" target-path="|17.2.8.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1378,7 +1380,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028"/>
-          <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" type="History"/>
+          <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" target-path="17.2" type="History"/>
+          <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" target-path="|17.2.8" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1391,7 +1394,7 @@
       </annotation>
       </annotations>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047"/>
-      <annotation app="2017-12-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047" eff="2017-12-29" path="" type="History"/>
+      <annotation app="2017-12-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047" eff="2017-12-29" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.9.010</num>
         <heading>Findings</heading>
@@ -1417,7 +1420,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047"/>
-          <annotation app="2017-12-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047" eff="2017-12-29" path="" type="History"/>
+          <annotation app="2017-12-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047" eff="2017-12-29" path="" target-path="17.2" type="History"/>
+          <annotation app="2017-12-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047" eff="2017-12-29" path="" target-path="|17.2.9" type="History"/>
+          <annotation app="2017-12-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047" eff="2017-12-29" path="" target-path="|17.2.9.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1425,7 +1430,8 @@
         <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047"/>
-          <annotation app="2017-12-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047" eff="2017-12-29" path="" type="History"/>
+          <annotation app="2017-12-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047" eff="2017-12-29" path="" target-path="17.2" type="History"/>
+          <annotation app="2017-12-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047" eff="2017-12-29" path="" target-path="|17.2.9" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1434,7 +1440,7 @@
       <num>17.2.10</num>
       <heading>Amending the Effective Date of the Amended Articles of Organization for San Ildefonso Services, LLC</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004"/>
-      <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" type="History"/>
+      <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.10.010</num>
         <heading>Findings</heading>
@@ -1464,7 +1470,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004"/>
-          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" type="History"/>
+          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" target-path="|17.2.10" type="History"/>
+          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" target-path="|17.2.10.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1472,7 +1480,8 @@
         <text>The Council hereby amends the "Fourth Amended Articles of Organization for San Ildefonso Services, a Limited Liability Company Chartered by the Pueblo de San Ildefonso, a federally recognized sovereign" to extend the effective date from March 31, 2018 to September 1, 2018, all other terms of Council Resolution No. SI-R17-047 shall remain in effect.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004"/>
-          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" type="History"/>
+          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" target-path="|17.2.10" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1480,7 +1489,8 @@
         <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004"/>
-          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" type="History"/>
+          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" target-path="|17.2.10" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1488,14 +1498,14 @@
       <prefix>Part</prefix>
       <num>17.2.11</num>
       <heading>Approving and Authorizing the Business Lease with San Ildefonso Services, LLC for the Totavi Convenience Store</heading>
-      <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" type="History"/>
+      <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.11.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the Act, "APPROVING AND AUTHORIZING THE BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE TOTAVI CONVENIENCE STORE."</text>
         <annotations>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" type="History"/>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="attachments|law|1.1" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="attachments|law|1.1" target-path="17.2|17.2.11" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1510,8 +1520,8 @@
           <text>"SIS LLC" means San Ildefonso Services, LLC, a single member limited liability company organized under tribal law and wholly owned by the Pueblo<strong> .</strong></text>
         </para>
         <annotations>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" type="History"/>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="attachments|law|1.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="attachments|law|1.2" target-path="17.2|17.2.11" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1519,8 +1529,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to authorize and direct the Governor of the Pueblo to negotiate and execute a Business Lease with SIS LLC for the Totavi Convenience Store.</text>
         <annotations>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" type="History"/>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="attachments|law|1.3" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="attachments|law|1.3" target-path="17.2|17.2.11" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1548,8 +1558,8 @@
           <text>A copy of the proposed Business Lease for the Totavi Convenience Store is attached to this Resolution ("Proposed Business Lease" or "Proposed Lease").</text>
         </para>
         <annotations>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" type="History"/>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="attachments|law|1.4" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="attachments|law|1.4" target-path="17.2|17.2.11" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1576,8 +1586,8 @@
           <text>The Council has determined that the Governor may execute said Business Leases or any other certification required by federal or tribal law.</text>
         </para>
         <annotations>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" type="History"/>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="attachments|law|1.5" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="attachments|law|1.5" target-path="17.2|17.2.11" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1585,8 +1595,8 @@
         <heading>Authority of Tribal Governor to Execute the Business Lease</heading>
         <text>The Council hereby authorizes and directs the Governor of the Pueblo to negotiate and execute a final Business Lease in substantially the same form as the attached Proposed Business Lease consistent with this Act, make any revisions and amendments that may be necessary and required to support the execution of a final Business Lease, and execute any certification that may be required by federal or tribal law to support the execution of a final Business Lease.</text>
         <annotations>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" type="History"/>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="attachments|law|1.6" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-005" eff="2018-05-10" path="attachments|law|1.6" target-path="17.2|17.2.11" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1594,14 +1604,14 @@
       <prefix>Part</prefix>
       <num>17.2.12</num>
       <heading>Approving and Authorizing the Business Lease with San Ildefonso Services, LLC for the White Rock Convenience Store</heading>
-      <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" type="History"/>
+      <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.12.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the Act, "APPROVING AND AUTHORIZING THE BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE WHITE ROCK CONVENIENCE STORE."</text>
         <annotations>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" type="History"/>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="attachments|law|1.1" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="attachments|law|1.1" target-path="17.2|17.2.12" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1616,8 +1626,8 @@
           <text>"SIS LLC" means San Ildefonso Services, LLC, a single member limited liability company organized under tribal law and wholly owned by the Pueblo<strong>.</strong></text>
         </para>
         <annotations>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" type="History"/>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="attachments|law|1.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="attachments|law|1.2" target-path="17.2|17.2.12" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1625,8 +1635,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to authorize and direct the Governor of the Pueblo to negotiate and execute a Business Lease with SIS LLC for the White Rock Convenience Store.</text>
         <annotations>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" type="History"/>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="attachments|law|1.3" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="attachments|law|1.3" target-path="17.2|17.2.12" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1654,8 +1664,8 @@
           <text>A copy of the proposed Business Lease for the White Rock Convenience Store is attached to this Resolution ("Proposed Business Lease" or "Proposed Lease").</text>
         </para>
         <annotations>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" type="History"/>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="attachments|law|1.4" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="attachments|law|1.4" target-path="17.2|17.2.12" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1682,8 +1692,8 @@
           <text>The Council has determined that the Governor may execute said Business Leases or any other certification required by federal or tribal law.</text>
         </para>
         <annotations>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" type="History"/>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="attachments|law|1.5" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="attachments|law|1.5" target-path="17.2|17.2.12" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1691,8 +1701,8 @@
         <heading>Authority of Tribal Governor to Execute the Business Lease</heading>
         <text>The Council hereby authorizes and directs the Governor of the Pueblo to negotiate and execute a final Business Lease in substantially the same form as the attached Proposed Business Lease consistent with this Act, make any revisions and amendments that may be necessary and required to support the execution of a final Business Lease, and execute any certification that may be required by federal or tribal law to support the execution of a final Business Lease.</text>
         <annotations>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" type="History"/>
-          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="attachments|law|1.6" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-05-10" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-006" eff="2018-05-10" path="attachments|law|1.6" target-path="17.2|17.2.12" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1700,14 +1710,14 @@
       <prefix>Part</prefix>
       <num>17.2.13</num>
       <heading>Act Approving Tax Subsidy to San Ildefonso Services, LLC</heading>
-      <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" type="History"/>
+      <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.13.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the Act, "ACT APPROVING TAX SUBSIDY TO SAN ILDEFONSO SERVICES, LLC ("Act")."</text>
         <annotations>
-          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" type="History"/>
-          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="attachments|law|1.1" type="History"/>
+          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="attachments|law|1.1" target-path="17.2|17.2.13" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1715,8 +1725,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to approve the Pueblo de San Ildefonso Tax Subsidy to San Ildefonso Services, LLC.</text>
         <annotations>
-          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" type="History"/>
-          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="attachments|law|1.2" type="History"/>
+          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="attachments|law|1.2" target-path="17.2|17.2.13" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1764,8 +1774,8 @@
           <text>The Council finds the need to approve the Pueblo de San Ildefonso Tax Subsidy to San Ildefonso Services, LLC.</text>
         </para>
         <annotations>
-          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" type="History"/>
-          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="attachments|law|1.3" type="History"/>
+          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="attachments|law|1.3" target-path="17.2|17.2.13" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1800,8 +1810,8 @@
           <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent and direction this Act.</text>
         </para>
         <annotations>
-          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" type="History"/>
-          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="attachments|law|1.4" type="History"/>
+          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="attachments|law|1.4" target-path="17.2|17.2.13" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1810,7 +1820,7 @@
       <num>17.2.14</num>
       <heading>Amending the Effective Date of the Amended Articles of  Organization for San Ildefonso Services, LLC</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017"/>
-      <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" type="History"/>
+      <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.14.010</num>
         <heading>Findings</heading>
@@ -1844,7 +1854,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017"/>
-          <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" type="History"/>
+          <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" target-path="|17.2.14" type="History"/>
+          <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" target-path="|17.2.14.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1852,7 +1864,8 @@
         <text>The Council hereby amends the "Fourth Amended Articles of Organization for San Ildefonso Services, a Limited Liability Company Chartered by the Pueblo de San Ildefonso, a federally recognized sovereign" to extend the effective date to December 31, 2018, all other terms of Council Resolution No. SI-R17-047 shall remain in effect.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017"/>
-          <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" type="History"/>
+          <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" target-path="|17.2.14" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1860,7 +1873,8 @@
         <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017"/>
-          <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" type="History"/>
+          <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" target-path="|17.2.14" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1869,7 +1883,7 @@
       <num>17.2.15</num>
       <heading>Approving San Ildefonso Services, LLC, to Evaluate Options to Establish a Tribally-owned and Operated Telecommunications Cell Tower aka "Totavi Cell Tower Project"</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023"/>
-      <annotation app="2018-10-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023" eff="2018-10-22" path="" type="History"/>
+      <annotation app="2018-10-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023" eff="2018-10-22" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.15.010</num>
         <heading>Findings</heading>
@@ -1907,7 +1921,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023"/>
-          <annotation app="2018-10-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023" eff="2018-10-22" path="" type="History"/>
+          <annotation app="2018-10-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023" eff="2018-10-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-10-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023" eff="2018-10-22" path="" target-path="|17.2.15" type="History"/>
+          <annotation app="2018-10-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023" eff="2018-10-22" path="" target-path="|17.2.15.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1927,7 +1943,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023"/>
-          <annotation app="2018-10-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023" eff="2018-10-22" path="" type="History"/>
+          <annotation app="2018-10-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023" eff="2018-10-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-10-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023" eff="2018-10-22" path="" target-path="|17.2.15" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1936,7 +1953,7 @@
       <num>17.2.16</num>
       <heading>Reappointing and Establishing the Term of Office of the Board of Managers of San Ildefonso Services, LLC</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026"/>
-      <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" type="History"/>
+      <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.16.010</num>
         <heading>Findings</heading>
@@ -1970,7 +1987,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026"/>
-          <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" type="History"/>
+          <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" target-path="|17.2.16" type="History"/>
+          <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" target-path="|17.2.16.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1978,7 +1997,8 @@
         <text>The Member's Representatives hereby reappoint Dominic Pruitt, Barbara Gonzales, and Sean Hughes as the Board of Managers of San Ildefonso Services, LLC, with Mr. Pruitt serving as Chairman.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026"/>
-          <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" type="History"/>
+          <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" target-path="|17.2.16" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1986,7 +2006,8 @@
         <text>The Board of Managers terms of office shall expire on December 31, 2018.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026"/>
-          <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" type="History"/>
+          <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" target-path="|17.2.16" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1999,7 +2020,7 @@
       </annotation>
       </annotations>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029"/>
-      <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029" eff="2018-12-17" path="" type="History"/>
+      <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029" eff="2018-12-17" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.17.010</num>
         <heading>Findings</heading>
@@ -2025,7 +2046,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029"/>
-          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029" eff="2018-12-17" path="" type="History"/>
+          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029" eff="2018-12-17" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029" eff="2018-12-17" path="" target-path="|17.2.17" type="History"/>
+          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029" eff="2018-12-17" path="" target-path="|17.2.17.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2033,7 +2056,8 @@
         <text>The Member's Representatives hereby approve and adopt this resolution in accordance with the requirements of the Operating Agreement.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029"/>
-          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029" eff="2018-12-17" path="" type="History"/>
+          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029" eff="2018-12-17" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029" eff="2018-12-17" path="" target-path="|17.2.17" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2046,7 +2070,7 @@
       </annotation>
       </annotations>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031"/>
-      <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031" eff="2018-12-17" path="" type="History"/>
+      <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031" eff="2018-12-17" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.18.010</num>
         <heading>Findings</heading>
@@ -2072,7 +2096,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031"/>
-          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031" eff="2018-12-17" path="" type="History"/>
+          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031" eff="2018-12-17" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031" eff="2018-12-17" path="" target-path="|17.2.18" type="History"/>
+          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031" eff="2018-12-17" path="" target-path="|17.2.18.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2080,7 +2106,8 @@
         <text>Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031"/>
-          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031" eff="2018-12-17" path="" type="History"/>
+          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031" eff="2018-12-17" path="" target-path="17.2" type="History"/>
+          <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031" eff="2018-12-17" path="" target-path="|17.2.18" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2088,14 +2115,14 @@
       <prefix>Part</prefix>
       <num>17.2.19</num>
       <heading>Act Authorizing Amendments to the Business Lease with San Ildefonso Services, LLC, for the Totavi Convenience Store</heading>
-      <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="" type="History"/>
+      <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.19.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as "ACT AUTHORIZING AMENDMENT TO BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC, FOR THE TOTAVI CONVENIENCE STORE" ("Act").</text>
         <annotations>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="" type="History"/>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="attachments|law|1.1" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="attachments|law|1.1" target-path="17.2|17.2.19" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2114,8 +2141,8 @@
           <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
         </para>
         <annotations>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="" type="History"/>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="attachments|law|1.2" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="attachments|law|1.2" target-path="17.2|17.2.19" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2123,8 +2150,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to authorize amendment of the May 9, 2018 Business Lease between the Pueblo and the San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store. The Amendment of Business Lease ("Amendment") sets out the amended terms of the Business Lease for the changed acreage and Surveyor's Certificate for the boundary survey.</text>
         <annotations>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="" type="History"/>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="attachments|law|1.3" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="attachments|law|1.3" target-path="17.2|17.2.19" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2164,8 +2191,8 @@
           <text>The Council acknowledges that all other terms of the May 9, 2018 Business Lease remain in full force and effect.</text>
         </para>
         <annotations>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="" type="History"/>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="attachments|law|1.4" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="attachments|law|1.4" target-path="17.2|17.2.19" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2184,8 +2211,8 @@
           <text>The Governor is authorized to take such actions as necessary to submit the completed Amendment to Business Lease to BIA-Northern Pueblos Agency for review and approval.</text>
         </para>
         <annotations>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="" type="History"/>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="attachments|law|1.5" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-007" eff="2019-03-14" path="attachments|law|1.5" target-path="17.2|17.2.19" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2193,14 +2220,14 @@
       <prefix>Part</prefix>
       <num>17.2.20</num>
       <heading>Act Authorizing Amendments to the Business Lease with San Ildefonso Services, LLC, for the White Rock Convenience Store</heading>
-      <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="" type="History"/>
+      <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.20.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as "ACT AUTHORIZING AMENDMENT TO BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC, FOR THE WHITE ROCK CONVENIENCE STORE" ("Act").</text>
         <annotations>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="" type="History"/>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="attachments|law|1.1" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="attachments|law|1.1" target-path="17.2|17.2.20" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2219,8 +2246,8 @@
           <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
         </para>
         <annotations>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="" type="History"/>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="attachments|law|1.2" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="attachments|law|1.2" target-path="17.2|17.2.20" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2228,8 +2255,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to authorize amendment of the May 9, 2018 Business Lease between the Pueblo and the San Ildefonso Services, LLC for the White Rock Gas Station and Convenience Store. The Amendment of Business Lease ("Amendment") sets out the amended terms of the Business Lease for the changed acreage and Surveyor's Certificate for the boundary survey.</text>
         <annotations>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="" type="History"/>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="attachments|law|1.3" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="attachments|law|1.3" target-path="17.2|17.2.20" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2269,8 +2296,8 @@
           <text>The Council acknowledges that all other terms of the May 9, 2018 Business Lease remain in full force and effect.</text>
         </para>
         <annotations>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="" type="History"/>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="attachments|law|1.4" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="attachments|law|1.4" target-path="17.2|17.2.20" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2289,8 +2316,8 @@
           <text>The Governor is authorized to take such actions as necessary to submit the completed Amendment to Business Lease to BIA-Northern Pueblos Agency for review and approval.</text>
         </para>
         <annotations>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="" type="History"/>
-          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="attachments|law|1.5" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-03-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-008" eff="2019-03-14" path="attachments|law|1.5" target-path="17.2|17.2.20" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2298,14 +2325,14 @@
       <prefix>Part</prefix>
       <num>17.2.21</num>
       <heading>San Ildefonso Services, LLC Member's Representatives Compensation Act of 2019</heading>
-      <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" type="History"/>
+      <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.21.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as "SAN ILDEFONSO SERVICES, LLC MEMBER'S REPRESENTATIVES COMPENSATION ACT OF 2019" ("Act").</text>
         <annotations>
-          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" type="History"/>
-          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.1" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.1" target-path="17.2|17.2.21" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2313,8 +2340,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to establish the rate of compensation for the five Member's Representatives serving on the SIS Board.</text>
         <annotations>
-          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" type="History"/>
-          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.2" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.2" target-path="17.2|17.2.21" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2342,8 +2369,8 @@
           <text>Article X, Section A of the Articles call for the Member's Representatives to be compensated at a rate established by the Council.</text>
         </para>
         <annotations>
-          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" type="History"/>
-          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.3" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.3" target-path="17.2|17.2.21" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2351,9 +2378,9 @@
         <heading>Establishment of the Rate of Compensation</heading>
         <text>The Council hereby establishes the rate of compensation for each SIS Member Representative at two-hundred fifty dollars ($250.00) per month which will be covered by the San Ildefonso Services, LLC annual budget.</text>
         <annotations>
-          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" type="History"/>
-          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.4" type="History"/>
-          <annotation app="2020-09-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-019" eff="2020-09-30" path="attachments|law|1.4" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.4" target-path="17.2|17.2.21" type="History"/>
+          <annotation app="2020-09-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-019" eff="2020-09-30" path="attachments|law|1.4" target-path="17.2.21|17.2.21.040" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -2362,9 +2389,9 @@
         <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
-          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" type="History"/>
-          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.5" type="History"/>
-          <annotation app="2020-09-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-019" eff="2020-09-30" path="attachments|law|1.4" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.5" target-path="17.2|17.2.21" type="History"/>
+          <annotation app="2020-09-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-019" eff="2020-09-30" path="attachments|law|1.4" target-path="17.2.21|17.2.21.050" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2372,14 +2399,14 @@
       <prefix>Part</prefix>
       <num>17.2.22</num>
       <heading>Extension and Restatement of the Act Approving Tax Subsidy to San Ildefonso Services, LLC</heading>
-      <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="" type="History"/>
+      <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.22.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the Act, "EXTENSION AND RESTATMENT TO THE ACT APPROVING TAX SUBSIDY TO SAN ILDEFONSO SERVICES, LLC ("Act")."</text>
         <annotations>
-          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="" type="History"/>
-          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="attachments|law|1.1" type="History"/>
+          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="attachments|law|1.1" target-path="17.2|17.2.22" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2387,8 +2414,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to restate and extend the 2018-2019 Pueblo de San Ildefonso Tax Subsidy to San Ildefonso Services, LLC for an additional one-year period.</text>
         <annotations>
-          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="" type="History"/>
-          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="attachments|law|1.2" type="History"/>
+          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="attachments|law|1.2" target-path="17.2|17.2.22" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2448,8 +2475,8 @@
           <text>The Council has determined that it is in the Pueblo's best interests to support SIS, LLC and its operation of the C-Stores by extending the Subsidy for an additional one-year period beginning on June 6, 2019 and expiring on June 5, 2020, and has identified that such subsidy could be paid from revenues generated by the Pueblo's $0.17 per gallon fuel tax.</text>
         </para>
         <annotations>
-          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="" type="History"/>
-          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="attachments|law|1.3" type="History"/>
+          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="attachments|law|1.3" target-path="17.2|17.2.22" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2488,8 +2515,8 @@
           <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent and direction this Act.</text>
         </para>
         <annotations>
-          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="" type="History"/>
-          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="attachments|law|1.4" type="History"/>
+          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="" target-path="17.2" type="History"/>
+          <annotation app="2019-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-020" eff="2019-10-15" path="attachments|law|1.4" target-path="17.2|17.2.22" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2498,16 +2525,16 @@
       <num>17.2.23</num>
       <heading>Act Authorizing Second Amendment to the Business Lease with the San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store</heading>
       <reason>Repealed</reason>
-      <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" type="History"/>
+      <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" target-path="17.2" type="History"/>
       <section placeholder="Repealed">
         <num>17.2.23.010</num>
         <heading>Short Title</heading>
         <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" type="History"/>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.1" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" target-path="17.2" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.1" target-path="17.2|17.2.23" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.23" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -2516,9 +2543,9 @@
         <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" type="History"/>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.2" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" target-path="17.2" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.2" target-path="17.2|17.2.23" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.23" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -2527,9 +2554,9 @@
         <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" type="History"/>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.3" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" target-path="17.2" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.3" target-path="17.2|17.2.23" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.23" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -2538,9 +2565,9 @@
         <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" type="History"/>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.4" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" target-path="17.2" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.4" target-path="17.2|17.2.23" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.23" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -2549,28 +2576,28 @@
         <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" type="History"/>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.4~1" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="" target-path="17.2" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-022" eff="2020-11-25" path="attachments|law|1.4~1" target-path="17.2|17.2.23" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.23" type="History"/>
         </annotations>
       </section>
-      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.23" type="History"/>
     </container>
     <container>
       <prefix>Part</prefix>
       <num>17.2.24</num>
       <heading>Act Authorizing Second Amendment to the Business Lease with the San Ildefonso Services, LLC for the White Rock Gas Station and Convenience Store</heading>
       <reason>Repealed</reason>
-      <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" type="History"/>
+      <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" target-path="17.2" type="History"/>
       <section placeholder="Repealed">
         <num>17.2.24.010</num>
         <heading>Short Title</heading>
         <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" type="History"/>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.1" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" target-path="17.2" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.1" target-path="17.2|17.2.24" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.24" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -2579,9 +2606,9 @@
         <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" type="History"/>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.2" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" target-path="17.2" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.2" target-path="17.2|17.2.24" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.24" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -2590,9 +2617,9 @@
         <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" type="History"/>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.3" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" target-path="17.2" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.3" target-path="17.2|17.2.24" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.24" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -2601,9 +2628,9 @@
         <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" type="History"/>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.4" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" target-path="17.2" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.4" target-path="17.2|17.2.24" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.24" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -2612,27 +2639,27 @@
         <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" type="History"/>
-          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.4~1" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="" target-path="17.2" type="History"/>
+          <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-023" eff="2020-11-25" path="attachments|law|1.4~1" target-path="17.2|17.2.24" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.24" type="History"/>
         </annotations>
       </section>
-      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.24" type="History"/>
     </container>
     <container>
       <prefix>Part</prefix>
       <num>17.2.25</num>
       <heading>Amendment and Restatement of the Act Approving Tax Subsidy to San Ildefonso Services, LLC</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019"/>
-      <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="" type="History"/>
+      <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.25.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "AMENDMENT AND RESTATEMENT OF THE ACT APPROVING TAX SUBSIDY TO SAN ILDEFONSO SERVICES, LLC."</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019"/>
-          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="" type="History"/>
-          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="attachments|law|1.1" type="History"/>
+          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="attachments|law|1.1" target-path="17.2|17.2.25" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2641,8 +2668,8 @@
         <text>The Purpose of this Act is to approve and restate and extend the 2018-2019 Pueblo de San Ildefonso Tax Subsidy to San Ildefonso Services, LLC for a five-year period beginning June 1, 2021 to May 31, 2026.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019"/>
-          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="" type="History"/>
-          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="attachments|law|1.2" type="History"/>
+          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="attachments|law|1.2" target-path="17.2|17.2.25" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2658,8 +2685,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019"/>
-          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="" type="History"/>
-          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="attachments|law|1.3" type="History"/>
+          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="attachments|law|1.3" target-path="17.2|17.2.25" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2700,8 +2727,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019"/>
-          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="" type="History"/>
-          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="attachments|law|1.4" type="History"/>
+          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="attachments|law|1.4" target-path="17.2|17.2.25" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2737,8 +2764,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019"/>
-          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="" type="History"/>
-          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="attachments|law|1.5" type="History"/>
+          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-08-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-019" eff="2021-08-30" path="attachments|law|1.5" target-path="17.2|17.2.25" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2747,15 +2774,15 @@
       <num>17.2.26</num>
       <heading>Act Authorizing Loan to San Ildefonso Services, LLC for the Purchase of Vigil Enterprises, Inc., a California Corporation</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023"/>
-      <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="" type="History"/>
+      <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.26.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT AUTHORIZING LOAN TO SAN ILDEFONSO SERVICES, LLC FOR THE PURCHASE OF VIGIL ENTERPRISES, INC. A CALIFORNIA CORPORATION ("Act")."</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023"/>
-          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="" type="History"/>
-          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="attachments|law|1.1" type="History"/>
+          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="attachments|law|1.1" target-path="17.2|17.2.26" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2764,8 +2791,8 @@
         <text>The Purpose of this Act is to authorize a Loan Agreement between the Pueblo and SIS LLC for the acquisition of VEI.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023"/>
-          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="" type="History"/>
-          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="attachments|law|1.2" type="History"/>
+          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="attachments|law|1.2" target-path="17.2|17.2.26" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2810,8 +2837,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023"/>
-          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="" type="History"/>
-          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="attachments|law|1.3" type="History"/>
+          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="attachments|law|1.3" target-path="17.2|17.2.26" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2835,8 +2862,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023"/>
-          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="" type="History"/>
-          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="attachments|law|1.4" type="History"/>
+          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-10-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-023" eff="2021-10-15" path="attachments|law|1.4" target-path="17.2|17.2.26" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2845,15 +2872,15 @@
       <num>17.2.27</num>
       <heading>Act Authorizing Loan to San Ildefonso Services, LLC for C-Store Improvements</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025"/>
-      <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="" type="History"/>
+      <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.27.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT AUTHORIZING LOAN TO SAN ILDEFONSO SERVICES, LLC FOR C-STORE IMPROVEMENTS ("Act")."</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025"/>
-          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="" type="History"/>
-          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="attachments|law|1.1" type="History"/>
+          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="attachments|law|1.1" target-path="17.2|17.2.27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2862,8 +2889,8 @@
         <text>The Purpose of this Act is to authorize a Loan Agreement between the Pueblo and SIS LLC for necessary equipment upgrades and capital improvements at the Totavi and White Rock convenience stores ("C-Stores").</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025"/>
-          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="" type="History"/>
-          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="attachments|law|1.2" type="History"/>
+          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="attachments|law|1.2" target-path="17.2|17.2.27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2908,8 +2935,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025"/>
-          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="" type="History"/>
-          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="attachments|law|1.3" type="History"/>
+          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="attachments|law|1.3" target-path="17.2|17.2.27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2933,8 +2960,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025"/>
-          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="" type="History"/>
-          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="attachments|law|1.4" type="History"/>
+          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="" target-path="17.2" type="History"/>
+          <annotation app="2021-11-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-025" eff="2021-11-12" path="attachments|law|1.4" target-path="17.2|17.2.27" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2944,7 +2971,7 @@
       <heading>Approving and Authorizing the Third Amended Business Lease with San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store</heading>
       <reason>Repealed</reason>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-      <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
+      <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" target-path="17.2" type="History"/>
       <section placeholder="Repealed">
         <num>17.2.28.010</num>
         <heading>Short Title</heading>
@@ -2952,9 +2979,9 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.1" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.1" target-path="17.2|17.2.28" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.28" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -2964,9 +2991,9 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.2" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.2" target-path="17.2|17.2.28" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.28" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -2976,9 +3003,9 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.3" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.3" target-path="17.2|17.2.28" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.28" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -2988,9 +3015,9 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.4" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.4" target-path="17.2|17.2.28" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.28" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -3000,9 +3027,9 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.5" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.5" target-path="17.2|17.2.28" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.28" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -3012,12 +3039,12 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.6" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027" eff="2023-01-03" path="attachments|law|1.6" target-path="17.2|17.2.28" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.28" type="History"/>
         </annotations>
       </section>
-      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2.28" type="History"/>
     </container>
     <container>
       <prefix>Part</prefix>
@@ -3025,7 +3052,7 @@
       <heading>Approving and Authorizing the Third Amended Business Lease with San Ildefonso Services, LLC for the White Rock Gas Station and Convenience Store</heading>
       <reason>Repealed</reason>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-      <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
+      <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" target-path="17.2" type="History"/>
       <section placeholder="Repealed">
         <num>17.2.29.010</num>
         <heading>Short Title</heading>
@@ -3033,9 +3060,9 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.1" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.1" target-path="17.2|17.2.29" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.29" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -3045,9 +3072,9 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.2" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.2" target-path="17.2|17.2.29" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.29" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -3057,9 +3084,9 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.3" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.3" target-path="17.2|17.2.29" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.29" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -3069,9 +3096,9 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.4" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.4" target-path="17.2|17.2.29" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.29" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -3081,9 +3108,9 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.5" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.5" target-path="17.2|17.2.29" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.29" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -3093,27 +3120,27 @@
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-027"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" type="History"/>
-          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.6" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-01-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-028" eff="2023-01-03" path="attachments|law|1.6" target-path="17.2|17.2.29" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.29" type="History"/>
         </annotations>
       </section>
-      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2.29" type="History"/>
     </container>
     <container>
       <prefix>Part</prefix>
       <num>17.2.30</num>
       <heading>Act Rescinding SI-R20-022 and SI-R22-027 and Authorizing Revised Second Amended Business Lease with San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
-      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
+      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.30.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as "Act Authorizing the Revised Second Amended Business Lease with San Ildefonso Services, LLC for the Totavi Gas Station and Convenience Store" ("Act").</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.1" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.1" target-path="17.2.30" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3149,8 +3176,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.2" target-path="17.2.30" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3159,8 +3186,8 @@
         <text>The purpose of this Act is to authorize the Revised Second Amended Business Lease. The Revised Second Amended Business Lease Totavi Gas Station and Convenience Store (the "Revised Second Amended Business Lease") sets out the second amended terms to the Business Lease, including the extension of the term and incorporating a payment schedule for the extended term; the expansion of the land included in the leased area; and, removing language prohibiting subleases, assignments, management agreements, or transfer of the Business Lease or any rights to interest in the Business Lease without the written approval of the Secretary and sureties to only require approval by the Pueblo.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.3" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.3" target-path="17.2.30" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3280,8 +3307,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.4" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.4" target-path="17.2.30" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3309,8 +3336,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.5" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.5" target-path="17.2.30" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3319,8 +3346,8 @@
         <text>The Council hereby authorizes and directs the Governor of the Pueblo to negotiate and execute a final Revised Second Amended Business Lease in substantially the same form as the attached proposed Revised Second Amended Business Lease consistent with this Act, make any revisions and amendments that may be necessary and required to support the execution of a final Revised Second Amended Business Lease, as amended, and execute any certification that may be required by federal or tribal law to support the execution of a final Revised Second Amended Business Lease.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.6" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-016" eff="2023-12-22" path="attachments|law|1.6" target-path="17.2.30" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3329,15 +3356,15 @@
       <num>17.2.31</num>
       <heading>Act Rescinding SI-R20-023 and SI-R22-028 and Authorizing Revised Second Amended Business Lease with San Ildefonso Services, LLC for the White Rock Gas Station and Convenience Store</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
-      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
+      <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.31.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as "Act Authorizing the Revised Second Amended Business Lease with San Ildefonso Services, LLC for the White Rock Gas Station and Convenience Store" ("Act").</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.1" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.1" target-path="17.2.31" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3373,8 +3400,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.2" target-path="17.2.31" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3383,8 +3410,8 @@
         <text>The purpose of this Act is to authorize the Revised Second Amended Business Lease. The Revised Second Amended Business Lease White Rock Gas Station and Convenience Store (the "Revised Second Amended Business Lease") sets out the second amended terms to the Business Lease, including the extension of the term and incorporating a payment schedule for the extended term; the expansion of the land included in the leased area; and, removing language prohibiting subleases, assignments, management agreements, or transfer of the Business Lease or any rights to interest in the Business Lease without the written approval of the Secretary and sureties to only require approval by the Pueblo.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.3" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.3" target-path="17.2.31" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3504,8 +3531,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.4" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.4" target-path="17.2.31" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3533,8 +3560,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.5" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.5" target-path="17.2.31" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3543,8 +3570,8 @@
         <text>The Council hereby authorizes and directs the Governor of the Pueblo to negotiate and execute a final Revised Second Amended Business Lease in substantially the same form as the attached proposed Revised Second Amended Business Lease consistent with this Act, make any revisions and amendments that may be necessary and required to support the execution of a final Revised Second Amended Business Lease, as amended, and execute any certification that may be required by federal or tribal law to support the execution of a final Revised Second Amended Business Lease.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" type="History"/>
-          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.6" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="" target-path="17.2" type="History"/>
+          <annotation app="2023-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-017" eff="2023-12-22" path="attachments|law|1.6" target-path="17.2.31" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3553,15 +3580,15 @@
       <num>17.2.32</num>
       <heading>Act Supporting San Ildefonso Services Application to Grid Alternatives' Tribal Solar Accelerator Fund for Tribal Facilty Solar Project Funding</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007"/>
-      <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="" type="History"/>
+      <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.32.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT SUPPORTING SAN ILDEFONSO SERVICES APPLICATION TO GRID ALTERNATIVES' TRIBAL SOLAR ACCELERATOR FUND FOR TRIBAL FACILTY SOLAR PROJECT FUNDING" ("Act").</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007"/>
-          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="" type="History"/>
-          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="attachments|law|1.1" type="History"/>
+          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="" target-path="17.2" type="History"/>
+          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="attachments|law|1.1" target-path="17.2|17.2.32" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3570,8 +3597,8 @@
         <text>The purpose of this resolution is to authorize San Ildefonso Services to submit an application and, if successful, manage the project through funding obtained from Grid Alternatives from their Tribal Facility Solar Project Funding Grant, utilizing DOE 2023 Resiliency Grant fund and the New Mexico Indian Affairs Department funding as the matching funds required for the grant…</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007"/>
-          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="" type="History"/>
-          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="attachments|law|1.2" type="History"/>
+          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="" target-path="17.2" type="History"/>
+          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="attachments|law|1.2" target-path="17.2|17.2.32" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3620,8 +3647,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007"/>
-          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="" type="History"/>
-          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="attachments|law|1.3" type="History"/>
+          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="" target-path="17.2" type="History"/>
+          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="attachments|law|1.3" target-path="17.2|17.2.32" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3630,8 +3657,8 @@
         <text>The Council hereby authorizes and directs the Governor, or his tribal organization designee, San Ildefonso Services LLC, to take such actions as deemed necessary to carry out the intent of this resolution which is to apply for the funds and execute the project and to submit any additional documents, including statements and certification for and in behalf of the Pueblo necessary to fill any funding requirements or to fulfill the purposes of this act.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007"/>
-          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="" type="History"/>
-          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="attachments|law|1.4" type="History"/>
+          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="" target-path="17.2" type="History"/>
+          <annotation app="2024-05-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-007" eff="2024-05-16" path="attachments|law|1.4" target-path="17.2|17.2.32" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3640,15 +3667,15 @@
       <num>17.2.33</num>
       <heading>Act Designating Pueblo de San Ildefonso Lands for the San Ildefonso Services Fiber Network Project</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016"/>
-      <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="" type="History"/>
+      <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.33.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT DESIGNATING PUEBLO DE SAN ILDEFONSO LANDS FOR THE SAN ILDEFONSO SERVICES FIBER NETWORK PROJECT."</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016"/>
-          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="" type="History"/>
-          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="attachments|law|1.1" type="History"/>
+          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="" target-path="17.2" type="History"/>
+          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="attachments|law|1.1" target-path="17.2|17.2.33" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3657,8 +3684,8 @@
         <text>The purpose of this Act is to designate certain Pueblo de San Ildefonso lands for the interest of the San Ildefonso Services ("SIS"), a tribally chartered single member limited liability company wholly owned by the Pueblo de San Ildefonso ("Pueblo"), for its Fiber Network Project and to support the provision of public services to its members, residents, tribal government and businesses.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016"/>
-          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="" type="History"/>
-          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="attachments|law|1.2" type="History"/>
+          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="" target-path="17.2" type="History"/>
+          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="attachments|law|1.2" target-path="17.2|17.2.33" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3695,8 +3722,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016"/>
-          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="" type="History"/>
-          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="attachments|law|1.3" type="History"/>
+          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="" target-path="17.2" type="History"/>
+          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="attachments|law|1.3" target-path="17.2|17.2.33" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3720,8 +3747,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016"/>
-          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="" type="History"/>
-          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="attachments|law|1.4" type="History"/>
+          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="" target-path="17.2" type="History"/>
+          <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-016" eff="2024-12-16" path="attachments|law|1.4" target-path="17.2|17.2.33" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3729,14 +3756,14 @@
       <prefix>Part</prefix>
       <num>17.2.34</num>
       <heading>Act Supporting San Ildefonso Services' Application to New Mexico Finance Authority Local Solar Access Fund for Tribal Facility Solar Project Funding</heading>
-      <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="" type="History"/>
+      <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="" target-path="|17.2" type="History"/>
       <section>
         <num>17.2.34.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT SUPPORTING SAN ILDEFONSO SERVICES' APPLICATION TO NEW MEXICO FINANCE AUTHORITY LOCAL SOLAR ACCESS FUND FOR TRIBAL FACILITY SOLAR PROJECT FUNDING" ("Act").</text>
         <annotations>
-          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="" type="History"/>
-          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="attachments|law|1.1" type="History"/>
+          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="" target-path="|17.2" type="History"/>
+          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="attachments|law|1.1" target-path="17.2.34" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3744,8 +3771,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to support San Ildefonso Services' application to New Mexico Finance Authority Local Solar Access Fund for Tribal Facility Solar Project Funding ("NMFA Grant") and, if awarded, for SIS to manage the project using the NMFA Grant funds, and reimburse the Pueblo for Administrative expenses associated with managing the funds.</text>
         <annotations>
-          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="" type="History"/>
-          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="attachments|law|1.2" type="History"/>
+          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="" target-path="|17.2" type="History"/>
+          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="attachments|law|1.2" target-path="17.2.34" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3789,8 +3816,8 @@
           <text>At a Member's Representatives meeting held on February 9, 2026, the SIS Member's Representatives unanimously approved SIS' presentation and authorized its presentation to the Council for its consideration and approval of the NMFA Grant application submission and Project.</text>
         </para>
         <annotations>
-          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="" type="History"/>
-          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="attachments|law|1.3" type="History"/>
+          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="" target-path="|17.2" type="History"/>
+          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="attachments|law|1.3" target-path="17.2.34" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3798,8 +3825,8 @@
         <heading>Authorization</heading>
         <text>The Council hereby authorizes and directs the Governor, or his designee to take such actions as deemed necessary to carry out the intent of this Act in support of SIS' submission of the NMFA Grant application for the Pueblo facility solar Project in accordance with the SIS presentation of the Project, and to submit any additional documents, including statements and certification for and in behalf of the Pueblo necessary to fulfill any funding requirements or to fulfill the purposes of this Act.</text>
         <annotations>
-          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="" type="History"/>
-          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="attachments|law|1.4" type="History"/>
+          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="" target-path="|17.2" type="History"/>
+          <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="attachments|law|1.4" target-path="17.2.34" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3819,8 +3846,8 @@
         <text>This enactment shall be known as the "ACT AUTHORIZING ASSESSMENT OF AREAS FOR POTENTIAL WAREHOUSE AND DISTRIBUTION CENTER ("Act")."</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003"/>
-          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" type="History"/>
-          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="attachments|law|1.1" type="History"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" target-path="17" type="History"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="attachments|law|1.1" target-path="|17.3.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3829,8 +3856,8 @@
         <text>The purpose of this Act is to authorize the assessment of areas within the Pueblo de San Ildefonso lands for potential siting of a warehouse and distribution center for Los Alamos National Laboratory ("LANL") operations.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003"/>
-          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" type="History"/>
-          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="attachments|law|1.2" type="History"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" target-path="17" type="History"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="attachments|law|1.2" target-path="|17.3.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3863,9 +3890,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003"/>
-          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" type="History"/>
-          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="attachments|law|1.3" type="History"/>
-          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-003" eff="2021-05-03" path="attachments|law|1.3" type="History"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" target-path="17" type="History"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="attachments|law|1.3" target-path="|17.3.1" type="History"/>
+          <annotation app="2021-05-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-003" eff="2021-05-03" path="attachments|law|1.3" target-path="17.3.1.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3885,11 +3912,11 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003"/>
-          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" type="History"/>
-          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="attachments|law|1.4" type="History"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" target-path="17" type="History"/>
+          <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="attachments|law|1.4" target-path="|17.3.1" type="History"/>
         </annotations>
       </section>
     </container>
-    <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" type="History"/>
+    <annotation app="2020-03-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-003" eff="2020-03-23" path="" target-path="17" type="History"/>
   </container>
 </container>

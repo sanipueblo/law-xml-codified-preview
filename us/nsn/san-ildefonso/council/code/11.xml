@@ -1889,14 +1889,14 @@
       <prefix>Part</prefix>
       <num>11.2.20</num>
       <heading>Act Authorizing the Bureau of Reclamation and its Contractors to Perform the Pilot Water Treatment Plant Testing Plan</heading>
-      <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" type="History"/>
+      <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" target-path="11.2" type="History"/>
       <section>
         <num>11.2.20.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT AUTHORIZING THE BUREAU OF RECLAMATION AND ITS CONTRACTORS TO PERFORM THE PILOT WATER TREATMENT PLANT TESTING PLAN ("Act")."</text>
         <annotations>
-          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" type="History"/>
-          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="attachments|law|1.1" type="History"/>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" target-path="11.2" type="History"/>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="attachments|law|1.1" target-path="11.2|11.2.20" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1904,8 +1904,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to authorize the pilot water treatment plant testing plan as part of the <em>Aamodt</em> water settlement.  The testing plan will study the production capability of a horizontal collector well intake system at the location approved by the Pueblo, validate that the proposed water treatment process equipment will produce drinking water that equals or exceed federal and state drinking water quality standards, and obtain detailed design criteria and operating data that will serve as the basis for final designs and operations and maintenance cost estimates for the proposed water treatment plant.</text>
         <annotations>
-          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" type="History"/>
-          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="attachments|law|1.2" type="History"/>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" target-path="11.2" type="History"/>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="attachments|law|1.2" target-path="11.2|11.2.20" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1941,8 +1941,8 @@
           <text>The Council, having reviewed the Pilot Testing Plan, Pojoaque Basin Regional Water System (PBRWS), Contract No. R17PC00023, finds approval of the pilot water treatment plant testing plan in the best interest of the Pueblo to support the implementation of the <em>Aamodt</em> water settlement and construction of the PBRWS.</text>
         </para>
         <annotations>
-          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" type="History"/>
-          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="attachments|law|1.3" type="History"/>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" target-path="11.2" type="History"/>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="attachments|law|1.3" target-path="11.2|11.2.20" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1957,8 +1957,8 @@
           <text>The Council hereby authorizes and directs the Governor or his designee to take such actions as deemed necessary to carry out the intent and purpose of this Act.</text>
         </para>
         <annotations>
-          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" type="History"/>
-          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="attachments|law|1.4" type="History"/>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" target-path="11.2" type="History"/>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="attachments|law|1.4" target-path="11.2|11.2.20" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1967,7 +1967,7 @@
       <num>11.2.21</num>
       <heading>Act Authorizing Fourth Withdrawal of Aamodt Water Settlement Trust Funds from the Office of Special Trustee to Fund Aamodt Settlement Implementation Activities Requested by Pueblo in Coordination with Regional Water System Work</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012"/>
-      <annotation app="2017-05-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012" eff="2017-05-25" path="" type="History"/>
+      <annotation app="2017-05-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012" eff="2017-05-25" path="" target-path="11.2" type="History"/>
       <section>
         <num>11.2.21.010</num>
         <heading>Findings</heading>
@@ -2041,7 +2041,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012"/>
-          <annotation app="2017-05-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012" eff="2017-05-25" path="" type="History"/>
+          <annotation app="2017-05-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012" eff="2017-05-25" path="" target-path="11.2" type="History"/>
+          <annotation app="2017-05-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012" eff="2017-05-25" path="" target-path="|11.2.21" type="History"/>
+          <annotation app="2017-05-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012" eff="2017-05-25" path="" target-path="|11.2.21.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2057,7 +2059,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012"/>
-          <annotation app="2017-05-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012" eff="2017-05-25" path="" type="History"/>
+          <annotation app="2017-05-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012" eff="2017-05-25" path="" target-path="11.2" type="History"/>
+          <annotation app="2017-05-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-012" eff="2017-05-25" path="" target-path="|11.2.21" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2066,7 +2069,7 @@
       <num>11.2.22</num>
       <heading>Act Authorizing Sixth Withdrawal of Aamodt Water Settlement Trust Funds from the Office of Special Trustee to Fund Aamodt Settlement Implementation Activities Requested by Pueblo in Coordination with Regional Water System Work</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-037"/>
-      <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-037" eff="2017-11-03" path="" type="History"/>
+      <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-037" eff="2017-11-03" path="" target-path="11.2" type="History"/>
       <section>
         <num>11.2.22.010</num>
         <heading>Findings</heading>
@@ -2152,7 +2155,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-037"/>
-          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-037" eff="2017-11-03" path="" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-037" eff="2017-11-03" path="" target-path="11.2" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-037" eff="2017-11-03" path="" target-path="|11.2.22" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-037" eff="2017-11-03" path="" target-path="|11.2.22.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2168,7 +2173,8 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-037"/>
-          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-037" eff="2017-11-03" path="" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-037" eff="2017-11-03" path="" target-path="11.2" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-037" eff="2017-11-03" path="" target-path="|11.2.22" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2176,14 +2182,14 @@
       <prefix>Part</prefix>
       <num>11.2.23</num>
       <heading>Act Accepting the 90% Design for Phase 1 of the Pojoaque Basin Regional Water System</heading>
-      <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="" type="History"/>
+      <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="" target-path="11.2" type="History"/>
       <section>
         <num>11.2.23.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT ACCEPTING THE 90% DESIGN FOR PHASE 1 OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM ("Act")."</text>
         <annotations>
-          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="" type="History"/>
-          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="attachments|law|1.1" type="History"/>
+          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="" target-path="11.2" type="History"/>
+          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="attachments|law|1.1" target-path="11.2|11.2.23" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2191,8 +2197,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to accept the 90% Design for Phase 1 of the Pojoaque Basin Regional Water System.</text>
         <annotations>
-          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="" type="History"/>
-          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="attachments|law|1.2" type="History"/>
+          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="" target-path="11.2" type="History"/>
+          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="attachments|law|1.2" target-path="11.2|11.2.23" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2272,8 +2278,8 @@
           <text>The Council has reviewed the design documents as presented and finds it is in the best interest of the Pueblo to accept the 90% Design-Build for Phase 1 of the PBRWS.</text>
         </para>
         <annotations>
-          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="" type="History"/>
-          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="attachments|law|1.3" type="History"/>
+          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="" target-path="11.2" type="History"/>
+          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="attachments|law|1.3" target-path="11.2|11.2.23" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2288,8 +2294,8 @@
           <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent and direction this Act.</text>
         </para>
         <annotations>
-          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="" type="History"/>
-          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="attachments|law|1.4" type="History"/>
+          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="" target-path="11.2" type="History"/>
+          <annotation app="2019-05-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-010" eff="2019-05-20" path="attachments|law|1.4" target-path="11.2|11.2.23" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2297,14 +2303,14 @@
       <prefix>Part</prefix>
       <num>11.2.24</num>
       <heading>Act Authorizing Signature of Agreement Pursuant to Section 611(g) of Title IV of the Claims Resolution Act of 2010 Relating to the Aamodt Water Settlement</heading>
-      <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="" type="History"/>
+      <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="" target-path="11.2" type="History"/>
       <section>
         <num>11.2.24.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as "ACT AUTHORIZING SIGNATURE OF AGREEMENT PURSUANT TO SECTION 611(G) OF TITLE IV OF THE CLAIMS RESOLUTION ACT OF 2010 RELATING TO AAMODT WATER SETTLEMENT" ("Act").</text>
         <annotations>
-          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="" type="History"/>
-          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="attachments|law|1.1" type="History"/>
+          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="" target-path="11.2" type="History"/>
+          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="attachments|law|1.1" target-path="11.2|11.2.24" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2312,8 +2318,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to authorize the Governor to sign the document entitled "Agreement Pursuant to Section 611(g) of Title IV of the Claims Resolution Act of 2010 Relating to Aamodt Water Settlement" to address the funding shortfall for the design and construction of construction of a regional water system that will divert, deliver and treat a specified quantity of water to the Pueblos of Nambe, Pojoaque, San Ildefonso and Tesuque, and Santa Fe County.</text>
         <annotations>
-          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="" type="History"/>
-          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="attachments|law|1.2" type="History"/>
+          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="" target-path="11.2" type="History"/>
+          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="attachments|law|1.2" target-path="11.2|11.2.24" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2349,8 +2355,8 @@
           <text>The Council, having reviewed a form of the 611(g) Agreement and exhibits thereto, finds approval of the 611(g) Agreement is in the best interest of this Pueblo.</text>
         </para>
         <annotations>
-          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="" type="History"/>
-          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="attachments|law|1.3" type="History"/>
+          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="" target-path="11.2" type="History"/>
+          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="attachments|law|1.3" target-path="11.2|11.2.24" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2365,8 +2371,8 @@
           <text>The Governor is authorized to make any minor technical non-substantive amendments to the 611(g) Agreement document as may be necessary, provided that the Council is informed of such amendments.</text>
         </para>
         <annotations>
-          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="" type="History"/>
-          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="attachments|law|1.4" type="History"/>
+          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="" target-path="11.2" type="History"/>
+          <annotation app="2019-09-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-019" eff="2019-09-13" path="attachments|law|1.4" target-path="11.2|11.2.24" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2374,14 +2380,14 @@
       <prefix>Part</prefix>
       <num>11.2.25</num>
       <heading>Act Authorizing Signature of Pojoaque Basin Regional Water System Project Construction Agreement</heading>
-      <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="" type="History"/>
+      <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="" target-path="11.2" type="History"/>
       <section>
         <num>11.2.25.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the, "ACT AUTHORIZING SIGNATURE OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM CONSTRUCTION AGREEMENT ("Act")."</text>
         <annotations>
-          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="" type="History"/>
-          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="attachments|law|1.1" type="History"/>
+          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="" target-path="11.2" type="History"/>
+          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="attachments|law|1.1" target-path="11.2|11.2.25" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2389,8 +2395,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to authorize the Governor to sign the document entitled "Pojoaque Basin Regional Water System Project Construction Agreement" ("Construction Agreement") to delineate construction corridors and establish other authorized activities within the Pueblo's lands for the construction of the Pojoaque Basin Regional Water System.</text>
         <annotations>
-          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="" type="History"/>
-          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="attachments|law|1.2" type="History"/>
+          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="" target-path="11.2" type="History"/>
+          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="attachments|law|1.2" target-path="11.2|11.2.25" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2426,8 +2432,8 @@
           <text>The Council, having reviewed a form of the Construction Agreement and exhibits thereto, finds approval of the Construction Agreement is in the best interest of this Pueblo.</text>
         </para>
         <annotations>
-          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="" type="History"/>
-          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="attachments|law|1.3" type="History"/>
+          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="" target-path="11.2" type="History"/>
+          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="attachments|law|1.3" target-path="11.2|11.2.25" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2442,8 +2448,8 @@
           <text>The Governor is authorized to make any minor technical non-substantive amendments to the Construction Agreement document and exhibits thereto as may be necessary, provided that the Council is informed of such amendments.</text>
         </para>
         <annotations>
-          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="" type="History"/>
-          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="attachments|law|1.4" type="History"/>
+          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="" target-path="11.2" type="History"/>
+          <annotation app="2019-12-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-025" eff="2019-12-23" path="attachments|law|1.4" target-path="11.2|11.2.25" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2451,14 +2457,14 @@
       <prefix>Part</prefix>
       <num>11.2.26</num>
       <heading>Act Authorizing Signature of Pojoaque Basin Regional Water System Project Construction Agreement with Amended Exhibit A</heading>
-      <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="" type="History"/>
+      <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="" target-path="11.2" type="History"/>
       <section>
         <num>11.2.26.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT AUTHORIZING SIGNATURE OF THE POJOAQUE BASIN REGIONAL WATER SYSTEM PROJECT CONSTRUCTION AGREEMENT WITH THE AMENDED EXHIBIT A ("Act")."</text>
         <annotations>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="" type="History"/>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="attachments|law|1.1" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="" target-path="11.2" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="attachments|law|1.1" target-path="11.2|11.2.26" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2466,8 +2472,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to authorize the Governor to sign the document entitled "Pojoaque Basin Regional Water System Project Construction Agreement" ("Construction Agreement") that delineates construction corridors and establishes other authorized activities within the Pueblo's lands for the construction of the Pojoaque Basin Regional Water System, including the amended Exhibit A which includes a COVID-19 Response Plan applicable to all contractors and their employees working on construction sites within the Pueblo's lands.</text>
         <annotations>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="" type="History"/>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="attachments|law|1.2" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="" target-path="11.2" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="attachments|law|1.2" target-path="11.2|11.2.26" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2515,8 +2521,8 @@
           <text>The Council, having reviewed a form of the Construction Agreement and the exhibits thereto, including the amended Exhibit A, finds authorization of the Construction Agreement is in the best interest of this Pueblo.</text>
         </para>
         <annotations>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="" type="History"/>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="attachments|law|1.3" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="" target-path="11.2" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="attachments|law|1.3" target-path="11.2|11.2.26" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2531,8 +2537,8 @@
           <text>The Governor is authorized make any minor technical non-substantive amendments to the Construction Agreement document and exhibits thereto as may be necessary, provided that the Council is informed of such amendments.</text>
         </para>
         <annotations>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="" type="History"/>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="attachments|law|1.4" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="" target-path="11.2" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-004" eff="2020-05-13" path="attachments|law|1.4" target-path="11.2|11.2.26" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2540,14 +2546,14 @@
       <prefix>Part</prefix>
       <num>11.2.27</num>
       <heading>Act Authorizing Signature of Amended Cost-Sharing and System Integration Agreement</heading>
-      <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="" type="History"/>
+      <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="" target-path="11.2" type="History"/>
       <section>
         <num>11.2.27.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT AUTHORIZING SIGNATURE OF AMENDED COST-SHARING AND SYSTEM INTEGRATION AGREEMENT ("Act")."</text>
         <annotations>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="" type="History"/>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="attachments|law|1.1" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="" target-path="11.2" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="attachments|law|1.1" target-path="11.2|11.2.27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2555,8 +2561,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to authorize the Governor to sign the document entitled "Cost-Sharing and System Integration Agreement" ("CSSI Agreement") to establish, among other things, the federal and non-federal costs of constructing the Pojoaque Basin Regional Water System ("RWS").</text>
         <annotations>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="" type="History"/>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="attachments|law|1.2" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="" target-path="11.2" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="attachments|law|1.2" target-path="11.2|11.2.27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2600,8 +2606,8 @@
           <text>The Council, having reviewed a form of the Amended Cost-Sharing and System Integration Agreement finds authorization of the Amended Cost-Sharing and System Integration Agreement is in the best interest of this Pueblo.</text>
         </para>
         <annotations>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="" type="History"/>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="attachments|law|1.3" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="" target-path="11.2" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="attachments|law|1.3" target-path="11.2|11.2.27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2616,8 +2622,8 @@
           <text>The Governor is authorized make any minor technical non-substantive amendments to the Amended Cost-Sharing and System Integration Agreement document as may be necessary, provided that the Council is informed of such amendments.</text>
         </para>
         <annotations>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="" type="History"/>
-          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="attachments|law|1.4" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="" target-path="11.2" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-007" eff="2020-05-13" path="attachments|law|1.4" target-path="11.2|11.2.27" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2625,14 +2631,14 @@
       <prefix>Part</prefix>
       <num>11.2.28</num>
       <heading>Santa Fe Indian School Board of Trustees Contract for Water Rights Funding</heading>
-      <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="" type="History"/>
+      <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="" target-path="|11.2" type="History"/>
       <section>
         <num>11.2.28.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "SANTA FE INDIAN SCHOOL BOARD OF TRUSTEES CONTRACT FOR WATER RIGHTS FUNDING" ("Act").</text>
         <annotations>
-          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="" type="History"/>
-          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="attachments|law|1.1" type="History"/>
+          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="attachments|law|1.1" target-path="11.2.28" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2640,8 +2646,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to authorize the Santa Fe Indian School, Inc. ("SFIS") to apply for and accept water rights funding from the federal government.</text>
         <annotations>
-          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="" type="History"/>
-          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="attachments|law|1.2" type="History"/>
+          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="attachments|law|1.2" target-path="11.2.28" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2705,8 +2711,8 @@
           <text>That the SFIS recognizes that two Member Pueblos, the Pueblo of Santa Clara and the Pueblo de San Ildefonso, through respective resolutions SCP No. 2010-16 and SI-R10-041, have retained all authority for matters related to governance which require consultation and to Permit Future Activities.</text>
         </para>
         <annotations>
-          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="" type="History"/>
-          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="attachments|law|1.3" type="History"/>
+          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="attachments|law|1.3" target-path="11.2.28" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2721,8 +2727,8 @@
           <text>The SFIS shall make certain that all funds received through the federal contract shall be appropriated per contract guidelines, and that the SFIS shall submit all reports as required by contract.</text>
         </para>
         <annotations>
-          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="" type="History"/>
-          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="attachments|law|1.4" type="History"/>
+          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-05-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-003" eff="2026-05-12" path="attachments|law|1.4" target-path="11.2.28" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2730,14 +2736,14 @@
       <prefix>Part</prefix>
       <num>11.2.29</num>
       <heading>Pueblo de San Ildefonso Groundwater Quality Act</heading>
-      <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
+      <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
       <section>
         <num>11.2.29.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "Pueblo de San Ildefonso Groundwater Quality Act" ("Act").</text>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.1" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.1" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2765,8 +2771,8 @@
           <text>Promote the health, social welfare, and economic well-being of the Pueblo, its people, and all the residents of Pueblo lands.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.2" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2786,8 +2792,8 @@
           <text>The groundwaters of the Pueblo are defined as: (1) all groundwaters reserved at any time for any purpose to the Pueblo, and to Pueblo lands, including any groundwaters which, in the course of nature or as the result of artificial works or artificial enhancement or weather modification methods, flow into or otherwise enhance such waters; (2) all groundwaters held by the Pueblo through prior or existing use, appropriation, purchase, contract, gift, bequest, or other means; (3) groundwaters which are contained within hydrologic systems located within the lands of the Pueblo; and (4) all groundwaters located beneath the surface of the lands held in trust by the United States of America for the Pueblo.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.3" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.3" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2867,8 +2873,8 @@
           <text>"Trial Court" means the Pueblo de San Ildefonso Trial Court.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.4" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.4" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2876,8 +2882,8 @@
         <heading>Department of Environmental and Cultural Preservation</heading>
         <text>Pursuant its authority under Part 23.1.1 of the Pueblo de San Ildefonso Code, the Department of Environmental and Cultural Preservation shall serve under the direction of the Governor as the lead Department in the implementation of this Act, and the Director shall be the lead Pueblo official in the implementation of this Act. The Department shall work in cooperation with the New Mexico Environment Department, U.S. Environmental Protection Agency and other federal, tribal, or state agencies when necessary to implement this Act.</text>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.5" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.5" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2885,8 +2891,8 @@
         <heading>Severability</heading>
         <text>If any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of these regulations and the application of such provision to other persons or circumstances shall remain unaffected, and to this end the provisions of these regulations are declared to be severable.</text>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.6" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.6" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2941,8 +2947,8 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.7" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.7" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3175,8 +3181,8 @@
           <text>Alternative and Future Standards. The DECP may recommend to the Governor and Council the adoption of alternative or additional numeric groundwater quality standards, including standards for additional aquifers and for substances not 	identified in this Act, based on new data, updated investigations, risk assessment, protection of public health, cultural uses, or other relevant scientific or regulatory 	considerations.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.8" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.8" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3184,8 +3190,8 @@
         <heading>Prohibition on Degradation of Pueblo Groundwater</heading>
         <text>No person shall contaminate, threaten to contaminate, or trespass in any manner upon the Pueblo's groundwater. All groundwater uses shall be protected; that is, the level of water quality necessary to maintain those uses is maintained, and any such degradation is prohibited.</text>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.9" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|1.9" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3204,8 +3210,8 @@
           <text>The Governor and Director shall authorize uses of Pueblo groundwater only as consistent with the approved Groundwater Use Plan and this Act.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.0" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.0" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3213,8 +3219,8 @@
         <heading>Unlawful Acts</heading>
         <text>It shall be unlawful to contaminate, threaten to contaminate, or otherwise trespass upon Pueblo groundwater or cause a violation of the Act. Each day that a person violates the Act shall constitute a separate violation. Each violation with respect to (1) each separate point source or nonpoint source (2) each separate parameter or standard violated and (3) each separate discharge of contaminants to the groundwater shall constitute a separate violation.</text>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.1" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.1" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3253,8 +3259,8 @@
           <text>The Pueblo may abate any public nuisance declared under this Section through administrative orders, civil actions, injunctive relief, or any other lawful means.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.2" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3270,8 +3276,8 @@
           <text>In determining the amount of a civil penalty, the DECP or the Trial Court shall consider the seriousness of the violation or violations, the economic benefit to the violator, if any, resulting from the violation, any history of such violations, any good-faith efforts to comply with applicable requirements, and such other factors as justice may require.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.3" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.3" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3306,8 +3312,8 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.4" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.4" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3362,8 +3368,8 @@
           <text>The Director shall have the authority to designate one or more employees of the DECP as designees for purposes of implementing this Act and taking authorized investigative actions pursuant to this Act. The Director or his designee may use properly qualified contractors under the direct Supervision of the Director or his designee to implement the provisions of this Act.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.5" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.5" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3394,8 +3400,8 @@
           <text>Any decisions by the Director or his designee in the enforcement of this Act shall be reviewed by any reviewing Court, under the arbitrary and capricious or otherwise contrary to applicable law standard as developed under the Federal Administrative Procedures Act based on the administrative record before the Director at the time the decision was made.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.6" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.6" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3454,8 +3460,8 @@
           <text>Nothing in this Section shall prohibit the assessment of penalties and/or damages for contamination, threatened contamination, or trespass upon Pueblo Groundwater occurring prior to service of a Notice and Order or prior to the completion of any compliance period provided for by a Notice or Order.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.7" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.7" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3506,8 +3512,8 @@
           <text>The Notice shall be served upon the person identified in the Notice in the same manner as a summons and complaint pursuant to the Pueblo Rules of Civil Procedure, or as otherwise specified in an applicable permit or agreement.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.8" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.8" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3546,8 +3552,8 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.9" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|2.9" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3555,8 +3561,8 @@
         <heading>Notice to Council and Governor</heading>
         <text>The Director shall deliver a copy of the Notice of Trespass to Pueblo Groundwater and Order to Comply and the Notice of Assessment of Penalty, Damages and Costs to the Council and the Governor.</text>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|3.0" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|3.0" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3579,8 +3585,8 @@
           <text>Such record may be reviewed by any member of the public upon proper request. All reasonable costs associated with complying with such request shall be paid by the person making such request.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|3.1" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|3.1" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3615,8 +3621,8 @@
           <text>Upon the receipt of a Notice of Appeal, the Director shall refer the appeal to the Council, who shall, within ten (10) calendar days, assign the appeal to a qualified and impartial hearing officer and notify the parties of the name of that hearing officer and the telephone number and address where he or she can be reached.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|3.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|3.2" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3636,8 +3642,8 @@
           <text>An order granting or denying a stay, and any terms and conditions thereof, shall be final and may be appealed to the Trial Court or other court of competent jurisdiction within fifteen (15) calendar days of its issuance, pursuant to Section 11.2.29.250 of this Act.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|3.3" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|3.3" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3664,8 +3670,8 @@
           <text>The decisions of the Hearing Officer shall be final and may be appealed by any party to the Trial Court or other court of competent jurisdiction pursuant to Section 11.2.29.250 of this Act.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|3.4" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|3.4" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3688,8 +3694,8 @@
           <text>At the request of the Director or otherwise, the Pueblo may bring a civil action in any court of competent jurisdiction to enjoin any contamination, threatened contamination or trespass upon Pueblo Groundwater or to obtain payment or enforcement of any assessment of damages, penalties, costs and/or fees, or for such other relief as may be authorized or allowed under any applicable law.</text>
         </para>
         <annotations>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" type="History"/>
-          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|3.5" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="" target-path="|11.2" type="History"/>
+          <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-006" eff="2026-06-12" path="attachments|law|3.5" target-path="11.2.29" type="History"/>
         </annotations>
       </section>
     </container>
@@ -4537,7 +4543,7 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
-          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" target-path="11.5.1.020" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4679,7 +4685,7 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
-          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" target-path="11.5.1.120" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4740,7 +4746,7 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
-          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" target-path="11.5.1.130|(m)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4749,7 +4755,7 @@
         <text>Sporting Arms may be seized by the Pueblo and forfeited if they are used to take or attempt to take game in violation of this Act. Sporting Arms may be confiscated at the scene. Upon confiscation, Sporting Arms shall be transported to the Department of Natural Resources for receipt and retention pursuant to a procedure to be prescribed by the Director. A receipt shall be issued to the violator with a description of the Sporting Arm and date. Any Sporting Arms confiscated are subject to forfeiture upon conviction.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
-          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" target-path="11.5.1.140" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4777,7 +4783,7 @@
         <text>The Pueblo de San Ildefonso Tribal Court shall have subject matter jurisdiction to adjudicate all issues of law and fact, and to enter decrees appropriate to such jurisdiction, pertaining to civil proceedings on complaints filed by the Department of Natural Resources pursuant to this Act.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
-          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" target-path="11.5.1.160" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5160,20 +5166,20 @@
     <prefix>Chapter</prefix>
     <num>11.7</num>
     <heading>Waste Water</heading>
-    <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
+    <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
     <container>
       <prefix>Part</prefix>
       <num>11.7.1</num>
       <heading>Act Approving the Blue Dove Reclamation Site Layout</heading>
-      <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History"/>
+      <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11.7" type="History"/>
       <section>
         <num>11.7.1.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT APPROVING THE BLUE DOVE RECLAMATION FACILITY SITE LAYOUT ("Act")."</text>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="attachments|law|1.1" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11.7" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="attachments|law|1.1" target-path="11.7.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5181,9 +5187,9 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to approve the Blue Dove Reclamation Facility Site Layout.</text>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="attachments|law|1.2" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11.7" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="attachments|law|1.2" target-path="11.7.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5239,9 +5245,9 @@
           <text>the Council finds the need to approve the Blue Dove Reclamation Facility site layout.</text>
         </para>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="attachments|law|1.3" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11.7" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="attachments|law|1.3" target-path="11.7.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5256,9 +5262,9 @@
           <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent and direction this Act.</text>
         </para>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="attachments|law|1.4" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11.7" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="attachments|law|1.4" target-path="11.7.1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -5266,15 +5272,15 @@
       <prefix>Part</prefix>
       <num>11.7.2</num>
       <heading>Act Approving Pueblo de San Ildefonso Waste Water System Project - Phase 1</heading>
-      <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" type="History"/>
+      <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" target-path="11.7" type="History"/>
       <section>
         <num>11.7.2.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT APPROVING THE PUEBLO DE SAN ILDEFONSO WASTE WATER SYSTEM IMPROVEMENT PROJECT – PHASE 1 ("Act")."</text>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" type="History"/>
-          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="attachments|law|1.1" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" target-path="11.7" type="History"/>
+          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="attachments|law|1.1" target-path="11.7|11.7.2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5282,9 +5288,9 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to approve the Pueblo de San Ildefonso Waste Water System Improvement Project – Phase 1 and related construction documents.</text>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" type="History"/>
-          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="attachments|law|1.2" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" target-path="11.7" type="History"/>
+          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="attachments|law|1.2" target-path="11.7|11.7.2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5344,9 +5350,9 @@
           <text>The Council finds the need to approve the Pueblo de San Ildefonso Waste Water System Improvement Project – Phase 1 and related construction documents. Attached hereto and incorporated herein.</text>
         </para>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" type="History"/>
-          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="attachments|law|1.3" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" target-path="11.7" type="History"/>
+          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="attachments|law|1.3" target-path="11.7|11.7.2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5361,9 +5367,9 @@
           <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent and direction this Act.</text>
         </para>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" type="History"/>
-          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="attachments|law|1.4" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="" target-path="11.7" type="History"/>
+          <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-008" eff="2018-05-23" path="attachments|law|1.4" target-path="11.7|11.7.2" type="History"/>
         </annotations>
       </section>
     </container>
@@ -5371,15 +5377,15 @@
       <prefix>Part</prefix>
       <num>11.7.3</num>
       <heading>Act Authorizing the Governor to Proceed with Wastewater Phase II (A)</heading>
-      <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="" type="History"/>
+      <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="" target-path="11.7" type="History"/>
       <section>
         <num>11.7.3.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "ACT AUTHORIZING THE GOVERNOR TO PROCEED WITH WASTEWATER PHASE II (A) ("Act")."</text>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="" type="History"/>
-          <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="attachments|law|1.1" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="" target-path="11.7" type="History"/>
+          <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="attachments|law|1.1" target-path="11.7|11.7.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5387,9 +5393,9 @@
         <heading>Purpose</heading>
         <text>The purpose of this act is to identify the Pueblo's current Wastewater needs (Phase 2a) to serve Pueblo residents and Pueblo businesses and, to address wastewater developments for the future (Phase 2b).</text>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="" type="History"/>
-          <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="attachments|law|1.2" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="" target-path="11.7" type="History"/>
+          <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="attachments|law|1.2" target-path="11.7|11.7.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5457,9 +5463,9 @@
           <text>Pueblo leadership understands that a streamlined approach of a system for Pueblo residents and businesses is needed until full County participation.</text>
         </para>
         <annotations>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="" type="History"/>
-          <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="attachments|law|1.3" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="" target-path="11.7" type="History"/>
+          <annotation app="2020-06-04" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-011" eff="2020-06-04" path="attachments|law|1.3" target-path="11.7|11.7.3" type="History"/>
         </annotations>
       </section>
     </container>
@@ -5468,16 +5474,16 @@
       <num>11.7.4</num>
       <heading>Waste Water System Project Land Designation Act</heading>
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
-      <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" type="History"/>
+      <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" target-path="11.7" type="History"/>
       <section>
         <num>11.7.4.010</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "WASTE WATER SYSTEM PROJECT LAND DESIGNATION ("Act")."</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" type="History"/>
-          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.1" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" target-path="11.7" type="History"/>
+          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.1" target-path="11.7|11.7.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5486,9 +5492,9 @@
         <text>The Purpose of this Act is to designate certain Pueblo lands for the benefit of the Pueblo and to support the provision of public services to its members, residents, government and businesses.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" type="History"/>
-          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.2" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" target-path="11.7" type="History"/>
+          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.2" target-path="11.7|11.7.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5509,9 +5515,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" type="History"/>
-          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.3" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" target-path="11.7" type="History"/>
+          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.3" target-path="11.7|11.7.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5543,9 +5549,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" type="History"/>
-          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.4" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" target-path="11.7" type="History"/>
+          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.4" target-path="11.7|11.7.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5561,9 +5567,9 @@
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029"/>
-          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" type="History" display="false"/>
-          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" type="History"/>
-          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.5" type="History"/>
+          <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-003" eff="2018-02-13" path="" target-path="11" type="History" display="false"/>
+          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="" target-path="11.7" type="History"/>
+          <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-029" eff="2021-11-29" path="attachments|law|1.5" target-path="11.7|11.7.4" type="History"/>
         </annotations>
       </section>
     </container>

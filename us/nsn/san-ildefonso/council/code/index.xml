@@ -38,6 +38,6 @@
   <xi:include href="./23.xml"/>
   <xi:include href="./24.xml"/>
   <xi:include href="./25.xml"/>
-  <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-021" eff="2020-10-28" path="attachments|law" type="History"/>
-  <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-024" eff="2020-11-25" path="attachments|law|1.4" type="History"/>
+  <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-021" eff="2020-10-28" path="attachments|law" target-path="" type="History"/>
+  <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-024" eff="2020-11-25" path="attachments|law|1.4" target-path="" type="History"/>
 </document>
