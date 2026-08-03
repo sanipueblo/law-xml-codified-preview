@@ -2,7 +2,7 @@
 <document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R26-014" codify:doc="Pueblo de San Ildefonso Code">
   <num>SI-R26-014</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R26-014</heading>
-  <heading type="law">Authorization for Fiscal Year 2026-2027 Budget Modification No. 2</heading>
+  <heading type="law">Authorization for Fiscal Year 2025-2026 Budget Modification No. 2</heading>
   <meta>
     <effective>2026-06-29</effective>
     <citations>
@@ -17,7 +17,7 @@
     <container>
       <prefix>Part</prefix>
       <num>6.3.34</num>
-      <heading>Authorization for Fiscal Year 2026-2027 Budget Modification No. 2</heading>
+      <heading>Authorization for Fiscal Year 2025-2026 Budget Modification No. 2</heading>
     </container>
   </codify:insert>
   <recitals>
@@ -552,7 +552,7 @@
     <codify:insert path="6.3.34" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.34.040">
       <section>
         <num>6.3.34.040</num>
-        <heading>Authorization for Fiscal Year 2025-2026 Budget Modification No. 1</heading>
+        <heading>Authorization for Fiscal Year 2025-2026 Budget Modification No. 2</heading>
         <para>
           <num>(a)</num>
           <text>The current FY 2025-2026 Annual Budget, prior to this enactment, is as follows:</text>
