@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R26-015" codify:doc="Pueblo de San Ildefonso Code">
+  <num>SI-R26-015</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R26-015</heading>
+  <heading type="law">Act Accepting NMDOT Funding to Install and Operate Electric Vehicle Charging Infrastructure</heading>
+  <meta>
+    <effective>2026-07-14</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R26-015</citation>
+    </citations>
+    <history>
+      <adopted>2026-07-14</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 14th day of July, 2026, the following resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council established and chartered San Ildefonso Services, LLC (SIS) under tribal law as a single-member limited liability company wholly owned by the Pueblo, for the benefit of the Pueblo and its members; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SIS is a Manager-Managed LLC and is governed by a five-member Board of Directors called the Member's Representatives; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SIS is authorized by its Articles of Organization to engage in business ventures that serve the business interest of the company and the Pueblo, including but not limited to, acquire, develop, manage, and operate and improve property; contract for any activity or service for the construction, operation and management of buildings, infrastructure and other facilities; the ownership and operation of retail and service enterprises; and, other economic development initiatives of the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>at the direction of the Pueblo, SIS applied for and the Pueblo received the Grant Funds Award Letter grant funding from the New Mexico Department of Transportation Fund 93100 Capital Appropriation Project in the amount of $1,541,955.06 ("Grant Funds") through the Laws of 2024, SB 275, Chapter 66, Section 33, Sub Section 9 for the purpose of planning, designing, constructing, equipping, operating and maintaining two level 3, 150KW DC 4-Port publicly available Electric Vehicle Charging Stations and associated infrastructure (the "Project"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on May 18, 2026, Governor Moquino executed the Grant Agreement, Control Number C0245027, between NMDOT and the Pueblo for the Project which requires the Pueblo to adopt a written resolution of support for the Project, including an assumption of ownership, liability, and maintenance responsibility for the scope, or related amenities and required funding to support the Project; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>together the Grant Funds Award Letter and the Grant Agreement (collectively the "Grant Agreement") identify all the requirements and deadlines associated with receiving the Grant Funds; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo supports the Project as described in the Grant Agreement, accepts ownership of the Project and assumes liability for the maintenance of the Project in accordance with the Grant Agreement; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the EV Charging Stations will be located at the White Rock and the Totavi Convenience Stores, which are located on the Pueblo's reservation lands, and are both currently leased, managed and operated by SIS through a business lease with the Pueblo; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has identified and authorized SIS as the entity to carry out the planning, designing, constructing, equipping, operating and maintaining the EV Charging Stations and to meet the technical reporting and financial reimbursement requirements of the Project; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the SIS management team and engineers specialize in and have experience and capacity in implementing NMDOT design and construction projects; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council finds it is in the best interest of the Pueblo to work in partnership with SIS to see the Project's successful completion by the Project end date and to meet the technical, reporting, and financial requirements of the Grant Agreement.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached resolution entitled the "ACT ACCEPTING NMDOT FUNDING TO INSTALL AND OPERATE ELECTRIC VEHICLE CHARGING INFRASTRUCTURE".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>July 14</u>, 2026, at a meeting with a vote of <u>8</u> in favor, <u>0</u> opposed, <u>0</u> abstaining and <u>2</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Brandi Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Gary Alan Roybal</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R26-015</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>14</u><sup><u>th</u></sup> day of <u>July</u>, 2026, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>14</u><sup><u>th</u></sup> day of <u>June</u>, 2026.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2026.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Brandi Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Gary Alan Roybal</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2026, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+  </procedural-data>
+  <codify:insert path="17.2" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.35">
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.35</num>
+      <heading>Act Accepting Nmdot Funding to Install and Operate Electric Vehicle Charging Infrastructure</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="17.2.35"/>
+    <text class="center">
+      <strong>PUEBLO DE SAN ILDEFONSO</strong>
+    </text>
+    <heading type="law">ACT ACCEPTING THE NMDOT FUNDING TO INSTALL AND OPERATE ELECTRIC VEHICLE CHARGING INFRASTRUCTURE</heading>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.35.010"/>
+      <num codify:value="17.2.35.010">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "ACT ACCEPTING NMDOT FUNDING TO INSTALL AND OPERATE ELECTRIC VEHICLE CHARGING INFRASTRUCTURE" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.35.020"/>
+      <num codify:value="17.2.35.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to accept the NMDOT funding to plan, design, construct, equip, operate and maintain Electric Vehicle Charging Stations and associated infrastructure at the Totavi and White Rock convenience stores located on the Pueblo's lands, and both currently leased, managed and operated by San Ildefonso Services (SIS) through a business lease with the Pueblo.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.35.030"/>
+      <num codify:value="17.2.35.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Council established and chartered SIS under tribal law as a single member limited liability company wholly owned by the Pueblo, for the benefit of the Pueblo and its members.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>SIS is a Manager-Managed LLC and is governed by a five-member Board of Directors called the Member's Representatives.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>SIS is authorized by its Articles of Organization to engage in business ventures that serve the business interest of the company and the Pueblo, including but not limited to, acquire, develop, manage, and operate and improve property; contract for any activity or service for the construction, operation and management of buildings, infrastructure and other facilities; the ownership and operation of retail and service enterprises; and other economic development initiatives of the Pueblo.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>At the direction of the Pueblo, SIS applied for and the Pueblo received the Grant Funds Award Letter grant funding from the New Mexico Department of Transportation Fund 93100 Capital Appropriation Project in the amount of $1,541,955.06 ("Grant Funds") through the Laws of 2024, SB 275, Chapter 66, Section 33, Sub Section 9 for the purpose of planning, designing, constructing, equipping, operating and maintaining two level 3, 150KW DC 4-Port publicly available Electric Vehicle Charging Stations and associated infrastructure (the "Project").</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>On May 18, 2026, Governor Moquino executed the Grant Agreement, Control Number C0245027, between NMDOT and the Pueblo for the Project which requires the Pueblo to adopt a written resolution of support for the Project, including an assumption of ownership, liability, and maintenance responsibility for the scope, or related amenities and required funding to support the Project.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Together the Grant Funds Award Letter and the Grant Agreement (collectively the "Grant Agreement") identify all the requirements and deadlines associated with receiving the Grant Funds.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Pueblo supports the Project as described in the Grant Agreement, accepts ownership of the Project and assumes liability for the maintenance of the Project in accordance with the Grant Agreement</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The EV Charging Stations will be located at the White Rock and the Totavi Convenience Stores, which are located on the Pueblo's reservation lands, and are both currently leased, managed and operated by SIS through a business lease with the Pueblo.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Pueblo has identified and authorized SIS as the entity to carry out the planning, designing, constructing, equipping, operating and maintaining the EV Charging Stations and to meet the technical reporting and financial reimbursement requirements of the Project.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The SIS management team and engineers specialize in and have experience and capacity in implementing NMDOT design and construction projects.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>The Council finds it is in the best interest of the Pueblo to work in partnership with SIS to see the Project's successful completion by the Project end date and to meet the technical, reporting, and financial requirements of the Grant Agreement.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.35.040"/>
+      <num codify:value="17.2.35.040">1.4</num>
+      <heading>Authorization</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council authorizes and directs the Governor, or his designee to provide this resolution as indication of the Pueblo's acknowledgment of the ownership, liability, and maintenance responsibility for the scope, or related amenities and required funding to support the Project.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council authorizes the Governor to enter into such agreements with SIS as necessary to implement the Project design and construction and carry out the intent of this resolution.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

@@ -1324,7 +1324,7 @@
           </para>
           <para>
             <num>(22)</num>
-            <text>To manage, on behalf of the Pueblo, the process by which a Member of the Pueblo may obtain Leases of and Leasehold Interests in Restricted Land or Trust Land subject to the jurisdiction of the Pueblo, and the process by which a Member of the Pueblo may Mortgage such Leasehold Interests. The Authority is hereby authorized to promulgate rules and regulations utilizing notice and comment rulemaking for the purpose of carrying out the duties prescribed by this subsection. . As used in this subsection, the terms "Lease," "Member," "Mortgage," "Restricted Land," and "Trust Land" have the definitions given to them in Section 15.3.1.010 of the Pueblo de San Ildefonso Code.</text>
+            <text>To approve, on behalf of the Pueblo, Leases of and Leasehold Interests in Restricted Land or Trust Land subject to the jurisdiction of the Pueblo, and to manage, on behalf of the Pueblo, the process by which a Member of the Pueblo may obtain Leases of and Leasehold Interests in Restricted Land or Trust Land subject to the jurisdiction of the Pueblo, and the process by which a Member of the Pueblo may Mortgage such Leasehold Interests. The Authority is hereby authorized to promulgate rules and regulations utilizing notice and comment rulemaking for the purpose of carrying out the duties prescribed by this subsection. As used in this subsection, the terms "Lease," "Member," "Mortgage," "Restricted Land," and Trust Land" have the definitions given to them in Section 15.3.1.010 of the Pueblo de San Ildefonso Code.</text>
           </para>
         </para>
         <para>
@@ -1336,6 +1336,7 @@
           <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-026" eff="2021-11-29" path="" target-path="15.1" type="History"/>
           <annotation app="2021-11-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-026" eff="2021-11-29" path="attachments|law|1.7" target-path="15.1|15.1.8" type="History"/>
           <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-015" eff="2024-12-16" path="attachments|law|1.4" target-path="15.1.8.070" type="History"/>
+          <annotation app="2026-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-011" eff="2026-06-29" path="attachments|law|1.4" target-path="15.1.8.070|(b)|(22)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3067,28 +3068,26 @@
           <text>Notwithstanding any provision to the contrary contained in this Act or in any Mortgage document, no Borrower may mortgage a Leasehold Interest without first:</text>
           <para>
             <num>(1)</num>
-            <text>Obtaining a valid Lease for such property in the manner and form prescribed by the Authority; and</text>
+            <text>Obtaining a Lease for such property on a form prescribed by the Authority and approved by the Authority in accordance with the Authority's established leasing process; and</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Obtaining the prior written consent of the Authority to mortgage the Leasehold Interest.</text>
+            <text>Obtaining the prior written approval of the Authority to mortgage the Leasehold Interest.</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
+          <text>The Authority's residential lease form may allow a Lessee to mortgage the leasehold for the purchase, construction, rehabilitation, or refinancing for residential purposes without further Authority consent.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>The SIHA's residential lease form may allow a Lessee to mortgage the leasehold for the purchase, construction, rehabilitation, or refinancing for residential purposes without further SIHA consent .</text>
-        </para>
-        <para>
-          <num>(d)</num>
           <text>Any Mortgage given in violation of this Section shall be void and of no effect.</text>
         </para>
         <annotations>
           <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-015" eff="2024-12-16" path="" target-path="15" type="History"/>
           <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-015" eff="2024-12-16" path="" target-path="15.3" type="History"/>
           <annotation app="2024-12-16" doc="Pueblo de San Ildefonso Council Res. No. SI-R24-015" eff="2024-12-16" path="attachments|law|15.3|15.3.1|15.3.1.070" target-path="15.3.1" type="History"/>
+          <annotation app="2026-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-012" eff="2026-06-29" path="attachments|law|1.4|(a)" target-path="15.3.1.070" type="History"/>
         </annotations>
       </section>
       <section>

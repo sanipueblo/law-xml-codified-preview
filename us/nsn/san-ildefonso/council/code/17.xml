@@ -1709,109 +1709,125 @@
     <container>
       <prefix>Part</prefix>
       <num>17.2.13</num>
-      <heading>Act Approving Tax Subsidy to San Ildefonso Services, LLC</heading>
+      <heading>Amendment Extending the Act Approving Tax Subsidy to San Ildefonso Services, LLC<annotation app="2026-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-009" eff="2026-06-29" path="" target-path="17.2.13|heading" type="History"/></heading>
       <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" target-path="17.2" type="History"/>
       <section>
         <num>17.2.13.010</num>
         <heading>Short Title</heading>
-        <text>This enactment shall be known as the Act, "ACT APPROVING TAX SUBSIDY TO SAN ILDEFONSO SERVICES, LLC ("Act")."</text>
+        <text>This enactment shall be known as "AMENDMENT EXTENDING THE ACT APPROVING TAX SUBSIDY TO SAN ILDEFONSO SERVICES, LLC" ("Act").</text>
         <annotations>
           <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" target-path="17.2" type="History"/>
           <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="attachments|law|1.1" target-path="17.2|17.2.13" type="History"/>
+          <annotation app="2026-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-009" eff="2026-06-29" path="attachments|law|1.1" target-path="17.2.13.010" type="History"/>
         </annotations>
       </section>
       <section>
         <num>17.2.13.020</num>
-        <heading>Purpose</heading>
-        <text>The purpose of this Act is to approve the Pueblo de San Ildefonso Tax Subsidy to San Ildefonso Services, LLC.</text>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
         <annotations>
           <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" target-path="17.2" type="History"/>
           <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="attachments|law|1.2" target-path="17.2|17.2.13" type="History"/>
+          <annotation app="2026-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-009" eff="2026-06-29" path="attachments|law|1.2" target-path="17.2.13.020" type="History"/>
         </annotations>
       </section>
       <section>
         <num>17.2.13.030</num>
-        <heading>Findings</heading>
-        <text>The Council hereby finds and declares that:</text>
-        <para>
-          <num>(a)</num>
-          <text>San Ildefonso Services, LLC, ("SIS LLC") is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo, and the Pueblo de San Ildefonso Governor and Council currently serve as the Member's Representatives.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The Pueblo owned and operated two businesses within the Pueblo's lands commonly referred to as the Totavi and White Rock Phillips 66 Convenience Stores and Gas Stations ("C-Stores").</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The Council transferred the ownership and operation of the C-Stores to "SIS LLC, effective July 1, 2017.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>SIS LLC assumed all liabilities, including contracts and accounts, of the C-Stores accrued after July 1, 2017, and SIS LLC is responsible for the payment of any applicable taxes related to the operation of or otherwise imposed on the C-Stores.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>SIS LLC assumed full responsibility for insuring, maintaining, and repairing the C-Stores.</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>SIS LLC assumed all C-Stores employees and responsible for payroll, benefits, and related human resources matters for employees of the C-Stores.</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>Since the July 1, 2017 acquisition of the C-Stores, SIS LLC has endeavored to enhance the operations and profitability of the C-Stores but operational and procurement costs have made this extremely difficult. On May 21, 2018, SIS LLC presented the C-Stores' financial concerns along with supporting financial information, to the Council and formally requested that the Pueblo provide a subsidy of $0.06  for every gallon sold to allow SIS LLC to adequately compete in the local market.</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>The Council has determined it is in the Pueblo's best interest to support SIS LLC and its operation of the C-Stores and provide a subsidy of $0.06 for every gallon sold, and has identified that such subsidy could be paid from revenues generated by the Pueblo's $0.17 per gallon fuel tax, and such subsidy shall be made pursuant to specific terms contained herein.</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>The Council has determined that the Pueblo Governor may execute such subsidy pursuant to certain essential terms contained herein.</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>The Council finds the need to approve the Pueblo de San Ildefonso Tax Subsidy to San Ildefonso Services, LLC.</text>
-        </para>
+        <heading>Purpose</heading>
+        <text>The Purpose of this Act is to amend and extend the Subsidy Act for another 5 years, beginning June 1, 2026 to May 31, 2031.</text>
         <annotations>
           <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" target-path="17.2" type="History"/>
           <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="attachments|law|1.3" target-path="17.2|17.2.13" type="History"/>
+          <annotation app="2026-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-009" eff="2026-06-29" path="attachments|law|1.3" target-path="17.2.13.030" type="History"/>
         </annotations>
       </section>
       <section>
         <num>17.2.13.040</num>
-        <heading>Authorizations</heading>
+        <heading>Findings</heading>
+        <text>The Council hereby finds that:</text>
         <para>
           <num>(a)</num>
-          <text>The Council hereby approves and authorizes the provision of a subsidy to SIS LLC of $0.06 for every gallon sold by the C-Stores.</text>
+          <text>San Ildefonso Services, LLC ("SIS, LLC") was chartered by the Pueblo under tribal law as a single-member limited liability company wholly owned by the Pueblo.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Such subsidy shall be paid by the Pueblo from revenues received by the Pueblo from the $0.17 per gallon fuel tax paid by the C-Store.</text>
+          <text>SIS, LLC owns and operates two businesses within Pueblo lands commonly referred to as the Totavi and White Rock Convenience Stores and Gas Stations ("C-Stores").</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>The subsidy shall be used by SIS as much as possible to reduce costs to increase customer traffic to the C-Stores.</text>
+          <text>The Council transferred ownership and operation of the C-Stores to SIS, LLC, effective July 1, 2017, pursuant to the, "Act to Transfer Ownership and Operation of C-Stores to San Ildefonso Services, LLC", dated June 21, 2017.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>The subsidy shall begin within thirty (30) days of the effective date of this Act and shall expire one (1) year from the effective date of this Act.</text>
+          <text>Since the acquisition of the C-Stores, SIS, LLC has endeavored to improve the operations and profitability of the C-Stores.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>SIS, LLC shall provide monthly financial and fuel reports, and such other information and documents, to the Governor to support the expenditure and continuation of said subsidy.</text>
+          <text>On June 6, 2018, the Council formally approved a subsidy for the benefit of SIS, LLC in the amount of $0.06 for every gallon of gasoline sold in the C-Stores ("Subsidy") pursuant to Tribal Council Resolution No. SI-R18-011, titled "Act Approving Tax Subsidy to San Ildefonso Services, LLC" ("Subsidy Act").</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>The Pueblo de San Ildefonso Council authorizes the Pueblo Governor to initiate the subsidy and develop and execute any documents that may be necessary to support the provision of said subsidy.</text>
+          <text>The Subsidy Act was subsequently extended and restated, and at a Council Meeting on August 26, 2021 was adopted effective June 1, 2021 and expiring May 31, 2026; and</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent and direction this Act.</text>
+          <text>SIS, LLC requests and recommends the Subsidy Act be amended to extend the term for another 5-year period effective June 1, 2026, and expiring on May 31, 2031, for operational costs.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Council has determined that it is in the Pueblo's best interests to support SIS, LLC and its operation of the C-Stores by extending the Subsidy in the amount of $0.06 for every gallon of gasoline sold in the C-Stores for another 5-year period beginning on June 1, 2026 and expiring on May 31, 2031.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Subsidy could be paid by the Pueblo from tax revenues generated by the Pueblo's $0.17 per gallon fuel tax, or other funds as the Council sees fit.</text>
         </para>
         <annotations>
           <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" target-path="17.2" type="History"/>
           <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="attachments|law|1.4" target-path="17.2|17.2.13" type="History"/>
+          <annotation app="2026-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-009" eff="2026-06-29" path="attachments|law|1.4" target-path="17.2.13.040" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.13.050</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby amends and extends the Subsidy to SIS LLC in the amount of $0.06 for every gallon of gasoline sold by the C-Stores.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Subsidy shall be paid by the Pueblo from revenues generated by the Pueblo's $0.17 per gallon fuel tax, or other funds as the Council sees fit.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Subsidy shall be used by SIS to reduce costs of gasoline in order to make upgrades to the fuel pumps and the C-Stores, and the Subsidy shall not be used for any other purpose.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Subsidy shall be effective as of June 1, 2026, and shall expire on May 31, 2031.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>SIS, LLC shall provide monthly financial statements and fuel reports, and such other information and documents to the Governor and Council to support the expenditure and continuation of the Subsidy.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Council authorizes the Governor to execute any documents that may be necessary to support the Subsidy.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Governor is authorized to take such actions as deemed necessary to carry out the intent this Act.</text>
+        </para>
+        <annotations>
+          <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-011" eff="2018-06-07" path="" target-path="17.2" type="History"/>
+          <annotation app="2026-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-009" eff="2026-06-29" path="attachments|law|1.5" target-path="17.2.13" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2376,11 +2392,12 @@
       <section>
         <num>17.2.21.040</num>
         <heading>Establishment of the Rate of Compensation</heading>
-        <text>The Council hereby establishes the rate of compensation for each SIS Member Representative at two-hundred fifty dollars ($250.00) per month which will be covered by the San Ildefonso Services, LLC annual budget.</text>
+        <text>The Council hereby establishes the rate of compensation for each SIS Member Representative at seven-hundred fifty dollars ($750.00) per month which will be covered by the San Ildefonso Services, LLC annual budget.</text>
         <annotations>
           <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" target-path="17.2" type="History"/>
           <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.4" target-path="17.2|17.2.21" type="History"/>
           <annotation app="2020-09-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-019" eff="2020-09-30" path="attachments|law|1.4" target-path="17.2.21|17.2.21.040" type="History"/>
+          <annotation app="2026-06-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-010" eff="2026-06-29" path="attachments|law|1.4" target-path="17.2.21.040" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -3827,6 +3844,99 @@
         <annotations>
           <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="" target-path="|17.2" type="History"/>
           <annotation app="2026-03-05" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-001" eff="2026-03-05" path="attachments|law|1.4" target-path="17.2.34" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.35</num>
+      <heading>Act Accepting Nmdot Funding to Install and Operate Electric Vehicle Charging Infrastructure</heading>
+      <annotation app="2026-07-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-015" eff="2026-07-14" path="" target-path="17.2" type="History"/>
+      <section>
+        <num>17.2.35.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACT ACCEPTING NMDOT FUNDING TO INSTALL AND OPERATE ELECTRIC VEHICLE CHARGING INFRASTRUCTURE" ("Act").</text>
+        <annotations>
+          <annotation app="2026-07-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-015" eff="2026-07-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2026-07-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-015" eff="2026-07-14" path="attachments|law|1.1" target-path="17.2.35" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.35.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to accept the NMDOT funding to plan, design, construct, equip, operate and maintain Electric Vehicle Charging Stations and associated infrastructure at the Totavi and White Rock convenience stores located on the Pueblo's lands, and both currently leased, managed and operated by San Ildefonso Services (SIS) through a business lease with the Pueblo.</text>
+        <annotations>
+          <annotation app="2026-07-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-015" eff="2026-07-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2026-07-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-015" eff="2026-07-14" path="attachments|law|1.2" target-path="17.2.35" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.35.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Council established and chartered SIS under tribal law as a single member limited liability company wholly owned by the Pueblo, for the benefit of the Pueblo and its members.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>SIS is a Manager-Managed LLC and is governed by a five-member Board of Directors called the Member's Representatives.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>SIS is authorized by its Articles of Organization to engage in business ventures that serve the business interest of the company and the Pueblo, including but not limited to, acquire, develop, manage, and operate and improve property; contract for any activity or service for the construction, operation and management of buildings, infrastructure and other facilities; the ownership and operation of retail and service enterprises; and other economic development initiatives of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>At the direction of the Pueblo, SIS applied for and the Pueblo received the Grant Funds Award Letter grant funding from the New Mexico Department of Transportation Fund 93100 Capital Appropriation Project in the amount of $1,541,955.06 ("Grant Funds") through the Laws of 2024, SB 275, Chapter 66, Section 33, Sub Section 9 for the purpose of planning, designing, constructing, equipping, operating and maintaining two level 3, 150KW DC 4-Port publicly available Electric Vehicle Charging Stations and associated infrastructure (the "Project").</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>On May 18, 2026, Governor Moquino executed the Grant Agreement, Control Number C0245027, between NMDOT and the Pueblo for the Project which requires the Pueblo to adopt a written resolution of support for the Project, including an assumption of ownership, liability, and maintenance responsibility for the scope, or related amenities and required funding to support the Project.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Together the Grant Funds Award Letter and the Grant Agreement (collectively the "Grant Agreement") identify all the requirements and deadlines associated with receiving the Grant Funds.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Pueblo supports the Project as described in the Grant Agreement, accepts ownership of the Project and assumes liability for the maintenance of the Project in accordance with the Grant Agreement</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The EV Charging Stations will be located at the White Rock and the Totavi Convenience Stores, which are located on the Pueblo's reservation lands, and are both currently leased, managed and operated by SIS through a business lease with the Pueblo.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Pueblo has identified and authorized SIS as the entity to carry out the planning, designing, constructing, equipping, operating and maintaining the EV Charging Stations and to meet the technical reporting and financial reimbursement requirements of the Project.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The SIS management team and engineers specialize in and have experience and capacity in implementing NMDOT design and construction projects.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The Council finds it is in the best interest of the Pueblo to work in partnership with SIS to see the Project's successful completion by the Project end date and to meet the technical, reporting, and financial requirements of the Grant Agreement.</text>
+        </para>
+        <annotations>
+          <annotation app="2026-07-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-015" eff="2026-07-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2026-07-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-015" eff="2026-07-14" path="attachments|law|1.3" target-path="17.2.35" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.35.040</num>
+        <heading>Authorization</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council authorizes and directs the Governor, or his designee to provide this resolution as indication of the Pueblo's acknowledgment of the ownership, liability, and maintenance responsibility for the scope, or related amenities and required funding to support the Project.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council authorizes the Governor to enter into such agreements with SIS as necessary to implement the Project design and construction and carry out the intent of this resolution.</text>
+        </para>
+        <annotations>
+          <annotation app="2026-07-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-015" eff="2026-07-14" path="" target-path="17.2" type="History"/>
+          <annotation app="2026-07-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-015" eff="2026-07-14" path="attachments|law|1.4" target-path="17.2.35" type="History"/>
         </annotations>
       </section>
     </container>
