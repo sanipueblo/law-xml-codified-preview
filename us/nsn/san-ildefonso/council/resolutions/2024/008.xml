@@ -2,11 +2,11 @@
 <document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R24-008" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3">
   <num>SI-R24-008</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R24-008</heading>
-  <heading type="law" proof="needed">AUTHORIZATION FOR FISCAL YEAR 2023-2024 BUDGET MODIFICATION NO. 1</heading>
+  <heading type="law">Authorization for Fiscal Year 2023-2024 Budget Modification No. 1</heading>
   <meta>
-    <effective proof="needed">2024-06-25</effective>
+    <effective>2024-06-25</effective>
     <citations>
-      <citation type="res" proof="needed">Council Resolution No. SI-R24-008</citation>
+      <citation type="res">Council Resolution No. SI-R24-008</citation>
     </citations>
     <history>
       <adopted>2024-06-20</adopted>
@@ -274,71 +274,71 @@
           <tr>
             <td>Tom Garcia</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>John Gonzales</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Thomas Gonzales</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Nichole S. Martinez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Perry Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
             <td>X</td>
           </tr>
           <tr>
             <td>Raelene Martinez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Raymond J. Martinez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Denise Moquino</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Christopher Romero</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
             <td>X</td>
           </tr>
           <tr>
             <td>Kenneth Weahkee</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
             <td>X</td>
           </tr>
         </tbody>
@@ -371,73 +371,73 @@
         <tbody>
           <tr>
             <td>Tom Garcia</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>John Gonzales</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Thomas Gonzales</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Nichole S. Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Perry Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Raelene Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Raymond J. Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Denise Moquino</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Christopher Romero</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Kenneth Weahkee</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
         </tbody>
       </table>
@@ -452,7 +452,7 @@
     <text class="center">
       <strong>PUEBLO DE SAN ILDEFONSO</strong>
     </text>
-    <heading type="law" proof="needed">AUTHORIZATION FOR FISCAL YEAR 2023-2024 BUDGET MODIFICATION NO. 1</heading>
+    <heading type="law">AUTHORIZATION FOR FISCAL YEAR 2023-2024 BUDGET MODIFICATION NO. 1</heading>
     <para>
       <num>1.</num>
       <text>The current FY 2023-2024 Annual Budget, prior to this enactment, is as follows:</text>
@@ -460,7 +460,7 @@
         <table>
           <thead>
             <tr>
-              <th colspan="2">ANNUAL BUDGET: FISCAL YEAR 2022-2023</th>
+              <th colspan="2">ANNUAL BUDGET: FISCAL YEAR 2023-2024</th>
             </tr>
           </thead>
           <tbody>
@@ -509,22 +509,22 @@
               <td>Increase to advertise the Pueblo's job vacancies.</td>
             </tr>
             <tr>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
             </tr>
             <tr>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
             </tr>
             <tr>
-              <td proof="needed"/>
+              <td/>
               <td>TOTAL:</td>
               <td>$ 53,481.00</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
           </tbody>
         </table>
@@ -625,22 +625,22 @@
                   <td>Increase to advertise the Pueblo's job vacancies.</td>
                 </tr>
                 <tr>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                 </tr>
                 <tr>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                 </tr>
                 <tr>
-                  <td proof="needed"/>
+                  <td/>
                   <td>TOTAL:</td>
                   <td>$ 53,481.00</td>
-                  <td proof="needed"/>
+                  <td/>
                 </tr>
               </tbody>
             </table>

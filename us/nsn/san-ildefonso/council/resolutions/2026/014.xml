@@ -485,17 +485,19 @@
       <text>The Council hereby approves Budget Modification No. 2 to the FY 2025-2026 Annual Budget as follows and as documented on the attached budgets.</text>
       <text>
         <table>
-          <tbody>
+          <thead>
             <tr>
-              <td>BUDGET</td>
-              <td>CODE</td>
-              <td>GENERAL FUND</td>
-              <td>JUSTIFICATION</td>
+              <th>BUDGET</th>
+              <th>CODE</th>
+              <th>GENERAL FUND</th>
+              <th>JUSTIFICATION</th>
             </tr>
+          </thead>
+          <tbody>
             <tr>
               <td>Tribal Council</td>
               <td>SI.801.000.00</td>
-              <td>$ 57,000 .00</td>
+              <td>$ 57,000.00</td>
               <td>Increase the legal fees line item (5300) for the unexpected rise in costs.</td>
             </tr>
             <tr>
@@ -589,17 +591,19 @@
           <text>The Council hereby approves Budget Modification No. 2 to the FY 2025-2026 Annual Budget as follows and as documented on the attached budgets.</text>
           <text>
             <table>
-              <tbody>
+              <thead>
                 <tr>
-                  <td>BUDGET</td>
-                  <td>CODE</td>
-                  <td>GENERAL FUND</td>
-                  <td>JUSTIFICATION</td>
+                  <th>BUDGET</th>
+                  <th>CODE</th>
+                  <th>GENERAL FUND</th>
+                  <th>JUSTIFICATION</th>
                 </tr>
+              </thead>
+              <tbody>
                 <tr>
                   <td>Tribal Council</td>
                   <td>SI.801.000.00</td>
-                  <td>$ 57,000 .00</td>
+                  <td>$ 57,000.00</td>
                   <td>Increase the legal fees line item (5300) for the unexpected rise in costs.</td>
                 </tr>
                 <tr>

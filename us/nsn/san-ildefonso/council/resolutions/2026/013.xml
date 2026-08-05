@@ -128,7 +128,7 @@
           <tbody>
             <tr>
               <td>GENERAL FUND</td>
-              <td>$ 10,146.738.00</td>
+              <td>$ 10,146,738.00</td>
             </tr>
             <tr>
               <td>SPECIAL REVENUE FUND</td>
@@ -159,7 +159,7 @@
               <tbody>
                 <tr>
                   <td>GENERAL FUND</td>
-                  <td>$ 10,146.738.00</td>
+                  <td>$ 10,146,738.00</td>
                 </tr>
                 <tr>
                   <td>SPECIAL REVENUE FUND</td>
@@ -194,34 +194,30 @@
       <text>that the Council hereby:</text>
       <para>
         <num>1.</num>
-        <text>Approves and enacts the attached FY 2026-2027 Annual Budget in the total amount of $29,784,789.00 effective July 1, 2026 to June 30, 2027; the total amount of the approved</text>
+        <text>Approves and enacts the attached FY 2026-2027 Annual Budget in the total amount of $29,784,789.00 effective July 1, 2026 to June 30, 2027; the total amount of the approved budget includes a 3.5% Cost of Living Adjustment (COLA) for eligible employees; and</text>
       </para>
       <para>
         <num>2.</num>
-        <text>budget includes a 3.5% Cost of Living Adjustment (COLA) for eligible employees; and</text>
-      </para>
-      <para>
-        <num>3.</num>
         <text>Directs that programs, when both federal or other funding as well as General Funds are budgeted, utilize and exhaust outside sources of funding first before utilizing Tribal funds (General Fund); and</text>
       </para>
       <para>
-        <num>4.</num>
+        <num>3.</num>
         <text>Directs the Governor to provide the Council with a quarterly report on the expenditure of budget funding; and</text>
       </para>
       <para>
-        <num>5.</num>
+        <num>4.</num>
         <text>Directs the Governor to keep the Council informed of the Tribe's financial position by providing the Council with a quarterly (or as needed), written financial statement of the Pueblo; and</text>
       </para>
       <para>
-        <num>6.</num>
+        <num>5.</num>
         <text>Directs that deferred (unearned) revenues from Right of Way agreements be placed in a designated investment account and be drawn down annually in distributions equal to the amortized amount for general fund purposes; and</text>
       </para>
       <para>
-        <num>7.</num>
+        <num>6.</num>
         <text>Directs that Council approval shall be required for the allocation or usage of any and all unanticipated revenue or additional new funds received during the budget year.</text>
       </para>
       <para>
-        <num>8.</num>
+        <num>7.</num>
         <text>Approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor or his designee to take such actions as deemed necessary to carry out the intent of this resolution.</text>
       </para>
       <codify:insert path="6.3.33" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.3.33.020">
@@ -230,34 +226,30 @@
           <text>The Council hereby:</text>
           <para>
             <num>(a)</num>
-            <text>Approves and enacts the attached FY 2026-2027 Annual Budget in the total amount of $29,784,789.00 effective July 1, 2026 to June 30, 2027; the total amount of the approved</text>
+            <text>Approves and enacts the attached FY 2026-2027 Annual Budget in the total amount of $29,784,789.00 effective July 1, 2026 to June 30, 2027; the total amount of the approved budget includes a 3.5% Cost of Living Adjustment (COLA) for eligible employees; and</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>budget includes a 3.5% Cost of Living Adjustment (COLA) for eligible employees; and</text>
-          </para>
-          <para>
-            <num>(c)</num>
             <text>Directs that programs, when both federal or other funding as well as General Funds are budgeted, utilize and exhaust outside sources of funding first before utilizing Tribal funds (General Fund); and</text>
           </para>
           <para>
-            <num>(d)</num>
+            <num>(c)</num>
             <text>Directs the Governor to provide the Council with a quarterly report on the expenditure of budget funding; and</text>
           </para>
           <para>
-            <num>(e)</num>
+            <num>(d)</num>
             <text>Directs the Governor to keep the Council informed of the Tribe's financial position by providing the Council with a quarterly (or as needed), written financial statement of the Pueblo; and</text>
           </para>
           <para>
-            <num>(f)</num>
+            <num>(e)</num>
             <text>Directs that deferred (unearned) revenues from Right of Way agreements be placed in a designated investment account and be drawn down annually in distributions equal to the amortized amount for general fund purposes; and</text>
           </para>
           <para>
-            <num>(g)</num>
+            <num>(f)</num>
             <text>Directs that Council approval shall be required for the allocation or usage of any and all unanticipated revenue or additional new funds received during the budget year.</text>
           </para>
           <para>
-            <num>(h)</num>
+            <num>(g)</num>
             <text>Approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor or his designee to take such actions as deemed necessary to carry out the intent of this resolution.</text>
           </para>
         </section>
@@ -467,6 +459,7 @@
     <text>Denise Moquino, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="6.3.33"/>
     <text class="center">
       <strong>PUEBLO DE SAN ILDEFONSO</strong>
     </text>
