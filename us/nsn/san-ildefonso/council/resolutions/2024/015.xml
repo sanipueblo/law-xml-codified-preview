@@ -292,8 +292,7 @@
       <heading>Amendment (Code Section 15.1.8.070)</heading>
       <para>
         <num>(a)</num>
-        <text>Perpetual Duration. The period of the Authority's duration shall be</text>
-        <text>perpetual or until this Act is repealed.</text>
+        <text>Perpetual Duration. The period of the Authority's duration shall be perpetual or until this Act is repealed.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -778,13 +777,13 @@
               <num>2.</num>
               <text>Upon completion of the above endorsements, the Pueblo de San Ildefonso Realty Officer shall make true and correct copies of the Lease and/or Mortgage or other security instrument and shall certify each copy in substantially the following format:</text>
             </para>
-            <text>PUEBLO DE SAN ILDEFONSO ) ss.</text>
-            <text>I certify that this is a true and correct copy of a document received for recording this date.</text>
-            <text>Given under my hand and seal this day of , 20 .</text>
-            <text>(SEAL) ______________________________</text>
-            <text>Signature</text>
-            <text>______________________________</text>
-            <text>Title</text>
+            <aftertext>PUEBLO DE SAN ILDEFONSO ) ss.</aftertext>
+            <aftertext>I certify that this is a true and correct copy of a document received for recording this date.</aftertext>
+            <aftertext>Given under my hand and seal this day of , 20 .</aftertext>
+            <aftertext>(SEAL) ______________________________</aftertext>
+            <aftertext>Signature</aftertext>
+            <aftertext>______________________________</aftertext>
+            <aftertext>Title</aftertext>
             <para>
               <num>3.</num>
               <text>The Pueblo de San Ildefonso Realty Officer shall maintain such copies in the records of the recording system and shall return the original Lease and/or Mortgage or other security instrument to the person or entity that presented the same for recording.</text>
@@ -1237,15 +1236,18 @@
         </section>
       </container>
       <container>
+        <codified:at path="15.3.3"/>
         <prefix>Part</prefix>
         <num>15.3.3</num>
         <heading>Mortgage and Lease Modernization Act of 2024 – Eviction</heading>
         <section>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.3.010"/>
           <num>15.3.3.010</num>
           <heading>No Self-Help Eviction</heading>
           <text>No person or entity may compel an occupant to vacate any premises by force or in a way that causes a breach of the peace. All persons or entities seeking to regain possession of any real property shall do so in the manner provided in this Part.</text>
         </section>
         <section>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.3.020"/>
           <num>15.3.3.020</num>
           <heading>Notice to Quit</heading>
           <para>
@@ -1256,12 +1258,12 @@
             <num>(b)</num>
             <text>The notice to quit shall be addressed to the adult occupant(s) of the real property and shall state the date by which the occupant is required to quit possession of the property. The notice to quit shall be in substantially the following form:</text>
           </para>
-          <text>I (We) have a legal right to possession of the property now occupied by you at [insert the address or other reasonable description of the property], and hereby give you notice that you are to quit possession or occupancy on or before [insert the date for the occupant to quit] for the following reason(s): [list the reasons].</text>
-          <text>______________________________ ______________________________</text>
-          <text>Dated Signature</text>
-          <text>______________________________ ______________________________</text>
-          <text>Location of Signing Printed Name</text>
-          <text>[Mailing Address of signatory]</text>
+          <aftertext>I (We) have a legal right to possession of the property now occupied by you at [insert the address or other reasonable description of the property], and hereby give you notice that you are to quit possession or occupancy on or before [insert the date for the occupant to quit] for the following reason(s): [list the reasons].</aftertext>
+          <aftertext>______________________________ ______________________________</aftertext>
+          <aftertext>Dated Signature</aftertext>
+          <aftertext>______________________________ ______________________________</aftertext>
+          <aftertext>Location of Signing Printed Name</aftertext>
+          <aftertext>[Mailing Address of signatory]</aftertext>
           <para>
             <num>(c)</num>
             <text>The notice must be delivered within the following periods of time:</text>
@@ -1284,6 +1286,7 @@
           </para>
         </section>
         <section>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.3.030"/>
           <num>15.3.3.030</num>
           <heading>Unlawful Detainer</heading>
           <text>A person may be liable for unlawful detainer if such person has received notice to quit and continues in occupancy of real property in any of the following situations:</text>
@@ -1321,6 +1324,7 @@
           </para>
         </section>
         <section>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.3.040"/>
           <num>15.3.3.040</num>
           <heading>Unlawful Detainer Proceedings</heading>
           <text>Any person claiming a right to possess real property held by another, including without limitation a Lender or a Federal Agency, as appropriate, may commence an Unlawful Detainer Action in the Trial Court in the following manner:</text>
@@ -1382,6 +1386,7 @@
           </para>
         </section>
         <section>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.3.050"/>
           <num>15.3.3.050</num>
           <heading>Power of the Trial Court</heading>
           <para>
@@ -1422,6 +1427,7 @@
           </para>
         </section>
         <section>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.3.060"/>
           <num>15.3.3.060</num>
           <heading>Continuances</heading>
           <text>No continuances shall be granted in cases involving a Lender or Federal Agency, except for good cause shown and:</text>
@@ -1435,11 +1441,13 @@
           </para>
         </section>
         <section>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.3.070"/>
           <num>15.3.3.070</num>
           <heading>Enforcement</heading>
           <text>Upon issuance of an order of repossession by the Trial Court, tribal or federal law enforcement officers or other designated officer(s) of the Pueblo shall enforce the order by evicting the defendant(s) from the property that is unlawfully occupied within fifteen (15) days of the issuance of the order.</text>
         </section>
         <section>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.3.080"/>
           <num>15.3.3.080</num>
           <heading>Storage of Property</heading>
           <para>

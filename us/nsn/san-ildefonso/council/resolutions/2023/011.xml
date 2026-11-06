@@ -615,8 +615,7 @@
             </para>
             <para>
               <num codify:value="(2)">2.</num>
-              <text>The voter is an out-of-state college student or in the military and unable to 
-                appear physically at the polling place on the date of the election.</text>
+              <text>The voter is an out-of-state college student or in the military and unable to appear physically at the polling place on the date of the election.</text>
             </para>
           </para>
           <para>
@@ -684,7 +683,7 @@
       <container name="vii">
         <heading>ARTICLE VII – NOTICE OF ELECTIONS</heading>
         <section>
-          <codify:insert path="5.1.8.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.8.010"/>
+          <codify:replace path="5.1.8.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.8.010"/>
           <num codify:value="5.1.8.010">1</num>
           <heading>Notice of Election.</heading>
           <para>

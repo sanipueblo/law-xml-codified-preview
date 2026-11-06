@@ -3172,10 +3172,10 @@
             </table>
           </text>
         </para>
-        <text>* Numeric groundwater standards only apply to the regional aquifer and are based on Los Alamos National Laboratory, LA-UR-16-27907, Groundwater Background Investigation Report, Revision 5 (2016). The standards use the upper tolerance limit (UTL) values where available and use 95th percentile values where UTLs are not available.</text>
-        <text>** Standard based on UTL</text>
-        <text>*** Standard based on 95th percentile value</text>
-        <text>**** Standard based on New Mexico Standards for Groundwater, 20.6.2.3103</text>
+        <aftertext>* Numeric groundwater standards only apply to the regional aquifer and are based on Los Alamos National Laboratory, LA-UR-16-27907, Groundwater Background Investigation Report, Revision 5 (2016). The standards use the upper tolerance limit (UTL) values where available and use 95th percentile values where UTLs are not available.</aftertext>
+        <aftertext>** Standard based on UTL</aftertext>
+        <aftertext>*** Standard based on 95th percentile value</aftertext>
+        <aftertext>**** Standard based on New Mexico Standards for Groundwater, 20.6.2.3103</aftertext>
         <para>
           <num>(d)</num>
           <text>Alternative and Future Standards. The DECP may recommend to the Governor and Council the adoption of alternative or additional numeric groundwater quality standards, including standards for additional aquifers and for substances not 	identified in this Act, based on new data, updated investigations, risk assessment, protection of public health, cultural uses, or other relevant scientific or regulatory 	considerations.</text>

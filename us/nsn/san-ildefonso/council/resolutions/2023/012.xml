@@ -1128,7 +1128,7 @@
           <num codify:value="(4)">4.</num>
           <text>Notifying other jurisdictions if excluding individuals.</text>
         </para>
-        <text>Sharing of information on reportable conditions, unusual clusters, or suspicious events with state and local public health authorities shall be restricted to the information necessary for the treatment, control, investigation, and prevention of a public health emergency.</text>
+        <aftertext>Sharing of information on reportable conditions, unusual clusters, or suspicious events with state and local public health authorities shall be restricted to the information necessary for the treatment, control, investigation, and prevention of a public health emergency.</aftertext>
       </para>
     </section>
     <section>
