@@ -540,6 +540,91 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.2.5</num>
+      <heading>Act Authorizing Persons Entitled to Conduct Business Regarding Pueblo Funds Managed by the Bureau of Trust Funds Administration</heading>
+      <annotation app="2026-10-19" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-019" eff="2026-10-19" path="" target-path="6.2" type="History"/>
+      <section>
+        <num>6.2.5.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACT AUTHORIZING PERSONS ENTITLED TO CONDUCT BUSINESS REGARDING PUEBLO FUNDS MANAGED BY THE BUREAU OF TRUST FUNDS ADMINISTRATION" ("Act").</text>
+        <annotations>
+          <annotation app="2026-10-19" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-019" eff="2026-10-19" path="" target-path="6.2" type="History"/>
+          <annotation app="2026-10-19" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-019" eff="2026-10-19" path="attachments|law|1.1" target-path="6.2.5" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.2.5.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to identify and authorize the persons who represent the Pueblo de San Ildefonso and will be entitled to receive information and conduct business regarding the Pueblo's funds ("Funds") that are managed by the Bureau of Trust Funds Administration ("BTFA").</text>
+        <annotations>
+          <annotation app="2026-10-19" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-019" eff="2026-10-19" path="" target-path="6.2" type="History"/>
+          <annotation app="2026-10-19" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-019" eff="2026-10-19" path="attachments|law|1.2" target-path="6.2.5" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.2.5.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>the the Pueblo has Funds that are held and managed by the BTFA.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the BTFA requires the Pueblo's Council to identify those individuals representing the Pueblo who are authorized to receive information and conduct business with the BTFA relating to the Pueblo's Funds.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the Council has determined it is in the Pueblo's best interest to identify those individuals who will be authorized to receive information and conduct business with the BTFA relating to the Pueblo's Funds and the limits of their authorization.</text>
+        </para>
+        <annotations>
+          <annotation app="2026-10-19" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-019" eff="2026-10-19" path="" target-path="6.2" type="History"/>
+          <annotation app="2026-10-19" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-019" eff="2026-10-19" path="attachments|law|1.3" target-path="6.2.5" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.2.5.040</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council identifies the following persons entitled to receive information and conduct the specified activity concerning management and investment of the Funds:</text>
+          <para>
+            <num>(1)</num>
+            <text>The Governor is authorized to receive information on tribal accounts, initiate tribal disbursements, and initiate investments discussions;</text>
+          </para>
+          <para>
+            <num>(23)</num>
+            <text>The Lieutenant Governor is authorized to receive information on tribal accounts and initiate investment discussions;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Pueblo's Controller is authorized to receive information on tribal accounts;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Attorneys representing the Pueblo are authorized to receive information on tribal accounts; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Consultants hired by the Pueblo to conduct business relating to the Pueblo's Funds managed by the BTFA are authorized to receive information on tribal accounts.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Upon request of BTFA, the Governor will provide BTFA representatives with the names of the individuals entitled to receive information and conduct business with BTFA concerning the Funds as identified in 1.4(a) above.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Governor or his designee is authorized to take such actions as necessary to carry out the intent of this Act.</text>
+        </para>
+        <annotations>
+          <annotation app="2026-10-19" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-019" eff="2026-10-19" path="" target-path="6.2" type="History"/>
+          <annotation app="2026-10-19" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-019" eff="2026-10-19" path="attachments|law|1.4" target-path="6.2.5" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -11555,6 +11640,83 @@
         <annotations>
           <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-008" eff="2026-06-12" path="" target-path="|6.5" type="History"/>
           <annotation app="2026-06-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-008" eff="2026-06-12" path="attachments|law|1.4" target-path="6.5.42" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.5.43</num>
+      <heading>Act to Request New Mexico Department of Transportation Local Government Road Fund Financial Hardship Match Waiver</heading>
+      <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="" target-path="6.5" type="History"/>
+      <section>
+        <num>6.5.43.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACT TO REQUEST NEW MEXICO DEPARTMENT OF TRANSPORTATION LOCAL GOVERNMENT ROAD FUND FINANCIAL HARDSHIP MATCH WAIVER " ("Act").</text>
+        <annotations>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="" target-path="6.5" type="History"/>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="attachments|law|1.1" target-path="6.5.43" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.5.43.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to request a waiver of all or part of the Pueblo's matching funds for the NM-30 &amp; Battleship intersection improvement project with the New Mexico Department of Transportation due to financial hardship.</text>
+        <annotations>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="" target-path="6.5" type="History"/>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="attachments|law|1.2" target-path="6.5.43" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.5.43.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>the Pueblo de San Ildefonso ("Pueblo") and the New Mexico Department of Transportation ("NMDOT") have entered into a joint and coordinated effort to improve pedestrian and traffic safety on NM 30 at the intersection of Battleship View Road within the Pueblo's lands; and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>NMDOT has proposed a Transportation Project Fund Agreement ("Grant Agreement") for improvements at the above identified intersection and has estimated the total cost of the project will be $1,187,342.24 to be funded in proportional share between the Pueblo and NMDOT; and,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>NMDOT's share would be 95% of the total cost or $1,127,975.13; and,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>the Pueblo's proportional matching share would be 5% of the total cost or $59,367.11; and,</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>per the proposed Grant Agreement terms, the Pueblo shall pay all costs which exceed the total amount of $1,187,342.24; and,</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>NMAC 27.3.8 allows Public Entities who are experiencing financial hardship to request a waiver of all or part of the Public Entity's matching share.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>the Pueblo requests a waiver of the 5% matching funds in the amount of $59,367.11 for the Local Government Road Fund Project for the NN-30 and Battleship View Road intersection improvements.</text>
+        </para>
+        <annotations>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="" target-path="6.5" type="History"/>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="attachments|law|1.3" target-path="6.5.43" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.5.43.040</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council authorizes the Governor or his designee to take all actions necessary to request a waiver of the 5% project matching costs.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor, or his designee, is authorized to take all actions as necessary to carry out the intent of this Act.</text>
+        </para>
+        <annotations>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="" target-path="6.5" type="History"/>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="attachments|law|1.4" target-path="6.5.43" type="History"/>
         </annotations>
       </section>
     </container>

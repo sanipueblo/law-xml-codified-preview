@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R26-016" codify:doc="Pueblo de San Ildefonso Code">
+  <num>SI-R26-016</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R26-016</heading>
+  <heading type="law" proof="needed">San Ildefonso Housing Authority Land Lease Authorization Act Amendments</heading>
+  <meta>
+    <effective proof="needed">2026-09-17</effective>
+    <citations>
+      <citation type="res" proof="needed">Council Resolution No. SI-R26-016</citation>
+    </citations>
+    <history>
+      <adopted>2026-09-10</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 10th day of September, 2026, the following law was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in April 2025, the Council enacted a law called the "Land Lease Authorization Act" to authorize the Governor to negotiate and execute a land lease with the San Ildefonso Housing Authority ("SIHA") for housing purposes for Deer Tail 1 Subdivision and to submit the lease to the Bureau of Indian Affairs for approval and recording; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has become aware of the need to clarify certain authorities that the Council has delegated to the Governor and SIHA, namely to include Deer Tail 2 Subdivision, and to clarify that SIHA has the authority to prepare a master lease for BIA approval that would allow SIHA to approve subleases with housing program participants without the need to seek additional authorization or approval from the Council or the BIA.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law entitled the "SAN ILDEFONSO HOUSING AUTHORITY LAND LEASE AUTHORIZATION ACT AMENDMENTS."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u> September 10</u>, 2026, at a meeting with a vote of <u>8</u> in favor, <u>0</u> opposed, <u>2</u> abstaining and <u>0</u> absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <text>
+      <strong>COUNCIL REPRESENTATIVE SPONSOR(S): </strong>
+      <strong>
+        <u>Council Representatives</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Brandi Martinez</td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Gary Alan Roybal</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
+    </text>
+    <text>Resolution No. <u>SI-R26-016</u> was presented to the Governor of the Pueblo de San Ildefonso on the</text>
+    <text><u>10</u><sup><u>th</u></sup> day of <u>September</u>, 2026, pursuant to the governing Agreement of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Denise Moquino, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this <u>17</u><sup><u>th</u></sup> day of <u>September</u>, 2026.</text>
+    <text>Christopher A. Moquino, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2026.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>COUNCIL REPRESENTATIVE</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tom Garcia</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Thomas Gonzales</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Brandi Martinez</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Perry Martinez</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Raelene Martinez</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Raymond J. Martinez</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Thomas Martinez</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Denise Moquino</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Gary Alan Roybal</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Kenneth Weahkee</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>
+        <u>CERTIFICATION</u>
+      </strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2026, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>Denise Moquino, Council Secretary</text>
+  </procedural-data>
+  <attachment id="law">
+    <section>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as the "San Ildefonso Housing Authority Land Lease Authorization Act Amendments" ("Act").</text>
+    </section>
+    <section>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to amend the Pueblo's housing laws to authorize the San Ildefonso Housing Authority ("SIHA") to prepare and obtain approval from the Bureau of Indian Affairs ("BIA") for a master lease that includes the authority of SIHA to sublease properties to eligible housing program participants without the need to seek or obtain any additional approvals from the BIA or the Council.</text>
+    </section>
+    <section>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>In April 2025, the Council enacted a law called the Land Lease Authorization Act to authorize the Governor to negotiate and execute a land lease with the San Ildefonso Housing Authority ("SIHA") for housing purposes for Deer Tail 1 Subdivision and to submit the lease to the Bureau of Indian Affairs for approval and recording.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>the Council has become aware of the need to clarify certain authorities that the Council has delegated to the Governor and SIHA, namely to include Deer Tail 2 Subdivision, and to clarify that SIHA has the authority to prepare a master lease for BIA approval that would allow SIHA to approve subleases with housing program participants without the need to seek additional authorization or approval from the Council or the BIA.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.4</num>
+      <heading>Amendments</heading>
+      <text>15.1.17.040 of the Land Lease Authorization Act is hereby amended to read:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes the Governor of the Pueblo to negotiate and execute a Land Lease of forty (40) acres, more or less, of tribal trust lands to SIHA for housing purposes for the Deer Tail Phase 1 and Phase II Subdivision and to submit the Lease to the Bureau of Indian Affairs for approval and recording.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council hereby authorizes the Governor and SIHA to negotiate and execute a master lease for BIA approval that allows SIHA to approve subleases with housing program participants without the need to seek additional authorization or approval from the Council or the BIA, and specifically to eliminate the requirement for the Secretary of the Interior to approve subleases approved by SIHA with housing program participants.</text>
+      </para>
+      <codify:replace path="15.1.17.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.17.040">
+        <section>
+          <num>15.1.17.040</num>
+          <heading>Authorization</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Council hereby authorizes the Governor of the Pueblo to negotiate and execute a Land Lease of forty (40) acres, more or less, of tribal trust lands to SIHA for housing purposes for the Deer Tail Phase 1 and Phase II Subdivision and to submit the Lease to the Bureau of Indian Affairs for approval and recording.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Council hereby authorizes the Governor and SIHA to negotiate and execute a master lease for BIA approval that allows SIHA to approve subleases with housing program participants without the need to seek additional authorization or approval from the Council or the BIA, and specifically to eliminate the requirement for the Secretary of the Interior to approve subleases approved by SIHA with housing program participants.</text>
+          </para>
+          <text>The Council hereby authorizes the Governor of the Pueblo to negotiate and execute a Land Lease of forty (40) acres, more or less, of tribal trust lands to SIHA for housing purposes for the Deer Tail Phase 1 Subdivision and to submit the Lease to the Bureau of Indian Affairs for approval and recording.</text>
+        </section>
+      </codify:replace>
+    </section>
+  </attachment>
+</document>

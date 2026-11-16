@@ -2717,10 +2717,19 @@
       <section>
         <num>15.1.17.040</num>
         <heading>Authorization</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes the Governor of the Pueblo to negotiate and execute a Land Lease of forty (40) acres, more or less, of tribal trust lands to SIHA for housing purposes for the Deer Tail Phase 1 and Phase II Subdivision and to submit the Lease to the Bureau of Indian Affairs for approval and recording.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council hereby authorizes the Governor and SIHA to negotiate and execute a master lease for BIA approval that allows SIHA to approve subleases with housing program participants without the need to seek additional authorization or approval from the Council or the BIA, and specifically to eliminate the requirement for the Secretary of the Interior to approve subleases approved by SIHA with housing program participants.</text>
+        </para>
         <text>The Council hereby authorizes the Governor of the Pueblo to negotiate and execute a Land Lease of forty (40) acres, more or less, of tribal trust lands to SIHA for housing purposes for the Deer Tail Phase 1 Subdivision and to submit the Lease to the Bureau of Indian Affairs for approval and recording.</text>
         <annotations>
           <annotation app="2025-04-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-002" eff="2025-04-14" path="" target-path="15.1" type="History"/>
           <annotation app="2025-04-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R25-002" eff="2025-04-14" path="attachments|law|1.4" target-path="15.1|15.1.17" type="History"/>
+          <annotation app="2026-09-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-016" eff="2026-09-17" path="attachments|law|1.4" target-path="15.1.17.040" type="History"/>
         </annotations>
       </section>
     </container>
